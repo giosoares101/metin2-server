@@ -1,0 +1,12 @@
+# Ignore compiled quest folders
+object/
+pre_qc/
+
+# Quest compiler binaries
+qc
+qc.core
+qc.exe
+
+# Compiled Python files
+__pycache__/
+*.pyc

@@ -1,0 +1,2228 @@
+"Everyone will be teleported into the city shortly.";
+"Kýsa zamanda herkes seçilen þehre ýþýnlanacak.";
+
+"This item does not exist.";
+"Bu eþya mevcut deðil.";
+
+"The box suddenly exploded! You have lost Hit Points (HP).";
+"Kutu patladý! HP seviyen düþtü.";
+
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!";
+"Eðer kutudan gelen kýrmýzý dumaný solursan, zehirlenirsin!";
+
+"You have received %s, %d units.";
+"%s : %d adet kazandýn.";
+
+"The box contains %s.";
+"Kutuda %s var.";
+
+"This key does not seem to fit the lock.";
+"Bu anahtar kilide uygun görünmüyor.";
+
+"You have not received anything.";
+"Hiç bir þey kazanamadýn.";
+
+"You do not have enough Yang to use this item.";
+"Bu eþyayý kullanmak için yeterli Yang a sahip deðilsin.";
+
+"You have lowered your Skill Level.";
+"Beceri seviyeni düþürdün.";
+
+"You cannot lower your Skill Level.";
+"Beceri seviyeni düþüremezsin.";
+
+"This effect is already activated.";
+"Bu etki zaten çalýþýyor.";
+
+"This item can only be used in an Internet cafe.";
+"Bu nesne sadece internet cafede kullanýlabilir.";
+
+"That is over the limit.";
+"Bu limitin üzerinde.";
+
+"Unfortunately you don't have enough space in your inventory.";
+"Ne yazýkki envanterinde yeterince yer yok.";
+
+"Used Moon Cake or Seed.";
+"Tohum ya da ay pastasý kullanýldý.";
+
+"You cannot wear a Wedding Ring if you are not married.";
+"Evli deðilsen nikah yüzüðü takamazsýn.";
+
+"You cannot use the Event Detector from this position.";
+"Etkinlik Dedektörünü bu pozisyondayken kullanamazsýn.";
+
+"This item cannot be absorbed.";
+"Nesne alýnamýyor.";
+
+"The Event Detector vanished in a mysterious light.";
+"Etkinlik Dedektörü gizemli bir ýþýkla birlikte yok oldu.";
+
+"The Event Detector has vanished.";
+"Etkinlik Dedektörü kayboldu.";
+
+"The Compass for Metin Stones does not work in dungeons.";
+"Metin Taþý Dedektörü zindanda çalýþmýyor.";
+
+"The Compass for Metin Stones has vanished in the mysterious light.";
+"Metin Taþý Dedektörü gizemli ýþýkla birlikte kayboldu.";
+
+"Receive: %s - %d";
+"Al: %s - %d";
+
+"The Compass for Metin Stones has vanished.";
+"Metin Taþý Dedektörü kayboldu.";
+
+"You find a simple Piece of Stone in the Clam.";
+"Ýstiridyenin içinde sadece sýradan bir taþ parçasý var.";
+
+"The Clam has vanished.";
+"Ýstiridye kayboldu.";
+
+"There is a White Pearl inside the Clam.";
+"Ýstiridyenin içinde Beyaz bir inci var.";
+
+"There is a Blue Pearl inside the Clam.";
+"Ýstiridyenin içinde Mavi bir inci var.";
+
+"There is a Blood-Red Pearl inside the Clam.";
+"Ýstiridyenin içinde kan kýrmýzý bir inci var.";
+
+"It isn't easy to understand this book.";
+"Bu kitabý anlamak kolay deðil.";
+
+"This book will not help you.";
+"Bu kitap sana yardým etmeyecek.";
+
+"You need to have a minimum level of 30 to understand this book.";
+"Bu kitabý anlaman için 30.Seviyede olman gerekiyor.";
+
+"You need a minimum level of 50 to understand this book.";
+"Bu kitabý anlaman için 50.Seviyede olman gerekiyor.";
+
+"You can't train any more Combos.";
+"Daha fazla kombo geliþtiremezsin.";
+
+"%s has captured the flag of %s!";
+"%s Loncasý %s Loncasýnýn bayraðýný ele geçirdi!";
+
+"You already understand this language.";
+"Bu dili zaten anlýyorsun.";
+
+"You have to improve your Level to read this Book.";
+"Bu kitabý anlayabilmek için seviyeni yükseltmelisin.";
+
+"The book is too hard for practising.";
+"Kitabýn öðrenilmesi zor.";
+
+"You cannot train with this Book any more.";
+"Bu kitapla daha fazla eðitim yapamazsýn.";
+
+"Taxes are set to %d%%.";
+"Vergi %%%d olarak ayarlandý.";
+
+"You need a minimum level of 50 to get riding training.";
+"Binicilik Eðitimi almak için 50'inci seviyeye ulaþmýþ olman gerekiyor.";
+
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll.";
+"Kötü ruhlarýn lanetinden Kötü Ruh Kovma Kaðýdýnýn yardýmýyla kurtuldun.";
+
+"You cannot read any more Riding Guides.";
+"Daha fazla Binicilik Rehberi okuyamazsýn.";
+
+"You read the Horse Riding Manual and received a Riding Point.";
+"Binicilik Kýlavuzu'nu okudun ve bir tane Binicilik Puaný kazandýn.";
+
+"You can use this point to improve your riding skill!";
+"Bu puaný Biniciliðini geliþtirmek için kullanabilirsin!";
+
+"The guild %s's flag has been stolen by player %s.";
+"%s loncasýnýn bayraðý, %s tarafýndan çalýndý.";
+
+"You did not understand the riding guide.";
+"Binicilik Rehberini anlamadýn.";
+
+"Your mind is clear. You can concentrate really well now.";
+"Zihnin açýk. Þimdi iyi konsantre olabilirsin.";
+
+"Your rank has increased by %d points.";
+"Sýralama %d puana yükseldi.";
+
+"You cannot dye or bleach your current hairstyle.";
+"Þu anki saç stilini beyazlatamaz veya boyayamazsýn.";
+
+"You need to have reached level %d to be able to dye your hair again.";
+"Saçýný tekrar boyayabilmek için %d. seviyeye ulaþman gerekli.";
+
+"This item can only be opened by the another gender.";
+"Bu eþya sadece karþý cins tarafýndan açýlabilir.";
+
+"You cannot use this from your current position.";
+"Þu anki pozisyonunda bunu kullanamazsýn.";
+
+"You are ready to warp, so you cannot use the Scroll of the Location.";
+"Iþýnlanmaya hazýrsýn, bu nedenle geri dönüþ kaðýdýný kullanamazsýn.";
+
+"You are being brought back to the place of origin.";
+"Baþlangýç yerine geri gönderiliyorsun.";
+
+"%s%s cannot be used in a dungeon.";
+"%s%s zindanda kullanýlamaz.";
+
+"[Quest] You have already received your reward.";
+"[Quest] Ödülünü aldýn zaten.";
+
+"the";
+"the";
+
+"There aren't any Pieces of Broken Stone available for removal.";
+"Silinecek taþ parçasý kýrýklarý yok.";
+
+"You cannot change the upgrade of this item.";
+"Bu eþyanýn geliþtirilmesini deðiþtiremezsin.";
+
+"There is no upgrade that you can change.";
+"Deðiþtirebileceðin hiçbir geliþtirme yok.";
+
+"You can only do this %d minutes after an upgrade. (%d minutes left)";
+"Bunu bir geliþtirmeden en az %d dakika sonra yapabilirsin. (%d dakika kaldý)";
+
+"You have changed the upgrade.";
+"Geliþtirmeyi deðiþtirdin.";
+
+"Upgrade successfully added.";
+"Geliþtirme baþarýyla eklendi.";
+
+"No upgrade added.";
+"Geliþtirme eklenmedi.";
+
+"You must use the Blessing Marble in order to add another bonus to this item.";
+"Kutsama Küresini bu eþyaya baþka bir bonus eklemek için kullanmalýsýn.";
+
+"You cannot use this in the duel arena.";
+"Bunu arenada kullanamazsýn.";
+
+"This item can no longer be improved. The maximum number of bonuses has been reached.";
+"Bu eþya geliþtirilemez. Maksimum bonus sayýsýna ulaþýldý.";
+
+"You can only use the Blessing Marble with an item which already has 4 bonuses.";
+"Kutsama Küresini üzerinde zaten 4 bonus olan eþyalar için kullanabilirsiniz.";
+
+"Socket successfully added.";
+"Slot baþarýyla eklendi.";
+
+"No socket added.";
+"Slot eklenmedi.";
+
+"No additional sockets could be added to this item.";
+"Bu nesneye daha fazla slot eklenmiyor.";
+
+"You cannot add a socket to this item.";
+"Bu nesneye slot eklenmiyor.";
+
+"Arming successful.";
+"Silahlanma baþarýlý.";
+
+"Arming has failed.";
+"Silahlanma baþarýsýz.";
+
+"You have to add a socket first. Use a diamond in order to do this.";
+"Ýlk önce bir slot eklemen gerekiyor. Bunu yapmak için bir elmas kullan.";
+
+"There are no sockets for gemstones in this item.";
+"Bu nesnede mücevher slotu yok.";
+
+"You can do this when you wear an Emotion Mask.";
+"Bunu Duygu Maskesi taktýðýnda yapabilirsin.";
+
+"You have to add a socket if you want to use a Diamond.";
+"Elmas kullanmak istiyorsan bir slot eklemen gerekiyor.";
+
+"No more gems can be added to this item.";
+"Bu nesneye daha fazla mücevher eklenemiyor.";
+
+"These items cannot be used together.";
+"Bu nesneler birleþtirilerek kullanýlmýyor.";
+
+"You cannot change the Bait whilst fishing.";
+"Balýk tutarken yemi deðiþtiremezsin.";
+
+"You are exchanging the current Bait for %s.";
+"Þu anki yemi %s ile deðiþtirdin.";
+
+"You attached %s to the hook as bait.";
+"Çengele yem olarak %s taktýn.";
+
+"You are missing some ingredients to make the potion.";
+"Ýksir hazýrlamak için tüm malzemelere sahip deðilsin.";
+
+"You do not have enough material (%s).";
+"Yeterli malzemen yok (%s).";
+
+"You do not have enough empty bottles.";
+"Yeterince boþ þiþen yok.";
+
+"The potion production has failed.";
+"Ýksir hazýrlama iþlemi baþarýsýz.";
+
+"Only women can do this.";
+"Bunu sadece bayanlar yapabilir.";
+
+"You cannot attach several stones of the same type.";
+"Ayný türden çok sayýda zihin taþý ekleyemezsin.";
+
+"This Spirit Stone cannot be attached to this type of item.";
+"Bu zihin taþý böyle bir nesneye eklenemez.";
+
+"You cannot attach this Spirit Stone to a weapon.";
+"Bu zihin taþýný silaha takamazsýn.";
+
+"You have attached the Spirit Stone successfully.";
+"Zihin taþýný baþarýyla taktýn.";
+
+"The Spirit Stone broke while being attached.";
+"Zihin taþý yerleþtirirken kýrýldý.";
+
+"No slot free.";
+"Boþ yer yok.";
+
+"This function is not available right now.";
+"Þu anda eþinize teleport olamazsýnýz.";
+
+"You cannot use a Scroll of the Location whilst taking part in a kingdom battle.";
+"Katýlmýþ olduðun bir krallýk savaþý devam ederken geri dönüþ kaðýdý kullanamazsýn.";
+
+"After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.";
+"Depoyu açtýktan sonra %d saniye boyunca geri dönüþ kaðýdý kullanamazsýn.";
+
+"You cannot use a Scroll of the Location while another window is open.";
+"Baþka pencere açýk olduðu sürece geri dönüþ kaðýdý kullanamazsýn.";
+
+"This person does not exist.";
+"Kiþi bulunamadý.";
+
+"After a trade, you cannot use a scroll for another %d seconds.";
+"Ticaretten sonra %d saniye Parþömen kullanamazsýn.";
+
+"After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.";
+"Depoyu açtýktan sonra %d saniye boyunca geri dönüþ kaðýdý kullanamazsýn.";
+
+"You cannot use the Scroll of the Location because the distance is too small.";
+"Mesafe çok yakýn olduðu için geri dönüþ kaðýdý kullanamazsýn.";
+
+"After a trade you cannot use a Scroll of the Location for %d seconds.";
+"Ticaretten sonra %d saniye boyunca geri dönüþ kaðýdý kullanamazsýn.";
+
+"You cannot open the Storeroom if another window is already open.";
+"Baþka bir pencere açýkken depo açamazsýn.";
+
+"You cannot drop this item.";
+"Bu eþyayý düþüremezsin.";
+
+"The dropped item will vanish in 5 minutes.";
+"Düþürülen eþya 5 dakika içinde yok olacak.";
+
+"%s received";
+"%s Kazandýn.";
+
+"You have too many items in your inventory.";
+"Çok fazla eþya taþýyorsun.";
+
+"%s receives %s.";
+"%s þunu kazandý: %s.";
+
+"You are too near.";
+"Çok yakýnsýn.";
+
+"Item Trade: %s, %s";
+"Eþya Ticareti:  %s, %s";
+
+"You cannot change the equipped item while you are transformed.";
+"Dönüþüm esnasýnda ekipmanýný deðiþtiremezsin.";
+
+"You have to stand still to equip the item.";
+"Eþya giyebilmek için hareketsiz olman gerekli.";
+
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.";
+"Maymun Bitkisi yem olarak kullanýlamaz. Ölmüþ atlarý canlandýrmak için kullanýlýr.";
+
+"You cannot feed a dead Horse.";
+"Ölü Atý besleyemezsin.";
+
+"You fed the Horse with Herbs.";
+"Atý otlarla beslediniz.";
+
+"You have fed the Horse.";
+"Atý besledin.";
+
+"Your level is too low to wear this Hairstyle.";
+"Bu saç þekli için seviyen çok düþük.";
+
+"You already have this Hairstyle.";
+"Zaten bu saç þekline sahipsin.";
+
+"You have already transformed.";
+"Dönüþmüþ haldesin zaten.";
+
+"You are too far away.";
+"Çok uzaksýn.";
+
+"That's the wrong trading item.";
+"Bu yanlýþ ticaret eþyasý.";
+
+"You cannot transform into a monster who has a higher level than you.";
+"Kendinden daha yüksek seviyeli bir canavara dönüþemezsin.";
+
+"Your level is too low to equip this item.";
+"Seviyen çok düþük olduðu için bu nesneyi kullanamýyorsun.";
+
+"You are not strong enough to equip yourself with this item.";
+"Bu nesneyi kullanmak için yeterli güce sahip deðilsin.";
+
+"Your intelligence is too low to equip yourself with this item.";
+"Zekân çok düþük olduðu için bu nesneyi kullanamýyorsun.";
+
+"Your dexterity is too low to equip yourself with this item.";
+"Bu nesneyi kullanabilmek için yeterli çevikliðe sahip deðilsin.";
+
+"Your vitality is too low to equip yourself with this item.";
+"Bu nesneyi kullanmak için yeterli canlýlýða sahip deðilsin.";
+
+"You cannot use this item because you are not married.";
+"Evli olmadýðýn için bu eþyayý kullanamazsýn.";
+
+"You cannot equip this item twice.";
+"2.kez bu eþyayý giyemezsin.";
+
+"Time left until the removal of the socket of %s: %d";
+"%sgiriþinin silinmesine kalan süre : %d";
+
+"This action can only be done with another gender.";
+"Bu sadece diðer cinsiyetle birlikte yapýlabilen bir aksiyon.";
+
+"A gem socketed in the %s has vanished.";
+"%s Mücevherinden bir deðerli taþ kayboldu.";
+
+"[Guild] This guild name is invalid.";
+"[Guild] Lonca adý hatalý.";
+
+"[Guild] This guild name is already taken.";
+"[Guild] Bu Lonca adý zaten kullanýlýyor.";
+
+"[Guild] You cannot found a guild.";
+"[Guild] Lonca kuramazsýn.";
+
+"The guild %s has declared war on %s!";
+"%s, %s loncasýna karþý savaþ ilan etti!";
+
+"[Guild] %s has refused the Guild war.";
+"[Guild] %s Lonca savaþýný reddetti.";
+
+"The guild war between %s and %s will start in a few seconds!";
+"%s ile %s arasýndaki lonca savaþý birkaç dakika içinde baþlayacak!";
+
+"The guild war between %s and %s has begun!";
+"%s ile %s arasýnda lonca savaþý baþladý!";
+
+"The guild war between %s and %s has ended in a draw.";
+"%s ile %s arasýndaki lonca savaþý berabere sonuçlandý!";
+
+"%s has won the guild war against %s.";
+"Lonca savaþýnda %s, %s loncasýna karþý kazandý.";
+
+"You need your fellow player's approval for this.";
+"Bunun için eþinin onayý gerekli.";
+
+"[Guild] The guild war has been cancelled.";
+"[Guild] Lonca savaþý iptal oldu.";
+
+"The guild war between %s and %s has been cancelled.";
+"%s ile %s arasýndaki lonca savaþý iptal oldu!";
+
+"Close";
+"Kapat";
+
+"Action cancelled. You have entered a battle.";
+"Hareket iptal edildi. Bir savaþa girdin.";
+
+"Someone has logged into your account. You will be disconnected from the server.";
+"Biri hesabýnýza giriþ yaptý. Baðlantýnýz kesilecek.";
+
+"A mysterious light appears from the tree.";
+"Aðaçtan gizemli bir ýþýk yayýlýyor.";
+
+"%d Playtime added to your account. (Payment number %d)";
+"%d oyun süresi hesabýnýza eklendi. (Ödeme Numarasý %d)";
+
+"You can participate in the guild battle in viewer mode.";
+"Lonca savaþýna izleyici olarak katýlabilirsin.";
+
+"While choosing a character, an icon appears.";
+"Bir karakter seçerken <izlemeyi bitir> butonu görünür.";
+
+"There are no opponents.";
+"Burada düþman yok.";
+
+"The battle with %s has begun!";
+"%s ile olan savaþ baþladý!";
+
+"If no enemy can be found, the guild war will be ended automatically.";
+"Eðer düþman bulunamazsa Lonca Savaþý otomatik olarak biter.";
+
+"Because the guild war finished early, the result will judged as a draw.";
+"Lonca Savaþý vaktinden önce bittiði için sonuç berabere sayýlýyor.";
+
+"The energy is reflected because of the Emperors Blessing.";
+"Ýmparatorlarýn Kutsamasý nedeniyle enerji yansýtýldý.";
+
+"After %d seconds you can use the Emperors Blessing.";
+"%d saniye sonra Ýmparator Kutsamasýný kullanabilirsin.";
+
+"Not enough tax income : %d.";
+"Yetersiz vergi geliri : %d";
+
+"[TEST_ONLY]Tax : %d";
+"[TEST_ONLY]Vergi : %d";
+
+"Transformation error.";
+"Dönüþüm sýrasýnda hata oluþtu.";
+
+"You learned the transmutation completely.";
+"Dönüþümü tamamen öðrendin.";
+
+"Please call your Horse first.";
+"Lütfen önce atýný çaðýr.";
+
+"You have sent your horse away.";
+"Atýný gönderdin.";
+
+"%s challenged you to a battle!";
+"%s seni savaþa davet ediyor!";
+
+"You have to get off your Horse.";
+"Atýndan inmelisin.";
+
+"You cannot feed your Horse whilst sitting on it.";
+"Atýnýn üzerinde otururken onu besleyemezsin.";
+
+"You have fed the Horse with %s%s.";
+"Ata %s%s yedirdin.";
+
+"You need %s.";
+"%s gerekli.";
+
+"%d seconds until Exit.";
+"%d saniye sonra oyun kapanacak.";
+
+"The game will be closed in %d seconds.";
+"Oyun %d saniye sonra kapanacak.";
+
+"Your logout has been cancelled.";
+"Çýkýþýnýz iptal edildi.";
+
+"Back to login window. Please wait.";
+"Giriþ ekranýna dön. Lütfen bekleyin.";
+
+"You have been disconnected from the server. Please wait.";
+"Serverla olan baðlantýnýz kesiliyor. Lütfen bekleyin.";
+
+"You have challenged %s to a battle.";
+"%s savaþa davet ettiniz.";
+
+"You are changing character. Please wait.";
+"Karakteri deðiþtirdiniz. Lütfen bekleyin.";
+
+"A new start is not possible at the moment. Please wait %d seconds.";
+"Yeniden dirilme henüz mümkün deðil. %d saniye bekle.";
+
+"You cannot restart yet. Please wait another %d seconds.";
+"Yeniden dirilme henüz mümkün deðil. %d saniye bekle.";
+
+"You cannot restart in the city yet. Wait another %d seconds.";
+"Þehirde yeniden dirilme henüz mümkün deðil. %d saniye bekle.";
+
+"The waiting time has expired. You will be revived in the city.";
+"Bekleme süresi doldu. Þehirde yeniden diriltileceksin.";
+
+"You cannot change your status while you are transformed.";
+"Dönüþmüþ durumda olduðunuz sürece statünüzü deðiþtiremezsiniz.";
+
+"This player is currently fighting.";
+"Oyuncu zaten dövüþüyor.";
+
+"[Guild] It does not belong to the guild.";
+"[Guild] Bu Loncaya ait deðil.";
+
+"[Guild] You do not have the authority to change the level of the guild skills.";
+"[Guild] Lonca Becerilerinin Seviyesini deðiþtiremezsin.";
+
+"Your choice is incorrect.";
+"Seçiminiz yanlýþ.";
+
+"[Storeroom] You have entered an incorrect password.";
+"[Storages] Yanlýþ þifre girdin.";
+
+"[Storeroom] The Storeroom is already open.";
+"[Storages] Depo zaten açýk.";
+
+"[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.";
+"[Storages] Yeniden depo açmak için 10 saniye beklemelisin.";
+
+"[Storeroom] You are too far away to open the storeroom.";
+"[Storeroom] Depoya uzak olduðun için açamýyorsun.";
+
+"[Group] The server cannot execute this group request.";
+"[Group] Sunucu grup isteðini gerçekleþtiremedi.";
+
+"[Group] You cannot leave a group while you are in a dungeon.";
+"[Group] Zindandayken gruptan ayrýlamazsýn.";
+
+"[Group] You have left the group.";
+"[Group] Gruptan ayrýldýn.";
+
+"[Guild] Your guild is already participating in another war.";
+"[Guild] Loncanýz zaten baþka bir savaþa katýlýyor.";
+
+"[Guild] No one is entitled to a guild war.";
+"[Guild] Lonca savaþý için kimse yetkilendirilmedi.";
+
+"[Guild] No guild with this name exists.";
+"[Guild] Bu isimde bir Lonca bulunamadý.";
+
+"There already is a candidacy.";
+"Zaten bir aday var.";
+
+"[Guild] This guild is already participating in a war.";
+"[Guild] Bu Lonca zaten bir savaþa katýlýyor.";
+
+"[Guild] Not enough Yang to participate in a guild war.";
+"[Guild] Lonca savaþýna katýlmak için yeterli Yang yok.";
+
+"[Guild] The guild does not have enough Yang to participate in a guild war.";
+"[Guild] Bu Lonca, Lonca savaþý yapmak için yeterli Yang'a sahip deðil.";
+
+"[Guild] This Guild is already scheduled for another war.";
+"[Guild] Bu Lonca zaten baþka bir Lonca savaþý için kayýt edilmiþ.";
+
+"[Guild] This guild is already participating in another war.";
+"[Guild] Loncanýz zaten baþka bir savaþa katýlýyor.";
+
+"[Guild] A minimum of %d players are needed to participate in a guild war.";
+"[Guild] Lonca savaþýna en az %d oyuncu katýlmasý gerekiyor.";
+
+"[Guild] The guild does not have enough points to participate in a guild war.";
+"[Guild] Lonca bir savaþta yer almak için yeterli Sýralama Puanýna sahip deðil.";
+
+"[Guild] The guild does not have enough members to participate in a guild war.";
+"[Guild] Lonca, Lonca Savaþýna katýlabilmek için yeterli üyeye sahip deðil.";
+
+"Your level has to be higher than 20 to register a cell phone number.";
+"Cep telefonu numarasý kaydedebilmek için 20.Seviyeden yüksek olmalýsýn.";
+
+"You do not have the emperor qualification.";
+"Ýmparator olmak için gerekli özelliklere sahip deðilsin.";
+
+"%s declined the invitation.";
+"%s daveti reddetti.";
+
+"You cannot accept the invitation because you are already in the group.";
+"Daveti kabul edemezsin, zaten bir grubun var.";
+
+"Only the emperor can use this.";
+"Bunu sadece Ýmparator kullanabilir.";
+
+"Cooldown time for approximately %d seconds";
+"Dinlenme Süresi yaklaþýk %d saniye";
+
+"Lack of Taxes. Current Capital : %u Missing Capital : %u";
+"Vergi eksikliði. Mevcut Sermaye : %u Eksik Sermaye : %u";
+
+"Command: warpto <character name>";
+"Sýra: warpto <character name>";
+
+"You cannot be warped to an unknown player.";
+"Bilinmeyen bir oyuncuya nakledemezsiniz.";
+
+"Adding player %d into the channel. (Present channel %d)";
+"Oyuncu %d kanala ekleniyor. (Bulunulan kanal: %d)";
+
+"Warp to player %s.";
+"%s yanýna naklet.";
+
+"You cannot call unknown players.";
+"Bilinmeyen bir oyuncuyu arayamazsýn.";
+
+"[Guild] There are no experience points for hunting during a guild war.";
+"[Guild] Lonca savaþý sýrasýnda avlanma, Tecrübe Puaný kazandýrmýyor.";
+
+"When the Blessing of the Emperor is used %s the HP and SP are restored again.";
+"Ýmparator kutsamasý kullanýldýðý zaman %s HP ve SP yeniden yüklenir.";
+
+"My information about the emperor";
+"Benim Ýmparatorluk Bilgim";
+
+"[%sMonarch] : %s Yang owned %lld";
+"[%sHükümdar] : %s Yang Sahip olunan %lld";
+
+"[%sMonarch] : %s";
+"[%sHükümdar] : %s";
+
+"Information about the emperor";
+"Ýmparator Bilgisi";
+
+"Only an emperor can use this.";
+"Bunu sadece bir Ýmparator kullanabilir.";
+
+"Choose a number between 1 and 50.";
+"1 - 50 arasýnda bir rakam seç.";
+
+"The Monster cannot be called. Check the Mob Number.";
+"Canavar çaðrýlamaz. Mob numarasýný kontrol ediniz.";
+
+"Hit Points +%d";
+"Hayat Puanlarý +%d";
+
+"Spell Points +%d";
+"Mana Puaný +%d";
+
+"The Emperor Blessing is activated.";
+"Ýmparator Kutsamasý aktif.";
+
+"Endurance +%d";
+"Dayanýklýlýk +%d";
+
+"Intelligence +%d";
+"Zeka +%d";
+
+"Strength +%d";
+"Güç +%d";
+
+"Dexterity +%d";
+"Çeviklik +%d";
+
+"Attack Speed +%d";
+"Saldýrý Hýzý +%d";
+
+"Movement Speed %d";
+"Hareket Hýzý %d";
+
+"Cooldown Time -%d";
+"Dinlenme Süresi -%d";
+
+"Energy Recovery +%d";
+"Geri Kazanýlan Enerji +%d";
+
+"Spell Point Recovery +%d";
+"Geri Kazanýlan SP +%d";
+
+"Poison Attack %d";
+"Zehirli Saldýrý %d";
+
+"Star +%d";
+"Star +%d";
+
+"Speed Reduction +%d";
+"Hýz azalmasý +%d";
+
+"Critical Attack with a chance of %d%%";
+"Kritik saldýrý þansý %%%d";
+
+"Chance of a Speared Attack of %d%%";
+"Delici saldýrý þansý %%%d";
+
+"Player's Attack Power against Monsters +%d%%";
+"Yaratýklara karþý oyuncunun saldýrý gücü +%%%d";
+
+"Horse's Attack Power against Monsters +%d%%";
+"Yaratýklara karþý Atýn saldýrý gücü +%%%d";
+
+"Attack Boost against Wonggui + %d%%";
+"Wonggui karþýsýnda saldýrý artýþý  +%%%d";
+
+"Attack Boost against Milgyo + %d%%";
+"Milgyo karþýsýnda saldýrý artýþý +%%%d";
+
+"Attack boost against zombies + %d%%";
+"Ölümsüzlere karþý saldýrý artýþý: +%%%d";
+
+"Attack boost against devils + %d%%";
+"Þeytanlara karþý saldýrý artýþý: +%%%d";
+
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.";
+"Ýmparator Sa-Za-Hu sayesinde, oyuncu bu alanda %s 3 dakika için %%10 daha fazla saldýrý gücü aldý.";
+
+"Absorbing of Energy %d%% while attacking.";
+"Saldýrý sýrasýnda %%%d enerji emildi.";
+
+"Absorption of Spell Points (SP) %d%% while attacking.";
+"Saldýrý sýrasýnda %%%d SP emildi.";
+
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy.";
+"%%%d oranýnda SP düþmandan çalma þansý.";
+
+"Absorbing of Spell Points (SP) with a chance of %d%%";
+"Oranýnda SP emiliyor %%%d.";
+
+"%d%% Chance of blocking a close-combat attack";
+"Yakýn dövüþ saldýrýsýný engelleme þansý %%%d";
+
+"%d%% Chance of blocking a long range attack";
+"Uzak dövüþ saldýrýsýný engelleme þansý %%%d";
+
+"One-Handed Sword defence %d%%";
+"Kýlýç Savunmasý %%%d";
+
+"Two-Handed Sword Defence %d%%";
+"Çift-El Savunmasý %%%d";
+
+"Bell Defence %d%%";
+"Çan Savunmasý %%%d";
+
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.";
+"Ýmparator Geum-Gang-Gwon sayesinde, oyuncu %s 3 dakika süreyle %%10 daha fazla savunma aldý.";
+
+"Fan Defence %d%%";
+"Yelpaze Savunmasý %%%d";
+
+"Distant Attack Resistance %d%%";
+"Uzak Dövüþ Direnci %%%d";
+
+"Fire Resistance %d%%";
+"Ateþe dayanýklýlýk %%%d";
+
+"Lightning Resistance %d%%";
+"Þimþeðe dayanýklýlýk %%%d";
+
+"Magic Resistance %d%%";
+"Büyü Savunmasý %%%d";
+
+"Wind Resistance %d%%";
+"Rüzgara Dayanýklýlýk %%%d";
+
+"Reflect Direct Hit: %d%%";
+"Doðrudan Vuruþ Yansýtma: %%%d";
+
+"Reflect Curse: %d%%";
+"Lanet Yansýtma: %%%d";
+
+"Poison Resistance %d%%";
+"Zehire karþý koyma %%%d";
+
+"Spell Points (SP) will be increased by %d%% if you win.";
+"Eðer kazanýrsan SP %%%d artacak.";
+
+"The event is already running. (Flag: %d)";
+"Etkinlik baþladý bile. (Flag: %d)";
+
+"Experience increases by %d%% if you win against an opponent.";
+"Eðer kazanýrsan tecrübe %%%d artacak.";
+
+"Increase of Yang up to %d%% if you win.";
+"Eðer kazanýrsan Yang %%%d artacak.";
+
+"Increase of captured Items up to %d%% if you win.";
+"Eðer kazanýrsan ele geçirilen nesne %%%d artacak.";
+
+"Power increase of up to %d%% after taking the potion.";
+"Ýksir kullandýðýn zaman güç %%%d artacak.";
+
+"%d%% Chance of filling up Hit Points after a victory.";
+"Kazandýktan sonra hayat puanýn %%%d oranýnda artacak.";
+
+"No Dizziness %d%%";
+"Baþ dönmesi yok %%%d";
+
+"No Slowing Down %d%%";
+"Yavaþlama yok %%%d";
+
+"No falling down %d%%";
+"Düþmek yok %%%d";
+
+"Attack Power + %d";
+"Saldýrý gücü + %d";
+
+"Armour + %d";
+"Zýrh + %d";
+
+"OX quiz script could not be loaded.";
+"OX Quiz metni yüklenemedi.";
+
+"Magical Attack + %d";
+"Büyülü Saldýrý + %d";
+
+"Magical Defence + %d";
+"Büyü Savunmasý + %d";
+
+"Maximum Endurance + %d";
+"Max. Dayanýklýlýk + %d";
+
+"Strong against Warriors + %d%%";
+"Savaþçýlara karþý güçlü +%%%d";
+
+"Strong against Ninjas + %d%%";
+"Ninjalara karþý güçlü +%%%d";
+
+"Strong against Sura + %d%%";
+"Suralara karþý güçlü +%%%d";
+
+"Strong against Shamans + %d%%";
+"Þamanlara karþý güçlü +%%%d";
+
+"Strength against monsters + %d%%";
+"Canavarlara karþý güçlü +%%%d";
+
+"Attack + %d%%";
+"Saldýrý +%%%d";
+
+"Defence + %d%%";
+"Savunma +%%%d";
+
+"OX quiz script has loaded.";
+"OX Quiz metni yüklendi.";
+
+"Experience %d%%";
+"Tecrübe %%%d";
+
+"Chance to find an Item %. 1f";
+"Nesne bulma oraný %. 1f";
+
+"Chance to find Yang %. 1f";
+"Yang bulma þansý %. 1f";
+
+"Maximum Energy +%d%%";
+"Enerji üst sýnýrý +%%%d";
+
+"Skill Damage %d%%";
+"Beceri Hasarý %%%d";
+
+"Hit Damage %d%%";
+"Vuruþ Hasarý %%%d";
+
+"Resistance against Skill Damage %d%%";
+"Beceri hasarýna dayanýklýlýk %%%d";
+
+"Resistance against Hits %d%%";
+"Vuruþ direnci %%%d";
+
+"%d%% Resistance against Warrior Attacks";
+"Savaþçý ataklarýnda %%%d dayanýklýlýk";
+
+"Welcome to Metin2.";
+"Metin2'ye Hoþgeldin.";
+
+"%d%% Resistance against Ninja Attacks";
+"Ninja ataklarýnda %%%d dayanýklýlýk";
+
+"%d%% Resistance against Sura Attacks";
+"Sura ataklarýnda %%%d dayanýklýlýk";
+
+"%d%% Resistance against Shaman Attacks";
+"Þaman ataklarýnda %%%d dayanýklýlýk";
+
+"(Procedure: %d y- %d m - %d d)";
+"(Prosedür: %d y- %d m - %d d)";
+
+"Your chat is blocked.";
+"Sohbetiniz engellendi.";
+
+"You need a higher level to be able to call.";
+"Çaðýrmak için daha yüksek seviyede olman gerekiyor.";
+
+"You need a minimum level of %d to be able to call.";
+"Çaðýrmak için en az %d. seviyede olman gerekiyor.";
+
+"You are not in this Group.";
+"Bu Grupta deðilsin.";
+
+"You did not join this Guild.";
+"Loncaya katýlamadýn.";
+
+"The player has rejected your request to add him to your friend list.";
+"Oyuncu, arkadaþ listene eklenmeyi reddetti.";
+
+"OX Event has started.";
+"OX Etkinlik baþladý.";
+
+"[Friends] You cannot add a GM to your list.";
+"[Friends] Listene bir GM ekleyemezsin.";
+
+"%s is not online.";
+"%s çevrimiçi deðil.";
+
+"After a trade, you have to wait %d seconds before you can open a shop.";
+"Ticaret yaptýktan %d saniye sonra dükkân açabilirsin.";
+
+"You can trade again in %d seconds.";
+"%d saniye içinde tekrar ticaret yapabilirsin.";
+
+"You have more than 2 Billion Yang. You cannot trade.";
+"2 milyardan fazla Yang'ýn var.Ticaret yapamazsýn.";
+
+"You cannot open a private shop while another window is open.";
+"Baþka bir pencere açýkken özel dükkan açamazsýn.";
+
+"The player has more than 2 Billion Yang. You cannot trade with him.";
+"Oyuncunun 2 milyardan fazla Yang'ý var.Bu oyuncuyla ticaret yapamazsýn.";
+
+"[Storeroom] No movement possible.";
+"[Storages] Hareket mümkün deðil.";
+
+"[Storeroom] The item cannot be stored.";
+"[Storages] Eþya depolanamaz.";
+
+"[Group] The player who invited you is not online.";
+"[Group] Davet edilen oyuncu çevrimiçi deðil.";
+
+"Uriel allowed to enter.";
+"Uriel girmene izin verdi.";
+
+"[Group] Only the group leader can change this.";
+"[Group] Bunu sadece Grup Lideri deðiþtirebilir.";
+
+"[Group] The target is not a member of your group.";
+"[Group] Hedef grubunuzun üyesi deðil.";
+
+"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Group] Zindandayken oyuncu atamazsýn.";
+
+"[Group] You have been out kicked of the group.";
+"[Group] Gruptan atýldýn.";
+
+"[Group] You cannot kick out group members.";
+"[Group] Grup üyelerini atamazsýn.";
+
+"[Guild] After disbanding a guild, you cannot create a new one for %d days.";
+"[Guild] Lonca silindikten sonra, %d gün yeni Lonca kuramazsýn.";
+
+"[Guild] After leaving a guild, you cannot create a new one for %d days.";
+"[Guild] Bir Loncadan ayrýldýktan sonra  %d gün yeni Lonca kuramazsýn.";
+
+"This guild name is invalid.";
+"Lonca ismi geçersiz.";
+
+"We request the participation of a lot of players.";
+"Katýlým için birçok oyuncu arýyoruz.";
+
+"[Guild] [%s] guild has been created.";
+"[Guild] [%s] Lonca kuruldu.";
+
+"[Guild] Creation of the guild has failed.";
+"[Guild] Lonca kurulamadý.";
+
+"[Group] Only the group leader can use group skills.";
+"[Group] Grup Becerilerini sadece grup lideri kullanabilir.";
+
+"[Group] The target has not been found.";
+"[Group] Hedef bulunamadý.";
+
+"[Guild] That is not the correct amount of Yang.";
+"[Guild] Yanlýþ Yang toplamý.";
+
+"[Guild] You do not have enough Yang.";
+"[Guild] Yeterli Yang yok.";
+
+"[Guild] The person you were searching for cannot be found.";
+"[Guild] Ýstenen oyuncu bulunamadý.";
+
+"[Guild] This person is not in the same guild.";
+"[Guild] Oyuncu ayný Loncada deðil.";
+
+"[Guild] You do not have the authority to kick out guild members.";
+"[Guild] Lonca Üyelerini atamazsýn.";
+
+"[Guild] The guild member %s has been kicked out of the Guild.";
+"[Guild] Lonca Üyesi %s Loncadan atýldý.";
+
+"OX The Event has not ended yet. An error has occurred. (flag: %d)";
+"OX Etkinlik henüz bitmedi. Hatalar oluþtu. (Flag: %d)";
+
+"[Guild] You have kicked a guild member out.";
+"[Guild] Lonca üyesini attýn.";
+
+"[Guild] You do not have the authority to change your rank name.";
+"[Guild] Rütbe ismini deðiþtiremezsin.";
+
+"[Guild] The guild leader's rights cannot be changed.";
+"[Guild] Lonca Liderinin gücü deðiþtirilemez.";
+
+"[Guild] This rank name is invalid.";
+"[Guild] Bu rütbe ismi geçersiz.";
+
+"[Guild] You do not have the authority to change your position.";
+"[Guild] Pozisyonunu deðiþtiremezsin.";
+
+"[Guild] The rights of the guild leader cannot be changed.";
+"[Guild] Lonca Liderinin yetkileri deðiþtirilemez.";
+
+"[Guild] %u experience points used.";
+"[Guild] %u Tecrübe kullanýldý.";
+
+"[Guild] Experience usage has failed.";
+"[Guild] Tecrübe kullanýmý baþarýsýz oldu.";
+
+"[Guild] Insufficient Yang in the guild treasury.";
+"[Lonca] Lonca kasasýnda yeterli Yang yok.";
+
+"[Guild] Dragon ghost was not restored.";
+"[Guild] Ejderha hayaleti yüklenemedi.";
+
+"The OX Event will be restarted shortly.";
+"Kýsa süre içinde OX Etkinlik tekrar baþlayacak.";
+
+"[Guild] You do not have the authority to make an announcement.";
+"[Guild] Duyuru yapamazsýn.";
+
+"[Guild] You do not have the authority to change the position.";
+"[Guild] Pozisyonunu deðiþtiremezsin.";
+
+"[Guild] The guild leader's position cannot be changed.";
+"[Guild] Lonca liderinin rütbesi deðiþtirilemez.";
+
+"[Guild] You cannot make yourself guild leader.";
+"[Guild] Kendini Lonca lideri yapamazsýn.";
+
+"[Guild] You do not have the authority to choose the guild leader.";
+"[Guild] Lideri seçemezsin.";
+
+"[Guild] You cannot choose any more guild leaders.";
+"[Guild] Daha fazla Lider seçemezsin.";
+
+"You cannot trade this item.";
+"Bu nesneyle ticaret yapamazsýn.";
+
+"Illegal software has been detected. The game is being shut down.";
+"Yasadýþý yazýlým tespit edildi. Oyun kapatýlacak.";
+
+"You have more than 2 Billion Yang with you. You cannot trade.";
+"2 milyardan fazla Yang sahibisiniz. Ticaret yapamazsýnýz.";
+
+"Invalid Yang.";
+"Geçersiz Yang.";
+
+"The present event is limited to one area.";
+"Geçerli etkinlik bir alanla kýsýtlý.";
+
+"Start Item Roulette.";
+"Nesne Ruleti Baþlat.";
+
+"Start Yang Roulette.";
+"Yang Ruleti Baþlat.";
+
+"The player is online. Please use whisper to chat.";
+"Oyuncu online. Lütfen fýsýltý kullanýn.";
+
+"The cell phone number is not registered.";
+"Cep telefonu numarasý kayýtlý deðil.";
+
+"You need to be at least on level 20 to be able to send text messages.";
+"Yazýlý mesaj yollayabilmek için en az 20.Seviye olman gerekli.";
+
+"You need 2000 DT to send a text message.";
+"Yazýlý mesaj yollamak için 2000 Yang gerekli.";
+
+"Your text message has been sent.";
+"Yazýlý mesajýnýz yollandý.";
+
+"%s of the Guild %s raised up to %d%% !";
+"Loncanýn %s %s %%%d derecesine yükseldi!";
+
+"%s of the Guild %s normal again.";
+"Loncanýn %s %s tekrar normal.";
+
+"%s: %s has increased by %d%%!";
+"%s: %s, %%%d oranýnda yükseldi!";
+
+"%s 's %s normal again.";
+"%s 's %s tekrar normal.";
+
+"Your mining points have reached their maximum. (%d)";
+"Madencilik Puanýn maksimuma ulaþtý. (%d)";
+
+"Your mining points have reached their maximum level.";
+"Madencilik Puanlarýnýz en üst Seviyeye ulaþtý.";
+
+"You can get lumberjack Deokbae to upgrade your Pickaxe.";
+"Kazmaný, oduncu Deokbae'nin yardýmýyla geliþtirebilirsin.";
+
+"Your Mining Points have increased! (%d/%d)";
+"Madencilik Puanlarýn arttý! (%d/%d)";
+
+"You cannot mine without a Pick.";
+"Kazma olmadan madencilik yapamazsýn.";
+
+"Nothing to mine here.";
+"Burada maden yok.";
+
+"The mining has been successful.";
+"Madencilik baþarýlý.";
+
+"The mining has failed.";
+"Madencilik baþarýsýz.";
+
+"[Friends] You have added %s as a friend.";
+"[Friends] %s arkadaþ olarak eklendi.";
+
+"The player will be teleported into the city shortly.";
+"Kýsa süre içinde oyuncu þehre ýþýnlanacak.";
+
+"[Friends] You have deleted %s from the list.";
+"[Friends] %s listenden silindi.";
+
+"A critical server error has occurred. The server will restart automatically.";
+"Kritik sunucu hatasý. Sunucu otomatik olarak yeniden baþlatýlacak.";
+
+"You will be disconnected automatically in 10 seconds.";
+"10 saniye içinde baðlantýnýz kesilecek.";
+
+"You can connect again after 5 minutes.";
+"5 dakika sonra tekrar baðlanabilirsiniz.";
+
+"(%s) guild has been created. [Temporary]";
+"(%s) Lonca kuruldu. [Temporary]";
+
+"This guild is at war.";
+"Bu lonca savaþta.";
+
+"%s: This guild does not exist.";
+"%s: Lonca bulunamadý.";
+
+"A guild with this name or number does not exist.";
+"Belirtilen isim veya numarada lonca mevcut deðil.";
+
+"The building does not exist.";
+"Bina mevcut deðil.";
+
+"This type of building can only be erected once.";
+"Bu tip binalar sadece bir kez inþa edilebilir.";
+
+"Close the OX event card first. (Flag: %d)";
+"Önce OX Etkinlik haritasýný kapat. (Flag: %d)";
+
+"The Main Building has to be erected first.";
+"Ýlk olarak temel binalarý inþa etmelisin.";
+
+"Building failed because of incorrect pricing.";
+"Yanlýþ fiyat nedeniyle bina inþa edilemedi.";
+
+"Your guild does not have enough Yang to erect this building.";
+"Binayi inþa edebilmek için loncan yeterli Yang'a sahip deðil.";
+
+"You do not have enough resources to build a building.";
+"Bu binayý inþa edebilmek için yeterli kaynaðýn yok.";
+
+"You cannot erect a building at this place.";
+"Bu alana bir bina inþa edemezsin.";
+
+"This character does not exist.";
+"Karakter bulunamadý.";
+
+"Duel has not been successfully cancelled.";
+"Düello iptal edilmedi.";
+
+"Duel cancelled successfully.";
+"Düello iptali baþarýlý.";
+
+"The duel has been successfully started.";
+"Düello baþarýyla baþladý.";
+
+"There is a problem with initiating the duel.";
+"Düellonun baþlamasýyla ilgili bir problem var.";
+
+"No errors occurred.";
+"Hata oluþmadý.";
+
+"There are no combatants.";
+"Burada savaþçý yok.";
+
+"No status points left.";
+"Statü Puaný kalmadý.";
+
+"Remaining status points are too low.";
+"Kalan Statü puanlarý çok düþük.";
+
+"You entered an incorrect value.";
+"Yanlýþ deðer girdin.";
+
+"Suborder or the Order is incorrect.";
+"Sýralama veya alt sýralama yanlýþ.";
+
+"Broken contract between player %d and player %d.";
+"%d ve %d oyuncularý arasýndaki anlaþma bozuldu.";
+
+"Turn the Roulette for %d Yang.";
+"%d Yang için rulet çevir.";
+
+"The Item log placed into the syslog.";
+"Nesne loglarý, sistem loglarýnýn içine yerleþtirildi.";
+
+"Information for the Kingdoms";
+"Krallýk Bilgileri";
+
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d";
+"Haritadan kutsal alan bilgisini seç %d Giriþ Yap %d %d %d";
+
+"An error has occurred.";
+"Bir hata oluþtu.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+"%s öldürülen %d öldürülen mob %d öldürülen lider %d Kutsal alan numarasý %d";
+
+"Information about the status of the kingdom battle";
+"Ýmparatorluk savaþý hakkýnda bilgi";
+
+"Your request is loading. Please wait.";
+"Ýsteðin yükleniyor. Anlayýþýn için teþekkür ederiz.";
+
+"You cannot open a Storeroom while another window is open.";
+"Baþka bir pencere açýkken depo açamazsýn.";
+
+"[Storeroom] Storeroom password has been changed.";
+"[Storeroom] Depo þifresi deðiþti.";
+
+"[Storeroom] You have entered the wrong password.";
+"[Storages] Yanlýþ þifre girdin.";
+
+"Your playing time is going to run out in %d minutes.";
+"Oyun süreniz %d dakika içinde doluyor.";
+
+"Regularly voted.";
+"Düzenli olarak oylanýr.";
+
+"Already voted.";
+"Zaten oy vermiþtin.";
+
+"%s player already in the vote.";
+"%s oyuncu zaten oylamada.";
+
+"OX Event is over. No errors occurred. (Flag: %d)";
+"OX Etkinlik bitti. Herhangi bir hata oluþmadý. (Flag: %d)";
+
+"Cannot run for office.";
+"Oylanamaz.";
+
+"%s still has %u Yang available.";
+"%s hala %u Yang sahibi.";
+
+"%s still has %d Yang available.";
+"%s hala %d Yang sahibi";
+
+"You do not have enough Yang.";
+"Yeterli Yang'a sahip deðilsin.";
+
+"%s is deleted as an Emperor Candidate.";
+"Ýmparator adayý olarak %s silindi.";
+
+"%s is not a candidate for the emperor elections.";
+"%s Ýmparator olmak için bir aday deðil.";
+
+"%s has been nominated as emperor.";
+"%s Ýmparator adayý olarak gösterildi.";
+
+"%s cannot be nominated as emperor.";
+"%s Ýmparatorluða aday olamaz.";
+
+"The %s Emperor gets driven out.";
+"%s Ýmparatorluk görevini býraktý.";
+
+"The %s Emperor cannot be driven out.";
+"%s Ýmparatoru görevi býrakamaz.";
+
+"OX Event is not accepting any more participants.";
+"OX Etkinliðine daha fazla oyuncu katýlamaz.";
+
+"Shinsoo Kingdom";
+"Shinsoo Krallýðý";
+
+"Chunjo Kingdom";
+"Chunjo Krallýðý";
+
+"Jinno Kingdom";
+"Jinno Krallýðý";
+
+"Your fishing points have increased! (%d/%d)";
+"Balýkçýlýk puanýnýz arttý! (%d/%d)";
+
+"You have reached the maximum number of fishing points.";
+"Maksimum Balýkçýlýk Puaný'na ulaþtýn.";
+
+"Go to the Fisherman and get your Fishing Pole upgraded!";
+"Balýkçýnýn yanýna git ve onun yardýmýyla oltaný geliþtir!";
+
+"You lost your bait to the fish.";
+"Balýk yemini kaybettin.";
+
+"You have caught a fish! (%s)";
+"Bir balýk yakaladýn! (%s)";
+
+"The length of the captured fish is %.2fcm.";
+"Yakalanan balýðýn uzunluðu %.2fcm.";
+
+"Fishing Event 'Great Zander'";
+"Balýkçýlýk olayý 'Büyük Sudak Balýðý'";
+
+"OX The other event participants are being noted down.";
+"OX Etkinlikteki diðer katýlýmcýlar listelendi.";
+
+"Fishing Event 'Carp'";
+"Balýkçýlýk olayý 'Sazan Balýðý'";
+
+"%s: %d";
+"%s: %d";
+
+"You have caught %d of %d .";
+"%d nýn %d Yakaladýn.";
+
+"The fish vanished in the depths of the water.";
+"Balýk derin suda kayboldu.";
+
+"There is a Clam inside the Fish.";
+"Balýðýn içinde bir istiridye var.";
+
+"There is a Worm inside the Fish.";
+"Balýðýn içinde bir solucan var.";
+
+"You are roasting %s over the fire.";
+"Ateþte %s kýzartýyorsun.";
+
+"You cannot trade because you are carrying more than 2 billion Yang.";
+"Beraberinde 2 milyardan fazla Yang taþýyorsun. Bu nedenle ticaret yapamazsýn.";
+
+"You can't give your shop an invalid name.";
+"Depona hatalý bir isim veremezsin.";
+
+"You can't sell Item-Shop items in a private shop.";
+"Nesne Market eþyalarýný özel markette satamazsýn.";
+
+"OX The other event participants have not been noted down.";
+"OX Etkinlikteki diðer katýlýmcýlar listelenemedi.";
+
+"Mining is finished.";
+"Madencilik bitti.";
+
+"You need a Pickaxe in order to extract ore!";
+"Maden çýkarmak için bir kazmaya ihtiyacýn var!";
+
+"Please choose a Fishing Pole.";
+"Lütfen bir olta seç.";
+
+"Place the Bait on the Hook first.";
+"Önce yemi çengele geçir.";
+
+"You can't go fishing without a fishing pole!";
+"Oltasýz balýða gidemezsin.";
+
+"[Group] You cannot make a request because the group leader is not online.";
+"[Group] Ýstekte bulunamazsýn çünkü grup lideri çevrim içi deðil.";
+
+"[Group] You cannot form a group with players from another kingdom.";
+"[Group] Diðer Krallýktan olan oyuncularla grup oluþturamazsýn.";
+
+"[Group] You cannot invite players while you are in a dungeon.";
+"[Group] Zindandayken oyuncu davet edemezsin.";
+
+"[Group] You cannot invite a player while you are in observer mode.";
+"[Group] Ýzleyici modundayken oyuncu davet edemezsin.";
+
+"[Group] Only players with a level difference of -30 to +30 can be invited.";
+"[Group] -30 ile +30 Seviye aralýðýnda olan oyuncularý davet edebilirsin.";
+
+"Number of other participants : %d";
+"Diðer Katýlýmcýlarýn sayýsý : %d";
+
+"[Group] You cannot invite this player, as their level is too low.";
+"[Group] Bu oyuncuyu seviyesi çok düþük olduðu için davet edemezsin.";
+
+"[Group] You cannot invite this player, as their level is too high.";
+"[Group] Bu oyuncuyu seviyesi çok yüksek olduðu için davet edemezsin.";
+
+"[Group] You cannot invite any more players into your group.";
+"[Group] Gruba daha fazla oyuncu davet edemezsin.";
+
+"You want to join %s's group.";
+"%s Grubuna katýlmak istiyor musun?";
+
+"This player is not in this group.";
+"Oyuncu bu grupta deðil.";
+
+"[Group] You cannot join this group because it is already full.";
+"[Group] Bu grup dolu olduðu için katýlamazsýn.";
+
+"[Group] You do not have the right to invite someone.";
+"[Grup] Birini davet etmek için yetkin yok.";
+
+"[Group] %s has declined your group invitation.";
+"[Group] %s Grup davetini reddetti.";
+
+"[Group] %s is already in the group.";
+"[Group] %s zaten bu grupta.";
+
+"[Group] You cannot accept an invitation into a dungeon.";
+"[Group] Zindandayken davet kabul edemezsin.";
+
+"OX Event is finishing.";
+"OX Etkinlik bitti.";
+
+"[Group] You cannot accept the invitation.";
+"[Group] Daveti kabul edemezsin.";
+
+"[Group] %s has declined your invitation.";
+"[Group] %s davetini reddetti.";
+
+"[Group] %s has joined your group.";
+"[Group] %s Grubunuza katýldý.";
+
+"[Group] %s has joined your Group.";
+"[Group] %s Grubunuza katýldý.";
+
+"You can't use a private shop now.";
+"Þu anda özel depoyu kullanamazsýn.";
+
+"This player is already trading with another player.";
+"Bu oyuncu zaten baþkasýyla ticaret yapýyor.";
+
+"Metin2 Confirmation Number: %s";
+"Metin2 Onay Numarasý: %s";
+
+"Your Confirmation Number is not correct. Please try again.";
+"Onay Numaranýz doðru deðil. Lütfen tekrar deneyin.";
+
+"The mobile phone number is registered.";
+"Cep telefonu numarasý kayýtlý.";
+
+"You cannot teleport to the player.";
+"Bu oyuncuya ýþýnlanamazsýn.";
+
+"OX The prize has been awarded. ID: %d Quantity: %d";
+"OX Ödül verildi. Ýsim: %d Deðer: %d";
+
+"This player is not online.";
+"Oyuncu çevrimdýþý.";
+
+"The player is playing on channel %d. (You are on channel %d.)";
+"Oyuncu %d numaralý kanalda. (Sen %d numaralý kanaldasýn.)";
+
+"After opening the Storeroom, you cannot go anywhere else for %d seconds.";
+"Depo açtýktan sonra %d saniye baþka bir yere gidemezsin.";
+
+"You cannot go elsewhere for a period of time after the trade.";
+"Ticaretten sonra bir süre bir yere gidemezsin.";
+
+"After trading you cannot go elsewhere for %d seconds.";
+"Ticaretten sonra %d saniye bir yere gidemezsin.";
+
+"The duel has finished, because your combatant vanished.";
+"Düello bitti çünkü savaþçýnýz gözden kayboldu.";
+
+"There is no limit for Potions.";
+"Burada iksirler için herhangi bir sýnýrlama yok.";
+
+"You can use up to %d potions.";
+"%d iksir kullanabilirsiniz.";
+
+"The fight will start in 10 seconds.";
+"Savaþ 10 saniye içerisinde baþlayacak.";
+
+"The duel has begun.";
+"Düello baþladý.";
+
+"TRUE";
+"DOÐRU";
+
+"The duel is being finished because there is a problem in the duel arena.";
+"Arenadaki bir problemden dolayý düello bitti.";
+
+"The duel has finished because of a timeout.";
+"Süre bittiði için düello sona erdi.";
+
+"In 10 seconds you will be teleported into the city.";
+"10 Saniye içerisinde þehre ýþýnlanmýþ olacaksýnýz.";
+
+"The duel has been stopped because there is a problem in the arena.";
+"Arena ile ilgili bir problem olduðu için düello sona erdi.";
+
+"Your combatant has got some problems. The duel is being cancelled.";
+"Savaþçýnýzla ilgili bir problem olduðu için düello sona erdi.";
+
+"The duel is being cancelled as there is a problem with the combatant.";
+"Savaþçýnýzla ilgili bir problem olduðu için düello sona erdi.";
+
+"%s has won the duel.";
+"Düelloyu %s kazandý.";
+
+"%s has won.";
+"%s kazandý.";
+
+"You will be teleported into the city in 10 seconds.";
+"10 saniye içerisinde þehre ýþýnlanmýþ olacaksýnýz.";
+
+"The next round will begin in 10 seconds.";
+"Bir sonraki raund 10 saniye içerisinde baþlayacak.";
+
+"FALSE";
+"YANLIÞ";
+
+"The combatants have been separated. The duel has been stopped.";
+"Savaþçýlar ayrýldý. Düello sona erdi.";
+
+"The quota of the Item Drop is at the moment plus %d%%";
+"Düþen nesne yüzdesi þu anda +%%%d";
+
+"The quota of the Yang Drop is at the moment plus %d%%";
+"Düþen Yang yüzdesi þu anda +%%%d";
+
+"The drop rate for Yang rain is currently %d%% higher.";
+"Yang yaðmurunun düþme oraný þu anda artý %%%d.";
+
+"The experience bonus is currently an additional %d%%.";
+"Tecrübe puaný bonusu þu anda %%%d oranýnda arttýrýldý.";
+
+"You do not have the correct client version. Please install the normal patch.";
+"Ýstemci versiyonunuz hatalý. Lütfen normal sürümü yükleyin.";
+
+"You cannot trade in the shop while another window is open.";
+"Baþka bir pencere açýkken dükkanda ticaret yapamazsýn.";
+
+"You are too far away from the shop to buy something.";
+"Almak için depodan çok uzaksýn.";
+
+"You are too far away from the shop to sell something.";
+"Satmak için depodan çok uzaksýn.";
+
+"Total number of the Quiz: %d";
+"Toplam Quiz sayýsý: %d";
+
+"This sale will be taxed %d%%.";
+"Satýþ için %%%d vergi alýnacak.";
+
+"You cannot ride a Horse while you are transformed.";
+"Dönüþmüþ durumdayken ata binemezsin.";
+
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo.";
+"Gelinlik veya Smokin giyerken ata binemezsin.";
+
+"You do not have a Horse.";
+"Atýn yok.";
+
+"Your Horse is dead.";
+"Atýn öldü.";
+
+"Your Horse's endurance is too low.";
+"Atýnýn dayanýklýlýðý çok az.";
+
+"Calling the Horse has failed.";
+"At çaðýrma iþlemi baþarýsýz.";
+
+"'s Horse";
+"At";
+
+"The wedding is finishing soon.";
+"Düðün kýsa süre sonra bitecek.";
+
+"Will be left automatically.";
+"Otomatik olarak geçecek.";
+
+"The war is already over.";
+"Savaþ çoktan sona erdi.";
+
+"The result will follow in 10 seconds.";
+"Sonucu 10 saniye içinde alacaksýn.";
+
+"You cannot trade while observing.";
+"Ýzleme sýrasýnda ticaret yapamazsýn.";
+
+"If the window is open, you cannot trade with others.";
+"Pencereler açýkken baþkalarý ile ticaret yapamazsýn.";
+
+"The other person is currently busy so you cannot trade right now.";
+"Diðer oyuncu þu an meþgul, bu nedenle onunla þimdi ticaret yapamazsýn.";
+
+"The other person has cancelled the trade.";
+"Diðer oyuncu ticareti iptal etti.";
+
+"Not enough Yang or not enough space in the inventory.";
+"Yeterli Yang veya envanter boþ yer yok.";
+
+"The other person does not have enough Yang or does not have any space left in their inventory.";
+"Diðer kiþide yeterli Yang veya envanterinde boþ yer yok.";
+
+"The other person has no space left in their inventory.";
+"Diðer kiþinin envanterinde hiç boþ yer yok.";
+
+"The trade with %s has been successful.";
+"%s ile olan ticaret baþarýyla gerçekleþti.";
+
+"You did not lose any Experience because of the Blessing of the Dragon God.";
+"Ejderha Tanrýnýn korumasýnda olduðun için tecrübe kaybetmedin.";
+
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d";
+"Mevcut Puan Durumu: Shinsoo %d, Chunjo %d, Jinno %d";
+
+"The correct answer is:";
+"Doðru cevap:";
+
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+
+"The devil of the hallowed place: [ENTER][ENTER]";
+"Kutsal Yerin Þeytaný: [ENTER][ENTER]";
+
+", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.";
+", burada olmaya hakkýn yok. 10 saniye içinde krallýðýna baðlý olanlar bu kutsal topraklarý terk edecek.";
+
+"%s has been defeated and drops out of the Kingdom Battle.";
+"%s Krallýðý yenildi ve krallýk savaþýndan çýktý.";
+
+"Number of Monsters in the Kingdom Battle:";
+"Krallýk savaþýndaki yaratýklarýn sayýsý:";
+
+"If you defeat the Guard of the Holy Place, you will become the owner of it.";
+"Eðer Kutsal Alanýn Bekçisini öldürürsen, onun sahibi olacaksýn.";
+
+"You did not drop any Item(s) as you are protected by the Dragon God.";
+"Ejderha Tanrýnýn korumasýnda olduðun için hiç bir nesne kaybetmedin.";
+
+"Additional Stabbing Weapon Damage %d";
+"Ek olarak verilen zarar %d";
+
+"%s block! (%d%%)";
+"%s engelle! (%%%d)";
+
+"%s avoid! (%d%%)";
+"%s kaç! (%%%d)";
+
+"Yes (O)";
+"Evet (O)";
+
+"%s[%d]'s Attack Position: %d %d";
+"%s[%d] Saldýrý pozisyonu: %d %d";
+
+"Please enter the Order in full length.";
+"Lütfen düzenlemenin tam ismini giriniz.";
+
+"You cannot do this whilst sitting on a Horse.";
+"Bunu at üzerinde yapamazsýnýz.";
+
+"You cannot do that while you are lying on the ground.";
+"Bunu düþmüþ haldeyken yapamazsýn.";
+
+"In my Dreams? What?";
+"Rüyamda? Ne?";
+
+"Get up first.";
+"Önce kalk.";
+
+"This command does not exist.";
+"Bu düzenleme mevcut deðil.";
+
+"[Group] This group has been disbanded.";
+"[Grup] Grup silindi.";
+
+"[Group] You cannot call the target.";
+"[Grup] Hedefi çaðýramazsýn.";
+
+"[Group] You cannot call group members over to your current position.";
+"[Grup] Bulunduðun pozisyonda grup üyelerini çaðýramazsýn.";
+
+"No (X)";
+"Hayýr (X)";
+
+"Your group works well together, and group members near the group leader will receive an experience bonus.";
+"Grubun iyi bir ortak çalýþma ortaya koyuyor, liderin yakýnýnda bulunan grup üyeleri bir tecrübe bonusu kazanýyor.";
+
+"Leader";
+"Lider";
+
+"Member";
+"Üye";
+
+"[Guild] Provided Experience is larger then left Experience.";
+"[Guild] Saðlanan tecrübe kaybedilenden tecrübeden daha fazla.";
+
+"[Guild] This message cannot be deleted.";
+"[Guild] Mesaj silinemez.";
+
+"[Guild] Not enough Dragon Ghost. (%d, %d)";
+"[Guild] Yeterli Ejderha hayaleti yok. (%d, %d)";
+
+"[Guild] You cannot use the guild skills yet.";
+"[Guild] Henüz Lonca Becerilerini kullanamazsýn.";
+
+"[Guild] %d skill has been applied (%d, %d) to %u.";
+"[Guild] %d becerisi (%d, %d) %u üzerine uygulandý.";
+
+"[Guild] This player is on channel %d. (Current channel: %d)";
+"[Guild]  Oyuncu þu an %d kanalýnda. (Bulunulan kanal: %d)";
+
+"[Guild] This player is not online.";
+"[Guild] Oyuncu çevrim dýþý.";
+
+"In 5 sec. everyone who gave an incorrect answer will be removed.";
+"Yanlýþ cevap veren katýlýmcýlar 5 saniye sonra silinecekler.";
+
+"[Guild] This guild skill can only be used during war.";
+"[Guild] Bu Lonca Becerisi sadece savaþlarda kullanýlabilir.";
+
+"[Guild] %u Dragon ghost points have been restored.";
+"[Guild] %u oranýnda Ejderha Hayaleti Puaný yüklendi.";
+
+"[Guild] Only the guild leader can withdraw Yang.";
+"[Guild] Sadece Lonca lideri Yang çekebilir.";
+
+"[Guild] The player has declined the guild invitation.";
+"[Guild] Oyuncu Lonca davetini reddetti.";
+
+"[Guild] You do not have the authority to invite someone to join the guild.";
+"[Guild] Loncaya birini davet edemezsin.";
+
+"[Guild] You cannot invite players from another kingdom into the guild.";
+"[Guild] Diðer Krallýklardan olan oyuncularý Loncaya davet edemezsin.";
+
+"[Guild] This player can be invited again after %d day(s).";
+"[Lonca] Bu oyuncuyu %d gün sonra tekrar davet edebilirsin.";
+
+"[Guild] After the rearrangement you can invite members again after %d days.";
+"[Guild] Düzenlemeden sonraki  %d gün içinde üyeleri davet edebilirsin.";
+
+"[Guild] This person is already a member of another Guild.";
+"[Guild] Bu oyuncu zaten baþka bir Loncaya üye.";
+
+"[Guild] The maximum guild capacity has been reached.";
+"[Guild] Lonca kapasitesi maximum seviyeye ulaþtý.";
+
+"Ready for the next question?";
+"Sonraki soru için hazýr mýsýn?";
+
+"You cannot train this skill.";
+"Bu beceriyi geliþtiremezsiniz.";
+
+"You cannot train this skill up to Grand Master level.";
+"Bu beceriyi Grand Master seviyesine geliþtiremezsiniz.";
+
+"You already are a Master of this skill. You cannot train this skill any further.";
+"Zaten bu beceride master konumundasýn. Onu geliþtiremezsin.";
+
+"Your Skill is not high enough to become a Grand Master.";
+"Becerin Grand Master seviyesi için yeterince yüksek deðil.";
+
+"That did not work. Damn!";
+"Çalýþmadý. Lanet olsun!";
+
+"Training has failed. Please try again later.";
+"Eðitim baþarýsýz. Lütfen sonra tekrar deneyin.";
+
+"My body is full of energy!";
+"Bedenim güçle dolu!";
+
+"The training seems to be working already...";
+"Eðitim yavaþ yavaþ fayda ediyor...";
+
+"You successfully finished your training with the book.";
+"Kitapla olan eðitimini baþarýyla tamamladýn.";
+
+"You cannot read this due to your lack of experience.";
+"Bu kadar tecrübesizken bunu okuyamazsýn.";
+
+"Question.";
+"Soru.";
+
+"You cannot train this skill with a Book.";
+"Bu beceriyi kitap okuyarak geliþtiremezsin.";
+
+"This skill's level is not high enough to be trained with a Book.";
+"Bu becerin kitap okuyarak geliþtirebilmek için yeterli seviyede deðil.";
+
+"I'm making progress, but I still haven't understood everything.";
+"Ýlerleyebiliyorum ama henüz hepsini anlamýþ deðilim.";
+
+"These instructions are difficult to understand. I have to carry on studying.";
+"Bu talimatlarý anlamak kolay deðil. Biraz daha çalýþmam gerekiyor.";
+
+"I understand this chapter. But I've got to carry on working hard.";
+"Bu bölümü anladým. Yine de çok çalýþmam gerekiyor.";
+
+"You have successfully finished your training with the Book.";
+"Kitapla olan eðitimini baþarýyla tamamladýn.";
+
+"Teleportation has failed.";
+"Iþýnlama baþarýsýz.";
+
+"No Horse here. Ask the Stable Boy.";
+"Burada at yok. Seyise sor.";
+
+"Please use an item to call a Horse.";
+"Lütfen at çaðýrma nesnesini kullan.";
+
+"%s FP-Consumption: %d";
+"%s FP Kullanýmý: %d";
+
+"If it's correct, then go to O. If it's wrong, go to X.";
+"Doðruysa O'ya git, yanlýþsa X'e git.";
+
+"I am burning inside, but it is calming down my body. My Chi has to stabilise.";
+"Ýçim yanýyor fakat vücudumu sakinleþtiriyor.";
+
+"A little slow, but steady... Without stopping!";
+"Yavaþça, fakat sürekli... Ara vermeksizin.";
+
+"Yes, that feels great. My body is full of Chi.";
+"Evet, bu his mükemmel. Bedenim Chi ile dolu.";
+
+"I have read it! Now the Chi will spread through my body.";
+"Okudum! Þimdi Chi tüm vücudumu kaplýyor.";
+
+"The training is completed.";
+"Eðitim tamamlandý.";
+
+"I am on the last page of the book. The training is nearly finished!";
+"Kitabýn son sayfasýndayým. Eðitim neredeyse bitmek üzere!";
+
+"Nearly finished! Just a little bit more to go!";
+"Nerdeyse bitti! Sadece azýcýk kaldý!";
+
+"Eureka! I have nearly finished reading it!";
+"Aydýnlandým! Neredeyse hepsini okudum!";
+
+"Only a few more pages and then I'll have read everything.";
+"Sadece birkaç sayfa kaldý, onlarý da okuduktan sonra hepsini okumuþ oluyorum.";
+
+"I feel refreshed.";
+"Yenilenmiþ hissediyorum.";
+
+"Correct!";
+"Doðru!";
+
+"Now I understand it!";
+"Þimdi anladým!";
+
+"Okay I have to stay concentrated!";
+"Tamam, konsantre kalmalýyým!";
+
+"I keep reading the same line over and over again.";
+"Ayný satýrý tekrar okuyup duruyorum.";
+
+"I do not want to learn any more.";
+"Daha fazla bir þey öðrenmek istemiyorum.";
+
+"It is a lot more complicated and more difficult to understand than I thought.";
+"Bu yöntem düþündüðümden çok daha karýþýk.";
+
+"It's hard for me to concentrate. I should take a break.";
+"Konsantre olamýyorum. Mola vermem gerekiyor.";
+
+"Your chat has been blocked by a GM.";
+"Sohbetiniz GM tarafýndan bloklandý.";
+
+"Your chat block has been lifted.";
+"Sohbet blokunuz kaldýrýldý.";
+
+"The Build window is already open.";
+"Ýnþa penceresi zaten açýk.";
+
+"You cannot build something while another trade/storeroom window is open.";
+"Baþka bir Ticaret/Depo penceresi açýkken herhangi birþey inþa edemezsiniz.";
+
+"No further improvements possible.";
+"Daha fazla geliþtirme imkansýz.";
+
+"The build window is not open.";
+"Ýnþa penceresi açýk deðil.";
+
+"You do not have the right material.";
+"Doðru maddeye sahip deðilsiniz.";
+
+"[Guild] Please try again later.";
+"[Guild] Lütfen daha sonra tekrar deneyin.";
+
+"You have to read %d more skill books to improve this skill.";
+"Bu yeteneði geliþtirmek için %d Yetenek Kitabý daha okumalýsýnýz.";
+
+"You are only able to use this function while you are at the castle.";
+"Bu özelliði sadece kaledeyken kullanabilirsin.";
+
+"TEST: The Gold Bar has been paid back to your kingdom's safe.";
+"TEST: Altýn külçe krallýðýnýzýn kasasýna geri ödendi.";
+
+"TEST: In your kingdom's safe there are: %d";
+"TEST: Krallýðýnýzýn kasasýnda bulunan: %d";
+
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe.";
+"TEST: Altýn külçeyi krallýðýnýzýn kasasýna gönderme yetkiniz yok.";
+
+"[Guild] The guild has reached %d points.";
+"[Guild] Sýralama %d Puana yükseldi.";
+
+"This item cannot be improved.";
+"Bu eþya daha iyi hale gelemez.";
+
+"The free weapon improvements can only be used on weapons up to level 20.";
+"Ücretsiz silah geliþtirmeleri ancak seviye 20'ye kadar olan silahlarda kullanýlabilir.";
+
+"You cannot use this item because you do not fulfil all the requirements.";
+"Gerekli özelliklere sahip olmadýðýn için bu eþyayý kullanamazsýn.";
+
+"You are not able to use that item because you do not have the right gender.";
+"Doðru cinsiyette olmadýðýnýz için bu eþyayý kullanamazsýnýz.";
+
+"Use: transfer <name>";
+"Kullan: transfer <name>";
+
+"This function can only be used by the emperor.";
+"Bu özellik sadece Ýmparator tarafýndan kullanýlabilir.";
+
+"You cannot recruit players from another kingdom.";
+"Baþka krallýktan olan oyuncularý birliðine dahil edemezsin.";
+
+"The player %s is on channel %d at the moment. (Your channel: %d)";
+"%s þuanda %d kanalýnda. (Kanalýnýz: %d)";
+
+"You have recruited %s players.";
+"%s oyuncularý iyileþtirdin.";
+
+"There is no user with this name.";
+"Bu isimde bir kullanýcý yok.";
+
+"You cannot recruit yourself.";
+"Kendini birliðine ekleyemezsin.";
+
+"Your level is too low to use this item.";
+"Seviyen eþyanýn geliþtirmeden sonraki seviyesinden düþük.";
+
+"You cannot upgrade anything while another window is open.";
+"Baþka bir pencere açýkken yükseltme yapamazsýn.";
+
+"The emperor of %s has changed to %s.";
+"%s Ýmparatoru %s oldu.";
+
+"There are %s wars to inflame the bonfires.";
+"Ateþleri yakmak için %s savaþlarý var.";
+
+"%s has successfully defended.";
+"%s baþarýyla savundu.";
+
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire.";
+"%s ateþi yok ettiði için þu andan itibaren 30 dakika boyunca bir ödül alabilir.";
+
+"30 minutes are over. The bonfires have disappeared.";
+"30 dakika doldu. Ateþler yok oldu.";
+
+"A bonfire was inflamed at %s to warn because of a battle.";
+"%s de savaþ yüzünden bir uyarý ateþi yakýldý.";
+
+"%s has destroyed the bonfire.";
+"%s ateþi yok etti.";
+
+"%s lost the war as they have not been able to defend the castle.";
+"%s kaleyi koruyamadýðý için savaþý kaybetti.";
+
+"%s has destroyed all the bonfires.";
+"%s ateþi yok etti.";
+
+"You can only open the shop if you take off your armour.";
+"Sadece zýrhýnýzý çýkardýðýnýzda bir dükkan açabilirsiniz.";
+
+"%d hours %d minutes %d seconds left on your chat block";
+"Sohbet bloklamanýzýn kalkmasýna %d saat %d dakika %d saniye kaldý";
+
+"%d hours %d seconds left on your chat block";
+"Sohbet bloklamanýzýn kalkmasýna %d saat %d saniye kaldý";
+
+"%d minutes %d seconds left on your chat block";
+"Sohbet bloklamanýzýn kalkmasýna %d dakika %d saniye kaldý";
+
+"Yang rain drop rate";
+"Yang yaðmuru düþme oraný";
+
+"Not the right material for an upgrade.";
+"Yükseltme için yeterli malzeme yok.";
+
+"All kingdoms";
+"Tüm Krallýklar";
+
+"Item drop rate in percent";
+"Eþya düþürme oran yüzdesi";
+
+"Yang drop rate in percent";
+"Yang düþürme oraný yüzdesi";
+
+"Experience percentage";
+"Deneyim yüzdesi";
+
+"%d seconds left on your chat block";
+"Sohbet engelinizin kalkmasýna %d saniye kaldý";
+
+"You cannot express emotions whilst riding a horse.";
+"At sürerken duygularýnýzý ifade edemezsiniz.";
+
+"You cannot use emotions with a player who is riding on a Horse.";
+"At süren bir kiþiye duygularýnýzý ifade edemezsiniz.";
+
+"[Guild] The enemy's guild leader is offline.";
+"[Lonca] Düþman lonca lideri çevrimdýþý.";
+
+"[Guild] This guild is taking part in a battle at the moment.";
+"[Lonca] Bu lonca þu anda savaþta.";
+
+"You're already riding. Get off first.";
+"Zaten bir binektesin. Önce in.";
+
+"You cannot upgrade items with this Scroll.";
+"Bu role ile yükseltemezsiniz.";
+
+"You can only be rewarded once for the Demon Tower Quest.";
+"Þeytan Kulesi görevi için sadece bir kez ödüllendirilebilirsiniz.";
+
+"Dragon Stone has been removed.";
+"Ejderha taþý baþarýyla çýkarýldý.";
+
+"You cannot move the item within the refinement window.";
+"Bu nesne, arýndýrma paneli içerisinde sürüklenemez.";
+
+"Dragon Stone remaining duration has been extracted.";
+"Ejderha taþýnda kalan süreyi çýkarma iþlemi baþarýlýydý.";
+
+"Remaining duration extraction failed.";
+"Kalan süreyi çýkarma iþlemi baþarýsýzdý.";
+
+"Removal of Dragon Stone failed. But you have received the following: %s";
+"Ejderha taþý çýkarýlamadý, ama þunu elde ettin: %s";
+
+"Removal of Dragon Stone failed.";
+"Ejderha taþý çýkarýlamadý.";
+
+"This item is not required for improving the clarity level.";
+"Bu nesneye saflýk derecesini geliþtirmek için ihtiyaç duyulmaz.";
+
+"This item cannot be advanced this way.";
+"Bu eþya bu þekilde yükseltilemez.";
+
+"Improvement of the clarity level successful.";
+"Saflýk derecesini geliþtirme iþlemi baþarýlýydý.";
+
+"Refinement up one class failed.";
+"Arýndýrmayý bir sýnýf daha yükseltme iþlemi baþarýsýzdý.";
+
+"This item is not required for refinement.";
+"Bu nesneye arýndýrmada ihtiyaç duyulmaz.";
+
+"Refinement up one class was successful.";
+"Arýndýrmayý bir sýnýf daha yükseltme iþlemi baþarýlýydý.";
+
+"Improvement of the clarity level failed.";
+"Saflýk derecesini geliþtirme iþlemi baþarýsýzdý.";
+
+"You do not own the materials required to strengthen the Dragon Stone.";
+"Ejderha taþýný güçlendirmek için gerekli malzemeye sahip deðilisn.";
+
+"This Dragon Stone cannot be used for strengthening.";
+"Bu ejderha taþý güçlendirmek için kullanýlamaz.";
+
+"Strengthening was successful.";
+"Güçlendirme baþarýlýydý.";
+
+"Strengthening failed.";
+"Güçlendirme baþarýsýz";
+
+"You are already carrying a Dragon Stone of this type.";
+"Üzerinde zaten bu türden bir ejderha taþý bulunuyor.";
+
+"The Dragon Stone cannot be removed.";
+"Ejderha taþý çýkarýlamaz.";
+
+"You have already equipped this kind of Dragon Stone.";
+"Böyle bir ejderha taþý kuþandýn bile.";
+
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.";
+"Cor Draconis'i açmadan önce Ejderha Taþý görevi tamamlanmýþ olmalý ve Ejderha Taþý Simyasý etkinleþtirilmiþ olmalý.";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"Eþyaya ait envanter tamamen boþ olmadýðý sürece kemeri çýkaramazsýn.";
+
+"You can combine the Blessing Scroll with the Magic Iron Ore.";
+"Kutsama Kaðýdý ve Büyülü Demir Madeni birleþtirebilirsin.";
+
+"You cannot equip this item in your belt inventory.";
+"Bu eþyayý kemer envanterinde donanamazsýn.";
+
+"[1106-??]No puedes unir esto.";
+"[1106-??]No puedes unir esto.";
+
+"You have invested %d Yang.";
+"%d Yang yatýrdýn.";
+
+"There is no Stone available to take out.";
+"Çýkartýlacak metin taþý yok.";
+
+"You cannot store this location.";
+"Bu yeri kaydedemezsin.";
+
+"There isn't enough space in your inventory.";
+"Envanterde yeterli boþluk yok.";
+
+"You cannot teleport to a safe position in a foreign Kingdom.";
+"Yabancý Krallýkta güvenli bir yere ýþýnlanamazsýn.";
+
+"You don't have enough HP.";
+"Yeterli HP yok.";
+
+"You don't have enough Spell Points (SP) to use this.";
+"Bunu kullanmak için yeterli manaya sahip deðilsin.";
+
+"You'll reach your destination in %d seconds.";
+"%d saniye içinde hedefte olacaksýn.";
+
+"You can only use a Moon Cake every 5 seconds.";
+"Her 5 saniyede bir Ay Pastasý kullanabilirsin.";
+
+"You cannot use this item in a duel.";
+"Bu eþyayý düelloda kullanamazsýn.";
+
+"You have won %d Yang.";
+"%d Yang kazandýn.";
+
+"You cannot build a campfire here.";
+"Buraya kamp ateþi yakamazsýn.";
+
+"You cannot build a campfire under water.";
+"Suyun altýnda kamp ateþi yakamazsýn.";
+
+"Closed. You should look for the key.";
+"Kapalý. Anahtarý aramalýsýn.";
+
+"This item cannot be opened with a key.";
+"Bu eþya bir anahtarla açýlamaz.";
+
+"That's the right key.";
+"Doðru anahtar.";
+
+"You have received %d Yang.";
+"%d Yang kazandýn.";
+
+"A mysterious light comes out of the box.";
+"Kutudan gizemli bir ýþýk geliyor.";
+
+"You have received %d experience points.";
+"%d Tecrübe Puaný kazandýn.";
+
+"Look what came out of the box!";
+"Bak kutudan ne çýktý!";
+
+"[Guild] The guild level is too low.";
+"[Lonca] Lonca seviyesi çok düþük.";
+
+"If you inhale the red smoke coming out of the box, your speed will increase!";
+"Eðer kutudan gelen kýrmýzý dumaný solursan, hýzýn artar!";
+
+"You cannot add more bonus.";
+"You cannot add more bonus.";
+
+"New bonus added successfully.";
+"New bonus added successfully.";
+
+"You cannot change the bonuses.";
+"You cannot change the bonuses.";
+
+"%s needed.";
+"%s needed.";
+
+"OX-Question: ";
+"OX-Question: ";

@@ -1,0 +1,25 @@
+# CMake
+cmake-build-debug/
+cmake-build-release/
+
+# IDE folders
+.vscode/
+.idea/
+
+# Dockerfile (in order to allow changes without rebuilding)
+Dockerfile
+
+# Git files
+.gitignore
+.gitkeep
+
+# Compiled quests
+gamefiles/data/quest/object/
+gamefiles/data/quest/pre_qc/
+gamefiles/data/quest/qc
+
+# Test folder
+test/
+
+# Built files
+build/

@@ -1,0 +1,2228 @@
+"Everyone will be teleported into the city shortly.";
+"Όλοι οι άνθρωποι θα τηλεμεταφερθούν στην επιλεγμένη πόλη σε σύντομο χρονικό διάστημα.";
+
+"This item does not exist.";
+"Αυτο το αντικειμενο δεν υπαρχει";
+
+"The box suddenly exploded! You have lost Hit Points (HP).";
+"Το κιβώτιο εκρήγνυται! Χάνεις Hit Points (HP).";
+
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!";
+"Εαν εισπνεύσεις το πράσινο καπνό που βγαίνει από το κιβώτιο, το δηλητήριο θα εισχωρήσει στο σώμα σου.";
+
+"You have received %s, %d units.";
+"Απόκτησες %s x %d .";
+
+"The box contains %s.";
+"Υπάρχει %s στο κιβώτιο.";
+
+"This key does not seem to fit the lock.";
+"Το κλειδί δεν φαίνεται να ταιριάζει στην κλειδαριά.";
+
+"You have not received anything.";
+"Δεν αποκόμισες τίποτα.";
+
+"You do not have enough Yang to use this item.";
+"Δεν έχεις αρκετά Yang για να κάνεις χρήση αυτού του αντικειμένου.";
+
+"You have lowered your Skill Level.";
+"Χαμήλωσες το επίπεδο ικανότητας σου.";
+
+"You cannot lower your Skill Level.";
+"Δεν επιτρέπεται να χαμηλώσεις το επίπεδο ικανότητας σου.";
+
+"This effect is already activated.";
+"Το εφφε είναι ήδη ενεργό.";
+
+"This item can only be used in an Internet cafe.";
+"Αυτό το αντικείμενο μπορεί να χρησιμοποιηθεί μόνο σε internet cafe.";
+
+"That is over the limit.";
+"Υπέρβαση ορίου.";
+
+"Unfortunately you don't have enough space in your inventory.";
+"Δυστυχώς δεν έχεις αρκετό χώρο στον κατάλογό σου.";
+
+"Used Moon Cake or Seed.";
+"Χρησιμοποιημένη Τούρτα του Φεγγαριού.";
+
+"You cannot wear a Wedding Ring if you are not married.";
+"Δεν μπορείς να φοράς Βέρα Γάμου αν είσαι ανύπαντρο άτομο.";
+
+"You cannot use the Event Detector from this position.";
+"Δεν επιτρέπεται η χρήση του Ανιχνευτή Γεγονότων από αυτή τη θέση.";
+
+"This item cannot be absorbed.";
+"Η προσθήκη αυτού του αντικειμένου δεν είναι δυνατή.";
+
+"The Event Detector vanished in a mysterious light.";
+"Ο Ανιχνευτής Γεγονότων εξαφανίστηκε με ενα μυστηριώδες φως.";
+
+"The Event Detector has vanished.";
+"Ο Ανιχνευτής Γεγονότων εξαφανίστηκε.";
+
+"The Compass for Metin Stones does not work in dungeons.";
+"Η Πυξίδα Λίθων Metin δεν μπορεί να χρησιμοποιηθεί στα Μπουντρούμια.";
+
+"The Compass for Metin Stones has vanished in the mysterious light.";
+"Η Πυξίδα Λίθων Metin εξαφανίστηκε με μια μυστηριώδη λάμψη.";
+
+"Receive: %s - %d";
+"Απόκτησε %s - %d";
+
+"The Compass for Metin Stones has vanished.";
+"Η Πυξίδα Λίθων Metin εξαφανίστηκε.";
+
+"You find a simple Piece of Stone in the Clam.";
+"Μέσα στο όστρακο θα βρεις μόνο ένα απλό κομμάτι Πέτρας.";
+
+"The Clam has vanished.";
+"Το όστρακο εξαφανίστηκε.";
+
+"There is a White Pearl inside the Clam.";
+"Υπάρχει ένα λευκό μαργαριτάρι μέσα στο όστρακο.";
+
+"There is a Blue Pearl inside the Clam.";
+"Υπάρχει ένα γαλάζιο μαργαριτάρι μέσα στο όστρακο.";
+
+"There is a Blood-Red Pearl inside the Clam.";
+"Υπάρχει ένα βυσσινί μαργαριτάρι μέσα στο όστρακο.";
+
+"It isn't easy to understand this book.";
+"Αυτό το βιβλίο είναι δυσνόητο.";
+
+"This book will not help you.";
+"Αυτό το βιβλίο δε θα σε βοηθήσει.";
+
+"You need to have a minimum level of 30 to understand this book.";
+"Πρέπει να έχεις φτάσει τουλάχιστον το επίπεδο 30 για να κατανοήσεις αυτό το βιβλίο.";
+
+"You need a minimum level of 50 to understand this book.";
+"Πρέπει να έχεις φτάσει τουλάχιστον το επίπεδο 50 για να κατανοήσεις αυτό το βιβλίο.";
+
+"You can't train any more Combos.";
+"Δε μπορείς να εξασκήσεις άλλους συνδυασμούς.";
+
+"%s has captured the flag of %s!";
+"Η %s Ομάδα κατέλαβε την σημαία της %s ομάδας!";
+
+"You already understand this language.";
+"Ήδη καταλαβαίνεις αυτή τη γλώσσα.";
+
+"You have to improve your Level to read this Book.";
+"Πρέπει να ανεβάσεις το επίπεδο σου για να κατανοήσεις αυτό το βιβλίο.";
+
+"The book is too hard for practising.";
+"Αυτό το βιβλίο είναι δύσκολο να κατανοηθεί.";
+
+"You cannot train with this Book any more.";
+"Αυτό το βιβλίο δε σου παρέχει περαιτέρω εκπαίδευση.";
+
+"Taxes are set to %d%%.";
+"Οι Φόροι ορίστικαν στο %d%%.";
+
+"You need a minimum level of 50 to get riding training.";
+"Πρέπει να έχεις φτάσει το επίπεδο 50 για να λάβεις εκπαίδευση αναβάτη.";
+
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll.";
+"Αναίρεσες την κατάρα του Δαιμονικού πνεύματος με τη χρήση του πάπυρου εξορκισμού.";
+
+"You cannot read any more Riding Guides.";
+"Δε μπορείς να διαβάσεις άλλους οδηγούς για αναβάτες.";
+
+"You read the Horse Riding Manual and received a Riding Point.";
+"Έλαβες έναν πόντο ανάβασης μετά την ανάγνωση του οδηγού αναβατών.";
+
+"You can use this point to improve your riding skill!";
+"Μπορείς να χρησιμοποιήσεις αυτόν τον πόντο για να βελτιώσεις την Ικανότητα Αναβάτη.";
+
+"The guild %s's flag has been stolen by player %s.";
+"Η σημαία της Συντεχνίας %s κλάπηκε από τον παίκτη %s.";
+
+"You did not understand the riding guide.";
+"Δεν κατανόησες τον οδηγό αναβατών.";
+
+"Your mind is clear. You can concentrate really well now.";
+"Έχεις πνευματική διαύγεια. Μπορείς να συγκεντρωθείς πλέον.";
+
+"Your rank has increased by %d points.";
+"Η κατάταξη σας αυξήθηκε κατά %d βαθμούς.";
+
+"You cannot dye or bleach your current hairstyle.";
+"Δεν μπορείς να βάψεις ή να ανοίξεις τα μαλλιά σου.";
+
+"You need to have reached level %d to be able to dye your hair again.";
+"Πρέπει να φτάσεις επίπεδο %d για να είσαι σε θέση να ξαναβάψεις τα μαλλιά σου.";
+
+"This item can only be opened by the another gender.";
+"Αυτό το αντικείμενο μπορεί να ανοιχθεί μόνο από το αντίθετο φύλο.";
+
+"You cannot use this from your current position.";
+"Δεν επιτρέπεται η χρήση αυτής της φόρμας, από τη παρούσα θέση.";
+
+"You are ready to warp, so you cannot use the Scroll of the Location.";
+"Είσαι στη διαδικασία τηλεμεταφοράς, οπότε δεν μπορείς να κάνεις χρήση του Παπύρου Επιστροφής.";
+
+"You are being brought back to the place of origin.";
+"Επέστρεψες στην αρχική τοποθεσία.";
+
+"%s%s cannot be used in a dungeon.";
+"%s%s δεν μπορούν να χρησιμοποιηθούν εντός κατακόμβης.";
+
+"[Quest] You have already received your reward.";
+"[Αποστολή] Έχεις ήδη λάβει την αμοιβή σου.";
+
+"the";
+"το";
+
+"There aren't any Pieces of Broken Stone available for removal.";
+"Δεν υπάρχουν κομμάτια Σπασμένης Πέτρας που πρέπει να αφαιρεθούν.";
+
+"You cannot change the upgrade of this item.";
+"Δεν επιτρέπεται η τροποποίηση της αναβάθμισης αυτού του αντικειμένου.";
+
+"There is no upgrade that you can change.";
+"Δεν υφίσταται αναβάθμιση που θα μπορούσε να τροποποιηθεί.";
+
+"You can only do this %d minutes after an upgrade. (%d minutes left)";
+"Αυτό μπορεί να το κάνεις %d λεπτά από την αναβάθμιση. (%d λεπτά υπολοίπονται)";
+
+"You have changed the upgrade.";
+"Η αναβάθμιση τροποποιήθηκε";
+
+"Upgrade successfully added.";
+"Η αναβάθμιση προστέθηκε επιτυχώς.";
+
+"No upgrade added.";
+"Η αναβάθμιση δεν ήταν δυνατή.";
+
+"You must use the Blessing Marble in order to add another bonus to this item.";
+"Πρέπει να χρησιμοποιήσεις τον Βόλο Ευλογίας για να προσθέσεις ακόμα ένα bonus σε αυτό το αντικείμενο";
+
+"You cannot use this in the duel arena.";
+"Δεν επιτρέπεται η χρήση στην Αρένα.";
+
+"This item can no longer be improved. The maximum number of bonuses has been reached.";
+"Αυτό το αντικείμενο δε μπορεί να αναβαθμιστεί άλλο.Ο μέγιστος αριθμός των bonus έχει επιτευχθεί.";
+
+"You can only use the Blessing Marble with an item which already has 4 bonuses.";
+"Χρησιμοποίησε τον Βόλο Ευλογίας για να προσθέσεις ακόμα μία αναβάθμιση σε αντικείμενο που έχει ήδη 4 Bonus.";
+
+"Socket successfully added.";
+"Η υποδοχή προστέθηκε επιτυχώς.";
+
+"No socket added.";
+"Η προσθήκη υποδοχής δεν είναι δυνατή.";
+
+"No additional sockets could be added to this item.";
+"Δεν μπορείς να προσθέσεις άλλες υποδοχές σ' αυτό το αντικείμενο.";
+
+"You cannot add a socket to this item.";
+"Η προσθήκη υποδοχής σ' αυτό το αντικείμενο δεν είναι δυνατή.";
+
+"Arming successful.";
+"Επιτυχής όπλιση.";
+
+"Arming has failed.";
+"Ανεπιτυχής όπλιση.";
+
+"You have to add a socket first. Use a diamond in order to do this.";
+"Πρέπει πρώτα να προσθέσεις μια υποδοχή χρησιμοποιώντας ένα διαμάντι.";
+
+"There are no sockets for gemstones in this item.";
+"Δεν υπάρχει καμία υποδοχή με πετράδια.";
+
+"You can do this when you wear an Emotion Mask.";
+"Μπορείς να το πραγματοποιήσεις φορώντας τη μάσκα συναισθήματος.";
+
+"You have to add a socket if you want to use a Diamond.";
+"Πρέπει να προσθέσεις μια υποδοχή αν θες να χρησιμοποιήσεις ένα διαμάντι.";
+
+"No more gems can be added to this item.";
+"Δεν μπορούν να προστεθούν επιπλέον πετράδια στο αντικείμενο αυτό.";
+
+"These items cannot be used together.";
+"Αυτά τα αντικείμενα δε μπορούν να χρησιμοποιηθούν μαζί.";
+
+"You cannot change the Bait whilst fishing.";
+"Δεν μπορείς να αλλάξεις το δόλωμα ενώ ψαρεύεις.";
+
+"You are exchanging the current Bait for %s.";
+"Ανταλλάσσεις το παρόν δόλωμα με %s.";
+
+"You attached %s to the hook as bait.";
+"Πέρασες το %s ως δόλωμα στο αγκίστρι.";
+
+"You are missing some ingredients to make the potion.";
+"Δεν έχεις όλα τα υλικά για να παρασκευάσεις το φίλτρο.";
+
+"You do not have enough material (%s).";
+"Δεν έχεις αρκετό υλικό (%s).";
+
+"You do not have enough empty bottles.";
+"Δεν έχεις αρκετά άδεια μπουκάλια.";
+
+"The potion production has failed.";
+"Η μίξη του φίλτρου δεν ήταν επιτυχής.";
+
+"Only women can do this.";
+"Μόνο οι γυναίκες μπορούν να το κάνουν αυτό.";
+
+"You cannot attach several stones of the same type.";
+"Δεν μπορείς να συνδέσεις περισσότερους Λίθους Πνεύματος του ίδιου τύπου.";
+
+"This Spirit Stone cannot be attached to this type of item.";
+"Δεν μπορείς να συνδέσεις αυτόν τον Λίθο Πνεύματος με αυτού του είδους το αντικείμενο.";
+
+"You cannot attach this Spirit Stone to a weapon.";
+"Δεν μπορείς να συνδέσεις αυτόν τον Λίθο Πνεύματος με ένα όπλο.";
+
+"You have attached the Spirit Stone successfully.";
+"Συνέδεσες αυτόν τον Λίθο Πνεύματος επιτυχώς.";
+
+"The Spirit Stone broke while being attached.";
+"Ο Λίθος Πνεύματος έσπασε κατά τη σύνδεση.";
+
+"No slot free.";
+"Καμία σχισμή ελεύθερη.";
+
+"This function is not available right now.";
+"Δεν είσαι ικανός να τηλεμεταφέρεις το σύζυγο σου αυτή τη στιγμή.";
+
+"You cannot use a Scroll of the Location whilst taking part in a kingdom battle.";
+"Δεν μπορείς να χρησιμοποιήσεις έναν Πάπυρο Επιστροφής κατά τη διάρκεια μιας μάχης βασιλείων.";
+
+"After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.";
+"Δεν μπορείς να χρησιμοποιήσεις έναν Πάπυρο Επιστροφής για %d δευτερόλεπτα μετά από το άνοιγμα της αποθήκης εμπορευμάτων.";
+
+"You cannot use a Scroll of the Location while another window is open.";
+"Δεν μπορείς να χρησιμοποιήσεις τον Πάπυρο Επιστροφής όσο έχεις ανοιχτό ένα άλλο παράθυρο.";
+
+"This person does not exist.";
+"Αυτό το άτομο δεν υπάρχει.";
+
+"After a trade, you cannot use a scroll for another %d seconds.";
+"Δεν μπορείς να χρησιμοποιήσεις έναν Πάπυρο για %d δευτερόλεπτα μετά από μία εμπορική συναλλαγή.";
+
+"After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.";
+"Δεν μπορείς να χρησιμοποιήσεις έναν Πάπυρο Επιστροφής για %d δευτερόλεπτα μετά από το άνοιγμα της αποθήκης εμπορευμάτων.";
+
+"You cannot use the Scroll of the Location because the distance is too small.";
+"Δεν μπορείς να χρησιμοποιήσεις τον Πάπυρο Επιστροφής, γιατί η απόσταση είναι πολύ μικρή.";
+
+"After a trade you cannot use a Scroll of the Location for %d seconds.";
+"Μετά από μια εμπορική συναλλαγή δεν μπορείς να χρησιμοποιήσεις Πάπυρο Επιστροφής για %d δευτερόλεπτα.";
+
+"You cannot open the Storeroom if another window is already open.";
+"Δεν μπορείς να ανοίξεις την αποθήκευση αν ένα άλλο παράθυρο είναι ήδη ανοιχτό.";
+
+"You cannot drop this item.";
+"Δεν μπορείς να ρίξεις αυτό το αντικείμενο.";
+
+"The dropped item will vanish in 5 minutes.";
+"Το πεταγμένο αντικείμενο θα εξαφανιστεί σε 5 λεπτά.";
+
+"%s received";
+"%s ελήφθησαν.";
+
+"You have too many items in your inventory.";
+"Έχεις πάρα πολλά αντικείμενα στον κατάλογο σου.";
+
+"%s receives %s.";
+"%s: αποκτά %s.";
+
+"You are too near.";
+"Είσαι πολύ κοντά.";
+
+"Item Trade: %s, %s";
+"Εμπόριο αντικειμένου: %s, %s";
+
+"You cannot change the equipped item while you are transformed.";
+"Δεν μπορείς να αλλάξεις τον εξοπλισμό σου όσο είσαι μεταμορφωμένος.";
+
+"You have to stand still to equip the item.";
+"Πρέπει να είσαι ακίνητος για να εξοπλιστείς αυτό το αντικείμενο.";
+
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.";
+"Τα Βότανα Μαϊμούς δε μπορούν να χρησιμοποιηθούν σαν τροφή. Χρησιμεύουν για την αναγέννηση νεκρών αλόγων.";
+
+"You cannot feed a dead Horse.";
+"Δεν μπορείς να ταίσεις ένα νεκρό ’λογο.";
+
+"You fed the Horse with Herbs.";
+"Τάισες το ’λογο με Βότανα.";
+
+"You have fed the Horse.";
+"Τάισες το ’λογο.";
+
+"Your level is too low to wear this Hairstyle.";
+"Το Επίπεδο σου είναι πολύ χαμηλό για να αποκτήσεις αυτήν την κόμμωση.";
+
+"You already have this Hairstyle.";
+"Έχεις ήδη αυτήν την κόμμωση.";
+
+"You have already transformed.";
+"Είσαι ήδη μεταμορφωμένος.";
+
+"You are too far away.";
+"Είσαι πολύ μακριά.";
+
+"That's the wrong trading item.";
+"Αυτό είναι το λανθασμένο αντικείμενο Πολυμορφίας.";
+
+"You cannot transform into a monster who has a higher level than you.";
+"Δεν μπορείς να μεταμορφωθείς σε ένα τέρας του οποίου το επίπεδο είναι υψηλότερο από το δικό σου.";
+
+"Your level is too low to equip this item.";
+"Το Επίπεδο σου είναι πολύ χαμηλό για να εξοπλιστείς με αυτό το αντικείμενο.";
+
+"You are not strong enough to equip yourself with this item.";
+"Δεν είσαι αρκετά δυνατός για να εξοπλιστείς με αυτό το αντικείμενο.";
+
+"Your intelligence is too low to equip yourself with this item.";
+"Η Ευφυΐα σου είναι πολύ χαμηλή για να εξοπλιστείς με αυτό το αντικείμενο.";
+
+"Your dexterity is too low to equip yourself with this item.";
+"Η Ευκινησία σου είναι πολύ χαμηλή για να εξοπλιστείς με αυτό το αντικείμενο.";
+
+"Your vitality is too low to equip yourself with this item.";
+"Η Ζωτικότητα σου είναι πολύ χαμηλή για εξοπλιστείς με αυτό το αντικείμενο.";
+
+"You cannot use this item because you are not married.";
+"Δεν μπορείς να χρησιμοποιήσεις αυτό το αντικείμενο, γιατί δεν είσαι παντρεμένος.";
+
+"You cannot equip this item twice.";
+"Δεν μπορείς να εξοπλιστείς με αυτό το αντικείμενο 2 φορές.";
+
+"Time left until the removal of the socket of %s: %d";
+"Υπολοιπόμενος χρόνος μέχρι την αφαίρεση της υποδοχής %s: %d";
+
+"This action can only be done with another gender.";
+"Η ενέργεια αυτή είναι δυνατή μόνο με το άλλο γένος.";
+
+"A gem socketed in the %s has vanished.";
+"Ένα πετράδι εξαφανίστηκε από: %s";
+
+"[Guild] This guild name is invalid.";
+"[Συντεχνία] Το όνομα της συντεχνίας είναι άκυρο.";
+
+"[Guild] This guild name is already taken.";
+"[Συντεχνία] Το όνομα της συντεχνίας είναι ήδη σε χρήση.";
+
+"[Guild] You cannot found a guild.";
+"[Συντεχνία] Δεν μπορείς να δημιουργήσεις μία συντεχνία.";
+
+"The guild %s has declared war on %s!";
+"Η Συντεχνία %s κήρυξε πόλεμο στην Συντεχνία %s!";
+
+"[Guild] %s has refused the Guild war.";
+"[Συντεχνία] %s απορρίπτει τον πόλεμο Συντεχνιών.";
+
+"The guild war between %s and %s will start in a few seconds!";
+"Ο Πόλεμος Συντεχνιών μεταξύ %s και %s ξεκινάει σε λίγα δευτερόλεπτα!";
+
+"The guild war between %s and %s has begun!";
+"Ο Πόλεμος Συντεχνιών μεταξύ %s και %s έχει ξεκινήσει!";
+
+"The guild war between %s and %s has ended in a draw.";
+"Ο Πόλεμος Συντεχνιών μεταξύ %s και %s έληξε με ισοπαλία.";
+
+"%s has won the guild war against %s.";
+"Η Συντεχνία %s κέρδισε τον πόλεμο εναντίον της Συντεχνίας %s.";
+
+"You need your fellow player's approval for this.";
+"Χρειάζεσαι για αυτό την αναγνώριση του συνεργάτη σου.";
+
+"[Guild] The guild war has been cancelled.";
+"[Συντεχνία] Ο Συντεχνιακός πόλεμος ακυρώθηκε.";
+
+"The guild war between %s and %s has been cancelled.";
+"Ο Πόλεμος μεταξύ της Συντεχνίας %s και της Συντεχνίας %s διακόπηκε.";
+
+"Close";
+"Κλείνω.";
+
+"Action cancelled. You have entered a battle.";
+"Η ενέργεια ακυρώθηκε. Έχετε εισέλθει στην μάχη.";
+
+"Someone has logged into your account. You will be disconnected from the server.";
+"Κάποιος συνδέθηκε με τον λογαριασμό σου.Θα αποσυνδεθείς.";
+
+"A mysterious light appears from the tree.";
+"Ένα μυστηριώδες φως εμφανίζεται από το δέντρο.";
+
+"%d Playtime added to your account. (Payment number %d)";
+"%d χρόνος παιχνιδιού προστέθηκε στον λογαριασμό σου. (Αριθμός πληρωμής %d)";
+
+"You can participate in the guild battle in viewer mode.";
+"Μπορείς να συμμετέχεις στην Μάχη των Συθντεχνιών ως Θεατής.";
+
+"While choosing a character, an icon appears.";
+"Καθώς διαλέγεις ένα χαρακτήρα <τελειώνεις την παρατήρηση> ένα εικονίδιο εμφανίζεται.";
+
+"There are no opponents.";
+"Δεν υπάρχουν εχθροί.";
+
+"The battle with %s has begun!";
+"Η μάχη με %s έχει ξεκινήσει!";
+
+"If no enemy can be found, the guild war will be ended automatically.";
+"Εαν δεν μπορεί να βρεθεί κανένας εχθρός τότε ο Συντεχνιακός Πόλεμος θα τερματιστεί αυτόματα.";
+
+"Because the guild war finished early, the result will judged as a draw.";
+"Δεδομένου ότι ο Πόλεμος Συντεχνιών τελείωσε πρόωρα, το αποτέλεσμα θα θεωρηθεί ως ισοπαλία.";
+
+"The energy is reflected because of the Emperors Blessing.";
+"Η ενέργεια αντανακλάται εξ αιτίας της Ευλογίας του Αυτοκράτορα.";
+
+"After %d seconds you can use the Emperors Blessing.";
+"Μετά από %d δευτερόλεπτα μπορείς να χρησιμοποιήσεις την Ευλογία του Αυτοκράτορα.";
+
+"Not enough tax income : %d.";
+"Όχι αρκετά φορολογικά έσοδα: %d";
+
+"[TEST_ONLY]Tax : %d";
+"[TEST_ONLY]Φόρος: %d";
+
+"Transformation error.";
+"Σφάλμα κατά την Πολυμορφία.";
+
+"You learned the transmutation completely.";
+"Ολοκλήρωσες την εκμάθηση της Πολυμορφίας.";
+
+"Please call your Horse first.";
+"Παρακαλώ κάλεσε πρώτα το ’λογο σου.";
+
+"You have sent your horse away.";
+"Έστειλες το ’λογο σου μακριά.";
+
+"%s challenged you to a battle!";
+"Ο %s σε προκάλεσε σε μάχη!";
+
+"You have to get off your Horse.";
+"Πρέπει να κατεβείς από το ’λογο σου.";
+
+"You cannot feed your Horse whilst sitting on it.";
+"Δεν μπορείς να ταίσεις το ’λογο σου ενώ κάθεσαι πάνω του.";
+
+"You have fed the Horse with %s%s.";
+"Τάισες το άλογο με %s%s.";
+
+"You need %s.";
+"Χρειάζεσαι %s.";
+
+"%d seconds until Exit.";
+"%d δευτερόλεπτα μέχρι να κλεισει.";
+
+"The game will be closed in %d seconds.";
+"Το Παιχνίδι θα κλέισει μετά από %d δευτερόλεπτα.";
+
+"Your logout has been cancelled.";
+"Η αποσύνδεση σου ακυρώθηκε.";
+
+"Back to login window. Please wait.";
+"Επιστροφή στο παράθυρο σύνδεσης. Παρακαλώ περιμένετε.";
+
+"You have been disconnected from the server. Please wait.";
+"Έχεις αποσυνδεθεί από τον Server.Παρακαλώ περίμενε.";
+
+"You have challenged %s to a battle.";
+"Προκάλεσες τον %s σε μάχη.";
+
+"You are changing character. Please wait.";
+"’λλαξες τον χαρακτήρα.Παρακαλώ περίμενε.";
+
+"A new start is not possible at the moment. Please wait %d seconds.";
+"Η επανεκκίνηση δεν είναι ακόμα δυνατή. Περίμενε %d δευτερόλεπτα.";
+
+"You cannot restart yet. Please wait another %d seconds.";
+"Η επανεκκίνηση δεν είναι ακόμα δυνατή. Περίμενε %d δευτερόλεπτα.";
+
+"You cannot restart in the city yet. Wait another %d seconds.";
+"Η επανεκκίνηση στην Πόλη δεν είναι ακόμα δυνατή. Περίμενε %d δευτερόλεπτα.";
+
+"The waiting time has expired. You will be revived in the city.";
+"Ο χρόνος αναμονής τελείωσε. Θα αναγεννηθείς στην Πόλη.";
+
+"You cannot change your status while you are transformed.";
+"Δεν μπορείς να αλλάξεις την κατάσταση σου όσο είσαι μεταμορφωμένος.";
+
+"This player is currently fighting.";
+"Ο παίκτης μάχεται αυτή τη στιγμή.";
+
+"[Guild] It does not belong to the guild.";
+"[Συντεχνία]Αυτό δεν ανήκει στην Συντεχνία.";
+
+"[Guild] You do not have the authority to change the level of the guild skills.";
+"[Συντεχνία]Δεν μπορείς να αλλάξεις το Level των Δεξιοτήτων της Συντεχνίας.";
+
+"Your choice is incorrect.";
+"Η επιλογή σου είναι λανθασμένη.";
+
+"[Storeroom] You have entered an incorrect password.";
+"[Αποθήκη]Πληκτρολόγησες λάθος κωδικό.";
+
+"[Storeroom] The Storeroom is already open.";
+"[Αποθήκη]Η αποθήκη είναι ήδη ανοικτή.";
+
+"[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.";
+"[Αποθήκη]Πρέπει να περιμένεις 10 δευτερόλεπτα για να ανοίξεις πάλι την αποθήκη.";
+
+"[Storeroom] You are too far away to open the storeroom.";
+"[Αποθήκη]Είσαι πολύ μακριά από την αποθήκη και δεν μπορείς να την ανοίξεις.";
+
+"[Group] The server cannot execute this group request.";
+"[Ομάδα]Ο server δεν μπορεί να εκτελέσει το αίτημα της Ομάδας.";
+
+"[Group] You cannot leave a group while you are in a dungeon.";
+"[Ομάδα]Δεν μπορείς να φύγεις από την ομάδα ενώ είσαι σε μπουντρούμι.";
+
+"[Group] You have left the group.";
+"[Ομάδα]Έφυγες από την Ομάδα.";
+
+"[Guild] Your guild is already participating in another war.";
+"[Συντεχνία]Η Συντεχνία σου συμμετέχει ήδη σε άλλο πόλεμο.";
+
+"[Guild] No one is entitled to a guild war.";
+"[Συντεχνία]Κανένας δεν έχει δικαιώματα για πόλεμο Συντεχνιών.";
+
+"[Guild] No guild with this name exists.";
+"[Συντεχνία]Αυτή η Συντεχνία δεν υπάρχει.";
+
+"There already is a candidacy.";
+"Υπάρχει ήδη υποψηφιότητα.";
+
+"[Guild] This guild is already participating in a war.";
+"[Συντεχνία]Αυτή η συντεχνία συμμετέχει ήδη σε Πόλεμο.";
+
+"[Guild] Not enough Yang to participate in a guild war.";
+"[Συντεχνία]Δεν υπάρχει αρκετό Yang για συμμετοχή σε πόλεμο Συντεχνιών.";
+
+"[Guild] The guild does not have enough Yang to participate in a guild war.";
+"[Συντεχνία]Αυτή η συντεχνία δεν έχει αρκετό Yang για να συμμετέχει σε Συντεχνιακό πόλεμο.";
+
+"[Guild] This Guild is already scheduled for another war.";
+"[Συντεχνία]Αυτή η Συντεχνία είναι ήδη σημειωμένη για άλλο Συντεχνιακό πόλεμο.";
+
+"[Guild] This guild is already participating in another war.";
+"[Συντεχνία]Η Συντεχνία συμμετέχει ήδη σε άλλο πόλεμο.";
+
+"[Guild] A minimum of %d players are needed to participate in a guild war.";
+"[Συντεχνία]Τουλάχιστον %d παίκτες είναι απαραίτητοι για τη συμμετοχή στον Πόλεμο Συντεχνιών.";
+
+"[Guild] The guild does not have enough points to participate in a guild war.";
+"[Συντεχνία]Η Συντεχνία δεν έχει αρκετούς Πόντους Βαθμίδας για να συμμετάσχει στον Συντεχνιακό πόλεμο.";
+
+"[Guild] The guild does not have enough members to participate in a guild war.";
+"[Συντεχνία]Η Συντεχνία δεν έχει αρκετά μέλη για να συμετάσχει σε έναν Συντεχνιακό πόλεμο.";
+
+"Your level has to be higher than 20 to register a cell phone number.";
+"Το Level σου πρέπει να είναι ψηλότερο του 20 για να καταχωρήσεις έναν αριθμό κινητού τηλεφώνου.";
+
+"You do not have the emperor qualification.";
+"Δεν έχει τα προσόντα για να είναι αυτοκράτορας.";
+
+"%s declined the invitation.";
+"%s απέρριψε την πρόσκληση.";
+
+"You cannot accept the invitation because you are already in the group.";
+"Δεν μπορείς να δεχτείς την πρόσκληση γιατί είσαι ήδη στην Ομάδα.";
+
+"Only the emperor can use this.";
+"Μόνο ο Αυτοκράτορας μπορεί να το χρησιμοποιήσει αυτό.";
+
+"Cooldown time for approximately %d seconds";
+"Χρόνος χαλάρωσης περίπου %d δευτερόλεπτα";
+
+"Lack of Taxes. Current Capital : %u Missing Capital : %u";
+"Έλλειψη Φόρων.Τρέχον κεφάλαιο: %u Ελλειπόν κεφάλαιο: %u";
+
+"Command: warpto <character name>";
+"Διαταγή: warpto <character name>";
+
+"You cannot be warped to an unknown player.";
+"Δεν μπορείς να μεταφερθείς σε έναν άγνωστο παίκτη.";
+
+"Adding player %d into the channel. (Present channel %d)";
+"Πρόσθεση του παίκτη %d στο κανάλι.(Τωρινό κανάλι %d)";
+
+"Warp to player %s.";
+"Μεταφέρσου σε %s.";
+
+"You cannot call unknown players.";
+"Δεν μπορείς να καλέσεις άγνωστους παίκτες.";
+
+"[Guild] There are no experience points for hunting during a guild war.";
+"[Συντεχνία]Δεν υπάρχουν Πόντοι Εμπειρίας κατά τη διάρκεια ενός Πολέμου Συντεχνιών.";
+
+"When the Blessing of the Emperor is used %s the HP and SP are restored again.";
+"Όταν χρησιμοποιηθεί η Ευλογία του Αυτοκράτορα %s, τα HP και SP αποκαθιστώνται.";
+
+"My information about the emperor";
+"Πληροφορίες του Αυτοκράτορα μου.";
+
+"[%sMonarch] : %s Yang owned %lld";
+"[%sΜονάρχης]:%s Yang του ανήκει %lld";
+
+"[%sMonarch] : %s";
+"[%sΜονάρχης]:%s";
+
+"Information about the emperor";
+"Πληροφορίες Αυτοκρατόρων";
+
+"Only an emperor can use this.";
+"Μόνο ένας Αυτοκράτορας μπορεί να το χρησιμοποιήσει";
+
+"Choose a number between 1 and 50.";
+"Διάλεξε έναν αριθμό από 1 ως 50.";
+
+"The Monster cannot be called. Check the Mob Number.";
+"Δεν μπορείς να καλέσεις το Τέρας.Έλεγξε τον αριθμό του κινητού τηλεφώνου.";
+
+"Hit Points +%d";
+"Hit Points +%d";
+
+"Spell Points +%d";
+"Πόντοι μαγείας +%d";
+
+"The Emperor Blessing is activated.";
+"Η Ευλογία του Αυτοκράτορα είναι ενεργή.";
+
+"Endurance +%d";
+"Αντοχή +%d";
+
+"Intelligence +%d";
+"Ευφυΐα +%d";
+
+"Strength +%d";
+"Δύναμη +%d";
+
+"Dexterity +%d";
+"Ευκινησία +%d";
+
+"Attack Speed +%d";
+"Ταχύτητα Επίθεσης +%d";
+
+"Movement Speed %d";
+"Ταχύτητα Κίνησης %d";
+
+"Cooldown Time -%d";
+"Χρόνος ηρεμίας -%d";
+
+"Energy Recovery +%d";
+"Ανάκτηση Ενέργειας +%d";
+
+"Spell Point Recovery +%d";
+"Ανάκτηση πόντων μαγείας +%d";
+
+"Poison Attack %d";
+"Επίθεση με δηλητήριο %d";
+
+"Star +%d";
+"Αστέρι +%d";
+
+"Speed Reduction +%d";
+"Μείωση ταχύτητας +%d";
+
+"Critical Attack with a chance of %d%%";
+"Κρίσιμη Επίθεση με πιθανότητα %d%%";
+
+"Chance of a Speared Attack of %d%%";
+"Πιθανότητα για Επίθεση με Λόγχη %d%%";
+
+"Player's Attack Power against Monsters +%d%%";
+"Δύναμη επίθεσης του παίκτη εναντίων του Τέρατος +%d%%";
+
+"Horse's Attack Power against Monsters +%d%%";
+"Δύναμη επίθεσης του Αλόγου εναντίων του Τέρατος +%d%%";
+
+"Attack Boost against Wonggui + %d%%";
+"Ώθηση επίθεσης εναντίων του Wonggui + %d%%";
+
+"Attack Boost against Milgyo + %d%%";
+"Ώθηση Επίθεσης εναντίων του Milgyo + %d%%";
+
+"Attack boost against zombies + %d%%";
+"Ώθηση Επίθεσης εναντίον Απέθαντων + %d%%";
+
+"Attack boost against devils + %d%%";
+"Ώθηση επίθεσης εναντίον Διαβόλου + %d%%";
+
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.";
+"Από τον Αυτοκράτορα  Sa-Za-Hu ο παίκτης %s παίρνει 10%% περισσότερη δύναμη επίθεσης για 3 λεπτά.";
+
+"Absorbing of Energy %d%% while attacking.";
+"Απρρόφηση Ενέργειας %d%% κατα τη διάρκεια της επίθεσης.";
+
+"Absorption of Spell Points (SP) %d%% while attacking.";
+"Απορρόφηση Πόντων Μαγείας (SP)%d%% κατά τη διάρκεια της επίθεσης.";
+
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy.";
+"Με πιθανότητα %d%% Πόντοι Μαγείας(SP) θα ληφθούν από τον εχθρό.";
+
+"Absorbing of Spell Points (SP) with a chance of %d%%";
+"Απορρόφηση Πόντων Υγείας (SP) με πιθανότητα %d%%";
+
+"%d%% Chance of blocking a close-combat attack";
+"%d%% Πιθανότητα να μπλοκάρεις μία Επίθεση Μάχης σώμα με σώμα.";
+
+"%d%% Chance of blocking a long range attack";
+"Υπάρχει πιθανότητα %d%% να μπλοκάρεις μία Απομακρυσμένη Επίθεση Μάχης.";
+
+"One-Handed Sword defence %d%%";
+"’μυνα Σπαθιού %d%%";
+
+"Two-Handed Sword Defence %d%%";
+"’μυνα Δίχειρου Σπαθιού %d%%";
+
+"Bell Defence %d%%";
+"’μυνα Καμπάνας %d%%";
+
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.";
+"Από τον Αυτοκράτορα Geum-Gang-Gwon ο παίκτης %s παίρνει 10%% περισσότερη πανοπλία για 3 λεπτά.";
+
+"Fan Defence %d%%";
+"’μυνα Βεντάλιας %d%%";
+
+"Distant Attack Resistance %d%%";
+"Αντίσταση Απομακρυσμένης Επίθεσης %d%%";
+
+"Fire Resistance %d%%";
+"Αντίσταση στη Φωτιά %d%%";
+
+"Lightning Resistance %d%%";
+"Αντίσταση στον Κεραυνό %d%%";
+
+"Magic Resistance %d%%";
+"Αντίσταση στην Μαγεία %d%%";
+
+"Wind Resistance %d%%";
+"Αντίσταση στον ’νεμο %d%%";
+
+"Reflect Direct Hit: %d%%";
+"Ανάκλαση ’μεσου Χτυπήματος: %d%%";
+
+"Reflect Curse: %d%%";
+"Ανάκλαση Κατάρας: %d%%";
+
+"Poison Resistance %d%%";
+"Αντίσταση στο Δηλητήριο %d%%";
+
+"Spell Points (SP) will be increased by %d%% if you win.";
+"Οι πόντοι μαγείας (SP) θα αυξηθούν σε %d%% εάν κερδίσεις.";
+
+"The event is already running. (Flag: %d)";
+"Το event έχει ήδη ξεκινήσει. (Σημαία: %d)";
+
+"Experience increases by %d%% if you win against an opponent.";
+"Η Εμπειρία αυξάνεται πάνω από %d%% αν νικήσεις.";
+
+"Increase of Yang up to %d%% if you win.";
+"Αύξηση του Yang πάνω από %d%% αν νικήσεις.";
+
+"Increase of captured Items up to %d%% if you win.";
+"Αύξηση των κατακτημένων αντικειμένων πάνω από %d%% αν νικήσεις.";
+
+"Power increase of up to %d%% after taking the potion.";
+"Αύξηση της Δύναμης πάνω από %d%% όταν παίρνεις το Φίλτρο.";
+
+"%d%% Chance of filling up Hit Points after a victory.";
+"%d%% πιθανότητα να γεμίσεις τους Hit Points μετά από μια νίκη.";
+
+"No Dizziness %d%%";
+"Χωρίς Ίλιγγο %d%%";
+
+"No Slowing Down %d%%";
+"Χωρίς επιβράδυνση %d%%";
+
+"No falling down %d%%";
+"Χωρίς Πτώση %d%%";
+
+"Attack Power + %d";
+"Δύναμη Επίθεσης + %d";
+
+"Armour + %d";
+"Πανοπλία + %d";
+
+"OX quiz script could not be loaded.";
+"OX Το σενάριο Διαγωνισμού Γνώσεων δεν μπόρεσε να φορτωθεί.";
+
+"Magical Attack + %d";
+"Μαγική Επίθεση + %d";
+
+"Magical Defence + %d";
+"Μαγική ’μυνα + %d";
+
+"Maximum Endurance + %d";
+"Μέγιστη Αντοχή + %d";
+
+"Strong against Warriors + %d%%";
+"Δυνατοί εναντίον Πολεμιστών + %d%%";
+
+"Strong against Ninjas + %d%%";
+"Δυνατοί εναντίον Νίντζα + %d%%";
+
+"Strong against Sura + %d%%";
+"Δυνατοί εναντίον Sura + %d%%";
+
+"Strong against Shamans + %d%%";
+"Δυνατοί εναντίον Σαμάνων + %d%%";
+
+"Strength against monsters + %d%%";
+"Δυνατό ενάντια σε Τέρατα + %d%%";
+
+"Attack + %d%%";
+"Επίθεση + %d%%";
+
+"Defence + %d%%";
+"’μυνα + %d%%";
+
+"OX quiz script has loaded.";
+"OX Το σενάριο Διαγωνισμού Γνώσεων φορτώθηκε.";
+
+"Experience %d%%";
+"Εμπειρία  %d%%";
+
+"Chance to find an Item %. 1f";
+"Πιθανότητα να βρεις ένα αντικείμενο %. 1f";
+
+"Chance to find Yang %. 1f";
+"Πιθανότητα να βρεις Yang %. 1f";
+
+"Maximum Energy +%d%%";
+"Ανώτερο Όριο Ενέργειας +%d%%";
+
+"Skill Damage %d%%";
+"Ζημιά ικανότητας %d%%";
+
+"Hit Damage %d%%";
+"Ζημιά Χτυπήματος %d%%";
+
+"Resistance against Skill Damage %d%%";
+"Αντίσταση στην Ζημιά Ικανότητας %d%%";
+
+"Resistance against Hits %d%%";
+"Αντίσταση στα χτυπήματα %d%%";
+
+"%d%% Resistance against Warrior Attacks";
+"%d%% Αντίσταση στις επιθέσεις των Πολεμιστών";
+
+"Welcome to Metin2.";
+"Καλωσήρθες στο Metin2.";
+
+"%d%% Resistance against Ninja Attacks";
+"%d%% Αντίσταση στις Επιθέσεις των Νίντζα";
+
+"%d%% Resistance against Sura Attacks";
+"%d%% Αντίσταση στις επιθέσεις των Sura";
+
+"%d%% Resistance against Shaman Attacks";
+"%d%% Αντίσταση στις επιθέσεις των Σαμάνων";
+
+"(Procedure: %d y- %d m - %d d)";
+"(Διαδικασία: %d y- %d m - %d d)";
+
+"Your chat is blocked.";
+"Το Chat σου είναι μπλοκαρισμένο.";
+
+"You need a higher level to be able to call.";
+"Πρέπει να είσαι σε υψηλότερο επίπεδο, για να μπορέσεις να καλέσεις.";
+
+"You need a minimum level of %d to be able to call.";
+"Πρέπει να έχεις φτάσει τουλάχιστον στο επίπεδο %d για να μπορέσεις να καλέσεις.";
+
+"You are not in this Group.";
+"Δεν είσαι σε αυτήν την Ομάδα.";
+
+"You did not join this Guild.";
+"Δεν έχεις γίνει μέλος αυτής της Συντεχνίας.";
+
+"The player has rejected your request to add him to your friend list.";
+"Ο παίκτης απέρριψε την πρόσκλησή σου να προστεθεί στη λίστα φίλων σου.";
+
+"OX Event has started.";
+"OX Το Γεγονός έχει ξεκινήσει.";
+
+"[Friends] You cannot add a GM to your list.";
+"[Φίλοι] Δεν μπορείς να προσθέσεις έναν GM στη λίστα φίλων σου.";
+
+"%s is not online.";
+"Ο %s δεν είναι συνδεδεμένος.";
+
+"After a trade, you have to wait %d seconds before you can open a shop.";
+"Μετά από μία εμπορική συναλλαγή πρέπει να περιμένεις %d δευτερόλεπτα, για να μπορείς να ανοίξεις ένα Κατάστημα.";
+
+"You can trade again in %d seconds.";
+"Μπορείς να κάνεις εμπορική συναλλαγή ξανά σε %d δευτερόλεπτα.";
+
+"You have more than 2 Billion Yang. You cannot trade.";
+"Έχεις παραπάνω από 2 δισεκατομμύρια Yang.Δεν μπορείς να κάνεις εμπορική συναλλαγή.";
+
+"You cannot open a private shop while another window is open.";
+"Δεν μπορείς να ανοίξεις ιδιωτικό κατάστημα όσο είναι ανοιχτό άλλο παράθυρο.";
+
+"The player has more than 2 Billion Yang. You cannot trade with him.";
+"Ο παίκτης έχει περισσότερο 2 δισεκατομμύρια Yang.Δεν μπορείς να κάνεις εμπορικές συναλλαγές μαζί του.";
+
+"[Storeroom] No movement possible.";
+"[Αποθήκη] Καμία κίνηση δεν είναι δυνατή.";
+
+"[Storeroom] The item cannot be stored.";
+"[Αποθήκη]Αυτό το Αντικείμενο δεν μπορεί να αποθηκευτεί.";
+
+"[Group] The player who invited you is not online.";
+"[Ομάδα]Ο παίκτης ο οποίος καλέστηκε δεν είναι συνδεδεμένος.";
+
+"Uriel allowed to enter.";
+"Ο Uriel επιτρέπει την είσοδο.";
+
+"[Group] Only the group leader can change this.";
+"[Ομάδα]Μόνο ο Αρχηγός της Ομάδας μπορεί να το αλλάξει αυτό.";
+
+"[Group] The target is not a member of your group.";
+"[Ομάδα]Ο στόχος δεν είναι μέλος της Ομάδας σου.";
+
+"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Ομάδα]Δεν μπορείς να κλωτσήσεις παίκτη ενώ είσαι σε μπουντρούμι.";
+
+"[Group] You have been out kicked of the group.";
+"[Ομάδα]Εκδιώχθηκες απο την Ομάδα.";
+
+"[Group] You cannot kick out group members.";
+"[Ομάδα]Δεν μπορείς να διώξεις Μέλη της Ομάδας.";
+
+"[Guild] After disbanding a guild, you cannot create a new one for %d days.";
+"[Συντεχνία]Μετά την διαγραφή μιας Συντεχνίας, δεν μπορείς να δημιουργήσεις καινούργια για %d μέρες.";
+
+"[Guild] After leaving a guild, you cannot create a new one for %d days.";
+"[Συντεχνία]Αποχωρώντας από μία συντεχνία, δεν μπορείς να δημιουργήσεις μία καινούργια για %d μέρες.";
+
+"This guild name is invalid.";
+"Το όνομα της Συντεχνίας είναι άκυρο.";
+
+"We request the participation of a lot of players.";
+"Ζητάμε τη συμμετοχή πολλών παικτών.";
+
+"[Guild] [%s] guild has been created.";
+"[Συντεχνία] [%s]Συντεχνία δημιουργήθηκε.";
+
+"[Guild] Creation of the guild has failed.";
+"[Συντεχνία]Η δημιουργία της Συντεχνίας απέτυχε.";
+
+"[Group] Only the group leader can use group skills.";
+"[Ομάδα] Μόνο ο Αρχηγός της Συντεχνίας μπορεί να χρησιμοποιήσει της Δεξιότητες της Ομάδας.";
+
+"[Group] The target has not been found.";
+"[Ομάδα] Ο στόχος δεν βρέθηκε.";
+
+"[Guild] That is not the correct amount of Yang.";
+"[Συντεχνία]Αυτό δεν είναι το σωστό ποσό από Yang.";
+
+"[Guild] You do not have enough Yang.";
+"[Συντεχνία]Δεν έχεις αρκετό Yang.";
+
+"[Guild] The person you were searching for cannot be found.";
+"[Συντεχνία] Το ζητούμενο πρόσωπο δεν μπορεί να βρεθεί.";
+
+"[Guild] This person is not in the same guild.";
+"[Συντεχνία]Αυτό το άτομο δεν είναι στην ίδια Συντεχνία.";
+
+"[Guild] You do not have the authority to kick out guild members.";
+"[Συντεχνία]Δεν μπορείς να εκδιώξεις Μέλη της Συντεχνίας.";
+
+"[Guild] The guild member %s has been kicked out of the Guild.";
+"[Συντεχνία]Το Μέλος της Συντεχνίας %s εκδιώχθηκε από την Συντεχνία.";
+
+"OX The Event has not ended yet. An error has occurred. (flag: %d)";
+"Το event OX δεν έχει τελειώσει. Προέκυψαν λάθη. (Σημαία: %d)";
+
+"[Guild] You have kicked a guild member out.";
+"[Συντεχνία]Εκδίωξες ένα Μέλος της Συντεχνίας.";
+
+"[Guild] You do not have the authority to change your rank name.";
+"[Συντεχνία] Δεν μπορείς να αλλάξεις το όνομα του Βαθμού σου.";
+
+"[Guild] The guild leader's rights cannot be changed.";
+"[Συντεχνία] Τα δικαιώματα του Αρχηγού της Συντεχνίας δεν μπορούν να αλλαχθούν.";
+
+"[Guild] This rank name is invalid.";
+"[Συντεχνία]Το όνομα αυτού του Βαθμού είναι άκυρο.";
+
+"[Guild] You do not have the authority to change your position.";
+"[Συντεχνία] Δεν μπορείς να αλλάξεις την θέση σου.";
+
+"[Guild] The rights of the guild leader cannot be changed.";
+"[Συντεχνία] Τα δικαιώματα του Αρχηγού της Συντεχνίας δεν μπορούν να αλλαχθούν.";
+
+"[Guild] %u experience points used.";
+"[Συντεχνία] Δόθηκαν %u πόντοι εμπειρίας.";
+
+"[Guild] Experience usage has failed.";
+"[Συντεχνία] Η χρήση της Εμπειρίας απέτυχε.";
+
+"[Guild] Insufficient Yang in the guild treasury.";
+"[Συντεχνία] Μη επαρκές Yang στο ταμείο συντεχνίας.";
+
+"[Guild] Dragon ghost was not restored.";
+"[Συντεχνία] Το Δρακοφάντασμα δεν αποκαταστάθηκε.";
+
+"The OX Event will be restarted shortly.";
+"Το OX Γεγονός θα ξανα αρχίσει σύντομα.";
+
+"[Guild] You do not have the authority to make an announcement.";
+"[Συντεχνία] Δεν μπορείς να κάνεις ανακοίνωση.";
+
+"[Guild] You do not have the authority to change the position.";
+"[Συντεχνία] Δεν μπορείς να αλλάξεις τη θέση σου.";
+
+"[Guild] The guild leader's position cannot be changed.";
+"[Συντεχνία] Ο Βαθμός του Αρχηγού της Συντεχνίας δεν μπορεί να αλλάξει.";
+
+"[Guild] You cannot make yourself guild leader.";
+"[Συντεχνία]Δεν μπορείς να κάνεις τον εαυτό σου Αρχηγό της Συντεχνίας.";
+
+"[Guild] You do not have the authority to choose the guild leader.";
+"[Συντεχνία] Δεν έχεις το δικαίωμα να διαλέξεις τον Αρχηγό της Συντεχνίας.";
+
+"[Guild] You cannot choose any more guild leaders.";
+"[Συντεχνία] Δεν μπορείς να διαλέξεις περισσότερους Αρχηγούς Συντεχνιών.";
+
+"You cannot trade this item.";
+"Δεν μπορείς να ανταλλάξεις αυτό το Αντικείμενο.";
+
+"Illegal software has been detected. The game is being shut down.";
+"Ανιχνεύτηκε παράνομο λογισμικό.Το παιχνίδι θα κλείσει.";
+
+"You have more than 2 Billion Yang with you. You cannot trade.";
+"Έχεις περισσότερο από 2 Δισεκατομμύρια Yang.Δεν μπορείς να κάνεις εμπορική συναλλαγή.";
+
+"Invalid Yang.";
+"’κυρο Yang.";
+
+"The present event is limited to one area.";
+"Αυτό το γεγονός περιορίζεται σε μία περιοχή.";
+
+"Start Item Roulette.";
+"Έναρξη Ρουλέττας Αντικειμένου.";
+
+"Start Yang Roulette.";
+"Έναρξη Ρουλέττας Yang.";
+
+"The player is online. Please use whisper to chat.";
+"Ο παίκτης είναι online. Παρακαλώ χρησιμοποίησε το whisper για να συνομιλήσεις.";
+
+"The cell phone number is not registered.";
+"Ο αριθμός του κινητού τηλεφώνου δεν είναι εγγεγραμένος.";
+
+"You need to be at least on level 20 to be able to send text messages.";
+"Πρέπει να είσαι τουλάχιστον στο εικοστό επίπεδο για να μπορέσεις να στείλεις μηνύματα κειμένου.";
+
+"You need 2000 DT to send a text message.";
+"Χρειάζεαι 2000 Yang για να στείλεις μήνυμα κειμένου.";
+
+"Your text message has been sent.";
+"Το μήνυμα κειμένου σου στάλθηκε.";
+
+"%s of the Guild %s raised up to %d%% !";
+"%s της Συντεχνίας %s αυξήθηκε πάνω από %d%% !";
+
+"%s of the Guild %s normal again.";
+"%s της Συντεχνίας %s είναι κανονική & πάλι.";
+
+"%s: %s has increased by %d%%!";
+"%s: Η τιμή %s αυξήθηκε κατά %d%%!";
+
+"%s 's %s normal again.";
+"Το %s του %s είναι ξανά κανονικό.";
+
+"Your mining points have reached their maximum. (%d)";
+"Ο πόντοι Εξόρυξης σου έχουν φτάσει το ανώτατο όριο. (%d)";
+
+"Your mining points have reached their maximum level.";
+"Οι πόντοι Εξόρυξης σου έχουν φτάσει το υψηλότερο Level.";
+
+"You can get lumberjack Deokbae to upgrade your Pickaxe.";
+"Μπορείς να αναβαθμίσεις την Αξίνα σου με την βοήθεια του Ξυλουργού Deokbae.";
+
+"Your Mining Points have increased! (%d/%d)";
+"Οι Πόντοι Εξόρυξης σου αυξήθηκαν! (%d/%d)";
+
+"You cannot mine without a Pick.";
+"Χωρίς Αξίνα δεν μπορείς να εξορύξεις.";
+
+"Nothing to mine here.";
+"Δεν υπάρχει τίποτα να εξορύξεις εδώ.";
+
+"The mining has been successful.";
+"Η εξόρυξη ήταν επιτυχής.";
+
+"The mining has failed.";
+"Η εξόρυξη απέτυχε.";
+
+"[Friends] You have added %s as a friend.";
+"[Φίλοι] Προσέθεσες τον %s σαν φίλο.";
+
+"The player will be teleported into the city shortly.";
+"Ο πάικτης θα τηλεμεταφερθεί σύντομα στην πόλη σύντομα.";
+
+"[Friends] You have deleted %s from the list.";
+"[Φίλοι] Διέγραψες τον %s από τη λίστα.";
+
+"A critical server error has occurred. The server will restart automatically.";
+"Κρίσιμο λάθος server. Ο server θα ξαναξεκινήσει αυτόματα.";
+
+"You will be disconnected automatically in 10 seconds.";
+"Θα αποσυνδεθείς σε 10 δευτερόλεπτα.";
+
+"You can connect again after 5 minutes.";
+"Μπορείς να συνδεθείς μετά από 5 λεπτά.";
+
+"(%s) guild has been created. [Temporary]";
+"(%s)Η Συντεχνία δημιουργήθηκε.[Προσωρινά]";
+
+"This guild is at war.";
+"Η Συντεχνία είναι σε πόλεμο.";
+
+"%s: This guild does not exist.";
+"%s: Αυτή η Συντεχνία δεν υπάρχει.";
+
+"A guild with this name or number does not exist.";
+"Συμμαχία με αυτό το όνομα ή αριθμό δεν υπάρχει.";
+
+"The building does not exist.";
+"Το Κτήριο δεν υπάρχει.";
+
+"This type of building can only be erected once.";
+"Αυτός ο Τύπος Κτηρίου μπορεί να δημιουργηθεί μόνο μια φορά.";
+
+"Close the OX event card first. (Flag: %d)";
+"Κλείσε πρώτα το χάρτη για το event ΟΧ. (Σημαία: %d)";
+
+"The Main Building has to be erected first.";
+"Το Κύριο Κτίσμα πρέπει να δημιουργηθεί πρώτα.";
+
+"Building failed because of incorrect pricing.";
+"Το Κτήριο απέτυχε λόγω λανθασμένης τιμολόγησης.";
+
+"Your guild does not have enough Yang to erect this building.";
+"Η συντεχνία δεν έχει αρκετό Yang για να χτίσει αυτό το Κτίριο.";
+
+"You do not have enough resources to build a building.";
+"Δεν έχεις αρκετούς πόρους για αυτό το Κτήριο.";
+
+"You cannot erect a building at this place.";
+"Δεν μπορείς να δημιουργήσεις ένα Κτήριο σε αυτό το μέρος.";
+
+"This character does not exist.";
+"Αυτός ο χαρακτήρας δεν υπάρχει.";
+
+"Duel has not been successfully cancelled.";
+"Η Μονομαχία δεν ακυρώθηκε.";
+
+"Duel cancelled successfully.";
+"Η Μονομαχία ακυρώθηκε επιτυχώς.";
+
+"The duel has been successfully started.";
+"Η μονομαχία ξεκίνησε επιτυχώς.";
+
+"There is a problem with initiating the duel.";
+"Υπάρχει ένα πρόβλημα στην έναρξη της μονομαχίας.";
+
+"No errors occurred.";
+"Δεν προέκυψαν λάθη.";
+
+"There are no combatants.";
+"Δεν υπάρχουν Πολεμιστές εκεί.";
+
+"No status points left.";
+"Δεν έμειναν Πόντοι Κατάστασης.";
+
+"Remaining status points are too low.";
+"Οι εναπομείναντες Πόντοι Κατάστασης είναι πολύ χαμηλοί.";
+
+"You entered an incorrect value.";
+"Έβαλες λανθασμένη αξία.";
+
+"Suborder or the Order is incorrect.";
+"Η Υποδιαταγή ή η Διαταγή είναι λανθασμένη.";
+
+"Broken contract between player %d and player %d.";
+"Σπασμένο Συμβόλαιο ανάμεσα στον παίκτη %d και στον παίκτη %d.";
+
+"Turn the Roulette for %d Yang.";
+"Γύρνα τη Ρουλέττα για %d Yang.";
+
+"The Item log placed into the syslog.";
+"Το αντικείμενο τοποθετήθηκε στο αρχείο συστήματος.";
+
+"Information for the Kingdoms";
+"Πληροφορίες για τα Βασίλεια.";
+
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d";
+"Διάλεξε τις Πληροφορίες του Χάρτη της Ιερής Γης %d Εισόδου %d %d %d";
+
+"An error has occurred.";
+"Προέκυψε λάθος.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+
+"Information about the status of the kingdom battle";
+"Πληροφορίες για την Μάχη των Βασιλείων.";
+
+"Your request is loading. Please wait.";
+"Το αίτημα σας φορτώνεραι.Παρακαλώ να είστε υπομονετικοί.";
+
+"You cannot open a Storeroom while another window is open.";
+"Δεν μπορείς να ανοίξεις μια αποθήκη αν είναι ανοιχτό ένα άλλο παράθυρο.";
+
+"[Storeroom] Storeroom password has been changed.";
+"[Αποθήκη] Το password της αποθήκης άλλαξε.";
+
+"[Storeroom] You have entered the wrong password.";
+"[Αποθήκες] Πληκτρολόγησες λάθος password.";
+
+"Your playing time is going to run out in %d minutes.";
+"Ο Χρόνος Παιχνιδιού τελειώνει σε %d Λεπτά.";
+
+"Regularly voted.";
+"Ψηφίστηκε κανονικά.";
+
+"Already voted.";
+"Ήδη ψηφισμένο.";
+
+"%s player already in the vote.";
+"%s ο παίκτης είναι ήδη στην ψηφοφορία.";
+
+"OX Event is over. No errors occurred. (Flag: %d)";
+"Το event OX τελείωσε. Δεν προέκυψαν λάθη. (Σημαία: %d)";
+
+"Cannot run for office.";
+"Δεν γίνεται να ψηφιστεί.";
+
+"%s still has %u Yang available.";
+"%s ακόμα έχει %u Yang";
+
+"%s still has %d Yang available.";
+"Ο %s έχει ακόμα %d Yang.";
+
+"You do not have enough Yang.";
+"Δεν έχεις αρκετό Yang.";
+
+"%s is deleted as an Emperor Candidate.";
+"%s διαγράφτηκε από υποψήφιος Αυτοκράτορας.";
+
+"%s is not a candidate for the emperor elections.";
+"%s δεν είναι Υποψήφιος για να γίνει Αυτοκράτορας.";
+
+"%s has been nominated as emperor.";
+"%s ορίστηκε ως Αυτοκράτορας.";
+
+"%s cannot be nominated as emperor.";
+"%s δεν μπορεί να οριστεί ως Αυτοκράτορας.";
+
+"The %s Emperor gets driven out.";
+"Ο %s Αυτοκράτορας εκδιώκεται.";
+
+"The %s Emperor cannot be driven out.";
+"Ο %s Αυτοκράτορας δεν μπορεί να εκδιωχθεί.";
+
+"OX Event is not accepting any more participants.";
+"OX Το Γεγονός δεν δέχεται επιπλέον συμμετέχοντες.";
+
+"Shinsoo Kingdom";
+"Βασίλειο του Shinsoo";
+
+"Chunjo Kingdom";
+"Βασίλειο του Chunjo";
+
+"Jinno Kingdom";
+"Βασίλειο του Jinno";
+
+"Your fishing points have increased! (%d/%d)";
+"Οι Πόντοι Ψαρέματος σου αυξήθηκαν! (%d/%d)";
+
+"You have reached the maximum number of fishing points.";
+"Έφτασες το ανώτατο όριο πόντων ψαρέματος.";
+
+"Go to the Fisherman and get your Fishing Pole upgraded!";
+"Πήγαινε στον Ψαρά και αναβάθμισε το Καλάμι σου!";
+
+"You lost your bait to the fish.";
+"Έχασες το δόλωμα σου στα ψάρια.";
+
+"You have caught a fish! (%s)";
+"Έπιασες ένα ψάρι! (%s)";
+
+"The length of the captured fish is %.2fcm.";
+"Το μήκος του πιασμένου ψαριού είναι %.2fcm.";
+
+"Fishing Event 'Great Zander'";
+"Γεγονός Ψαρέματος "Το Μεγάλο Zander"";
+
+"OX The other event participants are being noted down.";
+"ΟΧ Οι άλλοι συμμετέχοντες στο Γεγονός έχουν καταγραφεί.";
+
+"Fishing Event 'Carp'";
+"Γεγονός Ψαρέματος "το Χρυσόψαρο"";
+
+"%s: %d";
+"%s: %d";
+
+"You have caught %d of %d .";
+"Έπιασες %d από %d .";
+
+"The fish vanished in the depths of the water.";
+"Το ψάρι εξαφανίστηκε στα βαθιά νερά.";
+
+"There is a Clam inside the Fish.";
+"Υπάρχει ένα Κοχύλι μέσα στο ψάρι.";
+
+"There is a Worm inside the Fish.";
+"Υπάρχει ένα Σκουλίκι μέσα στο ψάρι.";
+
+"You are roasting %s over the fire.";
+"Ψήνεις τον %s πάνω από τη φωτιά.";
+
+"You cannot trade because you are carrying more than 2 billion Yang.";
+"Κουβαλάς πάνω από 2 δισεκατομμύρια Yang, γι' αυτό δεν μπορείς να κάνεις εμπορική συναλλαγή.";
+
+"You can't give your shop an invalid name.";
+"Δεν μπορείς να ονομάσεις την Αποθήκη σου με ένα άκυρο όνομα.";
+
+"You can't sell Item-Shop items in a private shop.";
+"Δεν μπορείς να πουλήσεις Αντικείμενα από το Item Shop σε μία ιδιωτική Αποθήκη.";
+
+"OX The other event participants have not been noted down.";
+"ΟΧ Οι άλλοι συμμετέχοντες του Γεγονότος δεν είναι εγγεγραμμένοι.";
+
+"Mining is finished.";
+"Η εξόρυξη τελείωσε.";
+
+"You need a Pickaxe in order to extract ore!";
+"Χρειάζεσαι μια αξίνα για να εξορύξεις ορυκτά!";
+
+"Please choose a Fishing Pole.";
+"Παρακαλώ διάλεξε Καλάμι.";
+
+"Place the Bait on the Hook first.";
+"Πρώτα βάλε το Δόλωμα στο Αγκίστρι.";
+
+"You can't go fishing without a fishing pole!";
+"Δεν μπορείς να πας για ψάρεμα χωρίς Καλάμι!";
+
+"[Group] You cannot make a request because the group leader is not online.";
+"[Ομάδα] Δεν μπορείς να κάνεις αίτημα γιατί ο Αρχηγός της Ομάδας δεν είναι online.";
+
+"[Group] You cannot form a group with players from another kingdom.";
+"[Ομάδα]Δεν μπορείς να σχηματίσεις μια Ομάδα με παίκτες από άλλο Βασίλειο.";
+
+"[Group] You cannot invite players while you are in a dungeon.";
+"[Ομάδα] Δεν μπορείς να προσκαλέσεις παίκτες ενώ είσαι σε μπουντρούμι.";
+
+"[Group] You cannot invite a player while you are in observer mode.";
+"[Ομάδα]Δεν μπορείς να προσκαλέσεις παίκτη ενώ είσαι σε κατάσταση Παρατηρητή.";
+
+"[Group] Only players with a level difference of -30 to +30 can be invited.";
+"[Ομάδα] Μόνο παίκτες με διαφορά Level απο -30 εως +30 μπορούν να προσκαλεστούν.";
+
+"Number of other participants : %d";
+"Αριθμός των υπολοίπων συμμετεχόντων: %d";
+
+"[Group] You cannot invite this player, as their level is too low.";
+"[Ομάδα] Δεν μπορείς να προσκαλέσεις αυτόν τον παίκτη, το Level του είναι πολύ χαμηλό.";
+
+"[Group] You cannot invite this player, as their level is too high.";
+"[Ομάδα]Δεν μπορείς να προσκαλέσεις αυτόν τον παίκτη, το Level του είναι πολύ υψηλό.";
+
+"[Group] You cannot invite any more players into your group.";
+"[Ομάδα]Δεν μπορείς να προσκαλέσεις επιπλέον παίκτες στην Ομάδα σου.";
+
+"You want to join %s's group.";
+"Θες να γίνεις μέλος της Ομάδας του %s";
+
+"This player is not in this group.";
+"Ο παίκτης δεν είναι σε αυτήν την Ομάδα.";
+
+"[Group] You cannot join this group because it is already full.";
+"[Ομάδα]Δεν μπορείς να γίνεις μέλος αυτής της Ομάδας, είναι ήδη πλήρης.";
+
+"[Group] You do not have the right to invite someone.";
+"[Ομάδα]Δεν έχεις το δικαίωμα να προσκαλέσεις κάποιον.";
+
+"[Group] %s has declined your group invitation.";
+"[Ομάδα] %s αρνείται την πρόσκληση της Ομάδας σου.";
+
+"[Group] %s is already in the group.";
+"[Ομάδα] %s είναι ήδη στην Ομάδα.";
+
+"[Group] You cannot accept an invitation into a dungeon.";
+"[Ομάδα] Δεν μπορείς να δεχτείς πρόσκληση στο μπουντρούμι.";
+
+"OX Event is finishing.";
+"ΟΧ Γεγονός τελείωσε.";
+
+"[Group] You cannot accept the invitation.";
+"[Ομάδα] Δεν μπορείς να δεχτείς αυτήν την πρόσκληση.";
+
+"[Group] %s has declined your invitation.";
+"[Group] %s αρνήθηκε την πρόσκληση σου.";
+
+"[Group] %s has joined your group.";
+"[Ομάδα] %s έγινε μέλος της Ομάδας σου.";
+
+"[Group] %s has joined your Group.";
+"[Ομάδα] %s έγινε μέλος της Ομάδας σου.";
+
+"You can't use a private shop now.";
+"Δεν μπορείς να χρησιμοποιήσεις μια ιδιωτική Αποθήκη τώρα.";
+
+"This player is already trading with another player.";
+"Αυτός ο παίκτης κάνει εμπορική συναλλαγή ήδη με άλλον παίκτη.";
+
+"Metin2 Confirmation Number: %s";
+"Metin2 Αριθμός Επιβεβαίωσης: %s";
+
+"Your Confirmation Number is not correct. Please try again.";
+"Ο Αριθμός Επιβεβαίωσης σου δεν είναι σωστός.Παρακαλώ ξανα δοκίμασε.";
+
+"The mobile phone number is registered.";
+"Ο Αριθμός Κινητού Τηλεφώνου σου είναι εγγεγραμμένος.";
+
+"You cannot teleport to the player.";
+"Δεν μπορείς να τηλεμεταφερθείς στον παίκτη.";
+
+"OX The prize has been awarded. ID: %d Quantity: %d";
+"ΟΧ Το βραβείο μοιράστηκε.ID: %d Ποσότητα: %d";
+
+"This player is not online.";
+"Ο παίκτης δεν είναι online.";
+
+"The player is playing on channel %d. (You are on channel %d.)";
+"Ο παίκτης είναι στο κανάλι %d. (Εσύ είσαι στο κανάλι %d.)";
+
+"After opening the Storeroom, you cannot go anywhere else for %d seconds.";
+"Δεν μπορείς να πας πουθενά αλλού για %d δευτερόλεπτα μετά το άνοιγμα της Αποθήκης.";
+
+"You cannot go elsewhere for a period of time after the trade.";
+"Δεν μπορείς να πας πουθενά για λίγο μετά από μία εμπορική συναλλαγή.";
+
+"After trading you cannot go elsewhere for %d seconds.";
+"Δεν μπορείς να πας πουθενά για %d δευτερόλεπτα μετά από μία εμπορική συναλλαγή.";
+
+"The duel has finished, because your combatant vanished.";
+"Η Μονομαχία τελείωσε,ο πολεμιστής σου εξοντώθηκε.";
+
+"There is no limit for Potions.";
+"Δεν υπάρχει όριο για τα Φίλτρα.";
+
+"You can use up to %d potions.";
+"Μπορείς να χρησιμοποιήσεις πάνω από %d Φίλτρα.";
+
+"The fight will start in 10 seconds.";
+"Η μάχη ξεκινάει σε 10 δευτερόλεπτα.";
+
+"The duel has begun.";
+"Η μονομαχία έχει ξεκινήσει.";
+
+"TRUE";
+"ΑΛΗΘΕΙΑ";
+
+"The duel is being finished because there is a problem in the duel arena.";
+"Η μονομαχία έληξε γιατί υπήρχαν προβλήματα με την αρένα.";
+
+"The duel has finished because of a timeout.";
+"Η μονομαχία έληξε εξ αιτίας του διαλείμματος.";
+
+"In 10 seconds you will be teleported into the city.";
+"Σε 10 δευτερόλεπτα θα μεταφερθείς στην πόλη.";
+
+"The duel has been stopped because there is a problem in the arena.";
+"Η μονομαχία έληξε λόγω προβλημάτων στην αρένα.";
+
+"Your combatant has got some problems. The duel is being cancelled.";
+"Ο Πολεμιστής σου έχει προβλήματα. Η μονομαχία έληξε.";
+
+"The duel is being cancelled as there is a problem with the combatant.";
+"Η μονομαχία έληξε καθώς υπήρχαν προβλήματα με τον Πολέμιστή.";
+
+"%s has won the duel.";
+"%s κέρδισε την μονομαχία.";
+
+"%s has won.";
+"%s κέρδισε.";
+
+"You will be teleported into the city in 10 seconds.";
+"Θα τηλεμεταφερθείς στην Πόλη σε 10 δευτερόλεπτα.";
+
+"The next round will begin in 10 seconds.";
+"Ο επόμενος γύρος ξεκινάει σε 10 δευτερόλεπτα.";
+
+"FALSE";
+"ΛΑΘΟΣ";
+
+"The combatants have been separated. The duel has been stopped.";
+"Οι Πολεμιστές θα χωριστούν. Η μονομαχία έληξε.";
+
+"The quota of the Item Drop is at the moment plus %d%%";
+"Το ποσοστό από το Ρίξιμο Αντικειμένων αυτή τη στιγμή είναι συν %d%%";
+
+"The quota of the Yang Drop is at the moment plus %d%%";
+"Το ποσοστό από το ρίξιμο Yang αυτή τη στιγμή είναι συν %d%%";
+
+"The drop rate for Yang rain is currently %d%% higher.";
+"Το ποσοστό ρίψης της Βροχής Yang αυτή τη στιγμή είναι συν %d%%.";
+
+"The experience bonus is currently an additional %d%%.";
+"Το μπόνους εμπειρίας αυτήν την στιγμή είναι +%d%%.";
+
+"You do not have the correct client version. Please install the normal patch.";
+"Η έκδοση πελατών σου δεν είναι σωστή. Παρακαλώ εγκατέστησε το κανονικό patch.";
+
+"You cannot trade in the shop while another window is open.";
+"Δεν μπορείς να κάνεις συναλλαγές στο κατάστημα όσο είναι ανοιχτό ένα άλλο παράθυρο.";
+
+"You are too far away from the shop to buy something.";
+"Είσαι πολύ μακριά από την Αποθήκη για να αγοράσεις.";
+
+"You are too far away from the shop to sell something.";
+"Είσαι πολύ μακριά από την Αποθήκη για να πουλήσεις.";
+
+"Total number of the Quiz: %d";
+"Συνολικός αριθμός του Διαγωνισμού Γνώσεων: %d";
+
+"This sale will be taxed %d%%.";
+"Για την πώληση, ένας φόρος της τάξεως των %d%% θα αφαιρεθεί.";
+
+"You cannot ride a Horse while you are transformed.";
+"Δεν μπορείς να καβαλήσεις ένα ’λογο όσο είσαι μεταμορφωμένος.";
+
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo.";
+"Δεν μπορείς να καβαλικεύσεις ενώ φοράς Νυφικό ή Σμόκιν.";
+
+"You do not have a Horse.";
+"Δεν έχεις ’λογο.";
+
+"Your Horse is dead.";
+"Το ’λογο σου είναι νεκρό.";
+
+"Your Horse's endurance is too low.";
+"Η αντοχή του Αλόγου σου είναι πολύ χαμηλή.";
+
+"Calling the Horse has failed.";
+"Το κάλεσμα του Αλόγου απέτυχε.";
+
+"'s Horse";
+"’λογο";
+
+"The wedding is finishing soon.";
+"Ο Γάμος θα τελειώσει σύντομα.";
+
+"Will be left automatically.";
+"Θα αποχωρήσει αυτόματα.";
+
+"The war is already over.";
+"Ο πόλεμος έχει ήδη τελειώσει.";
+
+"The result will follow in 10 seconds.";
+"Το αποτέλεσμα ακολουθεί σε 10 δευτερόλεπτα.";
+
+"You cannot trade while observing.";
+"Δεν μπορείς να κάνεις εμπορική συναλλαγή ενώ παρατηρείς.";
+
+"If the window is open, you cannot trade with others.";
+"Δεν μπορείς να κάνεις συναλλαγές με άλλους όταν είναι ανοιχτό ένα παράθυρο.";
+
+"The other person is currently busy so you cannot trade right now.";
+"Ο άλλος παίκτης είναι απασχολημένος αυτήν τη στιγμή, γι' αυτό δεν μπορείς να κάνεις συναλλαγές μαζί του.";
+
+"The other person has cancelled the trade.";
+"Το άλλο άτομο ακύρωσε την εμπορική συναλλαγή.";
+
+"Not enough Yang or not enough space in the inventory.";
+"Δεν έχεις αρκετό Yang ή αρκετό χώρο στον Κατάλογό σου.";
+
+"The other person does not have enough Yang or does not have any space left in their inventory.";
+"Το άλλο άτομο δεν έχει αρκετό Yang ή δεν έχει ελεύθερο χώρο.";
+
+"The other person has no space left in their inventory.";
+"Το άλλο άτομο δεν έχει αρκετό χώρο.";
+
+"The trade with %s has been successful.";
+"Η Εμπορική Συναλλαγή με %s ήταν επιτυχής.";
+
+"You did not lose any Experience because of the Blessing of the Dragon God.";
+"Δεν έχασες καθόλου Εμπειρία εξαιτίας Της Ευλογίας Του Θεού Δράκου.";
+
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d";
+"Παρούσα Κατάταξη: Shinsoo %d, Chunjo %d, Jinno %d";
+
+"The correct answer is:";
+"Η σωστή απάντηση είναι:";
+
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+
+"The devil of the hallowed place: [ENTER][ENTER]";
+"Ο Δαίμονας του Ιερού Μέρους: [ENTER][ENTER]";
+
+", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.";
+"Δεν έχεις το δικαίωμα να βρισκέσαι εδώ! Σε 10 δευτερόλεπτα οι πολίτες του βασιλείου σου θα αποχωρήσουν από αυτόν τον ιερό τόπο.";
+
+"%s has been defeated and drops out of the Kingdom Battle.";
+"Το Βασίλειο %s νικήθηκε και βγαίνει από τη Μάχη των Βασιλείων.";
+
+"Number of Monsters in the Kingdom Battle:";
+"Αριθμός των Τεράτων στην Μάχη των Βασιλείων:";
+
+"If you defeat the Guard of the Holy Place, you will become the owner of it.";
+"Εαν νικήσεις Τον Φύλακα του Ιερού Τόπου θα γίνεις ιδιοκτήτης του.";
+
+"You did not drop any Item(s) as you are protected by the Dragon God.";
+"Δεν έριξες καθόλου Αντικείμενα όσο προστατεύεσαι από το Θεό Δράκο.";
+
+"Additional Stabbing Weapon Damage %d";
+"Πρόσθετη Ζημιά Ώθησης %d";
+
+"%s block! (%d%%)";
+"%s φραγμός! (%d%%)";
+
+"%s avoid! (%d%%)";
+"%s απέφυγε! (%d%%)";
+
+"Yes (O)";
+"Ναι (O)";
+
+"%s[%d]'s Attack Position: %d %d";
+"Η θέση επίθεσης του %s[%d]: %d %d";
+
+"Please enter the Order in full length.";
+"Παρακαλώ εισήγαγε την Εντολή ολοκληρωμένη.";
+
+"You cannot do this whilst sitting on a Horse.";
+"Δεν μπορείς να το κάνεις αυτό ενώ κάθεσαι πάνω στο ’λογο.";
+
+"You cannot do that while you are lying on the ground.";
+"Δεν μπορείς να το κάνεις αυτό ενώ βρίσκεσαι στο έδαφος.";
+
+"In my Dreams? What?";
+"Στα Όνειρα μου; Τί";
+
+"Get up first.";
+"Σήκω πρώτα.";
+
+"This command does not exist.";
+"Αυτή η Εντολή δεν υπάρχει.";
+
+"[Group] This group has been disbanded.";
+"[Ομάδα] Η Ομάδα διαγράφτηκε.";
+
+"[Group] You cannot call the target.";
+"[Ομάδα]Δεν μπορείς να καλέσεις τον στόχο.";
+
+"[Group] You cannot call group members over to your current position.";
+"[Ομάδα]Δεν μπορείς να καλέσεις τα Μέλη της Ομάδας στην τωρινή σου θέση.";
+
+"No (X)";
+"Όχι (X)";
+
+"Your group works well together, and group members near the group leader will receive an experience bonus.";
+"Η ομάδα σου συνεργάζεται καλά και τα μέλη που βρίσκονται κοντά στον αρχηγό της ομάδας, λαμβάνουν bonus εμπειρίας.";
+
+"Leader";
+"Αρχηγός";
+
+"Member";
+"Μέλος";
+
+"[Guild] Provided Experience is larger then left Experience.";
+"[Συντεχνία] Η εξασφαλισμένη Εμπειρία είναι μεγαλύτερη από την Εμπειρία που απέμεινε.";
+
+"[Guild] This message cannot be deleted.";
+"[Συντεχνία] Το μήνυμα δεν μπορεί να διαγραφεί.";
+
+"[Guild] Not enough Dragon Ghost. (%d, %d)";
+"[Συντεχνία] Δεν υπάρχει αρκετό Δρακοφάντασμα. (%d, %d)";
+
+"[Guild] You cannot use the guild skills yet.";
+"[Συντεχνία] Δεν μπορείς ακόμα να χρησιμοποιήσεις τις Συντεχνιακές Δεξιότητες.";
+
+"[Guild] %d skill has been applied (%d, %d) to %u.";
+"[Συντεχνία] %d Χρησιμοποιημένες Δεξιότητες (%d, %d) μέχρι %u.";
+
+"[Guild] This player is on channel %d. (Current channel: %d)";
+"[Συντεχνία] Ο παίκτης είναι στο κανάλι %d. (Τρέχον κανάλι: %d)";
+
+"[Guild] This player is not online.";
+"[Συντεχνία] Ο παίκτης δεν είναι online.";
+
+"In 5 sec. everyone who gave an incorrect answer will be removed.";
+"Μετά από 5 δευτερόλεπτα θα απομακρυνθούν όλοι όσοι έδωσαν λανθασμένη απάντηση.";
+
+"[Guild] This guild skill can only be used during war.";
+"[Συντεχνία] Αυτή η Συντεχνιακή Επιδεξιότητα μπορεί να χρησιμοποιηθεί μόνο σε πόλεμο.";
+
+"[Guild] %u Dragon ghost points have been restored.";
+"[Συντεχνία] %u πόντοι Δρακοφαντάσματος αποκαταστάθηκαν.";
+
+"[Guild] Only the guild leader can withdraw Yang.";
+"[Συντεχνία] Μόνο ο Αρχηγός της Συντεχνίας μπορεί να κάνει ανάληψη Yang.";
+
+"[Guild] The player has declined the guild invitation.";
+"[Συντεχνία] Ο παίκτης απέρριψε την πρόσκληση της Συντεχνίας.";
+
+"[Guild] You do not have the authority to invite someone to join the guild.";
+"[Συντεχνία] Δεν μπορείς να προσκαλέσεις κανέναν στην συμμαχία.";
+
+"[Guild] You cannot invite players from another kingdom into the guild.";
+"[Συντεχνία]Δεν μπορείς να προσκαλέσεις παίκτες από άλλο Βασίλειο στη Συντεχνία.";
+
+"[Guild] This player can be invited again after %d day(s).";
+"[Συντεχνία] Μπορείς να προσκαλέσεις αυτόν τον παίκτη ξανά μετά από %d μέρες.";
+
+"[Guild] After the rearrangement you can invite members again after %d days.";
+"[Συντεχνία] Μετά από την αναδιοργάνωση μπορείς να προσκαλέσεις τα μέλη πάλι μετά από %d  μέρες.";
+
+"[Guild] This person is already a member of another Guild.";
+"[Συντεχνία] Αυτό το άτομο είναι ήδη μέλος μιας άλλης Συντεχνίας.";
+
+"[Guild] The maximum guild capacity has been reached.";
+"[Συντεχνία] Η χωρητικότητα της Συντεχνίας σου έφτασε το ανώτερο όριο.";
+
+"Ready for the next question?";
+"Είσαι έτοιμος για την επόμενη ερώτηση";
+
+"You cannot train this skill.";
+"Δεν μπορείς να ανεβάσεις αυτήν την Επιδεξιότητα.";
+
+"You cannot train this skill up to Grand Master level.";
+"Δεν μπορείς να ανεβάσεις αυτήν την ικανότητα στο επίπεδο Αρχιμάστορα.";
+
+"You already are a Master of this skill. You cannot train this skill any further.";
+"Είσαι ήδη Διδάσκαλος σε αυτήν την Επιδεξιότητα. Δεν μπορείς να την ανεβάσεις άλλο.";
+
+"Your Skill is not high enough to become a Grand Master.";
+"Αυτή η ικανότητα δεν είναι αρκετά υψηλή για την εκπαίδευση Αρχιμάστορα.";
+
+"That did not work. Damn!";
+"Αυτό δεν δούλεψε.Κατάρα!";
+
+"Training has failed. Please try again later.";
+"Η εκπάιδευση απέτυχε.Παρακαλώ δοκίμασε ξανά αργότερα.";
+
+"My body is full of energy!";
+"Το σώμα μου είναι γεμάτο από δύναμη!";
+
+"The training seems to be working already...";
+"Η εκπαίδευση φαίνεται να έχει αποτέλεσμα...";
+
+"You successfully finished your training with the book.";
+"Τελείωσες επιτυχώς την εκπαίδευση σου με το Βιβλίο.";
+
+"You cannot read this due to your lack of experience.";
+"Δεν μπορείς να το διαβάσεις αυτό λόγω έλλειψης Εμπειρίας.";
+
+"Question.";
+"Ερώτηση.";
+
+"You cannot train this skill with a Book.";
+"Δεν μπορείς να ανεβάσεις αυτήν την Επιδεξιότητα με ένα Βιβλίο.";
+
+"This skill's level is not high enough to be trained with a Book.";
+"Αυτή η Επιδεξιότητα δεν είναι αρκετά υψηλή για να την ανεβάσεις με ένα Βιβλίο.";
+
+"I'm making progress, but I still haven't understood everything.";
+"Κάνω πρόοδο, αλλά δεν τα έχω καταλάβει όλα ακόμη.";
+
+"These instructions are difficult to understand. I have to carry on studying.";
+"Είναι δύσκολο να κατανοήσω αυτές τις οδηγίες. Πρέπει να συνεχίσω το διάβασμα.";
+
+"I understand this chapter. But I've got to carry on working hard.";
+"Το κεφάλαιο αυτό το κατάλαβα. Αλλά πρέπει να συνεχίσω να δουλεύω σκληρά.";
+
+"You have successfully finished your training with the Book.";
+"Τελείωσες την εκπαίδευση σου με το Βιβλίο Επιτυχώς.";
+
+"Teleportation has failed.";
+"Η τηλεμεταφορά απέτυχε.";
+
+"No Horse here. Ask the Stable Boy.";
+"Δεν υπάρχει άλογο εδώ. Ρώτα τον Σταβλίτη.";
+
+"Please use an item to call a Horse.";
+"Παρακαλούμε χρησιμοποίησε ένα αντικείμενο για να καλέσεις ένα ’λογο.";
+
+"%s FP-Consumption: %d";
+"%s FP Χρήση: %d";
+
+"If it's correct, then go to O. If it's wrong, go to X.";
+"Εάν είναι σωστό, τότε πηγαίνετε στο Ο, εάν είναι λάθος, πηγαίνετε στο Χ.";
+
+"I am burning inside, but it is calming down my body. My Chi has to stabilise.";
+"Καίγομαι μέσα μου αλλά ηρεμεί το σώμα μου.";
+
+"A little slow, but steady... Without stopping!";
+"Αργά αλλά σταθερά...Χωρίς να σταματά.";
+
+"Yes, that feels great. My body is full of Chi.";
+"Ναι, με κάνει να αισθάνομαι υπέροχα. Το σώμα μου είναι γεμάτο από Chi.";
+
+"I have read it! Now the Chi will spread through my body.";
+"Το διάβασα! Τώρα το Chi πρέπει να πλημμυρίσει το σώμα μου.";
+
+"The training is completed.";
+"Η εκπαίδευση τελείωσε.";
+
+"I am on the last page of the book. The training is nearly finished!";
+"Είμαι στην τελευταία σελίδα του βιβλίου! Η εκπαίδευση σχεδόν τελείωσε!";
+
+"Nearly finished! Just a little bit more to go!";
+"Σχεδόν τελείωσα! Λίγο ακόμα!";
+
+"Eureka! I have nearly finished reading it!";
+"Είμαι φωτεισμένος! Το έχω διαβάσει σχεδόν όλο!";
+
+"Only a few more pages and then I'll have read everything.";
+"Μόνο λίγες σελίδες έμειναν μέχρι να τελειώσω.";
+
+"I feel refreshed.";
+"Νιώθω αναζωογονημένος.";
+
+"Correct!";
+"Σωστά!";
+
+"Now I understand it!";
+"Τώρα καταλαβαίνω!";
+
+"Okay I have to stay concentrated!";
+"Οκ πρέπει να μείνω συγκεκτρωμένος!";
+
+"I keep reading the same line over and over again.";
+"Διάβασα τον ίδιο στίχο ξανά & ξανά.";
+
+"I do not want to learn any more.";
+"Δεν θέλω να μάθω άλλο.";
+
+"It is a lot more complicated and more difficult to understand than I thought.";
+"Είναι πολύ πιο περίπλοκο απ' όσο νόμιζα.";
+
+"It's hard for me to concentrate. I should take a break.";
+"Δε μπορώ να συγκεντρωθώ. Πρέπει να κάνω ένα διάλειμμα.";
+
+"Your chat has been blocked by a GM.";
+"Το chat σου μπλοκαρίστηκε από έναν GM.";
+
+"Your chat block has been lifted.";
+"Έγινε άρση του μπλοκαρισμού του chat σου.";
+
+"The Build window is already open.";
+"Το παράθυρο του Κτηρίου είναι ήδη ανοιχτό.";
+
+"You cannot build something while another trade/storeroom window is open.";
+"Δεν μπορείς να χτίσεις κάτι ενώ ένα άλλο παράθυρο Εμπορικής Συναλλαγής ή Αποθήκης είναι ανοιχτό.";
+
+"No further improvements possible.";
+"Καμία πρόοδος δεν είναι πιθανή.";
+
+"The build window is not open.";
+"Το παράθυρο του κατασκευής δεν είναι ανοιχτό.";
+
+"You do not have the right material.";
+"Δεν έχεις τα κατάλληλο υλικό.";
+
+"[Guild] Please try again later.";
+"[Συντεχνία] Παρακαλώ δοκίμασε πάλι αργότερα.";
+
+"You have to read %d more skill books to improve this skill.";
+"Πρέπει να διαβάσετε %d ακόμα βιβλία δεξιότητας για να την βελτιώσετε.";
+
+"You are only able to use this function while you are at the castle.";
+"Έχεις την ικανότητα μόνο να χρησιμοποιήσεις αυτή τη λειτουργία ενώ είσαι στο κάστρο.";
+
+"TEST: The Gold Bar has been paid back to your kingdom's safe.";
+"TEST: Η ράβδος χρυσού επέστρεψε στο χρηματοκιβώτιο του Βασιλείου σου.";
+
+"TEST: In your kingdom's safe there are: %d";
+"TEST: Στο χρηματοκιβώτιο του Βασιλείου σου υπάρχουν: %d";
+
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe.";
+"TEST: Δεν έχεις την ικανότητα να επιστρέψεις τη ράβδο χρυσού στο χρηματοκιβώτιο του Βασιλείου σου.";
+
+"[Guild] The guild has reached %d points.";
+"[Συντεχνία] Η Συντεχνία έφτασε τους %d πόντους.";
+
+"This item cannot be improved.";
+"Το Αντικείμενο δεν μπορεί να φτιαχτεί καλύτερο.";
+
+"The free weapon improvements can only be used on weapons up to level 20.";
+"Οι δωρεάν προσθήκες όπλων μπορούν να χρησιμοποιηθούν στα όπλα μόνο μέχρι το επίπεδο 20.";
+
+"You cannot use this item because you do not fulfil all the requirements.";
+"Δεν μπορείς να χρησιμοποιήσεις αυτό το αντικείμενο γιατί δεν έχεις όλα τα προσόντα.";
+
+"You are not able to use that item because you do not have the right gender.";
+"Δεν μπορείς να χρησιμοποιήσεις αυτό το αντικείμενο γιατί δεν έχεις το σωστό φύλο.";
+
+"Use: transfer <name>";
+"Χρήση: transfer <name>";
+
+"This function can only be used by the emperor.";
+"Αυτή η λειτουργία μπορεί να χρησιμοποιήθεί μόνο από τον Αυτοκράτορα.";
+
+"You cannot recruit players from another kingdom.";
+"Δεν μπορείς να στρατολογήσεις παίκτες από άλλα Βασίλεια.";
+
+"The player %s is on channel %d at the moment. (Your channel: %d)";
+"Ο παίκτης %s είναι στο Κανάλι %d αυτή τη στιγμή. (Το δικό σου κανάλι:%d)";
+
+"You have recruited %s players.";
+"Στρατολόγησες %s παίκτες.";
+
+"There is no user with this name.";
+"Δεν υπάρχει χρήστης με αυτό το όνομα.";
+
+"You cannot recruit yourself.";
+"Δεν μπορείς να στρατολογήσεις τον εαυτό σου.";
+
+"Your level is too low to use this item.";
+"Το Level σου είναι χαμηλότερο από το Level του αντικειμένου μετά την πρόοδο.";
+
+"You cannot upgrade anything while another window is open.";
+"Δεν μπορείς να κάνεις βελτιώσεις όταν είναι ανοιχτό ένα άλλο παράθυρο.";
+
+"The emperor of %s has changed to %s.";
+"ο αυτοκράτορας του %s  άλλαξε σε %s.";
+
+"There are %s wars to inflame the bonfires.";
+"Υπάρχουν %s πόλεμοι για να αναζοπυρώνουν τις φωτιές.";
+
+"%s has successfully defended.";
+"%s κατάφερε να αμυνθεί επιτυχώς.";
+
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire.";
+"Για 30 λεπτά από τώρα & στο εξής ο παίκτης %s μπορέι να ανταμοίβεται επειδή σταμάτησε τα πυρά.";
+
+"30 minutes are over. The bonfires have disappeared.";
+"Τα 30 λεπτά τελείωσαν. Τα πυρά σταμάτησαν.";
+
+"A bonfire was inflamed at %s to warn because of a battle.";
+"Τα πυρά αναζοπυρώθηκαν στη %s για να προειδοποιήσουν εξ αιτίας της μάχης.";
+
+"%s has destroyed the bonfire.";
+"%s σταμάτησε τα πυρά.";
+
+"%s lost the war as they have not been able to defend the castle.";
+"%s έχασε τον πόλεμο επειδή δεν κατάφεραν να υπερασπιστούν το κάστρο.";
+
+"%s has destroyed all the bonfires.";
+"%s σταμάτησε τα πυρά.";
+
+"You can only open the shop if you take off your armour.";
+"Μπορείς να ανοίξεις το μαγαζί μόνο αν ξεντηθείς.";
+
+"%d hours %d minutes %d seconds left on your chat block";
+"Απομένουν %d ώρες %d λεπτά %d δευτερόλεπτα από το μπλοκάρισμα σας από το τσατ.";
+
+"%d hours %d seconds left on your chat block";
+"Απομένουν %d ώρες %d δευτερόλεπτα από το μπλοκάρισμα σας από το τσατ.";
+
+"%d minutes %d seconds left on your chat block";
+"Απομένουν %d λεπτά %d δευτερόλεπτα από το μπλοκάρισμα σας από το τσατ.";
+
+"Yang rain drop rate";
+"Ποσοστό ρίψης Βροχή Yang";
+
+"Not the right material for an upgrade.";
+"Δεν υπάρχει αρκετό υλικό για την πρόοδο.";
+
+"All kingdoms";
+"Όλα τα Βασίλεια";
+
+"Item drop rate in percent";
+"Ποσοστό  πτώσης αντικειμένων";
+
+"Yang drop rate in percent";
+"Ποσοστό πτώσης Yang";
+
+"Experience percentage";
+"Ποσοστό Εμπειρίας";
+
+"%d seconds left on your chat block";
+"%d δευτερόλεπτα αποκλεισμού σας απομένουν στο chat";
+
+"You cannot express emotions whilst riding a horse.";
+"Δεν μπορείτε να εκφράσετε συναισθήματα καθώς ιππεύετε άλογο.";
+
+"You cannot use emotions with a player who is riding on a Horse.";
+"Δεν μπορείτε να εκφράσετε συναισθήματα σε ένα παίκτη που ιππεύει άλογο.";
+
+"[Guild] The enemy's guild leader is offline.";
+"[Συντεχνία] Ο αρχηγός της αντίπαλης συντεχνίας είναι Εκτός Σύνδεσης.";
+
+"[Guild] This guild is taking part in a battle at the moment.";
+"[Συντεχνία] Αυτή η συντεχνία μάχεται αυτήν τη στιγμή.";
+
+"You're already riding. Get off first.";
+"Ιππεύεις. Κατέβα πρώτα.";
+
+"You cannot upgrade items with this Scroll.";
+"Δεν μπορείς να προοδεύσεις χωρίς του Πάπυρο.";
+
+"You can only be rewarded once for the Demon Tower Quest.";
+"Μπορείς να ανταμοιφθείς μόνο μια φορά για την Αναζήτηση του Δαιμονικού Πύργου.";
+
+"Dragon Stone has been removed.";
+"Ο Δρακόλιθος αφαιρέθηκε.";
+
+"You cannot move the item within the refinement window.";
+"Δεν μπορείς να μετακινήσεις το αντικείμενο εντός του παραθύρου εξευγενισμού.";
+
+"Dragon Stone remaining duration has been extracted.";
+"Η υπόλοιπη διάρκεια του Δρακόλιθου εξάχθηκε.";
+
+"Remaining duration extraction failed.";
+"Η εξαγωγή της υπόλοιπης διάρκειας απέτυχε.";
+
+"Removal of Dragon Stone failed. But you have received the following: %s";
+"Η αφαίρεση του Δρακόλιθου απέτυχε. Απέκτησες όμως τα εξής: %s";
+
+"Removal of Dragon Stone failed.";
+"Η αφαίρεση του Δρακόλιθου απέτυχε.";
+
+"This item is not required for improving the clarity level.";
+"Αυτό το αντικείμενο δεν απαιτείται για τη βελτίωση της καθαρότητας.";
+
+"This item cannot be advanced this way.";
+"Αυτό το Αντικείμενο δεν μπορεί να προοδεύσει με αυτόν τον τρόπο.";
+
+"Improvement of the clarity level successful.";
+"Η βελτίωση της καθαρότητας πέτυχε.";
+
+"Refinement up one class failed.";
+"Ο εξευγενισμός κατά μια βαθμίδα απέτυχε.";
+
+"This item is not required for refinement.";
+"Αυτό το αντικείμενο δεν απαιτείται για τον εξευγενισμό.";
+
+"Refinement up one class was successful.";
+"Ο εξευγενισμός κατά μια βαθμίδα πέτυχε.";
+
+"Improvement of the clarity level failed.";
+"Η βελτίωση της καθαρότητας απέτυχε.";
+
+"You do not own the materials required to strengthen the Dragon Stone.";
+"Δεν έχεις τα απαραίτητα υλικά για να ενισχύσεις τον Δρακόλιθο.";
+
+"This Dragon Stone cannot be used for strengthening.";
+"Αυτός ο Δρακόλιθος δεν μπορεί να χρησιμοποιηθεί για ενίσχυση.";
+
+"Strengthening was successful.";
+"Η ενίσχυση πέτυχε.";
+
+"Strengthening failed.";
+"Η ενίσχυση απέτυχε.";
+
+"You are already carrying a Dragon Stone of this type.";
+"Έχεις ήδη αυτό το είδος Δρακόλιθου.";
+
+"The Dragon Stone cannot be removed.";
+"Ο Δρακόλιθος δεν μπορεί να αφαιρεθεί.";
+
+"You have already equipped this kind of Dragon Stone.";
+"Έχεις ήδη εξοπλίσει έναν τέτοιο Δρακόλιθο.";
+
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.";
+"Πριν ανοίξεις το Cor Draconis, πρέπει να έχεις ολοκληρώσει την αποστολή Δρακόλιθων και να έχεις ενεργοποιήσει την Αλχημεία Δρακόλιθων.";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"Μπορείς να βγάλεις τη ζώνη μόνο όταν αν δεν έχει επάνω της κάποιο αντικείμενο.";
+
+"You can combine the Blessing Scroll with the Magic Iron Ore.";
+"Μπορείς να συνδυάσεις τον Πάπυρο Ευλογίας και το Μαγικό Σιδηρομετάλλευμα.";
+
+"You cannot equip this item in your belt inventory.";
+"Δεν μπορείς να βάλεις αυτό το αντικείμενο στη ζώνη σου.";
+
+"[1106-??]No puedes unir esto.";
+"[1106-??]No puedes unir esto.";
+
+"You have invested %d Yang.";
+"Επένδυσες %d Yang.";
+
+"There is no Stone available to take out.";
+"Δεν υπάρχει Λίθος για να αφαιρεθεί.";
+
+"You cannot store this location.";
+"Δεν μπορείς να αποθηκεύσεις αυτή τη θέση.";
+
+"There isn't enough space in your inventory.";
+"Δεν υπάρχει αρκετός χώρος στoν Κατάλογό σου.";
+
+"You cannot teleport to a safe position in a foreign Kingdom.";
+"Δεν μπορείς να τηλεμεταφερθείς σε ασφαλή θέση σε ξένο Βασίλειο.";
+
+"You don't have enough HP.";
+"Δεν έχεις αρκετό HP.";
+
+"You don't have enough Spell Points (SP) to use this.";
+"Δεν έχεις αρκετούς Πόντους Μαγείας (SP) για να το χρησιμοποιήσεις.";
+
+"You'll reach your destination in %d seconds.";
+"Έφτασες στον προορισμό σε %d δευτερόλεπτα.";
+
+"You can only use a Moon Cake every 5 seconds.";
+"Μπορείς να χρησιμοποιείς Τούρτα του Φεγγαριού μόνο κάθε 5 δευτερόλεπτα.";
+
+"You cannot use this item in a duel.";
+"Δεν μπορείς να χρησιμοποιήσεις αυτό το Αντικείμενο σε μία μονομαχία.";
+
+"You have won %d Yang.";
+"Κέρδισες %d Yang.";
+
+"You cannot build a campfire here.";
+"Δεν μπορείς να ανάψεις φωτιά κατασκήνωσης εδώ.";
+
+"You cannot build a campfire under water.";
+"Δεν μπορείς να ανάψεις φωτιά κατασκήνωσης κάτω από το νερό.";
+
+"Closed. You should look for the key.";
+"Κλειστό. Πρέπει να ψάξεις για το κλειδί.";
+
+"This item cannot be opened with a key.";
+"Αυτό το Αντικείμενο δεν μπορεί να ανοιχτεί με Κλειδί.";
+
+"That's the right key.";
+"Αυτό είναι το σωστό Κλειδί.";
+
+"You have received %d Yang.";
+"Έλαβες %d Yang.";
+
+"A mysterious light comes out of the box.";
+"Ένα μυστήριο φως ξεπροβάλει από το κουτί.";
+
+"You have received %d experience points.";
+"Έλαβες %d Πόντους Εμπειρίας.";
+
+"Look what came out of the box!";
+"Δες τι βγήκε από το κουτί!";
+
+"[Guild] The guild level is too low.";
+"[Συντεχνία] Το επίπεδο συντεχνίας είναι πολύ χαμηλό.";
+
+"If you inhale the red smoke coming out of the box, your speed will increase!";
+"Αν εισπνεύσεις τον κόκκινο καπνο που βγαίνει από το κουτί, θα γίνεις ταχύτερος!";
+
+"You cannot add more bonus.";
+"You cannot add more bonus.";
+
+"New bonus added successfully.";
+"New bonus added successfully.";
+
+"You cannot change the bonuses.";
+"You cannot change the bonuses.";
+
+"%s needed.";
+"%s needed.";
+
+"OX-Question: ";
+"OX-Question: ";

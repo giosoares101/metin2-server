@@ -1,0 +1,2228 @@
+"Everyone will be teleported into the city shortly.";
+"Все будут вскоре телепортированы в город.";
+
+"This item does not exist.";
+"Этот предмет не существует.";
+
+"The box suddenly exploded! You have lost Hit Points (HP).";
+"Сундук взорвался! Ваш ХП уменьшилися.";
+
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!";
+"Ваше тело будет пропитано ядом, если вдохнёте зелёную дымку из сундука.";
+
+"You have received %s, %d units.";
+"Вы получили %s, %d ед.";
+
+"The box contains %s.";
+"Имеется %s в коробке.";
+
+"This key does not seem to fit the lock.";
+"Похоже, что этот ключ не откроет этот замок.";
+
+"You have not received anything.";
+"Вы ничего не получили.";
+
+"You do not have enough Yang to use this item.";
+"У вас недостаточно янг, чтобы пользоваться этим предметом.";
+
+"You have lowered your Skill Level.";
+"Уровень ваших навыков снизился.";
+
+"You cannot lower your Skill Level.";
+"Вы не можете понизить уровень ваших навыков.";
+
+"This effect is already activated.";
+"Эффект уже активизирован.";
+
+"This item can only be used in an Internet cafe.";
+"Этим предметом можно пользоваться лишь играя в  иКафе.";
+
+"That is over the limit.";
+"Это превышает лимит.";
+
+"Unfortunately you don't have enough space in your inventory.";
+"У вас недостаточно места в инвентаре.";
+
+"Used Moon Cake or Seed.";
+"Применён. лунный пирог или зародыш.";
+
+"You cannot wear a Wedding Ring if you are not married.";
+"Вы не можешь носить брачное кольцо, если не состоите в браке.";
+
+"You cannot use the Event Detector from this position.";
+"Управлять Детектором событий с этой позиции невозможно.";
+
+"This item cannot be absorbed.";
+"Этот предмет невозможно поднять.";
+
+"The Event Detector vanished in a mysterious light.";
+"Детектор событий исчез вместе с таинственным светом.";
+
+"The Event Detector has vanished.";
+"Детектор событий исчез.";
+
+"The Compass for Metin Stones does not work in dungeons.";
+"Пользоваться  Компасом Камней Метина с на этой локации невозможно.";
+
+"The Compass for Metin Stones has vanished in the mysterious light.";
+"Компас Камня Метина исчез вместе с таинственным светом.";
+
+"Receive: %s - %d";
+"Получите: %s - %d";
+
+"The Compass for Metin Stones has vanished.";
+"Компас Камня Метина исчез.";
+
+"You find a simple Piece of Stone in the Clam.";
+"В ракушке находится Кусок камня.";
+
+"The Clam has vanished.";
+"Ракушка исчезла.";
+
+"There is a White Pearl inside the Clam.";
+"В ракушке находится белая жемчужина.";
+
+"There is a Blue Pearl inside the Clam.";
+"В ракушке находится голубая жемчужина.";
+
+"There is a Blood-Red Pearl inside the Clam.";
+"В ракушке находится красная жемчужина.";
+
+"It isn't easy to understand this book.";
+"Понять эту книгу не так просто.";
+
+"This book will not help you.";
+"Эта книга вам  не поможет.";
+
+"You need to have a minimum level of 30 to understand this book.";
+"Вам необходимо достигнуть 30 уровень, чтобы понять эту книгу.";
+
+"You need a minimum level of 50 to understand this book.";
+"Вам необходимо достигнуть 50 уровень, чтобы понять эту книгу.";
+
+"You can't train any more Combos.";
+"Больше изучить Комбо вы не можете.";
+
+"%s has captured the flag of %s!";
+"%s  Гильдия захватила Флаг %s Гильдии!";
+
+"You already understand this language.";
+"Вы уже легко понимаете этот язык.";
+
+"You have to improve your Level to read this Book.";
+"Вам необходим более высокий уровень, чтобы  прочитать эту книгу.";
+
+"The book is too hard for practising.";
+"Учиться  по этой книге слишком трудно.";
+
+"You cannot train with this Book any more.";
+"Вы не можете дальше обучаться  по этой книге.";
+
+"Taxes are set to %d%%.";
+"Взнос установлен в размере %d%%.";
+
+"You need a minimum level of 50 to get riding training.";
+"Дальнейшее обучение верховой езды возможно только когда вы  достигнете 50 уровень.";
+
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll.";
+"Свиток Экзорцизма помог вам уйти от заклинания Злого Духа.";
+
+"You cannot read any more Riding Guides.";
+"Дальнейшее чтение руководства по верховой езде невозможно.";
+
+"You read the Horse Riding Manual and received a Riding Point.";
+"Вы прочли руководство верховой езды и получили один пункт к навыкам.";
+
+"You can use this point to improve your riding skill!";
+"С помощью полученных очков вы сможете улучшить уровень ваших навыков в верховой езде!";
+
+"The guild %s's flag has been stolen by player %s.";
+"%s Гильдии захвачен %s.";
+
+"You did not understand the riding guide.";
+"Вы не справились с руководством верховой езды.";
+
+"Your mind is clear. You can concentrate really well now.";
+"Ваш дух чист. Теперь вы можете хорошо сконцентрироваться.";
+
+"Your rank has increased by %d points.";
+"Ваш ранг поднялся на %d пунктов.";
+
+"You cannot dye or bleach your current hairstyle.";
+"Вы не можете изменить актуальную причёску через окрашивание или обесцвечивание волос.";
+
+"You need to have reached level %d to be able to dye your hair again.";
+"Вам необходимо достичь уровень %d, чтобы снова перекрасить волосы.";
+
+"This item can only be opened by the another gender.";
+"Этот предмет может быть открыт только другим полом.";
+
+"You cannot use this from your current position.";
+"Вы не можете пользоваться этим  , находясь  в этой позиции.";
+
+"You are ready to warp, so you cannot use the Scroll of the Location.";
+"Вы уже готовы телепортироваться, поэтому уже не можете применить Свиток перемещения.";
+
+"You are being brought back to the place of origin.";
+"Вы будете доставлены на исходное место.";
+
+"%s%s cannot be used in a dungeon.";
+"%s%s нельзя использовать в подземелье.";
+
+"[Quest] You have already received your reward.";
+"[задание] Вы уже получили награду.";
+
+"the";
+"это";
+
+"There aren't any Pieces of Broken Stone available for removal.";
+"Здесь нет осколка камня.";
+
+"You cannot change the upgrade of this item.";
+"Изменить улучшение этого предмета невозможно.";
+
+"There is no upgrade that you can change.";
+"У вас нет улучшения, которое можно изменить.";
+
+"You can only do this %d minutes after an upgrade. (%d minutes left)";
+"Вы можете использовать это лишь через %d минут  после завершения улучшения.  (%d минут осталось)";
+
+"You have changed the upgrade.";
+"Вы произвели улучшение.";
+
+"Upgrade successfully added.";
+"Дополнение улучшения произведено успешно.";
+
+"No upgrade added.";
+"Улучшение не удалось.";
+
+"You must use the Blessing Marble in order to add another bonus to this item.";
+"Дальнейшие улучшения этого предмета невозможны без Благословенного шарика.";
+
+"You cannot use this in the duel arena.";
+"Вы не можете  применить это на арене поединков.";
+
+"This item can no longer be improved. The maximum number of bonuses has been reached.";
+"Дальнейшие улучшения этого предмета невозможны. Достигнуто макс. кол-во бонусов.";
+
+"You can only use the Blessing Marble with an item which already has 4 bonuses.";
+"Вы можете использовать только Благословенный шарик, чтобы добавить улучшение помимо имеющихся 4-х.";
+
+"Socket successfully added.";
+"Добавление ячейки прошло удачно.";
+
+"No socket added.";
+"Добавление ячейки не удалось.";
+
+"No additional sockets could be added to this item.";
+"Дальнейшее добавление ячеек невозможно.";
+
+"You cannot add a socket to this item.";
+"К этому предмету нельзя добавить ячейку.";
+
+"Arming successful.";
+"Снаряжение прошло удачно.";
+
+"Arming has failed.";
+"Снаряжение не удалось.";
+
+"You have to add a socket first. Use a diamond in order to do this.";
+"Используйте алмаз для того чтобы добавить ячейку.";
+
+"There are no sockets for gemstones in this item.";
+"В этом предмете отсутствует ячейка, к нему нельзя приложить самоцветы.";
+
+"You can do this when you wear an Emotion Mask.";
+"Вы можете это сделать, если оденете Маску Эмоций.";
+
+"You have to add a socket if you want to use a Diamond.";
+"Вам необходимо добавить ячейку, если хотите воспользоваться алмазом.";
+
+"No more gems can be added to this item.";
+"К этому предмету нельзя  приложить дополнительные самоцветы.";
+
+"These items cannot be used together.";
+"Этот предметы нельзя комбинировать.";
+
+"You cannot change the Bait whilst fishing.";
+"Вы не можете менять наживку во время рыбалки.";
+
+"You are exchanging the current Bait for %s.";
+"Вы обмениваете актуальную наживку с %s.";
+
+"You attached %s to the hook as bait.";
+"Вы закрепили %s  Наживку на Крючке.";
+
+"You are missing some ingredients to make the potion.";
+"Не хватает компонентов для приготовления зелья.";
+
+"You do not have enough material (%s).";
+"У вас недостаточно компонентов (%s).";
+
+"You do not have enough empty bottles.";
+"Вам не хватает пустых кувшинов.";
+
+"The potion production has failed.";
+"Приготовление зелья не удалось.";
+
+"Only women can do this.";
+"Только женщины могут это делать.";
+
+"You cannot attach several stones of the same type.";
+"Вы не можете прикреплять несколько одинаковых камней.";
+
+"This Spirit Stone cannot be attached to this type of item.";
+"Вы не можете прикрепить этот камень к этому предмету.";
+
+"You cannot attach this Spirit Stone to a weapon.";
+"Вы не можете прикрепить этот камень к оружию.";
+
+"You have attached the Spirit Stone successfully.";
+"Вы  прикрепили камень успешно.";
+
+"The Spirit Stone broke while being attached.";
+"Камень раскололся.";
+
+"No slot free.";
+"Нет свободного слота.";
+
+"This function is not available right now.";
+"В данный момент эта функция здесь недоступна.";
+
+"You cannot use a Scroll of the Location whilst taking part in a kingdom battle.";
+"Вы не можете использовать Свиток перемещения, принимая участие в битве Империй.";
+
+"After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.";
+"Вы не можете использовать Свиток перемещения в течение %d секунд после открытия Склада.";
+
+"You cannot use a Scroll of the Location while another window is open.";
+"Вы не можете использовать Свиток перемещения, если открыто другое окно.";
+
+"This person does not exist.";
+"Эта личность не существует.";
+
+"After a trade, you cannot use a scroll for another %d seconds.";
+"Вы не можете использовать Свиток местности в течении  %d сек. после торговли.";
+
+"After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.";
+"Вы не можете использовать Свиток перемещения в течение %d сек. после открытия склада.";
+
+"You cannot use the Scroll of the Location because the distance is too small.";
+"Вы не можете использовать Свиток перемещения так как расстояние слишком маленькое.";
+
+"After a trade you cannot use a Scroll of the Location for %d seconds.";
+"Вы не можете пользоваться Свитком перемещения в течение %d сек. после торга.";
+
+"You cannot open the Storeroom if another window is already open.";
+"Вы не сможете открыть лавку, пока открыто другое окно.";
+
+"You cannot drop this item.";
+"Вы не можете выбросить этот предмет.";
+
+"The dropped item will vanish in 5 minutes.";
+"Выброшенный предмет исчезнет через 5 минут.";
+
+"%s received";
+"%s  получено";
+
+"You have too many items in your inventory.";
+"Вы носите слишком много предметов.";
+
+"%s receives %s.";
+"%s содержит: %s.";
+
+"You are too near.";
+"Вы находитесь  слишком близко.";
+
+"Item Trade: %s, %s";
+"Торг предметом:  %s, %s";
+
+"You cannot change the equipped item while you are transformed.";
+"Вы не можете менять снаряженный предмет в состоянии полиморфа.";
+
+"You have to stand still to equip the item.";
+"Вам нельзя двигаться, чтобы снарядить предмет.";
+
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.";
+"Использование Обезьяньей травы возможно только, если конь мертв.";
+
+"You cannot feed a dead Horse.";
+"Вы не можете кормить мёртвого коня.";
+
+"You fed the Horse with Herbs.";
+"Вы накормили коня травами.";
+
+"You have fed the Horse.";
+"Вы накормили коня.";
+
+"Your level is too low to wear this Hairstyle.";
+"Вы не можете позволить себе эту причёску на таком низком уровне.";
+
+"You already have this Hairstyle.";
+"Вы уже носите эту причёску.";
+
+"You have already transformed.";
+"Вы уже в полиморфе.";
+
+"You are too far away.";
+"Вы находитесь слишком далеко.";
+
+"That's the wrong trading item.";
+"Это неверный предмет для трансформации.";
+
+"You cannot transform into a monster who has a higher level than you.";
+"Вы не можете войти в состояние полиморфа если данный вид монстра выше вас уровнем.";
+
+"Your level is too low to equip this item.";
+"У вас слишком низкий уровень, чтобы это снарядить.";
+
+"You are not strong enough to equip yourself with this item.";
+"Вам не достаточно сильны, чтобы это снарядить.";
+
+"Your intelligence is too low to equip yourself with this item.";
+"Вам не хватает интеллекта, чтобы  это снарядить.";
+
+"Your dexterity is too low to equip yourself with this item.";
+"Уровень вашей подвижности слишком низок, чтобы снарядить это.";
+
+"Your vitality is too low to equip yourself with this item.";
+"Уровень вашего здоровья слишком низок, чтобы снарядить это.";
+
+"You cannot use this item because you are not married.";
+"Вы не можете пользоваться этим предметом, если не состоите в браке.";
+
+"You cannot equip this item twice.";
+"Вы не можете снаряжать этот предмет дважды.";
+
+"Time left until the removal of the socket of %s: %d";
+"Оставшееся  время до удаления Ячейки %s: %d";
+
+"This action can only be done with another gender.";
+"Только другой пол может выполнить эту операцию.";
+
+"A gem socketed in the %s has vanished.";
+"%s: пропал самоцвет.";
+
+"[Guild] This guild name is invalid.";
+"[Гильдия]  Имя гильдии недействительно.";
+
+"[Guild] This guild name is already taken.";
+"[Гильдия] Такое имя гильдии уже существует.";
+
+"[Guild] You cannot found a guild.";
+"[Гильдия] Вы не можете создать гильдию.";
+
+"The guild %s has declared war on %s!";
+"%s объявил войну %s!";
+
+"[Guild] %s has refused the Guild war.";
+"[Гильдия] %s отказал в войне.";
+
+"The guild war between %s and %s will start in a few seconds!";
+"Война гильдий между %s и %s начнётся через несколько секунд!";
+
+"The guild war between %s and %s has begun!";
+"Война между  %s и %s началась!";
+
+"The guild war between %s and %s has ended in a draw.";
+"Война между %s и  %s закончилась вничью.";
+
+"%s has won the guild war against %s.";
+"%s выиграл войну против %s.";
+
+"You need your fellow player's approval for this.";
+"Вам необходимо согласие участников вашей группы, чтобы провести эту акцию.";
+
+"[Guild] The guild war has been cancelled.";
+"[Гильдия] Война Гильдий была прерванна.";
+
+"The guild war between %s and %s has been cancelled.";
+"Война между %s и %s была прерванна.";
+
+"Close";
+"Закрыть.";
+
+"Action cancelled. You have entered a battle.";
+"Действие отменено. Вы вступили в бой.";
+
+"Someone has logged into your account. You will be disconnected from the server.";
+"Кто-то уже воспользовался вашей учётной записью. Вы будете отсоединенны.";
+
+"A mysterious light appears from the tree.";
+"Таинственный свет исходит от дерева.";
+
+"%d Playtime added to your account. (Payment number %d)";
+"В вашу учётную запись будет добавленно  %d  игрового времени.( Ном.платежа %d)";
+
+"You can participate in the guild battle in viewer mode.";
+"Вы можете принять участие в сражении Гильдий в режиме Наблюдателя.";
+
+"While choosing a character, an icon appears.";
+"Во время выбора персонажа появляется иконка "закончить просмотр".";
+
+"There are no opponents.";
+"Нет противников";
+
+"The battle with %s has begun!";
+"Бой с %s начался!";
+
+"If no enemy can be found, the guild war will be ended automatically.";
+"Война Гильдий закончится автоматически, если противника не будет.";
+
+"Because the guild war finished early, the result will judged as a draw.";
+"Война Гильдий была законченна преждевременно. Война закончилась вничью.";
+
+"The energy is reflected because of the Emperors Blessing.";
+"Благодаря благословению Императора энергия будет отражена.";
+
+"After %d seconds you can use the Emperors Blessing.";
+"Благословение Императора можно использовать через %d сек.";
+
+"Not enough tax income : %d.";
+"Нехватка взносов :  %d.";
+
+"[TEST_ONLY]Tax : %d";
+"[TEST_ONLY] Взнос: %d";
+
+"Transformation error.";
+"Трансформация не удалась.";
+
+"You learned the transmutation completely.";
+"Теперь вы полностью владеете трансформацией.";
+
+"Please call your Horse first.";
+"Позовите сначала вашего коня.";
+
+"You have sent your horse away.";
+"Вы отправили обратно своего коня.";
+
+"%s challenged you to a battle!";
+"%s вызвал вас сразиться с ним!";
+
+"You have to get off your Horse.";
+"Вам нужно сойти.";
+
+"You cannot feed your Horse whilst sitting on it.";
+"Вы не сможете накормить своего коня, сидя на нём.";
+
+"You have fed the Horse with %s%s.";
+"Вы дали коню %s%s.";
+
+"You need %s.";
+"Вам необходим %s.";
+
+"%d seconds until Exit.";
+"До окончания осталось %d сек.";
+
+"The game will be closed in %d seconds.";
+"Игра будет оконченна через %d  сек.";
+
+"Your logout has been cancelled.";
+"Выход отменен.";
+
+"Back to login window. Please wait.";
+"Возврат к окну входа в игру. Пожалуйста подождите.";
+
+"You have been disconnected from the server. Please wait.";
+"Вы будете отсоединены. Пожалуйста подождите.";
+
+"You have challenged %s to a battle.";
+"Вы вызвали %s сразиться с вами.";
+
+"You are changing character. Please wait.";
+"Происходит смена персонажа. Пожалуйста подождите.";
+
+"A new start is not possible at the moment. Please wait %d seconds.";
+"Повторный запуск невозможен. (осталось %d сек.)";
+
+"You cannot restart yet. Please wait another %d seconds.";
+"Рестарт невозможен. (осталось %d сек.)";
+
+"You cannot restart in the city yet. Wait another %d seconds.";
+"Рестарт в городе по-прежнему невозможен. (осталось %d сек.)";
+
+"The waiting time has expired. You will be revived in the city.";
+"Шанс на восстановление потерян. Вы возродитесь в городе.";
+
+"You cannot change your status while you are transformed.";
+"Вы не можете менять свой статус в состоянии трансформации.";
+
+"This player is currently fighting.";
+"Игрок сражается в поединке.";
+
+"[Guild] It does not belong to the guild.";
+"[Гильдия] Это не относится к гильдии.";
+
+"[Guild] You do not have the authority to change the level of the guild skills.";
+"[Гильдия] Вы не вправе изменять уровень навыков гильдии.";
+
+"Your choice is incorrect.";
+"Неверный выбор.";
+
+"[Storeroom] You have entered an incorrect password.";
+"[Хранилище] Введён неверный пароль.";
+
+"[Storeroom] The Storeroom is already open.";
+"[Лавка] Лавка уже открыта.";
+
+"[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.";
+"[Лавка ] Вам нужно подождать 10 сек., чтобы снова открыть лавку.";
+
+"[Storeroom] You are too far away to open the storeroom.";
+"[Склад] Слишком большое расстояние между вами и складом, чтобы его открыть.";
+
+"[Group] The server cannot execute this group request.";
+"[Группа] Сервер не может выполнить запрос группы.";
+
+"[Group] You cannot leave a group while you are in a dungeon.";
+"[Группа] Вы не можете выйти из группы, находясь в подземелье.";
+
+"[Group] You have left the group.";
+"[Группа] Вы вышли из состава группы.";
+
+"[Guild] Your guild is already participating in another war.";
+"[Гильдия] Ваша гильдия принимает участие уже в другой войне.";
+
+"[Guild] No one is entitled to a guild war.";
+"[Гильдия] Нет прав на Войну Гильдий.";
+
+"[Guild] No guild with this name exists.";
+"[Гильдия]  Гильдии под таким названием не существует.";
+
+"There already is a candidacy.";
+"Кандидатура уже есть.";
+
+"[Guild] This guild is already participating in a war.";
+"[Гильдия] Гильдия уже ведёт войну.";
+
+"[Guild] Not enough Yang to participate in a guild war.";
+"[Гильдия] Недостаточно янг, чтобы принять участие в войне Гильдий.";
+
+"[Guild] The guild does not have enough Yang to participate in a guild war.";
+"[Гильдия] У гильдии нет необходимой суммы янг для  принятия участия в Войне Гильдий.";
+
+"[Guild] This Guild is already scheduled for another war.";
+"[Гильдия] Гильдия распределенна уже на другую войну.";
+
+"[Guild] This guild is already participating in another war.";
+"[Гильдия] Гильдия учавствует уже в другой в войне.";
+
+"[Guild] A minimum of %d players are needed to participate in a guild war.";
+"[Гильдия] Чтобы учавствовать в Войне Гильдий, необходимо минимально %d игроков.";
+
+"[Guild] The guild does not have enough points to participate in a guild war.";
+"[Гильдия] Гильдии не хватает очков, чтобы принять участие в Войне Гильдий.";
+
+"[Guild] The guild does not have enough members to participate in a guild war.";
+"[Гильдия] Гильдии не хватает участников, чтобы принять участие в Войне Гильдий.";
+
+"Your level has to be higher than 20 to register a cell phone number.";
+"Необходимо достигнуть хотя бы 20 уровень, чтобы зарегистрировать номер своего мобильного тел.";
+
+"You do not have the emperor qualification.";
+"Вы не располагаете квалификацией Императора.";
+
+"%s declined the invitation.";
+"%s отклонил приглашение.";
+
+"You cannot accept the invitation because you are already in the group.";
+"Вы не можете принять приглашение, поскольку уже состоите в группе.";
+
+"Only the emperor can use this.";
+"Только Император может этим пользоваться.";
+
+"Cooldown time for approximately %d seconds";
+"Время перезарядки приблизительно %d сек.";
+
+"Lack of Taxes. Current Capital : %u Missing Capital : %u";
+"Нехватка взносов. имеющийся капитал : %u недостающий капитал : %u";
+
+"Command: warpto <character name>";
+"Приказ: warpto <character name>";
+
+"You cannot be warped to an unknown player.";
+"Вы не можете телепортироваться к игроку из чужой Империи.";
+
+"Adding player %d into the channel. (Present channel %d)";
+"Добавление игрока на %d канал. ( действующий канал %d)";
+
+"Warp to player %s.";
+"Телепортировать к игроку %s .";
+
+"You cannot call unknown players.";
+"Вы не можете созывать чужих игроков.";
+
+"[Guild] There are no experience points for hunting during a guild war.";
+"[Гильдия] Во время войны Гильдий невозможно получение опыта.";
+
+"When the Blessing of the Emperor is used %s the HP and SP are restored again.";
+"Использование благословения Императора %s восстанавливает ХП  и МП.";
+
+"My information about the emperor";
+"Император-инфо";
+
+"[%sMonarch] : %s Yang owned %lld";
+"[%sИмператор] : %s владение янг %lld";
+
+"[%sMonarch] : %s";
+"[%sИмператор] : %s";
+
+"Information about the emperor";
+"Император-инфо";
+
+"Only an emperor can use this.";
+"Этим может пользоваться только Император.";
+
+"Choose a number between 1 and 50.";
+"Выберите число между 1 и 50.";
+
+"The Monster cannot be called. Check the Mob Number.";
+"Монстр не может быть вызван, проверьте моб-номер.";
+
+"Hit Points +%d";
+"ХП +%d";
+
+"Spell Points +%d";
+"MP +%d";
+
+"The Emperor Blessing is activated.";
+"Благословение Императора активно.";
+
+"Endurance +%d";
+"Выносливость +%d";
+
+"Intelligence +%d";
+"Интеллект +%d";
+
+"Strength +%d";
+"Сила +%d";
+
+"Dexterity +%d";
+"Подвижность  +%d";
+
+"Attack Speed +%d";
+"Скорость атаки +%d";
+
+"Movement Speed %d";
+"Темп скорости  %d";
+
+"Cooldown Time -%d";
+"Время перезарядки -%d";
+
+"Energy Recovery +%d";
+"Восстановление энергии +%d";
+
+"Spell Point Recovery +%d";
+"Восстановление маны +%d";
+
+"Poison Attack %d";
+"Атака ядом %d";
+
+"Star +%d";
+"Звезда +%d";
+
+"Speed Reduction +%d";
+"Сокращение скорости +%d";
+
+"Critical Attack with a chance of %d%%";
+"Шанс критической атаки  %d%%";
+
+"Chance of a Speared Attack of %d%%";
+"Шанс на пронзающую атаку %d%%";
+
+"Player's Attack Power against Monsters +%d%%";
+"Сила атаки игрока против монстров +%d%%";
+
+"Horse's Attack Power against Monsters +%d%%";
+"Сила атаки коня против монстров +%d%%";
+
+"Attack Boost against Wonggui + %d%%";
+"Повышение атаки против Вонггуя + %d%%";
+
+"Attack Boost against Milgyo + %d%%";
+"Повышение атаки против Милджио + %d%%";
+
+"Attack boost against zombies + %d%%";
+"Усиление атаки против нежити + %d%%";
+
+"Attack boost against devils + %d%%";
+"Повышение атаки против дьявола + %d%%";
+
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.";
+"Императором За-Ца-Ху игроку %s даруется 10%% повышение силы атаки на 3 минуты.";
+
+"Absorbing of Energy %d%% while attacking.";
+"Поглощение энергии %d%% во время атаки.";
+
+"Absorption of Spell Points (SP) %d%% while attacking.";
+"Поглощение маны  %d%% во время атаки.";
+
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy.";
+"Шанс захватить ману противника  %d%%.";
+
+"Absorbing of Spell Points (SP) with a chance of %d%%";
+"Поглощение очков заклинаний с шансом %d%%";
+
+"%d%% Chance of blocking a close-combat attack";
+"Шанс блокировать физическую атаку %d%%";
+
+"%d%% Chance of blocking a long range attack";
+"Шанс отразить дальнюю атаку %d%%";
+
+"One-Handed Sword defence %d%%";
+"Защита-одноручный меч %d%%";
+
+"Two-Handed Sword Defence %d%%";
+"Защита- двуручный меч %d%%";
+
+"Bell Defence %d%%";
+"Защита- колокольчик %d%%";
+
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.";
+"Властелином Гойм-Ганг-Гвон  игроку %s даруется на 3 минуты повышение брони на 10 %%.";
+
+"Fan Defence %d%%";
+"Защита- веер %d%%";
+
+"Distant Attack Resistance %d%%";
+"сопротивляемость дистанционным атакам %d%%";
+
+"Fire Resistance %d%%";
+"устойчивость против огня %d%%";
+
+"Lightning Resistance %d%%";
+"устойчивость молниевым.ударам %d%%";
+
+"Magic Resistance %d%%";
+"устойчивость против Магии  %d%%";
+
+"Wind Resistance %d%%";
+"сопротивляемость ветру %d%%";
+
+"Reflect Direct Hit: %d%%";
+"отразить прямую атаку: %d%%";
+
+"Reflect Curse: %d%%";
+"отразить заклинание: %d%%";
+
+"Poison Resistance %d%%";
+"Сопротивляемость яду %d%%";
+
+"Spell Points (SP) will be increased by %d%% if you win.";
+"повышение маны на %d%% в случае победы над противником .";
+
+"The event is already running. (Flag: %d)";
+"Эвент уже запущен. (метка: %d)";
+
+"Experience increases by %d%% if you win against an opponent.";
+"повышение опыта на %d%% в случае победы над противником.";
+
+"Increase of Yang up to %d%% if you win.";
+"увеличение захваченных янг %d%% в случае победы над противником.";
+
+"Increase of captured Items up to %d%% if you win.";
+"увеличение захваченных предметов  %d%% в случае победы над противником.";
+
+"Power increase of up to %d%% after taking the potion.";
+"Использование зелья повышает Энергию %d%%";
+
+"%d%% Chance of filling up Hit Points after a victory.";
+"%d%% шанс заполнить ХП после победы.";
+
+"No Dizziness %d%%";
+"Нет головокружения %d%%";
+
+"No Slowing Down %d%%";
+"Нет замедления  %d%%";
+
+"No falling down %d%%";
+"Нет падения %d%%";
+
+"Attack Power + %d";
+"сила атаки + %d";
+
+"Armour + %d";
+"Броня + %d";
+
+"OX quiz script could not be loaded.";
+"Скрипт OX Quiz  не может быть загружен.";
+
+"Magical Attack + %d";
+"магическая атака + %d";
+
+"Magical Defence + %d";
+"магическая защита + %d";
+
+"Maximum Endurance + %d";
+"максим. выносливость + %d";
+
+"Strong against Warriors + %d%%";
+"сила против Воинов + %d%%";
+
+"Strong against Ninjas + %d%%";
+"сила против Ниндзя + %d%%";
+
+"Strong against Sura + %d%%";
+"Сила против Сура + %d%%";
+
+"Strong against Shamans + %d%%";
+"сила против Шаманов + %d%%";
+
+"Strength against monsters + %d%%";
+"Сила против Монстров + %d%%";
+
+"Attack + %d%%";
+"Атака + %d%%";
+
+"Defence + %d%%";
+"Защита + %d%%";
+
+"OX quiz script has loaded.";
+"Скрипт OX Quiz загружен.";
+
+"Experience %d%%";
+"Опыт %d%%";
+
+"Chance to find an Item %. 1f";
+"шанс найти предмет %. 1f";
+
+"Chance to find Yang %. 1f";
+"шанс найти янг  %. 1f";
+
+"Maximum Energy +%d%%";
+"Лимит Энергии +%d%%";
+
+"Skill Damage %d%%";
+"урон навыков %d%%";
+
+"Hit Damage %d%%";
+"Урон %d%%";
+
+"Resistance against Skill Damage %d%%";
+"устойчивость против урона навыков %d%%";
+
+"Resistance against Hits %d%%";
+"Сопротивляемость ударам %d%%";
+
+"%d%% Resistance against Warrior Attacks";
+"%d%% сопротивляемость атакам Воинов.";
+
+"Welcome to Metin2.";
+"Добро пожаловать в Метин 2!";
+
+"%d%% Resistance against Ninja Attacks";
+"%d%% сопротивляемость атакам Ниндзя";
+
+"%d%% Resistance against Sura Attacks";
+"%d%% сопротивляемость атакам Сура";
+
+"%d%% Resistance against Shaman Attacks";
+"%d%% сопротивляемость атакам Шаманов";
+
+"(Procedure: %d y- %d m - %d d)";
+"(реализация: %d j- %d m - %d t)";
+
+"Your chat is blocked.";
+"Ваш чат блокирован.";
+
+"You need a higher level to be able to call.";
+"Для вызова вам необходим более высокий уровень.";
+
+"You need a minimum level of %d to be able to call.";
+"Вам необходим Уровень %d, чтобы вызывать.";
+
+"You are not in this Group.";
+"Вы не состоите в этой группе.";
+
+"You did not join this Guild.";
+"Вы не вступили в гильдию.";
+
+"The player has rejected your request to add him to your friend list.";
+"Игрок отклонил предложение быть добавленным в список друзей.";
+
+"OX Event has started.";
+"Началось OX событие.";
+
+"[Friends] You cannot add a GM to your list.";
+"[Друзья] Вы не можете добавить ГМ.";
+
+"%s is not online.";
+"%s вне игры.";
+
+"After a trade, you have to wait %d seconds before you can open a shop.";
+"Открытие лавки после торга возможно лишь через  %d сек.";
+
+"You can trade again in %d seconds.";
+"Вы сможете начать торговлю заново лишь через %d сек.";
+
+"You have more than 2 Billion Yang. You cannot trade.";
+"У вас больше 2 миллиардов янг. Вы не можете больше торговать.";
+
+"You cannot open a private shop while another window is open.";
+"Вы не можете открыть лавку, пока открыто другое окно.";
+
+"The player has more than 2 Billion Yang. You cannot trade with him.";
+"У игрока больше 2 миллиардов янг. Вы не можете вести с ним торговые дела.";
+
+"[Storeroom] No movement possible.";
+"[Хранилище] Любые движения недопустимы.";
+
+"[Storeroom] The item cannot be stored.";
+"[Лавка] Предмет не может быть сохранен.";
+
+"[Group] The player who invited you is not online.";
+"[Группа] Пригласивший игрок вне сети.";
+
+"Uriel allowed to enter.";
+"Вступление возможно через архангела Урииля.";
+
+"[Group] Only the group leader can change this.";
+"[Группа] Изменить это может только Лидер группы.";
+
+"[Group] The target is not a member of your group.";
+"[Группа] Участник группы не может быть целью.";
+
+"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Группа] Вы не можете исключать игрока в подземелье.";
+
+"[Group] You have been out kicked of the group.";
+"[Группа] Вас исключили из группы.";
+
+"[Group] You cannot kick out group members.";
+"[Группа] Вы не можете исключать участников из группы.";
+
+"[Guild] After disbanding a guild, you cannot create a new one for %d days.";
+"[Гильдия] Вы не можете создать новую гильдию в течение %d дней после ликвидации прежней гильдии.";
+
+"[Guild] After leaving a guild, you cannot create a new one for %d days.";
+"[Гильдия] Вы не можете создать новую гильдию  в течение %d  дней  после ухода из прежней.";
+
+"This guild name is invalid.";
+"Имя гильдии не существует.";
+
+"We request the participation of a lot of players.";
+"Мы просим участвовать больше игроков.";
+
+"[Guild] [%s] guild has been created.";
+"[Гильдия]  [%s] созданна.";
+
+"[Guild] Creation of the guild has failed.";
+"[Гильдия] Создание гильдии не удалось.";
+
+"[Group] Only the group leader can use group skills.";
+"[Группа] Навыками группы вправе распоряжаться только ее лидер.";
+
+"[Group] The target has not been found.";
+"[Группа] Цель не найденна.";
+
+"[Guild] That is not the correct amount of Yang.";
+"[Гильдия] Неверная сумма янг.";
+
+"[Guild] You do not have enough Yang.";
+"[Гильдия] Вам не хватает янг.";
+
+"[Guild] The person you were searching for cannot be found.";
+"[Гильдия] Заданная личность не найденна.";
+
+"[Guild] This person is not in the same guild.";
+"[Гильдия] Эта личность не состоит в этой же Гильдии.";
+
+"[Guild] You do not have the authority to kick out guild members.";
+"[Гильдия ] Вы не вправе выгонять участника из гильдии.";
+
+"[Guild] The guild member %s has been kicked out of the Guild.";
+"[Гильдия] Член гильдии %s исключен гильдией.";
+
+"OX The Event has not ended yet. An error has occurred. (flag: %d)";
+"Эвент OX еще не закончилось. Произошли ошибки. (метка: %d)";
+
+"[Guild] You have kicked a guild member out.";
+"[Гильдия] Вы исключили участника гильдии.";
+
+"[Guild] You do not have the authority to change your rank name.";
+"[Гильдия] Вы не вправе менять свой ранг.";
+
+"[Guild] The guild leader's rights cannot be changed.";
+"[Гильдия] Полномочия Лидера Гильдии не могут быть изменены.";
+
+"[Guild] This rank name is invalid.";
+"[Гильдия] Имя ранга неверно.";
+
+"[Guild] You do not have the authority to change your position.";
+"[Гильдия] Вы не вправе менять свое  положение.";
+
+"[Guild] The rights of the guild leader cannot be changed.";
+"[Гильдия] Права лидера гильдии не могут быть изменены.";
+
+"[Guild] %u experience points used.";
+"[Gilde]  %u  пунктов опыта использовала.";
+
+"[Guild] Experience usage has failed.";
+"[Гильдия] Использование опыта не удалось.";
+
+"[Guild] Insufficient Yang in the guild treasury.";
+"[Гильдия] Недостаточно янг в кассе гильдии.";
+
+"[Guild] Dragon ghost was not restored.";
+"[Гильдия] Дух Дракона не восстановлен.";
+
+"The OX Event will be restarted shortly.";
+"OX событие будет вскоре перезапущено.";
+
+"[Guild] You do not have the authority to make an announcement.";
+"[Гильдия] Вы не вправе подавать заявления.";
+
+"[Guild] You do not have the authority to change the position.";
+"[Гильдия] Вы не можете изменить свою позицию.";
+
+"[Guild] The guild leader's position cannot be changed.";
+"[Гильдия] Сменить положение лидера гильдии невозможно.";
+
+"[Guild] You cannot make yourself guild leader.";
+"[Гильдия] Вы не можете назначать самого себя лидером гильдии.";
+
+"[Guild] You do not have the authority to choose the guild leader.";
+"[Гильдия] У Вас нет власти выбрать лидера гильдии.";
+
+"[Guild] You cannot choose any more guild leaders.";
+"[Гильдия] Нельзя выбирать больше лидеров гильдии.";
+
+"You cannot trade this item.";
+"Вы не можете отдать этот предмет.";
+
+"Illegal software has been detected. The game is being shut down.";
+"Обнаруженны иллегальные Software. Ваша игра будет законченна.";
+
+"You have more than 2 Billion Yang with you. You cannot trade.";
+"У вас больше 2 миллиардов янг.Вы не можете больше вести торговые сделки.";
+
+"Invalid Yang.";
+"Недостаточно янг.";
+
+"The present event is limited to one area.";
+"Текущее событие ограничено одной локацией.";
+
+"Start Item Roulette.";
+"Запустить рулетку.";
+
+"Start Yang Roulette.";
+"Запустить янг-рулетку.";
+
+"The player is online. Please use whisper to chat.";
+"Он/она вне сети. Используйте 'Шептание'.";
+
+"The cell phone number is not registered.";
+"Номер моб.телефона не зарегестрирован.";
+
+"You need to be at least on level 20 to be able to send text messages.";
+"Необходимо достигнуть хотя бы 20 уровень, чтобы послать смс.";
+
+"You need 2000 DT to send a text message.";
+"Вам необходимо 2000 янг, чтобы отправить смс.";
+
+"Your text message has been sent.";
+"Сообщение отправлено.";
+
+"%s of the Guild %s raised up to %d%% !";
+"%s гильдии %s увеличился в %d%% !";
+
+"%s of the Guild %s normal again.";
+"%s гильдии %s нормализовался.";
+
+"%s: %s has increased by %d%%!";
+"%s 's %s  увеличился в  %d%% !";
+
+"%s 's %s normal again.";
+"%s 's %s нормализовался.";
+
+"Your mining points have reached their maximum. (%d)";
+"Очки горного ремесла достигли предела. (%d).";
+
+"Your mining points have reached their maximum level.";
+"Очки горного ремесла возросли до предела.";
+
+"You can get lumberjack Deokbae to upgrade your Pickaxe.";
+"Вы можете улучшить свою кирку у Деокбае.";
+
+"Your Mining Points have increased! (%d/%d)";
+"Очки горного ремесла возросли!  (%d/%d)";
+
+"You cannot mine without a Pick.";
+"Без кирки вам ничего не добыть.";
+
+"Nothing to mine here.";
+"Здесь нечего добыть.";
+
+"The mining has been successful.";
+"Добыча прошла удачно.";
+
+"The mining has failed.";
+"Добыча не удалась.";
+
+"[Friends] You have added %s as a friend.";
+"[Друзья] Вы добавили %s в свой список друзей.";
+
+"The player will be teleported into the city shortly.";
+"Игрок будет вскоре телепортирован в город.";
+
+"[Friends] You have deleted %s from the list.";
+"[Друзья] %s удален из вашего списка друзей.";
+
+"A critical server error has occurred. The server will restart automatically.";
+"Критическая ошибка сервера. Сервер автоматически перезапустится.";
+
+"You will be disconnected automatically in 10 seconds.";
+"Соединение будет прерванно автоматически через 10 секунд.";
+
+"You can connect again after 5 minutes.";
+"Вы сможете подсоединиться через 5 минут.";
+
+"(%s) guild has been created. [Temporary]";
+"(%s) создан. [временно]";
+
+"This guild is at war.";
+"Эта гильдия на войне.";
+
+"%s: This guild does not exist.";
+"%s: эта гильдия не существует.";
+
+"A guild with this name or number does not exist.";
+"Гильдия под этим именем или номером не существует.";
+
+"The building does not exist.";
+"Это здание не существует.";
+
+"This type of building can only be erected once.";
+"Здания такого типа можно сооружать только один раз.";
+
+"Close the OX event card first. (Flag: %d)";
+"Закройте карту эвента OX.(метка: %d)";
+
+"The Main Building has to be erected first.";
+"Сначала необходимо соорудить базовое здание.";
+
+"Building failed because of incorrect pricing.";
+"Построение не удалось из-за некорректной калькуляции цены.";
+
+"Your guild does not have enough Yang to erect this building.";
+"У вашей гильдии недостаточно янг, чтобы построить это здание.";
+
+"You do not have enough resources to build a building.";
+"У вас недостаточно материала, чтобы строить.";
+
+"You cannot erect a building at this place.";
+"Вы не можете строить в этом месте.";
+
+"This character does not exist.";
+"Персонаж не существует.";
+
+"Duel has not been successfully cancelled.";
+"Отмена поединка не удалась.";
+
+"Duel cancelled successfully.";
+"Поединок отменен.";
+
+"The duel has been successfully started.";
+"Поединок начался.";
+
+"There is a problem with initiating the duel.";
+"Возникла проблема инициации поединка.";
+
+"No errors occurred.";
+"Ошибок не произошло.";
+
+"There are no combatants.";
+"Участник сражения отсутствует.";
+
+"No status points left.";
+"Очков статуса больше нет.";
+
+"Remaining status points are too low.";
+"Оставшиеся очки Статуса слишком низки.";
+
+"You entered an incorrect value.";
+"Введен неверный показатель.";
+
+"Suborder or the Order is incorrect.";
+"Неверный подприказ основного приказа.";
+
+"Broken contract between player %d and player %d.";
+"Нарушение контакта между игроком %d и игроком %d.";
+
+"Turn the Roulette for %d Yang.";
+"Крутаните рулетку, заплатив %d янг.";
+
+"The Item log placed into the syslog.";
+"Лог предметов помещен в системный лог.";
+
+"Information for the Kingdoms";
+"Информация по Империи.";
+
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d";
+"Выберите карту Священной Земли %d Вход %d %d %d";
+
+"An error has occurred.";
+"Ошибок не произошло.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+
+"Information about the status of the kingdom battle";
+"Инфо о состоянии битвы Империй.";
+
+"Your request is loading. Please wait.";
+"Запрос выполняется. Пожалуйста подождите.";
+
+"You cannot open a Storeroom while another window is open.";
+"Вы не можете открыть склад, пока открыто другое окно.";
+
+"[Storeroom] Storeroom password has been changed.";
+"[Склад] Пароль изменен.";
+
+"[Storeroom] You have entered the wrong password.";
+"[Лавка] Введен неверный пароль.";
+
+"Your playing time is going to run out in %d minutes.";
+"Игровое время исстекает через %d мин.";
+
+"Regularly voted.";
+"Выбран постоянным.";
+
+"Already voted.";
+"Уже выбран.";
+
+"%s player already in the vote.";
+"Игрок %s уже участвует в голосовании.";
+
+"OX Event is over. No errors occurred. (Flag: %d)";
+"Эвент OX завершен. Ошибок не произошло. (метка: %d)";
+
+"Cannot run for office.";
+"За него нельзя голосовать.";
+
+"%s still has %u Yang available.";
+"У %s есть ещё %u янг.";
+
+"%s still has %d Yang available.";
+"У %s есть еще %d янг.";
+
+"You do not have enough Yang.";
+"У вас недостаточно янг.";
+
+"%s is deleted as an Emperor Candidate.";
+"%s исключен из кандидатов в Императоры.";
+
+"%s is not a candidate for the emperor elections.";
+"%s не является кандидатом в Императоры.";
+
+"%s has been nominated as emperor.";
+"%s назначен Императором.";
+
+"%s cannot be nominated as emperor.";
+"%s не может быть назначен Императором.";
+
+"The %s Emperor gets driven out.";
+"%s Император будет удален.";
+
+"The %s Emperor cannot be driven out.";
+"%s Император не может быть удален.";
+
+"OX Event is not accepting any more participants.";
+"OX событие больше не принимает участников.";
+
+"Shinsoo Kingdom";
+"Империя Шиньзо";
+
+"Chunjo Kingdom";
+"Империя Хунджо";
+
+"Jinno Kingdom";
+"Империя Джинно";
+
+"Your fishing points have increased! (%d/%d)";
+"Рыболовные очки возросли! (%d/%d)";
+
+"You have reached the maximum number of fishing points.";
+"Максимальное количество рыболовных очков достигнуто.";
+
+"Go to the Fisherman and get your Fishing Pole upgraded!";
+"Отправляйтесь к рыбаку, чтобы улучшить вашу удочку.";
+
+"You lost your bait to the fish.";
+"Вы потеряли наживку для рыбы.";
+
+"You have caught a fish! (%s)";
+"Вы поймали какую-то рыбу! (%s)";
+
+"The length of the captured fish is %.2fcm.";
+"Длинна пойманной рыбы составляет %.2 см.";
+
+"Fishing Event 'Great Zander'";
+"Рыболовное состязание 'Лучший рыболов'.";
+
+"OX The other event participants are being noted down.";
+"OX Остальные участники События перечисленны.";
+
+"Fishing Event 'Carp'";
+"Рыболовное состязание ' Спокойствие- сила'";
+
+"%s: %d";
+"%s: %d";
+
+"You have caught %d of %d .";
+"Вы поймали %d из %d.";
+
+"The fish vanished in the depths of the water.";
+"Рыба исчезла в пучине вод.";
+
+"There is a Clam inside the Fish.";
+"В рыбе есть ракушка.";
+
+"There is a Worm inside the Fish.";
+"В рыбе сидит червь.";
+
+"You are roasting %s over the fire.";
+"Вы жарите %s на костре.";
+
+"You cannot trade because you are carrying more than 2 billion Yang.";
+"У вас больше 2 миллиардов янг, вы не можете больше торговать.";
+
+"You can't give your shop an invalid name.";
+"Вы не можете называть свою лавку несуществующим именем.";
+
+"You can't sell Item-Shop items in a private shop.";
+"Вы не можете купить предмет из магазина в лавке.";
+
+"OX The other event participants have not been noted down.";
+"OX Остальные участники События не отмечены.";
+
+"Mining is finished.";
+"Добыча завершенна.";
+
+"You need a Pickaxe in order to extract ore!";
+"Возьмите кирку для добычи руды!";
+
+"Please choose a Fishing Pole.";
+"Выберите удочку.";
+
+"Place the Bait on the Hook first.";
+"Сначала нужно прикрепить наживку на крючок.";
+
+"You can't go fishing without a fishing pole!";
+"Вы не можете ловить рыбу без удочки!";
+
+"[Group] You cannot make a request because the group leader is not online.";
+"[Группа] Вы не можете делать заявку, поскольку Лидер группы вне сети.";
+
+"[Group] You cannot form a group with players from another kingdom.";
+"[Группа] Вы не можете создавать группу с игроками другой Империи.";
+
+"[Group] You cannot invite players while you are in a dungeon.";
+"[Группа] Вы не можете делать вызов, находясь в  подземелье.";
+
+"[Group] You cannot invite a player while you are in observer mode.";
+"[Группа] Вы не можете делать вызов, находясь в режиме 'Наблюдатель'.";
+
+"[Group] Only players with a level difference of -30 to +30 can be invited.";
+"[Группа] Приглашать можно игроков только с -30 по +30 уровень.";
+
+"Number of other participants : %d";
+"количество оставшихся участников : %d";
+
+"[Group] You cannot invite this player, as their level is too low.";
+"[Группа] Вы не можете вызвать этого игрока,  у него слишком низкий уровень.";
+
+"[Group] You cannot invite this player, as their level is too high.";
+"[Группа] Вы не можете вызвать этого игрока, у него слишком высокий уровень.";
+
+"[Group] You cannot invite any more players into your group.";
+"[Группа] Вы  не можете позвать еще больше игроков в свою группу.";
+
+"You want to join %s's group.";
+"Хотите вступить в группу %s?";
+
+"This player is not in this group.";
+"Игрок не состоит в этой группе.";
+
+"[Group] You cannot join this group because it is already full.";
+"[Группа] Мест в группе больше нет.";
+
+"[Group] You do not have the right to invite someone.";
+"[Группа] Вы не вправе приглашать участников.";
+
+"[Group] %s has declined your group invitation.";
+"[Группа]%s отклонил предложение присоединиться к вашей группе.";
+
+"[Group] %s is already in the group.";
+"[Группа] %s уже состоит в группе.";
+
+"[Group] You cannot accept an invitation into a dungeon.";
+"[Группа] Вы не можете принимать приглашения, находясь в подземелье.";
+
+"OX Event is finishing.";
+"OX Событие заканчивается.";
+
+"[Group] You cannot accept the invitation.";
+"[Группа] Вы не можете принять приглашение.";
+
+"[Group] %s has declined your invitation.";
+"[Группа] %s отвергла Ваше приглашение.";
+
+"[Group] %s has joined your group.";
+"[Группа] %s  вступил в вашу группу.";
+
+"[Group] %s has joined your Group.";
+"[Группа] %s вступил в вашу группу.";
+
+"You can't use a private shop now.";
+"Вы не можете сейчас пользоваться лавкой.";
+
+"This player is already trading with another player.";
+"Этот игрок торгуется сейчас с другим игроком.";
+
+"Metin2 Confirmation Number: %s";
+"Номер подтверждения Метин 2:%s";
+
+"Your Confirmation Number is not correct. Please try again.";
+"Неверный номер подтверждения. Попробуйте, пожалуйста, еще раз.";
+
+"The mobile phone number is registered.";
+"Номер моб.телефона зарегистрирован.";
+
+"You cannot teleport to the player.";
+"Вы не можете телепортироваться к игроку.";
+
+"OX The prize has been awarded. ID: %d Quantity: %d";
+"OX Передача наград состоялась. ID: %d  количество: %d";
+
+"This player is not online.";
+"Игрок вне сети.";
+
+"The player is playing on channel %d. (You are on channel %d.)";
+"Игрок находится на %d канале.( Вы на %d).";
+
+"After opening the Storeroom, you cannot go anywhere else for %d seconds.";
+"Вы не можете пойти в другом месте в течение %d секунд после открытия Склада.";
+
+"You cannot go elsewhere for a period of time after the trade.";
+"Вы не можете покинуть свое место после торга в течение какого-то времени.";
+
+"After trading you cannot go elsewhere for %d seconds.";
+"Вы не можете покинуть свое место в течение %d сек. после торга.";
+
+"The duel has finished, because your combatant vanished.";
+"Поединок завершен, ваш противник куда-то подевался.";
+
+"There is no limit for Potions.";
+"Ограничений на пользование зельем нет.";
+
+"You can use up to %d potions.";
+"Вы можете пользоваться  до %d зелья.";
+
+"The fight will start in 10 seconds.";
+"Бой начнется через 10 сек.";
+
+"The duel has begun.";
+"Поединок начался.";
+
+"TRUE";
+"Верно";
+
+"The duel is being finished because there is a problem in the duel arena.";
+"Возникли проблемы с ареной поединков. Поединок будет завершен.";
+
+"The duel has finished because of a timeout.";
+"Время исстекло. Поединок будет завершен.";
+
+"In 10 seconds you will be teleported into the city.";
+"Вы будете телепортированы в город через 10 сек.";
+
+"The duel has been stopped because there is a problem in the arena.";
+"Возникли проблемы с ареной поединков. Поединок будет прерван.";
+
+"Your combatant has got some problems. The duel is being cancelled.";
+"У противника возникли проблемы. Поединок будет окончен.";
+
+"The duel is being cancelled as there is a problem with the combatant.";
+"У противника возникли какие-то проблемы, поединок будет окончен.";
+
+"%s has won the duel.";
+"%s одержал победу в поединке.";
+
+"%s has won.";
+"%s победил.";
+
+"You will be teleported into the city in 10 seconds.";
+"Вы будете телепортированы в город через 10 сек.";
+
+"The next round will begin in 10 seconds.";
+"Следующий раунд начнётся через 10 сек.";
+
+"FALSE";
+"Верно";
+
+"The combatants have been separated. The duel has been stopped.";
+"Противник отсоединен. Поединок окончен.";
+
+"The quota of the Item Drop is at the moment plus %d%%";
+"Дополнительная квота выпадения предметов  %d%%";
+
+"The quota of the Yang Drop is at the moment plus %d%%";
+"Дополнительная квота выпадения янг  %d%%";
+
+"The drop rate for Yang rain is currently %d%% higher.";
+"Шанс дождя из янг сейчас составляет %d%%";
+
+"The experience bonus is currently an additional %d%%.";
+"Дополнительная квота опыта на данный момент %d%%";
+
+"You do not have the correct client version. Please install the normal patch.";
+"Версия вашего клиента не подходит, пожалуйста установите патч.";
+
+"You cannot trade in the shop while another window is open.";
+"Вы не можете торговать в магазине, пока открыто другое окно.";
+
+"You are too far away from the shop to buy something.";
+"Вы не сможете ничего купить, вы находишься слишком далеко от рынка вещей.";
+
+"You are too far away from the shop to sell something.";
+"Вы не сможете ничего продать, вы находитесь слишком далеко от рынка вещей.";
+
+"Total number of the Quiz: %d";
+"Общее число викторин: %d";
+
+"This sale will be taxed %d%%.";
+"За продажу взимается взнос в размере %d%%.";
+
+"You cannot ride a Horse while you are transformed.";
+"Вы не можете скакать на коне в состоянии трансформации.";
+
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo.";
+"Вы не можете скакать на коне, одев свадебное платье или смокинг.";
+
+"You do not have a Horse.";
+"У вас нет коня.";
+
+"Your Horse is dead.";
+"Ваш конь погиб.";
+
+"Your Horse's endurance is too low.";
+"Уровень выносливости вашего коня слишком низкий.";
+
+"Calling the Horse has failed.";
+"Вызов коня не удался.";
+
+"'s Horse";
+"s конь";
+
+"The wedding is finishing soon.";
+"Свадьба подходит к концу.";
+
+"Will be left automatically.";
+"Выход происходит автоматически.";
+
+"The war is already over.";
+"Война окончена.";
+
+"The result will follow in 10 seconds.";
+"Результат будет через 10 секунд.";
+
+"You cannot trade while observing.";
+"Вы не можете торговать в режиме Наблюдателя.";
+
+"If the window is open, you cannot trade with others.";
+"Вы не можете торговать с другими, если открыто другое окно.";
+
+"The other person is currently busy so you cannot trade right now.";
+"Этот игрок занят, поэтому с ним сейчас нельзя торговать.";
+
+"The other person has cancelled the trade.";
+"Другой игрок закончил торговать.";
+
+"Not enough Yang or not enough space in the inventory.";
+"Не хватает янг или места в инвентаре.";
+
+"The other person does not have enough Yang or does not have any space left in their inventory.";
+"Этому игроку не хватает янг или места в инвентаре.";
+
+"The other person has no space left in their inventory.";
+"Инвентарь этого игрока переполнен.";
+
+"The trade with %s has been successful.";
+"Торг с %s удался.";
+
+"You did not lose any Experience because of the Blessing of the Dragon God.";
+"Благословение Бога Дракона уберегло вас от потери опыта.";
+
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d";
+"Текущее количество очков Шиньзо: %d Хунджо:  %d Джинно: %d";
+
+"The correct answer is:";
+"Правильный ответ:";
+
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s счётчикубитых %d Империя %d счётчикубийств %d (результат %d) счётчикубийствмобов %d, ЗахватФлагов %d";
+
+"The devil of the hallowed place: [ENTER][ENTER]";
+"Дьявол Священной Земли: [ENTER][ENTER]";
+
+", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.";
+", у вас нет прав на пребывание здесь! Через 10 секунд ваши соотечественники покинут эту священную землю.";
+
+"%s has been defeated and drops out of the Kingdom Battle.";
+"Империя %s потерпела поражение и выбывает из битвы Империй.";
+
+"Number of Monsters in the Kingdom Battle:";
+"Количество Монстров в Битве Империй";
+
+"If you defeat the Guard of the Holy Place, you will become the owner of it.";
+"Завалите стражника Священного места - станете его владельцами.";
+
+"You did not drop any Item(s) as you are protected by the Dragon God.";
+"Бог Дракон защитил вас- вы не уронили ни одного предмета.";
+
+"Additional Stabbing Weapon Damage %d";
+"Дополнительный урон колющих ударов %d";
+
+"%s block! (%d%%)";
+"%s блокировать! (%d%%)";
+
+"%s avoid! (%d%%)";
+"%s уклониться! (%d%%)";
+
+"Yes (O)";
+"Да (O)";
+
+"%s[%d]'s Attack Position: %d %d";
+"%s[%d]'s Позиция атаки: %d %d";
+
+"Please enter the Order in full length.";
+"Пожалуйста задайте приказ полным текстом.";
+
+"You cannot do this whilst sitting on a Horse.";
+"У вас это не получится, пока вы сидите на коне.";
+
+"You cannot do that while you are lying on the ground.";
+"Вы не можете снарядить это во время падения.";
+
+"In my Dreams? What?";
+"Что? В моих сновидениях?";
+
+"Get up first.";
+"Сначала встаньте.";
+
+"This command does not exist.";
+"Этот приказ не существует.";
+
+"[Group] This group has been disbanded.";
+"[Группа] Группа распалась.";
+
+"[Group] You cannot call the target.";
+"[Группа] Вы не можете вызвать цель.";
+
+"[Group] You cannot call group members over to your current position.";
+"[Группа] Вы не можете вызвать участников группы на вашу актуальную позицию.";
+
+"No (X)";
+"нет (X)";
+
+"Your group works well together, and group members near the group leader will receive an experience bonus.";
+"Ваша группа хорошо взаимодействует. Участники группы, которые держатся рядом с лидером группы, получают бонус к опыту.";
+
+"Leader";
+"Лидер";
+
+"Member";
+"Участник";
+
+"[Guild] Provided Experience is larger then left Experience.";
+"[Гильдия] Предусмотренный опыт выше оставшегося.";
+
+"[Guild] This message cannot be deleted.";
+"[Гильдия] Удаление сообщения невозможно.";
+
+"[Guild] Not enough Dragon Ghost. (%d, %d)";
+"[Гильдия] недостаточно Духа Дракона  (%d, %d)";
+
+"[Guild] You cannot use the guild skills yet.";
+"[Гильдия] Вы не можете пока еще применять навыки гильдии.";
+
+"[Guild] %d skill has been applied (%d, %d) to %u.";
+"[Гильдия] %d-способность применена (%d, %d) на %u.";
+
+"[Guild] This player is on channel %d. (Current channel: %d)";
+"[Гильдия] Игрок находится на %d канале. (актуальный канал : %d)";
+
+"[Guild] This player is not online.";
+"[Гильдия] Игрок вне сети.";
+
+"In 5 sec. everyone who gave an incorrect answer will be removed.";
+"Все участники, давшие неверный ответ, будут изгнанны через 5 сек.";
+
+"[Guild] This guild skill can only be used during war.";
+"[Гильдия] Навыки гильдии можно применять только в войне.";
+
+"[Guild] %u Dragon ghost points have been restored.";
+"[Гильдия]  Дух Дракона %u восстановлен.";
+
+"[Guild] Only the guild leader can withdraw Yang.";
+"[Гильдия] Снять янги может только лидер.";
+
+"[Guild] The player has declined the guild invitation.";
+"[Гильдия] Игрок отклонил приглашение гильдии.";
+
+"[Guild] You do not have the authority to invite someone to join the guild.";
+"[Гильдия] Вы не вправе приглашать кого-то в гильдию.";
+
+"[Guild] You cannot invite players from another kingdom into the guild.";
+"[Гильдия] Игроки другой Империи не могут быть приглашены в вашу Гильдию.";
+
+"[Guild] This player can be invited again after %d day(s).";
+"[Гильдия] Вы сможете пригласить этого игрока снова только через %d дн.";
+
+"[Guild] After the rearrangement you can invite members again after %d days.";
+"[Гильдия] Вы можете пригласить новых участников лишь через %d дней после реорганизации.";
+
+"[Guild] This person is already a member of another Guild.";
+"[Гильдия] Эта личность уже состоит в другой гильдии.";
+
+"[Guild] The maximum guild capacity has been reached.";
+"[Гильдия] Состав гильдии достиг предела.";
+
+"Ready for the next question?";
+"Вы готовы к следующему вопросу?";
+
+"You cannot train this skill.";
+"Вы не можете обучаться этому навыку.";
+
+"You cannot train this skill up to Grand Master level.";
+"Обучиться этому навыку до уровня Большого мастера невозможно.";
+
+"You already are a Master of this skill. You cannot train this skill any further.";
+"Вы уже достигли уровня Мастера этого навыка. Вы не можете обучаться ему.";
+
+"Your Skill is not high enough to become a Grand Master.";
+"Уровень этого навыка довольно низкий, вы не потянете обучение на Большого мастера.";
+
+"That did not work. Damn!";
+"Не получилось!";
+
+"Training has failed. Please try again later.";
+"Обучение не удалось. Попробуйте пожалуйста еще раз.";
+
+"My body is full of energy!";
+"Во мне столько энергии!";
+
+"The training seems to be working already...";
+"Кажется я уже чувствую результат обучения...";
+
+"You successfully finished your training with the book.";
+"Вы успешно окончили обучение по книге.";
+
+"You cannot read this due to your lack of experience.";
+"Вам не хватает опыта, чтобы прочесть это.";
+
+"Question.";
+"Вопрос.";
+
+"You cannot train this skill with a Book.";
+"Вы не можете больше обучаться этому навыку по книге.";
+
+"This skill's level is not high enough to be trained with a Book.";
+"Уровень этого навыка довольно низкий, вы не потянете  обучение ему по книге.";
+
+"I'm making progress, but I still haven't understood everything.";
+"Я делаю успехи, но мне еще не все понятно.";
+
+"These instructions are difficult to understand. I have to carry on studying.";
+"Разобраться в этой технологии не так легко.";
+
+"I understand this chapter. But I've got to carry on working hard.";
+"Я не понимаю эту главу. Но мне следует продолжить обучение.";
+
+"You have successfully finished your training with the Book.";
+"Вы удачно окончили обучение по книге.";
+
+"Teleportation has failed.";
+"Телепортация не удалась.";
+
+"No Horse here. Ask the Stable Boy.";
+"Коня нет. Спросите, пожалуйста, конюха.";
+
+"Please use an item to call a Horse.";
+"Используйте, пожалуйста, предмет, чтобы позвать коня.";
+
+"%s FP-Consumption: %d";
+"%s FP-расход: %d";
+
+"If it's correct, then go to O. If it's wrong, go to X.";
+"Если это верно, то перейдите на O, если это неправильно, перейдите на X.";
+
+"I am burning inside, but it is calming down my body. My Chi has to stabilise.";
+"Я внутри весь горю , но меня это так расслабляет.";
+
+"A little slow, but steady... Without stopping!";
+"не спеша...но беспрерывно... не останавливаясь!";
+
+"Yes, that feels great. My body is full of Chi.";
+"О да! Просто замечательно! Я полон Ши.";
+
+"I have read it! Now the Chi will spread through my body.";
+"Я прочёл! Теперь моё тело должно наполниться Ши.";
+
+"The training is completed.";
+"Обучение окончено.";
+
+"I am on the last page of the book. The training is nearly finished!";
+"Я дошел до последней страницы книги. Обучение почти окончено!";
+
+"Nearly finished! Just a little bit more to go!";
+"Почти готово! Еще чуть-чуть!";
+
+"Eureka! I have nearly finished reading it!";
+"Я прозрел! Я почти -что все прочел!";
+
+"Only a few more pages and then I'll have read everything.";
+"Осталось всего несколько страниц.";
+
+"I feel refreshed.";
+"Чувствую себя посвежевшим.";
+
+"Correct!";
+"Правильно!";
+
+"Now I understand it!";
+"Теперь я знаю!";
+
+"Okay I have to stay concentrated!";
+"Хорошо, сейчас важно  не потерять концентрацию!";
+
+"I keep reading the same line over and over again.";
+"Я читаю одну и ту же строку.";
+
+"I do not want to learn any more.";
+"Я не хочу больше обучаться.";
+
+"It is a lot more complicated and more difficult to understand than I thought.";
+"Даже предположить не мог, что будет так трудно понять это.";
+
+"It's hard for me to concentrate. I should take a break.";
+"Мне очень трудно сосредоточиться. Мне следует отдохнуть.";
+
+"Your chat has been blocked by a GM.";
+"Ваш чат заблокировал ГМ.";
+
+"Your chat block has been lifted.";
+"Блокировка ваша чата ликвидированна.";
+
+"The Build window is already open.";
+"Окно 'Cооружать' уже открыто.";
+
+"You cannot build something while another trade/storeroom window is open.";
+"Вы не можете строить, если открыты окна 'Торговать' , 'Хранение'.";
+
+"No further improvements possible.";
+"Дальнейшие улучшения невозможны.";
+
+"The build window is not open.";
+"Окно ' Сооружать'  закрыто.";
+
+"You do not have the right material.";
+"Это не тот материал, который вам нужен.";
+
+"[Guild] Please try again later.";
+"[Гильдия] Попробуйте пожалуйста позднее.";
+
+"You have to read %d more skill books to improve this skill.";
+"Вы должны прочитать еще %d  книг по совершенствованию этого навыка.";
+
+"You are only able to use this function while you are at the castle.";
+"Эту функцию можно применить только во дворце.";
+
+"TEST: The Gold Bar has been paid back to your kingdom's safe.";
+"Тест: Слиток золота был возвращён в сейф Империи.";
+
+"TEST: In your kingdom's safe there are: %d";
+"Тест: В сейфе вашей Империи хранится: %d";
+
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe.";
+"Тест: Вы не можете вернуть слиток золота в сейф твоей Империи.";
+
+"[Guild] The guild has reached %d points.";
+"[Gilde] Ранг достиг %d очков.";
+
+"This item cannot be improved.";
+"Этот предмет нельзя улучшить.";
+
+"The free weapon improvements can only be used on weapons up to level 20.";
+"Беспалтное улучшение распространяется только на оружия до 20 уровня.";
+
+"You cannot use this item because you do not fulfil all the requirements.";
+"Вы не можете пользоваться этим предметом из-за невыполнения требований.";
+
+"You are not able to use that item because you do not have the right gender.";
+"Вы не можете пользоваться этим предметом из-за несоответствия пола.";
+
+"Use: transfer <name>";
+"Пользователь: transfer <name>";
+
+"This function can only be used by the emperor.";
+"Эта функция доступна только Императору.";
+
+"You cannot recruit players from another kingdom.";
+"Вы не можете вербовать игроков из других Империй.";
+
+"The player %s is on channel %d at the moment. (Your channel: %d)";
+"Игрок %s находится на канале %d. ( Твой канал:  %d)";
+
+"You have recruited %s players.";
+"Вы вербовали игрока %s.";
+
+"There is no user with this name.";
+"Игрока, с заданным тобой именем, не существует.";
+
+"You cannot recruit yourself.";
+"Вы не можете вербовать самого себя.";
+
+"Your level is too low to use this item.";
+"Вы находитесь на слишком низком уровне, чтобы пользоваться этим предметом.";
+
+"You cannot upgrade anything while another window is open.";
+"Вы не можете проводить улучшения, пока открыто другое окно.";
+
+"The emperor of %s has changed to %s.";
+"Император %s перешёл в  %s.";
+
+"There are %s wars to inflame the bonfires.";
+"В %s идёт война за раззжение сигнальных огней.";
+
+"%s has successfully defended.";
+"%s защита удалась.";
+
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire.";
+"Награду получит  %s в течение 30 мин. после разрушения сигнальных огней.";
+
+"30 minutes are over. The bonfires have disappeared.";
+"30 мин.прошли. Сигнальные огни исчезли.";
+
+"A bonfire was inflamed at %s to warn because of a battle.";
+"Сигнальные огни зажгли  у %s, чтобы предупредить о войне.";
+
+"%s has destroyed the bonfire.";
+"%s разрушил сигнальный огонь.";
+
+"%s lost the war as they have not been able to defend the castle.";
+"%s проиграли в войне, поскольку не смогли защитить свой дворец.";
+
+"%s has destroyed all the bonfires.";
+"%s разрушил все сигнальные огни.";
+
+"You can only open the shop if you take off your armour.";
+"Вы сможете открыть лавку, сняв броню.";
+
+"%d hours %d minutes %d seconds left on your chat block";
+"До окончания блока в чате осталось: %d ч. %d м. %d с.";
+
+"%d hours %d seconds left on your chat block";
+"До окончания блока в чате осталось: %d ч. %d с.";
+
+"%d minutes %d seconds left on your chat block";
+"До окончания блока в чате осталось: %d м. %d с.";
+
+"Yang rain drop rate";
+"Шанс дождя из янг";
+
+"Not the right material for an upgrade.";
+"Этот материал не подходит для производства.";
+
+"All kingdoms";
+"Все империи";
+
+"Item drop rate in percent";
+"Вероятность выпадения предмета";
+
+"Yang drop rate in percent";
+"Вероятность выпадения янг";
+
+"Experience percentage";
+"Процент опыта";
+
+"%d seconds left on your chat block";
+"До окончания блока в чате осталось %d сек.";
+
+"You cannot express emotions whilst riding a horse.";
+"Вы не можете пользоваться эмоциями во время езды на лошади.";
+
+"You cannot use emotions with a player who is riding on a Horse.";
+"Вы не можете выражать эмоции игроку на лошади.";
+
+"[Guild] The enemy's guild leader is offline.";
+"[Гильдия] Лидер гильдии противника оффлайн.";
+
+"[Guild] This guild is taking part in a battle at the moment.";
+"[Гильдия] Эта гильдия в данный момент воюет.";
+
+"You're already riding. Get off first.";
+"Вы уже едете. Сначала сойдите.";
+
+"You cannot upgrade items with this Scroll.";
+"Вы не можете применять этот свиток для улучшения.";
+
+"You can only be rewarded once for the Demon Tower Quest.";
+"Получить награду за выполнение задания 'Башня Демона' можно только один раз.";
+
+"Dragon Stone has been removed.";
+"Камень Дракона успешно удален.";
+
+"You cannot move the item within the refinement window.";
+"Перемещение предмета в окне улучшения невозможно.";
+
+"Dragon Stone remaining duration has been extracted.";
+"Оставшееся время действия успешно извлечено.";
+
+"Remaining duration extraction failed.";
+"Извлечение оставшегося время действия не удалось.";
+
+"Removal of Dragon Stone failed. But you have received the following: %s";
+"Удаление Камня Дракона не удалось. Но вы получили следующее: %s";
+
+"Removal of Dragon Stone failed.";
+"Удаление Камня Дракона не удалось.";
+
+"This item is not required for improving the clarity level.";
+"Этот предмет не подходит для улучшения.";
+
+"This item cannot be advanced this way.";
+"Вы не сможете улучшить этот предмет таким образом.";
+
+"Improvement of the clarity level successful.";
+"Улучшение произведено успешно.";
+
+"Refinement up one class failed.";
+"Улучшение не удалось.";
+
+"This item is not required for refinement.";
+"Этот предмет не подходит для улучшения.";
+
+"Refinement up one class was successful.";
+"Улучшение произведено успешно.";
+
+"Improvement of the clarity level failed.";
+"Улучшение не удалось.";
+
+"You do not own the materials required to strengthen the Dragon Stone.";
+"У вас не достаточно требуемых материалов для улучшения Камня Дракона.";
+
+"This Dragon Stone cannot be used for strengthening.";
+"Этот Камень Дракона не подходит для улучшения.";
+
+"Strengthening was successful.";
+"Улучшение произведено успешно.";
+
+"Strengthening failed.";
+"Улучшение не удалось.";
+
+"You are already carrying a Dragon Stone of this type.";
+"Камень Дракона этой разновидности у вас уже есть.";
+
+"The Dragon Stone cannot be removed.";
+"Удаление Камня Дракона невозможно.";
+
+"You have already equipped this kind of Dragon Stone.";
+"Вы уже снарядили такой Камень Дракона.";
+
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.";
+"Прежде чем открыть Кор Драконис, завершите задание Камень Дракона и активируйте Алхимию Камней Дракона.";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"Вы сможете снять пояс лишь тогда, когда в его инвентаре не останется предметов.";
+
+"You can combine the Blessing Scroll with the Magic Iron Ore.";
+"Вы можете комбинировать Свиток Благословения и  Магическую железную руду.";
+
+"You cannot equip this item in your belt inventory.";
+"Этот предмет невозможно поместить в инвентарь пояса.";
+
+"[1106-??]No puedes unir esto.";
+"[1106-??]No puedes unir esto.";
+
+"You have invested %d Yang.";
+"Вы инвестировали %d янг.";
+
+"There is no Stone available to take out.";
+"Нет камня для выемки.";
+
+"You cannot store this location.";
+"Вы не можете сохранить это местоположение.";
+
+"There isn't enough space in your inventory.";
+"Инвентарь переполнен.";
+
+"You cannot teleport to a safe position in a foreign Kingdom.";
+"Вы не можете телепортироваться в безопасное место, находясь в чужой Империи.";
+
+"You don't have enough HP.";
+"У вас недостаточно ХП.";
+
+"You don't have enough Spell Points (SP) to use this.";
+"Вы не можете пользоваться этим из-за нехватки маны.";
+
+"You'll reach your destination in %d seconds.";
+"Вы достигнете место назначения через %d сек.";
+
+"You can only use a Moon Cake every 5 seconds.";
+"Вы можете кушать лунный пирог только каждые 5 сек.";
+
+"You cannot use this item in a duel.";
+"Вы не можете пользоваться этим предметом в поединке.";
+
+"You have won %d Yang.";
+"Вы выиграли %d  янг.";
+
+"You cannot build a campfire here.";
+"Вы не можете разводить здесь бивачный костёр.";
+
+"You cannot build a campfire under water.";
+"Вы не можете разводить бивачный костёр на воде.";
+
+"Closed. You should look for the key.";
+"Заперто. Вам следует поискать ключ.";
+
+"This item cannot be opened with a key.";
+"Этот предмет нельзя открыть ключом.";
+
+"That's the right key.";
+"Это правильный ключ.";
+
+"You have received %d Yang.";
+"Вы получили %d янг.";
+
+"A mysterious light comes out of the box.";
+"Таинственный свет исходит из ларца.";
+
+"You have received %d experience points.";
+"Вы получили %d опыта.";
+
+"Look what came out of the box!";
+"Глядите-ка, что появилось из сундука!";
+
+"[Guild] The guild level is too low.";
+"[Гильдия] Слишком низкий уровень гильдии.";
+
+"If you inhale the red smoke coming out of the box, your speed will increase!";
+"Ваша скорость увеличиться, если вдохнёте красную дымку из сундука.";
+
+"You cannot add more bonus.";
+"You cannot add more bonus.";
+
+"New bonus added successfully.";
+"New bonus added successfully.";
+
+"You cannot change the bonuses.";
+"You cannot change the bonuses.";
+
+"%s needed.";
+"%s needed.";
+
+"OX-Question: ";
+"OX-Question: ";

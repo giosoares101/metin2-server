@@ -1,0 +1,2228 @@
+"Everyone will be teleported into the city shortly.";
+"Všichni budou zanedlouho teleportováni do mìsta.";
+
+"This item does not exist.";
+"Tento pøedmìt neexistuje.";
+
+"The box suddenly exploded! You have lost Hit Points (HP).";
+"Bedna náhle vybuchla! Ztratil jsi body ivota (ZB).";
+
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!";
+"Pokud vdechneš zelenı kouø vycházející z bedny, jed se rozšíøí v tvém tìle!";
+
+"You have received %s, %d units.";
+"Obdrel jsi %s, %d kusù";
+
+"The box contains %s.";
+"V bednì je %s.";
+
+"This key does not seem to fit the lock.";
+"Zdá se, e klíè nesedí k zámku.";
+
+"You have not received anything.";
+"Nic jsi nedostal.";
+
+"You do not have enough Yang to use this item.";
+"Nemáš dostatek Yangù na pouití tohoto pøedmìtu.";
+
+"You have lowered your Skill Level.";
+"Sníil jsi svou úroveò schopností.";
+
+"You cannot lower your Skill Level.";
+"Nemùeš sníit svou úroveò schopností.";
+
+"This effect is already activated.";
+"Efekt je ji aktivní.";
+
+"This item can only be used in an Internet cafe.";
+"Tento pøedmìt mùe bıt pouity pouze v internetové kavárnì.";
+
+"That is over the limit.";
+"Tohle je pøes limit.";
+
+"Unfortunately you don't have enough space in your inventory.";
+"Bohuel nemáš ve svém inventáøi dostatek místa.";
+
+"Used Moon Cake or Seed.";
+"Pouitı Mìsíèní koláè, nebo semínko.";
+
+"You cannot wear a Wedding Ring if you are not married.";
+"Nemùeš nosit svatební prsten, pokud nejsi enatı/vdaná.";
+
+"You cannot use the Event Detector from this position.";
+"Nemùeš pouít Detektor událostí z tohoto místa.";
+
+"This item cannot be absorbed.";
+"Tento pøedmìt nelze absorbovat.";
+
+"The Event Detector vanished in a mysterious light.";
+"Detektor událostí zmizel v magické záøi.";
+
+"The Event Detector has vanished.";
+"Detektor událostí zmizel.";
+
+"The Compass for Metin Stones does not work in dungeons.";
+"Kompas kamene Metinu nefunguje v podzemí.";
+
+"The Compass for Metin Stones has vanished in the mysterious light.";
+"Kompas kamene Metinu zmizel v magické záøi.";
+
+"Receive: %s - %d";
+"Získáš: %s - %d";
+
+"The Compass for Metin Stones has vanished.";
+"Kompas kamene Metinu zmizel.";
+
+"You find a simple Piece of Stone in the Clam.";
+"V mušli najdeš jen kousek kamene.";
+
+"The Clam has vanished.";
+"V mušli nic nebylo.";
+
+"There is a White Pearl inside the Clam.";
+"V mušli je Bílá perla.";
+
+"There is a Blue Pearl inside the Clam.";
+"V mušli je Modrá perla.";
+
+"There is a Blood-Red Pearl inside the Clam.";
+"V mušli je Krvavì rudá perla.";
+
+"It isn't easy to understand this book.";
+"Není jednoduché porozumìt této knize.";
+
+"This book will not help you.";
+"Tato kniha Ti nepomùe.";
+
+"You need to have a minimum level of 30 to understand this book.";
+"Musíš mít nejménì úroveò 30, aby jsi této knize porozumìl.";
+
+"You need a minimum level of 50 to understand this book.";
+"Musíš mít nejménì úroveò 50, aby jsi této knize porozumìl.";
+
+"You can't train any more Combos.";
+"Nemùeš trénovat další komba.";
+
+"%s has captured the flag of %s!";
+"%s cech ukoøistil vlajku %s cechu!";
+
+"You already understand this language.";
+"Touto øeèí ji mluvíš plynule.";
+
+"You have to improve your Level to read this Book.";
+"Musíš si zvıšit úroveò, abys porozumìl této knize.";
+
+"The book is too hard for practising.";
+"Tato kniha je pøíliš tìká na nauèení.";
+
+"You cannot train with this Book any more.";
+"Nemùeš dále trénovat s touto knihou.";
+
+"Taxes are set to %d%%.";
+"Danì nastaveny na %d %%.";
+
+"You need a minimum level of 50 to get riding training.";
+"Potøebuješ minimálnì úroveò 50 na trénink jízdy na koni.";
+
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll.";
+"Unikl jsi kletbì zlého ducha za pomoci pergamenu exorcismu.";
+
+"You cannot read any more Riding Guides.";
+"Nemùeš èíst více prùvodcù jízdou na koni.";
+
+"You read the Horse Riding Manual and received a Riding Point.";
+"Obdrel jsi body jízdy na koni po pøeètení prùvodce jízdou na koni.";
+
+"You can use this point to improve your riding skill!";
+"Tento bod mùeš pouít k vylepšení jezdeckıch schopností.";
+
+"The guild %s's flag has been stolen by player %s.";
+"Vlajka cechu %s byla ukradena hráèem %s.";
+
+"You did not understand the riding guide.";
+"Nerozumìl jsi prùvodci jízdou na koni.";
+
+"Your mind is clear. You can concentrate really well now.";
+"Tvá mysl je èistá. Teï se mùeš dobøe soustøedit.";
+
+"Your rank has increased by %d points.";
+"Tvá hodnost se zvıšila o %d bodù.";
+
+"You cannot dye or bleach your current hairstyle.";
+"Nemùeš obarvit ani odbarvit tvùj souèasnı úèes.";
+
+"You need to have reached level %d to be able to dye your hair again.";
+"Musíš dosáhnout úrovnì %d, abys mohl opìt obarvit svùj úèes.";
+
+"This item can only be opened by the another gender.";
+"Tento pøedmìt mùe bıt otevøen pouze druhım pohlavím.";
+
+"You cannot use this from your current position.";
+"Tohle nemùeš pouít z této pozice.";
+
+"You are ready to warp, so you cannot use the Scroll of the Location.";
+"Nemùeš pouít Pergamen lokality, protoe jsi pøipraven k teleportu.";
+
+"You are being brought back to the place of origin.";
+"Byl jsi pøenesen zpìt na místo poèátku.";
+
+"%s%s cannot be used in a dungeon.";
+"%s%s nemohou bıt pouity v podzemí.";
+
+"[Quest] You have already received your reward.";
+"[Úkol] Ji jsi odmìnu obdrel.";
+
+"the";
+"to";
+
+"There aren't any Pieces of Broken Stone available for removal.";
+"Nejsou tu ádné odštìpky kamene k odstranìní.";
+
+"You cannot change the upgrade of this item.";
+"Nemùeš mìnit vylepšení tohoto pøedmìtu.";
+
+"There is no upgrade that you can change.";
+"Nemáš ádné vylepšení, které by jsi mohl pøípadnì mìnit.";
+
+"You can only do this %d minutes after an upgrade. (%d minutes left)";
+"Tohle mùeš dìlat pouze %d minut po vylepšení. (%d minut zbıvá)";
+
+"You have changed the upgrade.";
+"Zmìnil jsi vylepšení.";
+
+"Upgrade successfully added.";
+"Vylepšení úspìšnì pøidáno.";
+
+"No upgrade added.";
+"Vylepšení nebylo pøidáno.";
+
+"You must use the Blessing Marble in order to add another bonus to this item.";
+"Musíš pouít Mramor poehnání, abys mohl pøidat další bonus.";
+
+"You cannot use this in the duel arena.";
+"Tohle nemùeš pouít v této arénì.";
+
+"This item can no longer be improved. The maximum number of bonuses has been reached.";
+"Vìc ji nelze dále vylepšit. Bylo dosaeno maximálního poètu bonusù.";
+
+"You can only use the Blessing Marble with an item which already has 4 bonuses.";
+"Pokud má vìc ji 4 bonusy, mùete ji vylepšit jen pomocí Mramoru poehnání.";
+
+"Socket successfully added.";
+"Úchyt úspìšnì pøidán.";
+
+"No socket added.";
+"Úchyt nebyl pøidán.";
+
+"No additional sockets could be added to this item.";
+"Na tento pøedmìt ji nejde pøidat další úchyt.";
+
+"You cannot add a socket to this item.";
+"Tento pøedmìt nemùe mít více úchytù.";
+
+"Arming successful.";
+"Ozbrojení úspìšné.";
+
+"Arming has failed.";
+"Ozbrojení selhalo.";
+
+"You have to add a socket first. Use a diamond in order to do this.";
+"Nejprve musíš pøidat úchyt. Na to pouij diamant.";
+
+"There are no sockets for gemstones in this item.";
+"Zde nejsou ádné úchyty pro drahokamy.";
+
+"You can do this when you wear an Emotion Mask.";
+"Tohle mùeš provést pokud nosíš masku emocí.";
+
+"You have to add a socket if you want to use a Diamond.";
+"Musíš pøidat úchyt, pokud chceš pouít diamant.";
+
+"No more gems can be added to this item.";
+"Na tento pøedmìt ji nelze pøidat více drahokamù.";
+
+"These items cannot be used together.";
+"Tyto pøedmìty nemohou bıt pouity spolu.";
+
+"You cannot change the Bait whilst fishing.";
+"Nemùeš mìnit návnadu zatímco rybaøíš.";
+
+"You are exchanging the current Bait for %s.";
+"Vymìnil jsi dosavadní návnadu za %s.";
+
+"You attached %s to the hook as bait.";
+"Pøipevnil jsi %s na háèek jako návnadu.";
+
+"You are missing some ingredients to make the potion.";
+"Nemáš všechny suroviny na vırobu elixíru.";
+
+"You do not have enough material (%s).";
+"Nemáš dostatek surovin (%s).";
+
+"You do not have enough empty bottles.";
+"Nemáš dostatek prázdnıch lahví.";
+
+"The potion production has failed.";
+"Míchání elixíru bylo neúspìšné.";
+
+"Only women can do this.";
+"Pouze eny tohle dokáí.";
+
+"You cannot attach several stones of the same type.";
+"Nemùeš pøidat více kamenù stejného typu.";
+
+"This Spirit Stone cannot be attached to this type of item.";
+"Tento kámen ducha nemùeš pøidat na tento typ pøedmìtu.";
+
+"You cannot attach this Spirit Stone to a weapon.";
+"Tento kámen ducha nemùeš pøidat na zbraò.";
+
+"You have attached the Spirit Stone successfully.";
+"Kámen ducha úspìšnì pøidán.";
+
+"The Spirit Stone broke while being attached.";
+"Kámen ducha se pøi pøidávání rozpadl.";
+
+"No slot free.";
+"ádné volné úchyty.";
+
+"This function is not available right now.";
+"Teï a zde tato funkce není k dispozici.";
+
+"You cannot use a Scroll of the Location whilst taking part in a kingdom battle.";
+"Nemùeš pouít Pergamen lokality v prùbìhu bitvy království.";
+
+"After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.";
+"Nemùeš pouít Pergamen lokality %d vteøin po otevøení skladištì.";
+
+"You cannot use a Scroll of the Location while another window is open.";
+"Nemùeš pouít Pergamen lokality pokud máš otevøené další okno.";
+
+"This person does not exist.";
+"Tato osoba neexistuje.";
+
+"After a trade, you cannot use a scroll for another %d seconds.";
+"Nemùeš pouít pergamen %d sekund po obchodu.";
+
+"After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.";
+"Nemùeš pouít Pergamen lokality %d vteøin po otevøení skladištì.";
+
+"You cannot use the Scroll of the Location because the distance is too small.";
+"Nemùeš pouít Pergamen lokality, protoe vzdálenost je pøíliš malá.";
+
+"After a trade you cannot use a Scroll of the Location for %d seconds.";
+"Po obchodování nemùeš pouít Pergamen lokality po dobu %d vteøin.";
+
+"You cannot open the Storeroom if another window is already open.";
+"Nemùeš otevøít skladištì, pokud je ji otevøené jiné okno.";
+
+"You cannot drop this item.";
+"Tento pøedmìt nemùeš zahodit.";
+
+"The dropped item will vanish in 5 minutes.";
+"Zahozenı pøedmìt zmizí za 5 minut.";
+
+"%s received";
+"%s obdreno.";
+
+"You have too many items in your inventory.";
+"Máš pøíliš mnoho vìcí v inventáøi.";
+
+"%s receives %s.";
+"%s získává %s.";
+
+"You are too near.";
+"Jsi pøíliš blízko.";
+
+"Item Trade: %s, %s";
+"Obchod s pøedmìtem: %s, %s";
+
+"You cannot change the equipped item while you are transformed.";
+"Nemùeš mìnit pouívané vìci po dobu tvé pøemìny.";
+
+"You have to stand still to equip the item.";
+"Pro nasazení tohoto pøedmìtu musíš bıt nehybnı.";
+
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.";
+"Opièí bylinky nejsou urèeny ke krmení ivıch koní. Jsou pouívány k oivení koní mrtvıch.";
+
+"You cannot feed a dead Horse.";
+"Nemùeš krmit mrtvého konì.";
+
+"You fed the Horse with Herbs.";
+"Nakrmil jsi konì bylinkami.";
+
+"You have fed the Horse.";
+"Nakrmil jsi konì.";
+
+"Your level is too low to wear this Hairstyle.";
+"Pro nošení tohoto úèesu máš pøíliš nízkou úroveò.";
+
+"You already have this Hairstyle.";
+"Tento úèes ji máš.";
+
+"You have already transformed.";
+"U jsi promìnìn.";
+
+"You are too far away.";
+"Jsi pøíliš daleko.";
+
+"That's the wrong trading item.";
+"To je špatnı pøedmìt na promìòování.";
+
+"You cannot transform into a monster who has a higher level than you.";
+"Nemùeš se promìnit v pøíšeru, která má vyšší úroveò ne ty.";
+
+"Your level is too low to equip this item.";
+"Tvá úroveò je pøíliš nízká pro nošení tohoto pøedmìtu.";
+
+"You are not strong enough to equip yourself with this item.";
+"Na nošení tohoto pøedmìtu nejsi dost silnı.";
+
+"Your intelligence is too low to equip yourself with this item.";
+"Na nošení tohoto pøedmìtu nemáš dostateènou inteligenci.";
+
+"Your dexterity is too low to equip yourself with this item.";
+"Na nošení tohoto pøedmìtu nemáš dostateènou pohyblivost.";
+
+"Your vitality is too low to equip yourself with this item.";
+"Na nošení tohoto pøedmìtu nemáš dostateènou vitalitu.";
+
+"You cannot use this item because you are not married.";
+"Tento pøedmìt nemùeš pouít, protoe nejsi enatı/vdaná.";
+
+"You cannot equip this item twice.";
+"Tento pøedmìt nemùeš nosit dvakrát.";
+
+"Time left until the removal of the socket of %s: %d";
+"Do odstranìní úchytu z %s zbıvá èasu: %d";
+
+"This action can only be done with another gender.";
+"Tohle mùe udìlat pouze druhé pohlaví.";
+
+"A gem socketed in the %s has vanished.";
+"Drahokam zasazenı v %s zmizel.";
+
+"[Guild] This guild name is invalid.";
+"[Cech] Jméno cechu je neplatné.";
+
+"[Guild] This guild name is already taken.";
+"[Cech] Tohle jméno cechu je ji obsazeno.";
+
+"[Guild] You cannot found a guild.";
+"[Cech] Nemùeš vytvoøit cech.";
+
+"The guild %s has declared war on %s!";
+"%s cech vyhlásil válku %s cechu!";
+
+"[Guild] %s has refused the Guild war.";
+"[Cech] %s nepøijal cechovní válku.";
+
+"The guild war between %s and %s will start in a few seconds!";
+"Cechovní válka mezi %s a %s zapoène za pár vteøin!";
+
+"The guild war between %s and %s has begun!";
+"Válka mezi %s a %s zaèala!";
+
+"The guild war between %s and %s has ended in a draw.";
+"Válka mezi %s a %s skonèila nerozhodnì.";
+
+"%s has won the guild war against %s.";
+"Cech %s vyhrál válku proti cechu %s.";
+
+"You need your fellow player's approval for this.";
+"Na tohle potøebuješ souhlas svého spoluhráèe.";
+
+"[Guild] The guild war has been cancelled.";
+"[Cech] Válka cechù byla zrušena.";
+
+"The guild war between %s and %s has been cancelled.";
+"Válka mezi cechem %s a cechem %s byla zrušena.";
+
+"Close";
+"Zavøít";
+
+"Action cancelled. You have entered a battle.";
+"Zrušeno. Vstoupili jste do bitvy.";
+
+"Someone has logged into your account. You will be disconnected from the server.";
+"Nìkdo se pøihlásil na tvoje konto. Budeš odpojen.";
+
+"A mysterious light appears from the tree.";
+"Ze stromu pøichází tajemné svìtlo.";
+
+"%d Playtime added to your account. (Payment number %d)";
+"%d herního èasu bylo pøidáno na tvoje konto. (Èíslo platby %d)";
+
+"You can participate in the guild battle in viewer mode.";
+"Mùeš se zúèastnit cechovního boje v reimu diváka.";
+
+"While choosing a character, an icon appears.";
+"Pøi vıbìru postavy se objeví ikona.";
+
+"There are no opponents.";
+"Nejsou ádní nepøátelé.";
+
+"The battle with %s has begun!";
+"Boj s %s zaèal!";
+
+"If no enemy can be found, the guild war will be ended automatically.";
+"Pokud nebude nalezen ádnı nepøítel, cechovní válka bude automaticky ukonèena.";
+
+"Because the guild war finished early, the result will judged as a draw.";
+"Protoe cechovní válka byla ukonèena pøedèasnì, bude posuzována jako remíza.";
+
+"The energy is reflected because of the Emperors Blessing.";
+"Energie je odráena císaøskım poehnáním.";
+
+"After %d seconds you can use the Emperors Blessing.";
+"Za %d vteøin mùeš pouít císaøské poehnání.";
+
+"Not enough tax income : %d.";
+"Nedostatek pøíjmu z daní: %d.";
+
+"[TEST_ONLY]Tax : %d";
+"[TEST_ONLY]Daò: %d";
+
+"Transformation error.";
+"Chyba pøi pøemìòování.";
+
+"You learned the transmutation completely.";
+"Pøemìnu jsi se nauèil kompletnì.";
+
+"Please call your Horse first.";
+"Nejdøíve si zavolej konì prosím.";
+
+"You have sent your horse away.";
+"Poslal jsi zpátky svého konì.";
+
+"%s challenged you to a battle!";
+"%s tì vyzval na souboj!";
+
+"You have to get off your Horse.";
+"Musíš sesednout z konì.";
+
+"You cannot feed your Horse whilst sitting on it.";
+"Nemùeš nakrmit svého konì kdy na nìm sedíš!";
+
+"You have fed the Horse with %s%s.";
+"Dal jsi %s%s koni.";
+
+"You need %s.";
+"Potøebuješ %s.";
+
+"%d seconds until Exit.";
+"%d vteøin do vypnutí.";
+
+"The game will be closed in %d seconds.";
+"Hra bude ukonèena za %d vteøin.";
+
+"Your logout has been cancelled.";
+"Tvé odhlášení bylo zrušeno.";
+
+"Back to login window. Please wait.";
+"Návrat do pøihlašovacího okna. Prosím èekej.";
+
+"You have been disconnected from the server. Please wait.";
+"Byl jsi odpojen od serveru. Prosím èekej.";
+
+"You have challenged %s to a battle.";
+"Vyzval jsi %s na souboj.";
+
+"You are changing character. Please wait.";
+"Zmìnil jsi osobu. Prosím èekej.";
+
+"A new start is not possible at the moment. Please wait %d seconds.";
+"Novı start není momentálnì monı. Poèkej %d vteøin.";
+
+"You cannot restart yet. Please wait another %d seconds.";
+"Restart není monı. Poèkej dalších %d vteøin.";
+
+"You cannot restart in the city yet. Wait another %d seconds.";
+"Stále není monı restart ve mìstì. Poèkej dalších %d vteøin.";
+
+"The waiting time has expired. You will be revived in the city.";
+"Ztratil jsi šanci na oivení. Vrátíš se do mìsta.";
+
+"You cannot change your status while you are transformed.";
+"Nemùeš mìnit svùj status po dobu tvé pøemìny.";
+
+"This player is currently fighting.";
+"Hráè právì bojuje.";
+
+"[Guild] It does not belong to the guild.";
+"[Cech]Tohle nepatøí cechu.";
+
+"[Guild] You do not have the authority to change the level of the guild skills.";
+"[Cech]Nejsi oprávnìn mìnit úroveò cechovních schopností.";
+
+"Your choice is incorrect.";
+"Volba není správná.";
+
+"[Storeroom] You have entered an incorrect password.";
+"[Skladištì]Vloil jsi špatné heslo.";
+
+"[Storeroom] The Storeroom is already open.";
+"[Skladištì]Skladištì je ji otevøeno.";
+
+"[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.";
+"[Skladištì]Musíš poèkat 10 vteøin na opìtovné otevøení skladištì.";
+
+"[Storeroom] You are too far away to open the storeroom.";
+"[Skladištì] Jsi pøíliš daleko na otevøení skladištì.";
+
+"[Group] The server cannot execute this group request.";
+"[Skupina] Server nemùe vykonat skupinovou ádost.";
+
+"[Group] You cannot leave a group while you are in a dungeon.";
+"[Skupina] Na tomto místì nemùeš opustit skupinu.";
+
+"[Group] You have left the group.";
+"[Skupina] Opustil jsi skupinu.";
+
+"[Guild] Your guild is already participating in another war.";
+"[Cech] Tvùj cech se ji úèastní jiné války.";
+
+"[Guild] No one is entitled to a guild war.";
+"[Cech] Není oprávnìnı na cechovní válku.";
+
+"[Guild] No guild with this name exists.";
+"[Cech] Cech s tímto jménem neexistuje.";
+
+"There already is a candidacy.";
+"Zde u je kandidatura.";
+
+"[Guild] This guild is already participating in a war.";
+"[Cech] Tento cech se ji úèastní války.";
+
+"[Guild] Not enough Yang to participate in a guild war.";
+"[Cech] Nedostatek Yangù na úèast cechovní války.";
+
+"[Guild] The guild does not have enough Yang to participate in a guild war.";
+"[Cech] Cech nemá dostatek Yangù na úèast cechovní války.";
+
+"[Guild] This Guild is already scheduled for another war.";
+"[Cech] Tento cech je ji pøihlášen na jinou cechovní válku.";
+
+"[Guild] This guild is already participating in another war.";
+"[Cech] Tento cech se ji úèastní jiné války.";
+
+"[Guild] A minimum of %d players are needed to participate in a guild war.";
+"[Cech] Do války cechù se musí pøihlásit minimálnì %d hráèù.";
+
+"[Guild] The guild does not have enough points to participate in a guild war.";
+"[Cech] Cech nemá dostatek bodù na úèast ve válce.";
+
+"[Guild] The guild does not have enough members to participate in a guild war.";
+"[Cech] Cech nemá dostatek èlenù na úèast ve válce.";
+
+"Your level has to be higher than 20 to register a cell phone number.";
+"Tvá úroveò musí bıt vyšší ne 20 na registraci èísla tvého mobilního telefonu.";
+
+"You do not have the emperor qualification.";
+"Nemáte schopnosti stát se císaøem.";
+
+"%s declined the invitation.";
+"%s odmítl pozvání.";
+
+"You cannot accept the invitation because you are already in the group.";
+"Nemùeš pøijmout pozvání, protoe u ve skupinì jsi.";
+
+"Only the emperor can use this.";
+"Pouze císaø mùe tohle pouít.";
+
+"Cooldown time for approximately %d seconds";
+"Èas èekání pøiblinì %d vteøin.";
+
+"Lack of Taxes. Current Capital : %u Missing Capital : %u";
+"Nedostatek daní. Souèasnı kapitál: %u chybìjící kapitál: %u";
+
+"Command: warpto <character name>";
+"Pøíkaz: warpto <character name>";
+
+"You cannot be warped to an unknown player.";
+"Nemùeš se pøemístit k neznámému hráèi.";
+
+"Adding player %d into the channel. (Present channel %d)";
+"Pøidání hráèe %d do kanálu. (Souèasnı Kanál %d)";
+
+"Warp to player %s.";
+"Pøepravit k %s.";
+
+"You cannot call unknown players.";
+"Nemùeš volat neznámé hráèe.";
+
+"[Guild] There are no experience points for hunting during a guild war.";
+"[Cech] Bìhem cechovní války se nepoèítají bodù zkušeností za lov.";
+
+"When the Blessing of the Emperor is used %s the HP and SP are restored again.";
+"Pokud pouiješ poehnání císaøe %s ZB a MB budou opìt obnoveny.";
+
+"My information about the emperor";
+"Má císaøská informace";
+
+"[%sMonarch] : %s Yang owned %lld";
+"[%sPanovník] : %s Yangù vlastnìno %lld";
+
+"[%sMonarch] : %s";
+"[%sPanovník] : %s";
+
+"Information about the emperor";
+"Císaøská informace";
+
+"Only an emperor can use this.";
+"Pouze císaø smí tohle pouít";
+
+"Choose a number between 1 and 50.";
+"Vyber èíslo mezi 1 a 50.";
+
+"The Monster cannot be called. Check the Mob Number.";
+"Nestvùra nemùe bıt zavolána. Zkontroluj Mob-èíslo.";
+
+"Hit Points +%d";
+"Body ivota +%d";
+
+"Spell Points +%d";
+"Body many +%d";
+
+"The Emperor Blessing is activated.";
+"Poehnání císaøe je aktivní.";
+
+"Endurance +%d";
+"Vytrvalost +%d";
+
+"Intelligence +%d";
+"Inteligence +%d";
+
+"Strength +%d";
+"Síla +%d";
+
+"Dexterity +%d";
+"Pohyblivost +%d";
+
+"Attack Speed +%d";
+"Rychlost útoku +%d";
+
+"Movement Speed %d";
+"Rychlost pohybu %d";
+
+"Cooldown Time -%d";
+"Èas obnovení -%d";
+
+"Energy Recovery +%d";
+"Obnova ivotní energie +%d";
+
+"Spell Point Recovery +%d";
+"Obnova bodù many +%d";
+
+"Poison Attack %d";
+"Útok jedem %d";
+
+"Star +%d";
+"Hvìzda +%d";
+
+"Speed Reduction +%d";
+"Sniování rychlosti +%d";
+
+"Critical Attack with a chance of %d%%";
+"Šance na kritickı útok %d%%";
+
+"Chance of a Speared Attack of %d%%";
+"Šance na pronikavı útok %d%%";
+
+"Player's Attack Power against Monsters +%d%%";
+"Hráèova síla útoku proti nestvùrám +%d%%";
+
+"Horse's Attack Power against Monsters +%d%%";
+"Síla útoku konì proti nestvùrám +%d%%";
+
+"Attack Boost against Wonggui + %d%%";
+"Posílení útoku proti Wonggui + %d%%";
+
+"Attack Boost against Milgyo + %d%%";
+"Posílení útoku proti Milgyo + %d%%";
+
+"Attack boost against zombies + %d%%";
+"Posílení útoku proti Zombie + %d%%";
+
+"Attack boost against devils + %d%%";
+"Posílení útoku proti ïáblùm + %d%%";
+
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.";
+"Od císaøe Sa-Za-Hu dostal hráè %s o 10%% víc útoèné síly na 3 minuty.";
+
+"Absorbing of Energy %d%% while attacking.";
+"Pohlcování ivotní energie %d%% pøi útoku.";
+
+"Absorption of Spell Points (SP) %d%% while attacking.";
+"Pohlcování bodù many (MB) %d%% pøi útoku.";
+
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy.";
+"Šancí %d%% budou body many (MB) vzaty nepøíteli.";
+
+"Absorbing of Spell Points (SP) with a chance of %d%%";
+"Pohlcení bodù many (MB) šancí %d%%";
+
+"%d%% Chance of blocking a close-combat attack";
+"%d%% šance na blok útoku boje zblízka.";
+
+"%d%% Chance of blocking a long range attack";
+"%d%% šance na blok útoku z dálky.";
+
+"One-Handed Sword defence %d%%";
+"Obrana proti jednoruèním meèùm %d%%";
+
+"Two-Handed Sword Defence %d%%";
+"Obrana proti obouruèním meèùm %d%%";
+
+"Bell Defence %d%%";
+"Obrana proti zvonu %d%%";
+
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.";
+"Od císaøe Geum-Gang-Gwon dostává hráè %s o 10%% více brnìní na 3 minuty.";
+
+"Fan Defence %d%%";
+"Obrana proti vìjíøi %d%%";
+
+"Distant Attack Resistance %d%%";
+"Odolnost proti útoku z dálky %d%%";
+
+"Fire Resistance %d%%";
+"Odolnost proti ohni %d%%";
+
+"Lightning Resistance %d%%";
+"Odolnost proti bleskùm %d%%";
+
+"Magic Resistance %d%%";
+"Odolnost proti magii %d%%";
+
+"Wind Resistance %d%%";
+"Odolnost proti vìtru %d%%";
+
+"Reflect Direct Hit: %d%%";
+"Odraení pøímého zásahu: %d%%";
+
+"Reflect Curse: %d%%";
+"Odraení kletby: %d%%";
+
+"Poison Resistance %d%%";
+"Odolnost proti jedu %d%%";
+
+"Spell Points (SP) will be increased by %d%% if you win.";
+"Body many (MB) budou zvıšeny na %d%% pokud vyhraješi.";
+
+"The event is already running. (Flag: %d)";
+"Událost ji probíhá (Flag: %d)";
+
+"Experience increases by %d%% if you win against an opponent.";
+"Zkušenosti budou zvıšeny na %d%% pokud vyhraješ proti nepøíteli.";
+
+"Increase of Yang up to %d%% if you win.";
+"Zvıšení Yangù na %d%% pokud vyhraješ proti nepøíteli.";
+
+"Increase of captured Items up to %d%% if you win.";
+"Zvıšení ukoøistìnıch pøedmìtù na %d%% pokud vyhraješ proti nepøíteli.";
+
+"Power increase of up to %d%% after taking the potion.";
+"Zvıšení síly na %d%% pøi vypití elixíru.";
+
+"%d%% Chance of filling up Hit Points after a victory.";
+"%d%% šance na naplnìní bodù ivotní energie, pokud vyhraješ.";
+
+"No Dizziness %d%%";
+"adná závra %d%%";
+
+"No Slowing Down %d%%";
+"ádné zpomalení %d%%";
+
+"No falling down %d%%";
+"ádnı pád %d%%";
+
+"Attack Power + %d";
+"Síla útoku +%d";
+
+"Armour + %d";
+"Brnìní + %d";
+
+"OX quiz script could not be loaded.";
+"OX Quiz Skript nemùe bıt nahrán.";
+
+"Magical Attack + %d";
+"Magickı útok + %d";
+
+"Magical Defence + %d";
+"Magická obrana + %d";
+
+"Maximum Endurance + %d";
+"Maximální vytrvalost + %d";
+
+"Strong against Warriors + %d%%";
+"Síla proti Váleèníkùm + %d%%";
+
+"Strong against Ninjas + %d%%";
+"Síla proti Ninjùm + %d%%";
+
+"Strong against Sura + %d%%";
+"Síla proti Surùm + %d%%";
+
+"Strong against Shamans + %d%%";
+"Síla proti Šamanùm + %d%%";
+
+"Strength against monsters + %d%%";
+"Síla proti nestvùrám + %d%%";
+
+"Attack + %d%%";
+"Útok + %d%%";
+
+"Defence + %d%%";
+"Obrana + %d%%";
+
+"OX quiz script has loaded.";
+"OX Quiz Skript je nahrán.";
+
+"Experience %d%%";
+"Zkušenost %d%%";
+
+"Chance to find an Item %. 1f";
+"Šance nalézt pøedmìt %. 1f";
+
+"Chance to find Yang %. 1f";
+"Šance nalézt Yangy %. 1f";
+
+"Maximum Energy +%d%%";
+"Horní limit ivotní energie +%d%%";
+
+"Skill Damage %d%%";
+"Poškození schopností %d%%";
+
+"Hit Damage %d%%";
+"Poškození úderem %d%%";
+
+"Resistance against Skill Damage %d%%";
+"Odolnost proti poškození schopností %d%%";
+
+"Resistance against Hits %d%%";
+"Odolnost proti úderùm %d%%";
+
+"%d%% Resistance against Warrior Attacks";
+"%d%% odolnost proti útoku váleèníka";
+
+"Welcome to Metin2.";
+"Vítejte v Metin2.";
+
+"%d%% Resistance against Ninja Attacks";
+"%d%% odolnost proti útoku Ninji";
+
+"%d%% Resistance against Sura Attacks";
+"%d%% odolnost proti útoku Sury";
+
+"%d%% Resistance against Shaman Attacks";
+"%d%% odolnost proti útoku Šamana";
+
+"(Procedure: %d y- %d m - %d d)";
+"(Procedura: %d r- %d m - %d d)";
+
+"Your chat is blocked.";
+"Tvùj chat je blokován.";
+
+"You need a higher level to be able to call.";
+"Potøebuješ vyšší úroveò, abys mohl volat.";
+
+"You need a minimum level of %d to be able to call.";
+"Potøebuješ minimálnì úroveò %d, abys mohl volat.";
+
+"You are not in this Group.";
+"Nejsi v této skupinì.";
+
+"You did not join this Guild.";
+"Nepøipojil jsi se k tomuto cechu.";
+
+"The player has rejected your request to add him to your friend list.";
+"Hráè odmítl bıt pøidán do tvého seznamu pøátel.";
+
+"OX Event has started.";
+"Soutì OX zaèala.";
+
+"[Friends] You cannot add a GM to your list.";
+"[Seznam pøátel]  Nemùes pøidat GM do tvého listu pøátel.";
+
+"%s is not online.";
+"%s není ve høe.";
+
+"After a trade, you have to wait %d seconds before you can open a shop.";
+"Po skonèení obchodování mùeš otevøít stánek a za %d vteøin.";
+
+"You can trade again in %d seconds.";
+"Znovu mùeš obchodovat za %d vteøin.";
+
+"You have more than 2 Billion Yang. You cannot trade.";
+"Máš víc jak 2 Biliony Yangù. Nemùeš obchodovat.";
+
+"You cannot open a private shop while another window is open.";
+"Nemùeš otevøít soukromı stánek, kdy je otevøeno další okno.";
+
+"The player has more than 2 Billion Yang. You cannot trade with him.";
+"Hráè má více jak 2 Biliony Yangù. Nemùeš s ním obchodovat.";
+
+"[Storeroom] No movement possible.";
+"[Skladištì] Není monı ádnı pøesun.";
+
+"[Storeroom] The item cannot be stored.";
+"[Skladištì] Pøedmìt nemùe bıt uskladnìn.";
+
+"[Group] The player who invited you is not online.";
+"[Skupina] Hráè kterı zval, není online.";
+
+"Uriel allowed to enter.";
+"S Urielovım svolením mùeš vstoupit.";
+
+"[Group] Only the group leader can change this.";
+"[Skupina] Pouze vùdce skupiny mùe tohle zmìnit.";
+
+"[Group] The target is not a member of your group.";
+"[Skupina] Cíl není èlen tvé skupiny.";
+
+"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Skupina] Na tomto místì nemùeš vykopnout hráèe ze skupiny.";
+
+"[Group] You have been out kicked of the group.";
+"[Skupina] Byl jsi vykopnut ze skupiny.";
+
+"[Group] You cannot kick out group members.";
+"[Skupina] Nemùeš vykopnout èleny skupiny.";
+
+"[Guild] After disbanding a guild, you cannot create a new one for %d days.";
+"[Cech] Po smazání cechu nemùeš vytvoøit novı po dobu %d dní.";
+
+"[Guild] After leaving a guild, you cannot create a new one for %d days.";
+"[Cech] Po opuštìní cechu nemùeš zaloit novı po dobu %d dní.";
+
+"This guild name is invalid.";
+"Jméno cechu je neplatné.";
+
+"We request the participation of a lot of players.";
+"ádáme úèast mnoha hráèù.";
+
+"[Guild] [%s] guild has been created.";
+"[Cech] [%s] cech byl vytvoøen.";
+
+"[Guild] Creation of the guild has failed.";
+"[Cech] Vytvoøení cechu selhalo.";
+
+"[Group] Only the group leader can use group skills.";
+"[Skupina] Jen vedoucí skupiny mùe pouívat skupinové schopnosti.";
+
+"[Group] The target has not been found.";
+"[Skupina] Cíl nenalezen.";
+
+"[Guild] That is not the correct amount of Yang.";
+"[Cech] Tohle není správné mnoství Yangù.";
+
+"[Guild] You do not have enough Yang.";
+"[Cech] Nemáš dostatek Yangù.";
+
+"[Guild] The person you were searching for cannot be found.";
+"[Cech] Hledaná osoba nemùe bıt nalezena.";
+
+"[Guild] This person is not in the same guild.";
+"[Cech] Tahle osoba není ve stejném cechu.";
+
+"[Guild] You do not have the authority to kick out guild members.";
+"[Cech] Nemùeš vykopnout èleny cechu.";
+
+"[Guild] The guild member %s has been kicked out of the Guild.";
+"[Cech] Cechovní èlen %s byl vykopnut z cechu.";
+
+"OX The Event has not ended yet. An error has occurred. (flag: %d)";
+"Soutì OX ještì neskonèila, objevily se chyby.(flag: %d)";
+
+"[Guild] You have kicked a guild member out.";
+"[Cech] Vyhodil jsi èlena cechu.";
+
+"[Guild] You do not have the authority to change your rank name.";
+"[Cech] Nemùeš zmìnit své hodnostní jméno.";
+
+"[Guild] The guild leader's rights cannot be changed.";
+"[Cech] Práva cechovního vùdce nemohou bıt zmìnìny.";
+
+"[Guild] This rank name is invalid.";
+"[Cech] Hodnostní jméno je neplatné.";
+
+"[Guild] You do not have the authority to change your position.";
+"[Cech] Nemùeš zmìnit svoji pozici.";
+
+"[Guild] The rights of the guild leader cannot be changed.";
+"[Cech] Práva cechovního vùdce nemùou bıt zmìnìny.";
+
+"[Guild] %u experience points used.";
+"[Cech] Pouito %u zkušeností.";
+
+"[Guild] Experience usage has failed.";
+"[Cech] Uití zkušeností selhalo.";
+
+"[Guild] Insufficient Yang in the guild treasury.";
+"[Cech] V cechovní pokladnici nemáš dostatek Yangù!";
+
+"[Guild] Dragon ghost was not restored.";
+"[Cech] Draèí duch nebyl obnoven.";
+
+"The OX Event will be restarted shortly.";
+"Soutì OX bude zakrátko znovu spuštìna.";
+
+"[Guild] You do not have the authority to make an announcement.";
+"[Cech] Nemùeš udìlat prohlášení.";
+
+"[Guild] You do not have the authority to change the position.";
+"[Cech] Nemùeš zmìnit pozici.";
+
+"[Guild] The guild leader's position cannot be changed.";
+"[Cech] Hodnost cechovního vùdce nemùe bıt zmìnìna.";
+
+"[Guild] You cannot make yourself guild leader.";
+"[Cech] Nemùeš se udìlat cechovním vùdcem.";
+
+"[Guild] You do not have the authority to choose the guild leader.";
+"[Cech] Nemùeš vybrat vùdce cechu.";
+
+"[Guild] You cannot choose any more guild leaders.";
+"[Cech] Nemùeš vybrat více vùdcù.";
+
+"You cannot trade this item.";
+"Nemùeš obchodovat s tímto pøedmìtem.";
+
+"Illegal software has been detected. The game is being shut down.";
+"Ilegální software rozpoznán. Hra bude ukonèena.";
+
+"You have more than 2 Billion Yang with you. You cannot trade.";
+"Máš více jak 2 Bilionù Yangù. Nemùeš obchodovat.";
+
+"Invalid Yang.";
+"Neplatnı Yang.";
+
+"The present event is limited to one area.";
+"Souèasná událost je omezena jen na jednu oblast.";
+
+"Start Item Roulette.";
+"Spustit ruletu pøedmìtù.";
+
+"Start Yang Roulette.";
+"Spustit ruletu Yangù.";
+
+"The player is online. Please use whisper to chat.";
+"Hráè je online. Pouij šeptání na rozhovor.";
+
+"The cell phone number is not registered.";
+"Mobilní telefonní èíslo není registrováno.";
+
+"You need to be at least on level 20 to be able to send text messages.";
+"Musíš mít minimálnì úroveò 20 na posílání textovıch zpráv.";
+
+"You need 2000 DT to send a text message.";
+"Potøebuješ 2000 DT na poslání textové zprávy.";
+
+"Your text message has been sent.";
+"Tvá textová zpráva byla odeslána.";
+
+"%s of the Guild %s raised up to %d%% !";
+"%s cechu %s bylo zvıšeno na %d%%!";
+
+"%s of the Guild %s normal again.";
+"%s cechu %s je opìt normální.";
+
+"%s: %s has increased by %d%%!";
+"%s: %s zvıšeno o %d%%!";
+
+"%s 's %s normal again.";
+"%s 's %s je opìt normální.";
+
+"Your mining points have reached their maximum. (%d)";
+"Tvé tìební body se zvıšily na maximum. (%d).";
+
+"Your mining points have reached their maximum level.";
+"Tvé tìební body se zvıšily na nejvyšší úroveò.";
+
+"You can get lumberjack Deokbae to upgrade your Pickaxe.";
+"Mùeš vylepšit svùj krumpáè s pomocí døevorubce Deokbae.";
+
+"Your Mining Points have increased! (%d/%d)";
+"Tvé tìební body se zvıšily! (%d/%d)";
+
+"You cannot mine without a Pick.";
+"Bez krumpáèe nemùeš kopat.";
+
+"Nothing to mine here.";
+"Zde není nic na kopání.";
+
+"The mining has been successful.";
+"Kopání bylo úspìšné.";
+
+"The mining has failed.";
+"Kopání se nezdaøilo.";
+
+"[Friends] You have added %s as a friend.";
+"[Seznam pøátel] Pøidal jsi %s jako pøítele.";
+
+"The player will be teleported into the city shortly.";
+"Hráè bude za chvíli pøemístìn do mìsta.";
+
+"[Friends] You have deleted %s from the list.";
+"[Seznam pøátel] Vymazal jsi %s ze seznamu.";
+
+"A critical server error has occurred. The server will restart automatically.";
+"Kritická chyba serveru. Server bude automaticky restartován.";
+
+"You will be disconnected automatically in 10 seconds.";
+"Budeš odpojen za 10 vteøin.";
+
+"You can connect again after 5 minutes.";
+"Mùeš se pøipojit za 5 minut.";
+
+"(%s) guild has been created. [Temporary]";
+"(%s) Cech vytvoøen. [Doèasnì]";
+
+"This guild is at war.";
+"Cech je ve válce.";
+
+"%s: This guild does not exist.";
+"%s: Tento cech neexistuje.";
+
+"A guild with this name or number does not exist.";
+"Cech s tímto jménem nebo èíslem neexistuje.";
+
+"The building does not exist.";
+"Tato budova neexistuje.";
+
+"This type of building can only be erected once.";
+"Tenhle typ budovy mùe bıt postaven pouze jednou.";
+
+"Close the OX event card first. (Flag: %d)";
+"Nejdøíve zavøi kartu soutìe OX. (Flag: %d)";
+
+"The Main Building has to be erected first.";
+"Nejdøíve musí bıt postavena základní budova.";
+
+"Building failed because of incorrect pricing.";
+"Stavba selhala kvùli špatné stavební cenì.";
+
+"Your guild does not have enough Yang to erect this building.";
+"Tvùj cech nemá dostatek Yangù na stavbu této budovy.";
+
+"You do not have enough resources to build a building.";
+"Na tuto budovu nemáš dostatek surovin.";
+
+"You cannot erect a building at this place.";
+"Nemùeš postavit budovu na tomto místì.";
+
+"This character does not exist.";
+"Tato postava neexistuje.";
+
+"Duel has not been successfully cancelled.";
+"Souboj nezrušen.";
+
+"Duel cancelled successfully.";
+"Souboj úspìšnì zrušen.";
+
+"The duel has been successfully started.";
+"Souboj úspìšnì zahájen.";
+
+"There is a problem with initiating the duel.";
+"Problém se zahájením souboje.";
+
+"No errors occurred.";
+"Nevyskytly se ádné chyby.";
+
+"There are no combatants.";
+"Zde nejsou ádní bojovníci.";
+
+"No status points left.";
+"Nezbyly ádné body vlastností tìla.";
+
+"Remaining status points are too low.";
+"Zbıvá pøíliš málo bodù vlastností tìla.";
+
+"You entered an incorrect value.";
+"Vloil jsi neplatnou hodnotu.";
+
+"Suborder or the Order is incorrect.";
+"Subordinace rozkazu je neplatná.";
+
+"Broken contract between player %d and player %d.";
+"Zrušenı kontrakt mezi hráèem %d a hráèem %d.";
+
+"Turn the Roulette for %d Yang.";
+"Zatoèit ruletou za %d Yangù.";
+
+"The Item log placed into the syslog.";
+"Záznam pøedmìtu uloen do systémového záznamu.";
+
+"Information for the Kingdoms";
+"Informace pro království";
+
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d";
+"Vyber informace mapy svaté zemì %d vstup %d %d %d";
+
+"An error has occurred.";
+"Objevila se chyba.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+"%s zabití %d zabité pøíšery %d zabití bossù %d Èíslo svaté zemì %d";
+
+"Information about the status of the kingdom battle";
+"Informace o stavu bitvy království";
+
+"Your request is loading. Please wait.";
+"Tvùj poadavek je zavádìn. Prosím èekej.";
+
+"You cannot open a Storeroom while another window is open.";
+"Nemùeš otevøít Skladištì, kdy je otevøeno další okno.";
+
+"[Storeroom] Storeroom password has been changed.";
+"[Skladištì] Heslo ke skladišti bylo zmìnìno.";
+
+"[Storeroom] You have entered the wrong password.";
+"[Skladištì] Zadal jsi špatné heslo.";
+
+"Your playing time is going to run out in %d minutes.";
+"Tvùj herní èas vyprší za %d minut.";
+
+"Regularly voted.";
+"Øádnì voleno.";
+
+"Already voted.";
+"Ji voleno.";
+
+"%s player already in the vote.";
+"Hráè %s je ji ve volbì.";
+
+"OX Event is over. No errors occurred. (Flag: %d)";
+"Soutì OX skonèila, nevyskytly se ádné chyby.(Flag: %d)";
+
+"Cannot run for office.";
+"Nemùe bıt zvolen.";
+
+"%s still has %u Yang available.";
+"%s má stále %u Yangù.";
+
+"%s still has %d Yang available.";
+"%s má stále %d Yangù";
+
+"You do not have enough Yang.";
+"Nemáš dostatek Yangù.";
+
+"%s is deleted as an Emperor Candidate.";
+"%s byl smazán jako kandidát na císaøe.";
+
+"%s is not a candidate for the emperor elections.";
+"%s není kandidát na císaøe.";
+
+"%s has been nominated as emperor.";
+"%s byl nominován na císaøe.";
+
+"%s cannot be nominated as emperor.";
+"%s nemùe bıt nominován na císaøe.";
+
+"The %s Emperor gets driven out.";
+"Císaø %s byl vyhoštìn.";
+
+"The %s Emperor cannot be driven out.";
+"Císaø %s nemùe bıt vyhoštìn.";
+
+"OX Event is not accepting any more participants.";
+"Události OX se nemùe úèastnit více lidí.";
+
+"Shinsoo Kingdom";
+"Království Shinsoo";
+
+"Chunjo Kingdom";
+"Království Chunjo";
+
+"Jinno Kingdom";
+"Království Jinno";
+
+"Your fishing points have increased! (%d/%d)";
+"Tvé rybáøské body se zvıšily! (%d/%d)";
+
+"You have reached the maximum number of fishing points.";
+"Dosáhl jsi maximálního poètu rybáøskıch bodù.";
+
+"Go to the Fisherman and get your Fishing Pole upgraded!";
+"Vylepši svùj prut za pomocí rybáøe.";
+
+"You lost your bait to the fish.";
+"Ztratil si svoji návnadu.";
+
+"You have caught a fish! (%s)";
+"Chytil jsi rybu! (%s)";
+
+"The length of the captured fish is %.2fcm.";
+"Délka chycené ryby je %.2fcm.";
+
+"Fishing Event 'Great Zander'";
+"Rybáøská událost 'Nejlepší Rybáø'";
+
+"OX The other event participants are being noted down.";
+"OX Ostatní úèastníci události jsou uvedeni.";
+
+"Fishing Event 'Carp'";
+"Rybáøská událost 'Trpìlivost rùe pøináší'.";
+
+"%s: %d";
+"%s: %d";
+
+"You have caught %d of %d .";
+"Chytil jsi %d z %d.";
+
+"The fish vanished in the depths of the water.";
+"Ryba zmizela do nekoneènıch hlubin vody...";
+
+"There is a Clam inside the Fish.";
+"Uvnitø ryby je mušle.";
+
+"There is a Worm inside the Fish.";
+"Uvnitø ryby je èerv.";
+
+"You are roasting %s over the fire.";
+"Opekáš %s nad ohnìm.";
+
+"You cannot trade because you are carrying more than 2 billion Yang.";
+"Nemùeš obchodovat, protoe neseš více jak 2 Biliony Yangù.";
+
+"You can't give your shop an invalid name.";
+"Nemùeš pojmenovat své skladištì neplatnım jménem.";
+
+"You can't sell Item-Shop items in a private shop.";
+"Nemùeš prodat pøedmìt z obchodu doplòkù v soukromém stánku.";
+
+"OX The other event participants have not been noted down.";
+"OX Další úèastníci události nejsou uvedeni.";
+
+"Mining is finished.";
+"Kopání dokonèeno.";
+
+"You need a Pickaxe in order to extract ore!";
+"Vezmi si krumpáè.";
+
+"Please choose a Fishing Pole.";
+"Vyber si prut.";
+
+"Place the Bait on the Hook first.";
+"Nejdøíve dej návnadu na háèek.";
+
+"You can't go fishing without a fishing pole!";
+"Nemùeš jít rybaøit bez prutu.";
+
+"[Group] You cannot make a request because the group leader is not online.";
+"[Skupina] Nemùeš provést poadavek, protoe vedoucí skupiny není online.";
+
+"[Group] You cannot form a group with players from another kingdom.";
+"[Skupina] Nemùeš vytvoøit skupinu s hráèi z jinıch království.";
+
+"[Group] You cannot invite players while you are in a dungeon.";
+"[Skupina] Na tomto místì nemùeš pozvat hráèe do skupiny.";
+
+"[Group] You cannot invite a player while you are in observer mode.";
+"[Skupina] Nemùeš pozvat hráèe, kdy jsi v pozorovatelském módusu.";
+
+"[Group] Only players with a level difference of -30 to +30 can be invited.";
+"[Skupina] Pouze hráèi s rozdílem úrovní od -30 do +30 mohou bıt pozváni.";
+
+"Number of other participants : %d";
+"Poèet dalších úèastníkù: %d";
+
+"[Group] You cannot invite this player, as their level is too low.";
+"[Skupina] Nemùeš pozvat tohoto hráèe, jeho úroveò je pøíliš nízká.";
+
+"[Group] You cannot invite this player, as their level is too high.";
+"[Skupina] Nemùeš pozvat tohoto hráèe, jeho úroveò je pøíliš vysoká.";
+
+"[Group] You cannot invite any more players into your group.";
+"[Skupina] Nemùeš pozvat více hráèù do své skupiny.";
+
+"You want to join %s's group.";
+"Chceš se pøipojit ke skupinì hráèe %s?";
+
+"This player is not in this group.";
+"Tento hráè není v této skupinì.";
+
+"[Group] You cannot join this group because it is already full.";
+"[Skupina] Nemùeš se pøipojit k této skupinì, tato je ji plná.";
+
+"[Group] You do not have the right to invite someone.";
+"[Skupina] Nemáš právo nìkoho pozvat.";
+
+"[Group] %s has declined your group invitation.";
+"[Skupina] %s odmítl pozvání do tvé skupiny.";
+
+"[Group] %s is already in the group.";
+"[Skupina] %s je ji ve skupinì.";
+
+"[Group] You cannot accept an invitation into a dungeon.";
+"[Skupina] Na tomto místì nemùeš pøijmout pozvání do skupiny.";
+
+"OX Event is finishing.";
+"Soutì OX je u konce.";
+
+"[Group] You cannot accept the invitation.";
+"[Skupina] Nemùeš pøijmout pozvání.";
+
+"[Group] %s has declined your invitation.";
+"[Skupina] %s odmítl tvé pozvání.";
+
+"[Group] %s has joined your group.";
+"[Skupina] %s se pøipojil k tvé skupinì.";
+
+"[Group] %s has joined your Group.";
+"[Skupina] %s se pøipojil k tvé skupinì.";
+
+"You can't use a private shop now.";
+"Teï nemùeš pouít soukromı stánek.";
+
+"This player is already trading with another player.";
+"Tento hráè ji s nìkım obchoduje.";
+
+"Metin2 Confirmation Number: %s";
+"Metin2 Potvrzovací èíslo: %s";
+
+"Your Confirmation Number is not correct. Please try again.";
+"Vaše potvrzovací èíslo není správné. Prosím zkus to znovu.";
+
+"The mobile phone number is registered.";
+"Mobilní telefonní èíslo je registrováno.";
+
+"You cannot teleport to the player.";
+"Nemùeš se pøemístit k hráèi.";
+
+"OX The prize has been awarded. ID: %d Quantity: %d";
+"Odmìna soutìe OX byla pøedána. ID: %d Mnoství: %d";
+
+"This player is not online.";
+"Hráè není online.";
+
+"The player is playing on channel %d. (You are on channel %d.)";
+"Hráè je na kanále %d. (Ty jsi na kanále %d.)";
+
+"After opening the Storeroom, you cannot go anywhere else for %d seconds.";
+"Nemùeš jít nikam %d vteøin po otevøení skladištì.";
+
+"You cannot go elsewhere for a period of time after the trade.";
+"Nemùeš jít nikam chvíli po obchodu.";
+
+"After trading you cannot go elsewhere for %d seconds.";
+"Nemùeš jít nikam %d vteøin po obchodu.";
+
+"The duel has finished, because your combatant vanished.";
+"Souboj skonèil, tvùj bojovník zmizel.";
+
+"There is no limit for Potions.";
+"Není limit na elixíry.";
+
+"You can use up to %d potions.";
+"Mùeš pouít a %d elixírù.";
+
+"The fight will start in 10 seconds.";
+"Souboj zaène za 10 vteøin.";
+
+"The duel has begun.";
+"Souboj zaèal.";
+
+"TRUE";
+"TRUE";
+
+"The duel is being finished because there is a problem in the duel arena.";
+"Souboj skonèil kvùli problému s arénou.";
+
+"The duel has finished because of a timeout.";
+"Souboj skonèil, èas vypršel.";
+
+"In 10 seconds you will be teleported into the city.";
+"Za 10 vteøin budeš pøesunut do mìsta.";
+
+"The duel has been stopped because there is a problem in the arena.";
+"Souboj skonèil kvùli problému s arénou.";
+
+"Your combatant has got some problems. The duel is being cancelled.";
+"Tvùj soupeø má problémy. Souboj se ukonèuje.";
+
+"The duel is being cancelled as there is a problem with the combatant.";
+"Souboj skonèil kvùli problému se soupeøem.";
+
+"%s has won the duel.";
+"%s vyhrál souboj.";
+
+"%s has won.";
+"%s vyhrál.";
+
+"You will be teleported into the city in 10 seconds.";
+"Budeš pøesunut do mìsta za 10 vteøin.";
+
+"The next round will begin in 10 seconds.";
+"Další kolo zaène za 10 vteøin.";
+
+"FALSE";
+"FALSE";
+
+"The combatants have been separated. The duel has been stopped.";
+"Soupeø byl oddìlenı. Souboj skonèil.";
+
+"The quota of the Item Drop is at the moment plus %d%%";
+"Šance na upuštìní pøedmìtù je v tuto chvíli plus %d%%";
+
+"The quota of the Yang Drop is at the moment plus %d%%";
+"Kvóta upuštìnıch Yangù je v tuto chvíli plus %d%%";
+
+"The drop rate for Yang rain is currently %d%% higher.";
+"Momentální šance na padnutí Yangù je o %d%% vyšší.";
+
+"The experience bonus is currently an additional %d%%.";
+"Zkušenostní bonus je momentálnì dalších %d%%.";
+
+"You do not have the correct client version. Please install the normal patch.";
+"Verze herního klienta není správná. Prosíme, nainstaluj poslední patch.";
+
+"You cannot trade in the shop while another window is open.";
+"Nemùeš obchodovat, kdy je otevøené další okno.";
+
+"You are too far away from the shop to buy something.";
+"Jsi pøíliš daleko od obchodu na nákup.";
+
+"You are too far away from the shop to sell something.";
+"Jsi pøíliš daleko od obchodu na prodej.";
+
+"Total number of the Quiz: %d";
+"Celkové èíslo kvízu: %d";
+
+"This sale will be taxed %d%%.";
+"Daò z prodeje: %d%%.";
+
+"You cannot ride a Horse while you are transformed.";
+"Nemùeš jet na koni po dobu tvoji promìny.";
+
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo.";
+"Nemùeš jet na koni pokud máš na sobì svatební šaty, nebo smoking.";
+
+"You do not have a Horse.";
+"Nemáš konì.";
+
+"Your Horse is dead.";
+"Tvùj kùò je mrtvı.";
+
+"Your Horse's endurance is too low.";
+"Vytrvalost tvého konì je pøíliš malá.";
+
+"Calling the Horse has failed.";
+"Volání konì selhalo.";
+
+"'s Horse";
+"Kùò";
+
+"The wedding is finishing soon.";
+"Svatba brzy skonèí.";
+
+"Will be left automatically.";
+"Bude automaticky opuštìno.";
+
+"The war is already over.";
+"Válka ji skonèila.";
+
+"The result will follow in 10 seconds.";
+"Vısledek bude znám za 10 vteøin.";
+
+"You cannot trade while observing.";
+"Nemùeš obchodovat pøi pozorování.";
+
+"If the window is open, you cannot trade with others.";
+"Pokud je otevøeno okno, nemùeš obchodovat s ostatními.";
+
+"The other person is currently busy so you cannot trade right now.";
+"Druhá osoba je momentálnì zaneprázdnìna, take s ní nyní nemùeš obchodovat.";
+
+"The other person has cancelled the trade.";
+"Druhá osoba zrušila obchod.";
+
+"Not enough Yang or not enough space in the inventory.";
+"Nedostatek Yangù, nebo prostoru v inventáøi.";
+
+"The other person does not have enough Yang or does not have any space left in their inventory.";
+"Druhá osoba nemá dostatek Yangù, nebo místa v inventáøi.";
+
+"The other person has no space left in their inventory.";
+"Druhá osoba nemá dostatek místa v inventáøi.";
+
+"The trade with %s has been successful.";
+"Obchod s %s byl úspìšnı.";
+
+"You did not lose any Experience because of the Blessing of the Dragon God.";
+"Neztratil jsi ádné zkušenosti, díky poehnání draèího boha.";
+
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d";
+"Aktuální skóre:  Shinsoo: %d, Chunjo: %d, Jinno: %d";
+
+"The correct answer is:";
+"Správná odpovìï je:";
+
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+
+"The devil of the hallowed place: [ENTER][ENTER]";
+"Ïábel svatého místa: [ENTER][ENTER]";
+
+", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.";
+", nemáš ádné právo tu bıt. Tohle je svaté místo. Odtáhni! Pøíslušníci tvého království opustí svaté místo za 10 sekund.";
+
+"%s has been defeated and drops out of the Kingdom Battle.";
+"Království %s bylo poraeno a vypadlo z bitvy království.";
+
+"Number of Monsters in the Kingdom Battle:";
+"Poèet pøíšer v Bitvì královstvích:";
+
+"If you defeat the Guard of the Holy Place, you will become the owner of it.";
+"Pokud porazíš stráce svatého místa, staneš se jeho vlastníkem.";
+
+"You did not drop any Item(s) as you are protected by the Dragon God.";
+"Díky ochranì draèího boha, jsi nepustil ádné vìci.";
+
+"Additional Stabbing Weapon Damage %d";
+"Extra poškození bodnou zbraní %d";
+
+"%s block! (%d%%)";
+"%s blok! (%d%%)";
+
+"%s avoid! (%d%%)";
+"%s vyhnout! (%d%%)";
+
+"Yes (O)";
+"Ano (O)";
+
+"%s[%d]'s Attack Position: %d %d";
+"%s[%d]s Útoèná pozice: %d %d";
+
+"Please enter the Order in full length.";
+"Prosím zadej rozkaz v plném znìní.";
+
+"You cannot do this whilst sitting on a Horse.";
+"Tohle nemùeš dìlat pokud sedíš na koni.";
+
+"You cannot do that while you are lying on the ground.";
+"Tohle nemùeš dìlat pokud leíš na zemi.";
+
+"In my Dreams? What?";
+"V mıch snech? Coe?";
+
+"Get up first.";
+"Nejprve vstaò.";
+
+"This command does not exist.";
+"Tento rozkaz neexistuje.";
+
+"[Group] This group has been disbanded.";
+"[Skupina] Skupina byla zrušena.";
+
+"[Group] You cannot call the target.";
+"[Skupina] Nemùeš zavolat cíl.";
+
+"[Group] You cannot call group members over to your current position.";
+"[Skupina] Nemùeš zavolat èleny skupiny na tvoji souèasnou pozici.";
+
+"No (X)";
+"Ne (X)";
+
+"Your group works well together, and group members near the group leader will receive an experience bonus.";
+"Skupina skvìle spolupracuje a její èlenové poblí velitele obdrí zkušenostní bonus.";
+
+"Leader";
+"Vùdce";
+
+"Member";
+"Èlen";
+
+"[Guild] Provided Experience is larger then left Experience.";
+"[Cech] Poskytnuté zkušenosti jsou vìtší ne zbylé zkušenosti.";
+
+"[Guild] This message cannot be deleted.";
+"[Cech] Zpráva nemùe bıt smazána.";
+
+"[Guild] Not enough Dragon Ghost. (%d, %d)";
+"[Cech] Nedostatek draèího ducha. (%d, %d)";
+
+"[Guild] You cannot use the guild skills yet.";
+"[Cech] Nemùeš ještì uít cechovní schopnost.";
+
+"[Guild] %d skill has been applied (%d, %d) to %u.";
+"[Cech] %d -schopnost byla uita (%d, %d) na %u.";
+
+"[Guild] This player is on channel %d. (Current channel: %d)";
+"[Cech] Hráè je na kanále %d. (Souèasnı kanál: %d)";
+
+"[Guild] This player is not online.";
+"[Cech] Hráè není online.";
+
+"In 5 sec. everyone who gave an incorrect answer will be removed.";
+"Za 5 vteøin budou všichni kdo špatnì odpovìdìli vyøazeni.";
+
+"[Guild] This guild skill can only be used during war.";
+"[Cech] Tato cechovní schopnost mùe bıt pouita pouze ve válce.";
+
+"[Guild] %u Dragon ghost points have been restored.";
+"[Cech] %u bodù draèího ducha bylo obnoveno.";
+
+"[Guild] Only the guild leader can withdraw Yang.";
+"[Cech] Pouze cechovní mistr mùe vybrat Yangy.";
+
+"[Guild] The player has declined the guild invitation.";
+"[Cech] Hráè odmítl pozvání do cechu.";
+
+"[Guild] You do not have the authority to invite someone to join the guild.";
+"[Cech] Nemùeš pøijímat nikoho do cechu.";
+
+"[Guild] You cannot invite players from another kingdom into the guild.";
+"[Cech] Nemùeš pøijímat do cechu hráèe z jiného království.";
+
+"[Guild] This player can be invited again after %d day(s).";
+"[Cech] Tento hráè mùe bıt znovu pozván za %d dní.";
+
+"[Guild] After the rearrangement you can invite members again after %d days.";
+"[Cech] Po novém uspoøádání mùeš opìt pøijímat èleny za %d dní.";
+
+"[Guild] This person is already a member of another Guild.";
+"[Cech] Tato osoba je ji èlenem jiného cechu.";
+
+"[Guild] The maximum guild capacity has been reached.";
+"[Cech] Kapacita cechu dosáhla nejvyšší úrovnì.";
+
+"Ready for the next question?";
+"Pøipraven na další otázku?";
+
+"You cannot train this skill.";
+"Nemùeš trénovat tuto schopnost.";
+
+"You cannot train this skill up to Grand Master level.";
+"Nemùeš trénovat tuto schopnost na úroveò velmistra.";
+
+"You already are a Master of this skill. You cannot train this skill any further.";
+"Ji jsi mistr této schopnosti. Nemùeš ji dál trénovat.";
+
+"Your Skill is not high enough to become a Grand Master.";
+"Nemáš dost vysokou úroveò tvé schopnosti pro trénink na velmistra.";
+
+"That did not work. Damn!";
+"Upsala, tohle nefungovalo. Hrom do toho!";
+
+"Training has failed. Please try again later.";
+"Trénink selhal. Zkus to prosím pozdìji.";
+
+"My body is full of energy!";
+"Mé tìlo je plné síly!";
+
+"The training seems to be working already...";
+"Zdá se, e trénink funguje...";
+
+"You successfully finished your training with the book.";
+"Dokonèil jsi trénink s knihou úspìšnì.";
+
+"You cannot read this due to your lack of experience.";
+"Tohle nemùeš pøeèíst, máš málo zkušeností.";
+
+"Question.";
+"Otázka.";
+
+"You cannot train this skill with a Book.";
+"U nemùeš trénovat tuto schopnost s knihou.";
+
+"This skill's level is not high enough to be trained with a Book.";
+"Tato schopnost není dost vysoká, aby mohla bıt trénována s knihou.";
+
+"I'm making progress, but I still haven't understood everything.";
+"Lepším se, ale stále nerozumím všemu.";
+
+"These instructions are difficult to understand. I have to carry on studying.";
+"Instrukcím je tìké porozumìt. Musím více studovat.";
+
+"I understand this chapter. But I've got to carry on working hard.";
+"Této kapitole rozumím. Ale musel jsem tvrdì pracovat.";
+
+"You have successfully finished your training with the Book.";
+"Dokonèil jsi trénink s knihou úspìšnì.";
+
+"Teleportation has failed.";
+"Pøemístìní selhalo.";
+
+"No Horse here. Ask the Stable Boy.";
+"Zde není ádnı kùò. Zeptej se pacholka.";
+
+"Please use an item to call a Horse.";
+"Pouij pøedmìt, abys zavolal konì.";
+
+"%s FP-Consumption: %d";
+"%s SB Spotøeba: %d";
+
+"If it's correct, then go to O. If it's wrong, go to X.";
+"Pokud je to správnì, jdìte na O. Pokud je to špatnì, jdìte na X.";
+
+"I am burning inside, but it is calming down my body. My Chi has to stabilise.";
+"Hoøím uvnitø, ale zklidòuje to mé tìlo. Moje Chi se musí stabilizovat.";
+
+"A little slow, but steady... Without stopping!";
+"Pomalu... ale stále... bez zastavování!";
+
+"Yes, that feels great. My body is full of Chi.";
+"Ano, cítím se skvìle. Mé tìlo je plné Chi.";
+
+"I have read it! Now the Chi will spread through my body.";
+"Pøeèetl jsem to! Nyní mım tìlem protéká Chi.";
+
+"The training is completed.";
+"Trénink je ukonèen.";
+
+"I am on the last page of the book. The training is nearly finished!";
+"Jsem na poslední stránce knihy! Trénink je témìø ukonèen!";
+
+"Nearly finished! Just a little bit more to go!";
+"Skoro hotovo! U jen trochu!";
+
+"Eureka! I have nearly finished reading it!";
+"Jsem osvícen! Skoro jsem to pøeèetl celé!";
+
+"Only a few more pages and then I'll have read everything.";
+"U jen pár stránek zbıvá a budu to mít celé pøeèteno.";
+
+"I feel refreshed.";
+"Cítím se osvìen.";
+
+"Correct!";
+"Správnì!";
+
+"Now I understand it!";
+"Nyní rozumím!";
+
+"Okay I have to stay concentrated!";
+"Dobøe, mìl bych zùstat dále soustøedìnı.";
+
+"I keep reading the same line over and over again.";
+"Ètu ten samı øádek poøád dokola.";
+
+"I do not want to learn any more.";
+"Nechci se uèit nic dalšího.";
+
+"It is a lot more complicated and more difficult to understand than I thought.";
+"Je to sloitìjší ne jsem si myslel.";
+
+"It's hard for me to concentrate. I should take a break.";
+"Nemohu se poøádnì soustøedit. Mìl bych si dát pauzu.";
+
+"Your chat has been blocked by a GM.";
+"Tvùj chat byl zablokován GM.";
+
+"Your chat block has been lifted.";
+"Tvá blokace chatu byla zrušena.";
+
+"The Build window is already open.";
+"Okno vıroby je ji otevøeno.";
+
+"You cannot build something while another trade/storeroom window is open.";
+"Nemùeš nic vyrábìt, pokud je jiné okno obchodu/skladištì otevøeno.";
+
+"No further improvements possible.";
+"Další zlepšení není moné.";
+
+"The build window is not open.";
+"Okno vıroby není otevøeno.";
+
+"You do not have the right material.";
+"Nemáš správnı materiál.";
+
+"[Guild] Please try again later.";
+"[Cech] Zkus to prosím pozdìji.";
+
+"You have to read %d more skill books to improve this skill.";
+"Musíš pøeèíst ještì %d knih, abys vylepšil tuto schopnost.";
+
+"You are only able to use this function while you are at the castle.";
+"Tuhle funkci mùeš pouít pouze na hradì.";
+
+"TEST: The Gold Bar has been paid back to your kingdom's safe.";
+"TEST: Zlaté pruty byly vráceny zpìt do trezoru tvého království.";
+
+"TEST: In your kingdom's safe there are: %d";
+"TEST: V trezoru tvého království je: %d";
+
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe.";
+"TEST: Nejsi schopen zaplatit zlaté pruty zpìt do trezoru tvého království.";
+
+"[Guild] The guild has reached %d points.";
+"[Cech] Dosaeno %d bodù.";
+
+"This item cannot be improved.";
+"Tento pøedmìt nemùe bıt zlepšen.";
+
+"The free weapon improvements can only be used on weapons up to level 20.";
+"Bezplatné zbraòové zlepšení mohou bıt uity pouze na zbranì do úrovnì 20.";
+
+"You cannot use this item because you do not fulfil all the requirements.";
+"Nejsi schopen pouít tento pøedmìt, protoe nemáš dostateènou kvalifikaci.";
+
+"You are not able to use that item because you do not have the right gender.";
+"Nemùeš pouít tento pøedmìt, protoe nejsi správného pohlaví.";
+
+"Use: transfer <name>";
+"Pouít: transfer <name>";
+
+"This function can only be used by the emperor.";
+"Tato funkce mùe bıt pouita pouze císaøem.";
+
+"You cannot recruit players from another kingdom.";
+"Nemùeš nabírat hráèe z jiného království.";
+
+"The player %s is on channel %d at the moment. (Your channel: %d)";
+"Hráè %s je v tuto chvíli na kanále %d. (Tvùj kanál: %d)";
+
+"You have recruited %s players.";
+"Nabral jsi %s hráèe.";
+
+"There is no user with this name.";
+"Zde není ádnı uivatel tohoto jména.";
+
+"You cannot recruit yourself.";
+"Nemùeš nabrat sám sebe.";
+
+"Your level is too low to use this item.";
+"Tvá úroveò je pøíliš nízká na pouití tohoto pøedmìtu.";
+
+"You cannot upgrade anything while another window is open.";
+"Nemùeš nic vylepšit, kdy je otevøené další okno.";
+
+"The emperor of %s has changed to %s.";
+"Císaø %s se zmìnil na %s.";
+
+"There are %s wars to inflame the bonfires.";
+"V %s je válka na zapálení signálního ohnì.";
+
+"%s has successfully defended.";
+"%s byl schopen se ubránit úspìšnì.";
+
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire.";
+"30 minut od teï mue hráè %s dostat odmìnu, protoe znièil signální oheò.";
+
+"30 minutes are over. The bonfires have disappeared.";
+"30 minut ubìhlo. Signální ohnì zmizely.";
+
+"A bonfire was inflamed at %s to warn because of a battle.";
+"Signální ohnì byly zapáleny v %s aby upozornily na boj.";
+
+"%s has destroyed the bonfire.";
+"%s znièil signální oheò.";
+
+"%s lost the war as they have not been able to defend the castle.";
+"%s prohráli válku. Nebyli schopni ubránit hrad.";
+
+"%s has destroyed all the bonfires.";
+"%s znièil všechny signální ohnì.";
+
+"You can only open the shop if you take off your armour.";
+"Jsi schopen otevøít stánek pouze pokud se svleèeš.";
+
+"%d hours %d minutes %d seconds left on your chat block";
+"%d hodin, %d minut a %d sekund bude ještì trvat tvùj blok chatu";
+
+"%d hours %d seconds left on your chat block";
+"%d hodin a %d sekund budete ještì blokování na chatu";
+
+"%d minutes %d seconds left on your chat block";
+"%d minut a %d sekund bude ještì trvat blokace chatu.";
+
+"Yang rain drop rate";
+"Èetnost padání Yangù";
+
+"Not the right material for an upgrade.";
+"Nemáš správnı materiál na vırobu tohoto pøedmìtu.";
+
+"All kingdoms";
+"Všechna království";
+
+"Item drop rate in percent";
+"Podíl padlıch pøedmìtù";
+
+"Yang drop rate in percent";
+"Podíl padlıch Yangù";
+
+"Experience percentage";
+"Procentová míra bodù zkušeností";
+
+"%d seconds left on your chat block";
+"%d sekund bude ještì trvat blokace chatu.";
+
+"You cannot express emotions whilst riding a horse.";
+"Nemùeš vyjadøovat emoce, pokud jedeš na koni.";
+
+"You cannot use emotions with a player who is riding on a Horse.";
+"Nemùeš vyjadøovat emoce hráèi, kterı jede na koni.";
+
+"[Guild] The enemy's guild leader is offline.";
+"[Cech]Velitel nepøátelského cechu je offline.";
+
+"[Guild] This guild is taking part in a battle at the moment.";
+"[Cech] Tento cech se momentálnì úèastní války.";
+
+"You're already riding. Get off first.";
+"Ji jedeš. Nejprve sesedni.";
+
+"You cannot upgrade items with this Scroll.";
+"Nemùeš zlepšovat s tímto pergamenem.";
+
+"You can only be rewarded once for the Demon Tower Quest.";
+"Za úkol Vìe Démonù mùeš bıt odmìnìn pouze jednou.";
+
+"Dragon Stone has been removed.";
+"Draèí kámen byl odebrán.";
+
+"You cannot move the item within the refinement window.";
+"Nemùeš pøesunout pøedmìt v oknì pro zušlechtìní.";
+
+"Dragon Stone remaining duration has been extracted.";
+"Zbıvající èas Draèího kamene byl odebrán.";
+
+"Remaining duration extraction failed.";
+"Odebrání zbıvajícího èasu selhalo.";
+
+"Removal of Dragon Stone failed. But you have received the following: %s";
+"Odebrání Draèího kamene selhalo. Ovšem povedlo se ti získat následující: %s";
+
+"Removal of Dragon Stone failed.";
+"Odebrání Draèího kamene selhalo.";
+
+"This item is not required for improving the clarity level.";
+"Tento pøedmìt není pro vylepšení èirosti zapotøebí.";
+
+"This item cannot be advanced this way.";
+"Tento pøedmìt nemùe bıt zlepšen touto cestou.";
+
+"Improvement of the clarity level successful.";
+"Vylepšení èirosti bylo úspìšné.";
+
+"Refinement up one class failed.";
+"Zušlechtìní o jeden stupeò selhalo.";
+
+"This item is not required for refinement.";
+"Tento pøedmìt není pro zušlechtìní tøeba.";
+
+"Refinement up one class was successful.";
+"Zušlechtìní o jeden stupeò bylo úspìšné.";
+
+"Improvement of the clarity level failed.";
+"Vylepšení èirosti selhalo.";
+
+"You do not own the materials required to strengthen the Dragon Stone.";
+"Nemáš všechny suroviny, potøebné pro vylepšení Draèího kamene.";
+
+"This Dragon Stone cannot be used for strengthening.";
+"Draèí kámen nelze vyuít pro zesílení.";
+
+"Strengthening was successful.";
+"Zesílení bylo úspìšné.";
+
+"Strengthening failed.";
+"Zesílení se nezdaøilo.";
+
+"You are already carrying a Dragon Stone of this type.";
+"Ji nosíš Draèí kámen tohoto typu.";
+
+"The Dragon Stone cannot be removed.";
+"Draèí kámen nelze odebrat.";
+
+"You have already equipped this kind of Dragon Stone.";
+"Tento druh Draèího kamene ji máš ve vıbavì.";
+
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.";
+"Pøed tím, ne budeš moci otevøít Cor Draconis, musíš dokonèit úkol Draèí kámen a aktivovat Alchymii Draèích kamenù.";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"Opasek mùeš odebrat pouze pokud v nìm ji nejsou ádné pøedmìty.";
+
+"You can combine the Blessing Scroll with the Magic Iron Ore.";
+"Mùete kombinovat Magickı kámen a Poehnanı pergamen.";
+
+"You cannot equip this item in your belt inventory.";
+"Tento pøedmìt si nemùeš na opasek pøidat.";
+
+"[1106-??]No puedes unir esto.";
+"[1106-??]No puedes unir esto.";
+
+"You have invested %d Yang.";
+"Investoval jsi %d Yangù.";
+
+"There is no Stone available to take out.";
+"Zde není ádnı kámen na sebrání.";
+
+"You cannot store this location.";
+"Nemùeš uloit tuto pozici.";
+
+"There isn't enough space in your inventory.";
+"Nemáš dostatek místa v inventáøi.";
+
+"You cannot teleport to a safe position in a foreign Kingdom.";
+"Nemùeš se pøemístit na bezpeèné místo v cizím království.";
+
+"You don't have enough HP.";
+"Nemáš dostatek ZB.";
+
+"You don't have enough Spell Points (SP) to use this.";
+"Nemáš dostatek bodù magie (MB) na pouití.";
+
+"You'll reach your destination in %d seconds.";
+"%d vteøin po vykonání se dostaneš do místa urèení.";
+
+"You can only use a Moon Cake every 5 seconds.";
+"Mìsíèní koláèek mùeš pouít pouze kadıch 5 vteøin.";
+
+"You cannot use this item in a duel.";
+"Tento pøedmìt nemùeš pouít pøi souboji.";
+
+"You have won %d Yang.";
+"Vyhrál jsi %d Yangù.";
+
+"You cannot build a campfire here.";
+"Zde nemùeš dìlat táborák.";
+
+"You cannot build a campfire under water.";
+"Nemùeš dìlat táborák pod vodou... to pøeci dá rozum.";
+
+"Closed. You should look for the key.";
+"Zavøeno. Mìl bys jít hledat klíè.";
+
+"This item cannot be opened with a key.";
+"Tento pøedmìt nemùe bıt otevøen klíèem.";
+
+"That's the right key.";
+"Tohle je správnı klíè.";
+
+"You have received %d Yang.";
+"Obdrel jsi %d Yangù.";
+
+"A mysterious light comes out of the box.";
+"Z této bedny vychází tajemná záøe.";
+
+"You have received %d experience points.";
+"Obdrel jsi %d bodù zkušeností.";
+
+"Look what came out of the box!";
+"Podívej, co vypadlo z bedny!";
+
+"[Guild] The guild level is too low.";
+"[Cech] Úroveò cechu je pøíliš nízká.";
+
+"If you inhale the red smoke coming out of the box, your speed will increase!";
+"Pokud vdechneš rudı kouø vycházející z bedny, budeš rychlejší!";
+
+"You cannot add more bonus.";
+"You cannot add more bonus.";
+
+"New bonus added successfully.";
+"New bonus added successfully.";
+
+"You cannot change the bonuses.";
+"You cannot change the bonuses.";
+
+"%s needed.";
+"%s needed.";
+
+"OX-Question: ";
+"OX-Question: ";

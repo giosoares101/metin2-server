@@ -1,0 +1,15 @@
+#ifndef __INC_METIN_II_VERSION_H__
+#define __INC_METIN_II_VERSION_H__
+
+#include <ostream>
+
+#define __REVISION__ "@METIN2_REVISION@"
+#define __COMMIT_DATE__ @METIN2_LAST_CHANGED_DATE@
+#define __COMMIT_TAG__ "@METIN2_LATEST_TAG@"
+#define __OS_NAME__ "@METIN2_OS_NAME@"
+#define __COMPILER__ "@METIN2_COMPILER@"
+#define __CPU_TARGET__ "@METIN2_CPU_TARGET@"
+
+void WriteVersion();
+
+#endif

@@ -1,0 +1,2228 @@
+"Everyone will be teleported into the city shortly.";
+"Tout le monde sera téléporté dans la cité choisie dans un instant.";
+
+"This item does not exist.";
+"Cet objet n'existe pas.";
+
+"The box suddenly exploded! You have lost Hit Points (HP).";
+"La boîte explose soudainement ! Vos PV sont réduits.";
+
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!";
+"Si vous inhalez la fumée verte s'échappant de la boîte, du poison se propagera dans votre corps!";
+
+"You have received %s, %d units.";
+"Vous avez reçu %s, %d unités.";
+
+"The box contains %s.";
+"Il y a %s dans cette boîte.";
+
+"This key does not seem to fit the lock.";
+"Cette clé ne semble pas aller dans cette serrure.";
+
+"You have not received anything.";
+"Vous n'avez rien reçu.";
+
+"You do not have enough Yang to use this item.";
+"Vous n'avez pas assez de Yangs pour utiliser cet objet.";
+
+"You have lowered your Skill Level.";
+"Vous avez baissé votre niveau de compétence.";
+
+"You cannot lower your Skill Level.";
+"Vous ne pouvez pas baisser votre niveau de compétence.";
+
+"This effect is already activated.";
+"L'effet est déjà en cours.";
+
+"This item can only be used in an Internet cafe.";
+"Cet objet ne peut être utilisé que dans un cybercafé.";
+
+"That is over the limit.";
+"La limite est dépassée.";
+
+"Unfortunately you don't have enough space in your inventory.";
+"Vous n'avez malheureusement pas assez de place dans votre inventaire.";
+
+"Used Moon Cake or Seed.";
+"Vous avez utilisé un gâteau de Lune ou un noyau.";
+
+"You cannot wear a Wedding Ring if you are not married.";
+"Vous ne pouvez pas porter d'alliance si vous n'êtes pas marié(e).";
+
+"You cannot use the Event Detector from this position.";
+"Vous ne pouvez pas utiliser le détecteur d'évènement depuis cet endroit.";
+
+"This item cannot be absorbed.";
+"Cet objet ne peut pas être stocké.";
+
+"The Event Detector vanished in a mysterious light.";
+"Le détecteur d'évènement a disparu dans un halo mystérieux.";
+
+"The Event Detector has vanished.";
+"Le détecteur d'évènement a disparu.";
+
+"The Compass for Metin Stones does not work in dungeons.";
+"Le compas de la Metin ne fonctionne pas dans les donjons.";
+
+"The Compass for Metin Stones has vanished in the mysterious light.";
+"Le compas de la Metin a disparu avec le halo mystérieux.";
+
+"Receive: %s - %d";
+"Obtenez : %s - %d";
+
+"The Compass for Metin Stones has vanished.";
+"Le compas de la Metin a disparu.";
+
+"You find a simple Piece of Stone in the Clam.";
+"Vous trouvez un morceau de pierre dans la palourde.";
+
+"The Clam has vanished.";
+"La palourde a disparu.";
+
+"There is a White Pearl inside the Clam.";
+"Il y a une perle blanche à l'intérieur du coquillage.";
+
+"There is a Blue Pearl inside the Clam.";
+"Il y a une perle bleue à l'intérieur du coquillage.";
+
+"There is a Blood-Red Pearl inside the Clam.";
+"Il y a une Perle de sang à l'intérieur du coquillage.";
+
+"It isn't easy to understand this book.";
+"Il n'est pas facile de comprendre ce livre.";
+
+"This book will not help you.";
+"Ce livre ne peut pas vous aider.";
+
+"You need to have a minimum level of 30 to understand this book.";
+"Vous devez être au moins de niveau 30 pour comprendre ce livre.";
+
+"You need a minimum level of 50 to understand this book.";
+"Vous devez être au moins de niveau 50 pour comprendre ce livre.";
+
+"You can't train any more Combos.";
+"Vous ne pouvez plus apprendre de Combo.";
+
+"%s has captured the flag of %s!";
+"La Guilde %s a capturé le drapeau de la Guilde %s !";
+
+"You already understand this language.";
+"Vous comprenez déjà cette langue.";
+
+"You have to improve your Level to read this Book.";
+"Vous devez augmenter votre niveau pour comprendre ce livre.";
+
+"The book is too hard for practising.";
+"Ce livre est difficile à apprendre.";
+
+"You cannot train with this Book any more.";
+"Vous ne pouvez pas en apprendre plus avec ce livre.";
+
+"Taxes are set to %d%%.";
+"Les taxes sont fixées à %d %%.";
+
+"You need a minimum level of 50 to get riding training.";
+"Vous ne pouvez apprendre l'équitation qu'à partir du niveau 50.";
+
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll.";
+"Vous avez repoussé la malédiction du mauvais Esprit avec l'aide d'un parchemin d'exorcisme.";
+
+"You cannot read any more Riding Guides.";
+"Vous ne pouvez plus lire de livres d'équitation.";
+
+"You read the Horse Riding Manual and received a Riding Point.";
+"Vous avez reçu un point d'équitation après avoir lu un manuel d'équitation.";
+
+"You can use this point to improve your riding skill!";
+"Vous pouvez améliorer votre équitation en utilisant ce point.";
+
+"The guild %s's flag has been stolen by player %s.";
+"Le drapeau de la Guilde %s a été capturé par %s.";
+
+"You did not understand the riding guide.";
+"Vous n'avez pas compris cet ouvrage d'équitation.";
+
+"Your mind is clear. You can concentrate really well now.";
+"Vous avez l'esprit clair. Vous pouvez vous concentrer correctement à présent.";
+
+"Your rank has increased by %d points.";
+"Votre rang a été augmenté de %d points.";
+
+"You cannot dye or bleach your current hairstyle.";
+"Vous ne pouvez pas teindre ou décolorer votre coupe de cheveux actuelle.";
+
+"You need to have reached level %d to be able to dye your hair again.";
+"Vous devez atteindre le niveau %d pour pouvoir teindre vos cheveux à nouveau.";
+
+"This item can only be opened by the another gender.";
+"Cet objet ne peut être ouvert que par un individu de l'autre sexe.";
+
+"You cannot use this from your current position.";
+"Vous ne pouvez utiliser cela depuis cet endroit.";
+
+"You are ready to warp, so you cannot use the Scroll of the Location.";
+"Vous êtes sur le point d'être téléporté, vous ne pouvez donc pas utiliser le parchemin du lieu.";
+
+"You are being brought back to the place of origin.";
+"Vous êtes renvoyé au commencement.";
+
+"%s%s cannot be used in a dungeon.";
+"%s%s ne peut être utilisé dans un donjon.";
+
+"[Quest] You have already received your reward.";
+"[Quête] Vous avez déjà reçu votre récompense.";
+
+"the";
+"Le.";
+
+"There aren't any Pieces of Broken Stone available for removal.";
+"Aucun morceau de Pierre pouvant être enlevé.";
+
+"You cannot change the upgrade of this item.";
+"Vous ne pouvez pas changer l'amélioration de cet objet.";
+
+"There is no upgrade that you can change.";
+"Vous n'avez aucune amélioration à faire.";
+
+"You can only do this %d minutes after an upgrade. (%d minutes left)";
+"Vous ne pouvez faire cela qu'au bout de %d minutes après votre amélioration. (%d minutes restantes).";
+
+"You have changed the upgrade.";
+"Vous changez l'amélioration.";
+
+"Upgrade successfully added.";
+"Amélioration ajoutée avec succès.";
+
+"No upgrade added.";
+"Aucune amélioration ajoutée.";
+
+"You must use the Blessing Marble in order to add another bonus to this item.";
+"Vous devez utiliser l'orbe de bénédiction afin d'ajouter un nouveau bonus à cet objet.";
+
+"You cannot use this in the duel arena.";
+"Vous ne pouvez utiliser cette arène.";
+
+"This item can no longer be improved. The maximum number of bonuses has been reached.";
+"Cet objet ne peut plus être amélioré. Le nombre maximum de bonus a été atteint.";
+
+"You can only use the Blessing Marble with an item which already has 4 bonuses.";
+"Seul l'orbe de bénédiction peut être utilisé pour un objet possédant déjà 4 bonus.";
+
+"Socket successfully added.";
+"Un emplacement a bien été ajouté.";
+
+"No socket added.";
+"Aucun emplacement ajouté.";
+
+"No additional sockets could be added to this item.";
+"Vous ne pouvez plus ajouter d'emplacement à cet objet.";
+
+"You cannot add a socket to this item.";
+"Vous ne pouvez pas ajouter d'emplacement à cet objet.";
+
+"Arming successful.";
+"Vous avez réussi à vous armer.";
+
+"Arming has failed.";
+"Vous avez échoué à vous armer.";
+
+"You have to add a socket first. Use a diamond in order to do this.";
+"Vous devez tout d'abord ajouter un emplacement en utilisant un diamant.";
+
+"There are no sockets for gemstones in this item.";
+"Il n'y a pas d'emplacement pour gemme sur cet objet.";
+
+"You can do this when you wear an Emotion Mask.";
+"Vous pouvez faire cela uniquement si vous portez un masque d'émotions.";
+
+"You have to add a socket if you want to use a Diamond.";
+"Vous devez ajouter un emplacement pour pouvoir utiliser un diamant.";
+
+"No more gems can be added to this item.";
+"Aucune Gemme supplémentaire ne peut être ajoutée à cet objet.";
+
+"These items cannot be used together.";
+"Ces objets ne peut pas être utilisés ensemble.";
+
+"You cannot change the Bait whilst fishing.";
+"Vous ne pouvez pas changer l'appât pendant que vous pêchez.";
+
+"You are exchanging the current Bait for %s.";
+"Vous échangez l'appât actuel avec %s.";
+
+"You attached %s to the hook as bait.";
+"Vous avez mis %s comme appât sur votre hameçon.";
+
+"You are missing some ingredients to make the potion.";
+"Vous n'avez pas le nécessaire pour préparer cette potion.";
+
+"You do not have enough material (%s).";
+"Vous n'avez pas assez de matériel (%s).";
+
+"You do not have enough empty bottles.";
+"Vous n'avez pas assez de bouteilles vides.";
+
+"The potion production has failed.";
+"La création de la potion a échoué.";
+
+"Only women can do this.";
+"Seules les femmes peuvent faire cela.";
+
+"You cannot attach several stones of the same type.";
+"Vous ne pouvez pas monter plusieurs pierres d'esprit du même type.";
+
+"This Spirit Stone cannot be attached to this type of item.";
+"Cette Pierre d'esprit ne peut pas être montée sur ce genre d'objet.";
+
+"You cannot attach this Spirit Stone to a weapon.";
+"Vous ne pouvez pas monter cette Pierre d'esprit sur une arme.";
+
+"You have attached the Spirit Stone successfully.";
+"Cette Pierre d'esprit a été liée avec succès.";
+
+"The Spirit Stone broke while being attached.";
+"Cette Pierre d'esprit s'est brisée lors de la tentative de liaison.";
+
+"No slot free.";
+"Aucun emplacement libre.";
+
+"This function is not available right now.";
+"Cette fonction n'est pas disponible ici pour l'instant.";
+
+"You cannot use a Scroll of the Location whilst taking part in a kingdom battle.";
+"Vous ne pouvez pas utiliser le parchemin du lieu pendant une bataille des empires.";
+
+"After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.";
+"Vous ne pouvez pas utiliser le parchemin du lieu pendant %d secondes après l'ouverture de l'entrepôt.";
+
+"You cannot use a Scroll of the Location while another window is open.";
+"Vous ne pouvez pas utiliser le parchemin du lieu tant qu'une autre fenêtre est ouverte.";
+
+"This person does not exist.";
+"Cette personne n'existe pas.";
+
+"After a trade, you cannot use a scroll for another %d seconds.";
+"Vous ne pouvez utiliser parchemin durant les %d secondes suivant un échange.";
+
+"After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.";
+"Vous ne pouvez pas utiliser le parchemin du lieu pendant %d secondes après l'ouverture de l'entrepôt.";
+
+"You cannot use the Scroll of the Location because the distance is too small.";
+"Vous ne pouvez pas utiliser le parchemin du lieu, car la distance est trop faible.";
+
+"After a trade you cannot use a Scroll of the Location for %d seconds.";
+"Vous ne pouvez pas utiliser le parchemin du lieu pendant %d secondes après un échange.";
+
+"You cannot open the Storeroom if another window is already open.";
+"Vous ne pouvez pas ouvrir un espace de stockage si une autre fenêtre est déjà ouverte.";
+
+"You cannot drop this item.";
+"Vous ne pouvez pas lâcher cet objet.";
+
+"The dropped item will vanish in 5 minutes.";
+"L'objet abandonné disparaîtra dans 5 minutes.";
+
+"%s received";
+"Vous avez reçu %s.";
+
+"You have too many items in your inventory.";
+"Vous portez trop d'objets.";
+
+"%s receives %s.";
+"%s reçoit %s.";
+
+"You are too near.";
+"Vous êtes trop proche.";
+
+"Item Trade: %s, %s";
+"Objets échangés : %s, %s.";
+
+"You cannot change the equipped item while you are transformed.";
+"Vous ne pouvez pas changer d'objets équipés tant que vous êtes transformé.";
+
+"You have to stand still to equip the item.";
+"Vous ne devez pas être actif pour pouvoir vous équiper.";
+
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.";
+"Vous ne pouvez pas nourrir un cheval vivant avec de l'herbe des singes, elle sert à le ressusciter.";
+
+"You cannot feed a dead Horse.";
+"Vous ne pouvez pas nourrir un cheval mort.";
+
+"You fed the Horse with Herbs.";
+"Vous avez nourri un cheval avec des Herbes médicinales.";
+
+"You have fed the Horse.";
+"Vous avez nourri le cheval.";
+
+"Your level is too low to wear this Hairstyle.";
+"Votre niveau est trop faible pour porter cette coupe de cheveux.";
+
+"You already have this Hairstyle.";
+"Vous avez déjà cette coupe de cheveux.";
+
+"You have already transformed.";
+"Vous êtes déjà transformé.";
+
+"You are too far away.";
+"Vous êtes trop éloigné(e).";
+
+"That's the wrong trading item.";
+"C'est un objet qui ne peut être échangé.";
+
+"You cannot transform into a monster who has a higher level than you.";
+"Vous ne pouvez pas vous transformer en un monstre ayant un niveau plus élevé que vous.";
+
+"Your level is too low to equip this item.";
+"Votre niveau est trop bas pour équiper cet objet.";
+
+"You are not strong enough to equip yourself with this item.";
+"Vous n'êtes pas assez fort pour équiper cet objet.";
+
+"Your intelligence is too low to equip yourself with this item.";
+"Vous manquez de points d'intelligence pour pouvoir vous équiper de cet objet.";
+
+"Your dexterity is too low to equip yourself with this item.";
+"Vous manquez de dextérité pour pouvoir vous équiper de ceci.";
+
+"Your vitality is too low to equip yourself with this item.";
+"Vous manquez de vitalité pour pouvoir vous équiper de cet objet.";
+
+"You cannot use this item because you are not married.";
+"Vous ne pouvez pas utiliser cet objet car vous n'êtes pas marié(e).";
+
+"You cannot equip this item twice.";
+"Vous ne pouvez pas vous équiper de cet objet deux fois.";
+
+"Time left until the removal of the socket of %s: %d";
+"%s Temps restant avant de pouvoir vider un emplacement : %d.";
+
+"This action can only be done with another gender.";
+"Cette action ne peut être employée qu'avec un membre de l'autre sexe.";
+
+"A gem socketed in the %s has vanished.";
+"Une gemme a disparu de %s.";
+
+"[Guild] This guild name is invalid.";
+"[Guild] The Guildname is invalid.";
+
+"[Guild] This guild name is already taken.";
+"[Guilde] Ce nom de Guilde est déjà pris.";
+
+"[Guild] You cannot found a guild.";
+"[Guilde] Vous ne pouvez pas créer de Guilde.";
+
+"The guild %s has declared war on %s!";
+"La Guilde %s a déclaré la guerre à la Guilde %s !";
+
+"[Guild] %s has refused the Guild war.";
+"[Guilde] %s a refusé la guerre de Guildes.";
+
+"The guild war between %s and %s will start in a few seconds!";
+"La guerre de guilde entre %s et %s commencera dans quelques minutes !";
+
+"The guild war between %s and %s has begun!";
+"La guerre entre la Guilde %s et la Guilde %s a démarré !";
+
+"The guild war between %s and %s has ended in a draw.";
+"La guerre entre la Guilde %s et la Guilde %s se termine en match nul.";
+
+"%s has won the guild war against %s.";
+"La Guilde %s a gagné la guerre contre la Guilde %s .";
+
+"You need your fellow player's approval for this.";
+"Vous devez avoir l'accord de votre partenaire pour cela.";
+
+"[Guild] The guild war has been cancelled.";
+"[Guilde] La guerre de Guildes a été annulée.";
+
+"The guild war between %s and %s has been cancelled.";
+"La guerre entre la Guilde %s et la Guilde %s a été annulée.";
+
+"Close";
+"Fermer";
+
+"Action cancelled. You have entered a battle.";
+"Annulée. Vous avez déjà commencé à vous battre.";
+
+"Someone has logged into your account. You will be disconnected from the server.";
+"Une personne se connecte avec votre compte. Vous allez être déconnecté.";
+
+"A mysterious light appears from the tree.";
+"Une mystérieuse lumière apparaît depuis l'arbre.";
+
+"%d Playtime added to your account. (Payment number %d)";
+"%d temps de jeu a été ajouté à votre compte. (Paiement numéro %d).";
+
+"You can participate in the guild battle in viewer mode.";
+"Vous pouvez participer à cette bataille entre Guildes en mode spectateur.";
+
+"While choosing a character, an icon appears.";
+"Lorsque vous choisissez un personnage, une icône apparaît.";
+
+"There are no opponents.";
+"Il n'y a aucun ennemi.";
+
+"The battle with %s has begun!";
+"La bataille contre %s a commencé !";
+
+"If no enemy can be found, the guild war will be ended automatically.";
+"Si aucun ennemi ne peut être trouvé, la guerre de Guildes sera automatiquement conclue.";
+
+"Because the guild war finished early, the result will judged as a draw.";
+"Comme la guerre de Guilde a été interrompue, elle sera considérée comme match nul.";
+
+"The energy is reflected because of the Emperors Blessing.";
+"L'énergie est réfléchie du fait de la Bénédiction de l'Empereur.";
+
+"After %d seconds you can use the Emperors Blessing.";
+"Après %d secondes vous pouvez utiliser la Bénédiction des Empereurs.";
+
+"Not enough tax income : %d.";
+"Trop peu de taxes parviennent : %d.";
+
+"[TEST_ONLY]Tax : %d";
+"[TEST_ONLY]Impôt : %d.";
+
+"Transformation error.";
+"Erreur pendant la transformation.";
+
+"You learned the transmutation completely.";
+"Votre apprentissage de la polymorphie est parfait !";
+
+"Please call your Horse first.";
+"Veuillez appeler votre cheval auparavant.";
+
+"You have sent your horse away.";
+"Vous avez renvoyé votre cheval.";
+
+"%s challenged you to a battle!";
+"%s vous défie pour une bataille !";
+
+"You have to get off your Horse.";
+"Vous devez descendre de votre cheval.";
+
+"You cannot feed your Horse whilst sitting on it.";
+"Vous ne pouvez pas nourrir votre cheval alors que vous êtes en selle.";
+
+"You have fed the Horse with %s%s.";
+"Vous avez donné du %s%s au cheval.";
+
+"You need %s.";
+"Vous avez besoin de %s.";
+
+"%d seconds until Exit.";
+"%d secondes avant la fermeture.";
+
+"The game will be closed in %d seconds.";
+"Le jeu sera fermé dans %d secondes.";
+
+"Your logout has been cancelled.";
+"Votre déconnexion a été annulée.";
+
+"Back to login window. Please wait.";
+"Retour à la fenêtre de connexion. Veuillez patienter.";
+
+"You have been disconnected from the server. Please wait.";
+"Vous avez été déconnecté du serveur. Veuillez patienter.";
+
+"You have challenged %s to a battle.";
+"Vous défiez %s pour une bataille !";
+
+"You are changing character. Please wait.";
+"Vous avez changé de personnage. Veuillez patienter.";
+
+"A new start is not possible at the moment. Please wait %d seconds.";
+"Un nouveau démarrage n'est pas possible actuellement, attendez %d secondes.";
+
+"You cannot restart yet. Please wait another %d seconds.";
+"Aucun nouveau démarrage possible actuellement, attendez %d secondes.";
+
+"You cannot restart in the city yet. Wait another %d seconds.";
+"Aucun démarrage possible dans la ville, attendez %d secondes.";
+
+"The waiting time has expired. You will be revived in the city.";
+"Le temps d'attente est écoulé. Vous allez être ressuscité en ville.";
+
+"You cannot change your status while you are transformed.";
+"Vous ne pouvez changer vos caractéristiques tant que vous êtes transformé.";
+
+"This player is currently fighting.";
+"Le joueur est en ce moment en train de se battre.";
+
+"[Guild] It does not belong to the guild.";
+"[Guilde] Ceci n'appartient pas à la Guilde.";
+
+"[Guild] You do not have the authority to change the level of the guild skills.";
+"[Guilde] Vous ne pouvez pas changer le niveau des compétences de la Guilde.";
+
+"Your choice is incorrect.";
+"Votre choix est incorrect.";
+
+"[Storeroom] You have entered an incorrect password.";
+"[Entrepôt] Vous avez entré un mauvais mot de passe.";
+
+"[Storeroom] The Storeroom is already open.";
+"[Entrepôt] L'entrepôt est déjà ouvert.";
+
+"[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.";
+"[Entrepôt] Vous devez attendre 10 secondes pour ouvrir à nouveau l'entrepôt.";
+
+"[Storeroom] You are too far away to open the storeroom.";
+"[Entrepôt] Votre distance à l'entrepôt est trop grande pour pouvoir l'ouvrir.";
+
+"[Group] The server cannot execute this group request.";
+"[Groupe] Le serveur ne peut pas éxécuter la demande pour être groupé.";
+
+"[Group] You cannot leave a group while you are in a dungeon.";
+"[Groupe] Vous ne pouvez pas quitter un Groupe alors que vous êtes dans un donjon.";
+
+"[Group] You have left the group.";
+"[Groupe] Vous quittez le groupe.";
+
+"[Guild] Your guild is already participating in another war.";
+"[Guilde] Votre Guilde participe déjà à une autre guerre.";
+
+"[Guild] No one is entitled to a guild war.";
+"[Guilde] Une guerre de Guildes n'est pas justifiée.";
+
+"[Guild] No guild with this name exists.";
+"[Guilde] Aucune Guilde portant ce nom.";
+
+"There already is a candidacy.";
+"Il y a déjà une candidature.";
+
+"[Guild] This guild is already participating in a war.";
+"[Guilde] Cette Guilde participe déjà à une guerre.";
+
+"[Guild] Not enough Yang to participate in a guild war.";
+"[Guilde] Pas assez de Yangs pour participer à une guerre de Guildes.";
+
+"[Guild] The guild does not have enough Yang to participate in a guild war.";
+"[Guilde] La Guilde n'a pas assez de Yangs pour participer à une guerre de Guildes.";
+
+"[Guild] This Guild is already scheduled for another war.";
+"[Guilde] Cette Guilde est déjà prêvue pour une autre guerre de Guildes.";
+
+"[Guild] This guild is already participating in another war.";
+"[Guilde] Cette Guilde participe déjà à une autre guerre de Guildes.";
+
+"[Guild] A minimum of %d players are needed to participate in a guild war.";
+"[Guilde] Au moins %d joueurs doivent participer pour qu'une guerre des Guildes puissent avoir lieu.";
+
+"[Guild] The guild does not have enough points to participate in a guild war.";
+"[Guilde] La Guilde n'a pas assez de points pour participer à une Guerre de Guilde.";
+
+"[Guild] The guild does not have enough members to participate in a guild war.";
+"[Guilde] La Guilde n'a pas assez de membres pour participer à une guerre de Guildes.";
+
+"Your level has to be higher than 20 to register a cell phone number.";
+"Votre niveau doit être supérieur à 20 pour enregistrer votre numéro de téléphone portable.";
+
+"You do not have the emperor qualification.";
+"Vous n'avez pas les prérequis pour être Empereur.";
+
+"%s declined the invitation.";
+"%s a décliné l'invitation.";
+
+"You cannot accept the invitation because you are already in the group.";
+"Vous ne pouvez pas accepter l'invitation car vous êtes déjà dans un groupe.";
+
+"Only the emperor can use this.";
+"Seul l'Empereur peut utiliser ceci.";
+
+"Cooldown time for approximately %d seconds";
+"Temps d'attente approximatif : %d secondes.";
+
+"Lack of Taxes. Current Capital : %u Missing Capital : %u";
+"Manque de taxes. Fonds actuels : %u Fonds manquants : %u";
+
+"Command: warpto <character name>";
+"Ordre : warpto <character name>";
+
+"You cannot be warped to an unknown player.";
+"Vous ne pouvez rien transmettre à un joueur inconnu.";
+
+"Adding player %d into the channel. (Present channel %d)";
+"Ajouter le joueur %d au canal. (Canal actuel %d).";
+
+"Warp to player %s.";
+"Transmettre à %s.";
+
+"You cannot call unknown players.";
+"Vous ne pouvez pas appeler des joueurs inconnus.";
+
+"[Guild] There are no experience points for hunting during a guild war.";
+"[Guilde] Pendant une guerre de Guildes, aucun point d'expérience ne peut être en chassant.";
+
+"When the Blessing of the Emperor is used %s the HP and SP are restored again.";
+"Lorsque la bénédiction de l'Empereur %s est utilisée les PV et PM sont restaurés.";
+
+"My information about the emperor";
+"Information de mon Empereur.";
+
+"[%sMonarch] : %s Yang owned %lld";
+"[%sMonarch] : %s Yangs propres %lld.";
+
+"[%sMonarch] : %s";
+"[%sMonarch] : %s.";
+
+"Information about the emperor";
+"Informations sur l'Empereur";
+
+"Only an emperor can use this.";
+"Seul un Empereur peut utiliser ceci.";
+
+"Choose a number between 1 and 50.";
+"Choisissez un nombre entre 1 et 50.";
+
+"The Monster cannot be called. Check the Mob Number.";
+"Le monstre ne peut être appelé. Vérifiez le numéro du Mob.";
+
+"Hit Points +%d";
+"Points de vie +%d";
+
+"Spell Points +%d";
+"Points de Mana +%d.";
+
+"The Emperor Blessing is activated.";
+"La bénédiction des Empereurs est activée.";
+
+"Endurance +%d";
+"Endurance +%d.";
+
+"Intelligence +%d";
+"Intelligence +%d.";
+
+"Strength +%d";
+"Force +%d";
+
+"Dexterity +%d";
+"Dextérité +%d";
+
+"Attack Speed +%d";
+"Vitesse d'attaque +%d.";
+
+"Movement Speed %d";
+"Vitesse de déplacement %d.";
+
+"Cooldown Time -%d";
+"Temps de rechargement -%d";
+
+"Energy Recovery +%d";
+"Récupération de l'Énergie +%d.";
+
+"Spell Point Recovery +%d";
+"Récupération de la Mana +%d.";
+
+"Poison Attack %d";
+"Attaque empoisonnée %d.";
+
+"Star +%d";
+"Etoile +%d.";
+
+"Speed Reduction +%d";
+"Malus de vitesse +%d.";
+
+"Critical Attack with a chance of %d%%";
+"Chances de faire une attaque critique %d%%.";
+
+"Chance of a Speared Attack of %d%%";
+"Chance de toucher avec une flèche %d%%.";
+
+"Player's Attack Power against Monsters +%d%%";
+"Puissance de l'attaque du joueur contre un monstre +%d%%.";
+
+"Horse's Attack Power against Monsters +%d%%";
+"Puissance de l'attaque du cheval contre un monstre +%d%%.";
+
+"Attack Boost against Wonggui + %d%%";
+"Bonus d'attaque contre Wonggui + %d%%.";
+
+"Attack Boost against Milgyo + %d%%";
+"Bonus d'attaque contre Milgyo + %d%%.";
+
+"Attack boost against zombies + %d%%";
+"Bonus d'attaque contre un mort-vivant + %d%%.";
+
+"Attack boost against devils + %d%%";
+"Bonus d'attaque contre le Démon + %d%%.";
+
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.";
+"Par l'Empereur Sa-Za-Hu le joueur %s obtient dans cette région 10%% en force d'attaque pendant 3 minutes.";
+
+"Absorbing of Energy %d%% while attacking.";
+"Absorption de l'Énergie %d%% durant une attaque.";
+
+"Absorption of Spell Points (SP) %d%% while attacking.";
+"Absorption de Mana %d%% durant une attaque.";
+
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy.";
+"%d%% de chance de prendre de la Mana à l'ennemi.";
+
+"Absorbing of Spell Points (SP) with a chance of %d%%";
+"Chance de %d%% d'absorber du Mana.";
+
+"%d%% Chance of blocking a close-combat attack";
+"%d%% de chance d'esquiver une attaque de mêlée.";
+
+"%d%% Chance of blocking a long range attack";
+"%d%% de chance d'esquiver une attaque à distance.";
+
+"One-Handed Sword defence %d%%";
+"Défense contre l'épée %d%%.";
+
+"Two-Handed Sword Defence %d%%";
+"Défense contre l'épée à deux mains %d%%.";
+
+"Bell Defence %d%%";
+"Défense contre le Gong %d%%.";
+
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.";
+"Par l'Empereur Geum-Gang-Gwon le joueur %s obtient dans cette région 10%% de défense en plus pendant 3 minutes.";
+
+"Fan Defence %d%%";
+"Défense contre l'éventail %d%%.";
+
+"Distant Attack Resistance %d%%";
+"Résistance aux attaques à distance %d%%.";
+
+"Fire Resistance %d%%";
+"Résistance au Feu %d%%.";
+
+"Lightning Resistance %d%%";
+"Résistance à la foudre %d%%.";
+
+"Magic Resistance %d%%";
+"Résistance à la Magie %d%%.";
+
+"Wind Resistance %d%%";
+"Résistance au Vent %d%%.";
+
+"Reflect Direct Hit: %d%%";
+"Renvoyer un coup direct : %d%%.";
+
+"Reflect Curse: %d%%";
+"Renvoyer malédiction : %d%%.";
+
+"Poison Resistance %d%%";
+"Résistance au Poison %d%%.";
+
+"Spell Points (SP) will be increased by %d%% if you win.";
+"La Mana sera plus forte de %d%% si vous l'emportez.";
+
+"The event is already running. (Flag: %d)";
+"L'évènement est déjà en cours. (Flag: %d).";
+
+"Experience increases by %d%% if you win against an opponent.";
+"L'expérience sera augmentée de %d%% si vous l'emportez.";
+
+"Increase of Yang up to %d%% if you win.";
+"Augmentation des Yangs %d%% si vous l'emportez.";
+
+"Increase of captured Items up to %d%% if you win.";
+"Augmentation des objets capturés de %d%% si vous l'emportez.";
+
+"Power increase of up to %d%% after taking the potion.";
+"Augmentation de la Puissance de %d%% lorsque vous prenez une potion.";
+
+"%d%% Chance of filling up Hit Points after a victory.";
+"%d%% de chance de récupérer tous vos points de vie après avoir vaincu un ennemi.";
+
+"No Dizziness %d%%";
+"Pas d'étourdissement %d%%.";
+
+"No Slowing Down %d%%";
+"Pas de ralentissement %d%%.";
+
+"No falling down %d%%";
+"Pas de chute %d%%.";
+
+"Attack Power + %d";
+"Puissance de l'attaque + %d.";
+
+"Armour + %d";
+"Armure + %d.";
+
+"OX quiz script could not be loaded.";
+"Le script OX Quiz n'a pas pu être chargé.";
+
+"Magical Attack + %d";
+"Attaque Magique + %d.";
+
+"Magical Defence + %d";
+"Défense Magique + %d.";
+
+"Maximum Endurance + %d";
+"Endurance maximale + %d.";
+
+"Strong against Warriors + %d%%";
+"Force contre les Guerriers + %d%%.";
+
+"Strong against Ninjas + %d%%";
+"Force contre les Ninjas + %d%%.";
+
+"Strong against Sura + %d%%";
+"Force contre les Sura + %d%%.";
+
+"Strong against Shamans + %d%%";
+"Force contre les Chamanes + %d%%.";
+
+"Strength against monsters + %d%%";
+"Force contre les Monstres + %d%%.";
+
+"Attack + %d%%";
+"Attaque + %d%%.";
+
+"Defence + %d%%";
+"Défense + %d%%.";
+
+"OX quiz script has loaded.";
+"Le script OX Quiz a été chargé.";
+
+"Experience %d%%";
+"Expérience %d%%.";
+
+"Chance to find an Item %. 1f";
+"Chance de trouver un objet %. 1f.";
+
+"Chance to find Yang %. 1f";
+"Chance de trouver des Yangs %. 1f.";
+
+"Maximum Energy +%d%%";
+"Limite supérieure d'Énergie +%d%%.";
+
+"Skill Damage %d%%";
+"Dommage des compétences %d%%.";
+
+"Hit Damage %d%%";
+"Dommage des coups %d%%.";
+
+"Resistance against Skill Damage %d%%";
+"Résistance contre les dommages de compétences %d%%.";
+
+"Resistance against Hits %d%%";
+"Résistance contre les dommages des coups %d%%.";
+
+"%d%% Resistance against Warrior Attacks";
+"%d%% Résistance contre les attaques des Guerriers.";
+
+"Welcome to Metin2.";
+"Bienvenue sur Metin2.";
+
+"%d%% Resistance against Ninja Attacks";
+"%d%% Résistance contres les attaques des Ninjas.";
+
+"%d%% Resistance against Sura Attacks";
+"%d%% Résistance contre les attaques des Sura.";
+
+"%d%% Resistance against Shaman Attacks";
+"%d%% Résistance contre les attaques des Chamanes.";
+
+"(Procedure: %d y- %d m - %d d)";
+"(Procédé: %d y- %d m - %d d).";
+
+"Your chat is blocked.";
+"Votre fenêtre de discussion est fermée.";
+
+"You need a higher level to be able to call.";
+"Vous avez besoin d'un niveau plus élevé pour pouvoir Crier";
+
+"You need a minimum level of %d to be able to call.";
+"Il faut être au moins de niveau %d pour pouvoir crier.";
+
+"You are not in this Group.";
+"Vous n'êtes pas dans ce groupe.";
+
+"You did not join this Guild.";
+"Vous n'avez pas rejoint cette Guilde.";
+
+"The player has rejected your request to add him to your friend list.";
+"Le joueur a refusé d'être ajouté à votre liste d'amis.";
+
+"OX Event has started.";
+"OX L'évènement a commencé.";
+
+"[Friends] You cannot add a GM to your list.";
+"[Amis] Vous ne pouvez pas ajouter un GM à votre liste.";
+
+"%s is not online.";
+"%s n'est pas connecté(e).";
+
+"After a trade, you have to wait %d seconds before you can open a shop.";
+"Après avoir échangé, vous devez attendre %d secondes avant de pouvoir ouvrir un magasin.";
+
+"You can trade again in %d seconds.";
+"Vous pourrez échanger à nouveau dans %d secondes.";
+
+"You have more than 2 Billion Yang. You cannot trade.";
+"Vous avez plus de 2 milliards de Yangs. Vous ne pouvez pas échanger.";
+
+"You cannot open a private shop while another window is open.";
+"Vous ne pouvez pas ouvrir de magasin privé tant qu'une autre fenêtre est ouverte.";
+
+"The player has more than 2 Billion Yang. You cannot trade with him.";
+"Le joueur a plus de 2 milliards de Yangs. Vous ne pouvez pas échanger avec lui.";
+
+"[Storeroom] No movement possible.";
+"[Stockage] Aucun mouvement possible.";
+
+"[Storeroom] The item cannot be stored.";
+"[Stockage] Cet objet ne peut pas être stocké.";
+
+"[Group] The player who invited you is not online.";
+"[Groupe] Le joueur qui a formulé l'invitation n'est pas en ligne.";
+
+"Uriel allowed to enter.";
+"Uriel est autorisé à entrer.";
+
+"[Group] Only the group leader can change this.";
+"[Groupe] Seul le chef du Groupe peut changer cela.";
+
+"[Group] The target is not a member of your group.";
+"[Groupe] La cible n'est pas un membre de votre groupe.";
+
+"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Groupe] Vous ne pouvez pas rejeter un joueur alors que vous êtes dans un donjon.";
+
+"[Group] You have been out kicked of the group.";
+"[Groupe] Vous avez été rejeté du Groupe.";
+
+"[Group] You cannot kick out group members.";
+"[Groupe] Vous ne pouvez pas rejeter un membre du Groupe.";
+
+"[Guild] After disbanding a guild, you cannot create a new one for %d days.";
+"[Guilde] Après la dissolution d'une Guilde, vous ne pouvez pas en créer de nouvelle avant %d jours.";
+
+"[Guild] After leaving a guild, you cannot create a new one for %d days.";
+"[Guilde] Après avoir quitté une Guilde, vous ne pouvez pas en créer de nouvelle avant %d jours.";
+
+"This guild name is invalid.";
+"Ce nom de Guilde n'est pas valide.";
+
+"We request the participation of a lot of players.";
+"Nous demandons à un grand nombre de joueurs de participer.";
+
+"[Guild] [%s] guild has been created.";
+"[Guilde] La Guilde [%s] a été créée.";
+
+"[Guild] Creation of the guild has failed.";
+"[Guilde] La création de la Guilde a échoué.";
+
+"[Group] Only the group leader can use group skills.";
+"[Groupe] Seule le chef du Groupe peut utiliser les compétences de Groupe.";
+
+"[Group] The target has not been found.";
+"[Groupe] La cible n'a pas été trouvée.";
+
+"[Guild] That is not the correct amount of Yang.";
+"[Guilde] Ce n'est pas la somme de Yangs correcte.";
+
+"[Guild] You do not have enough Yang.";
+"[Guilde] Vous n'avez pas assez de Yangs.";
+
+"[Guild] The person you were searching for cannot be found.";
+"[Guilde] La personne recherchée n'a pas été trouvée.";
+
+"[Guild] This person is not in the same guild.";
+"[Guilde] Cette personne n'est pas dans la même Guilde.";
+
+"[Guild] You do not have the authority to kick out guild members.";
+"[Guilde] Vous ne pouvez pas rejeter des membres de la Guilde.";
+
+"[Guild] The guild member %s has been kicked out of the Guild.";
+"[Guilde] Le membre de la Guilde %s a été rejeté de la Guide.";
+
+"OX The Event has not ended yet. An error has occurred. (flag: %d)";
+"OX L'évènement n'est pas encore terminée. Une erreur s'est produite. (Flag: %d).";
+
+"[Guild] You have kicked a guild member out.";
+"[Guilde] Vous avez rejeté le membre de la Guilde.";
+
+"[Guild] You do not have the authority to change your rank name.";
+"[Guilde] Vous ne pouvez pas changer le nom de votre Grade.";
+
+"[Guild] The guild leader's rights cannot be changed.";
+"[Guilde] Les pouvoirs du Maître de la Guilde ne peuvent être changés.";
+
+"[Guild] This rank name is invalid.";
+"[Guilde] Ce nom de Grade est invalide.";
+
+"[Guild] You do not have the authority to change your position.";
+"[Guilde] Vous ne pouvez pas changer votre position.";
+
+"[Guild] The rights of the guild leader cannot be changed.";
+"[Guilde] Les pouvoirs du Maître de la Guilde ne peuvent être changés.";
+
+"[Guild] %u experience points used.";
+"[Guilde] %u points d'expérience utilisés.";
+
+"[Guild] Experience usage has failed.";
+"[Guilde] L'utilisation de l'expérience a échoué.";
+
+"[Guild] Insufficient Yang in the guild treasury.";
+"[Guilde] Pas assez de Yangs dans la banque de guilde.";
+
+"[Guild] Dragon ghost was not restored.";
+"[Guilde] L'Esprit du Dragon n'a pas été restauré.";
+
+"The OX Event will be restarted shortly.";
+"Dans un petit moment l'évènement OX redémarrera.";
+
+"[Guild] You do not have the authority to make an announcement.";
+"[Guilde] Vous ne pouvez pas faire d'annonce.";
+
+"[Guild] You do not have the authority to change the position.";
+"[Guilde] Vous n'êtes pas autorisé à changer la position.";
+
+"[Guild] The guild leader's position cannot be changed.";
+"[Guilde] Le grade du Maître de la Guilde ne peut être changé.";
+
+"[Guild] You cannot make yourself guild leader.";
+"[Guilde] Vous ne pouvez pas vous faire vous-même Maître de la Guilde.";
+
+"[Guild] You do not have the authority to choose the guild leader.";
+"[Guilde] Vous n'avez pas les pouvoirs pour choisir votre Maître de Guilde.";
+
+"[Guild] You cannot choose any more guild leaders.";
+"[Guilde] Vous ne pouvez pas choisir davantage de Maîtres de guilde.";
+
+"You cannot trade this item.";
+"Vous ne pouvez pas échanger cet objet.";
+
+"Illegal software has been detected. The game is being shut down.";
+"Un programme illégal a été détecté. Le jeu va être fermé.";
+
+"You have more than 2 Billion Yang with you. You cannot trade.";
+"Vous avez plus de 2 milliards de Yangs. Vous ne pouvez pas commercer.";
+
+"Invalid Yang.";
+"Yangs invalides.";
+
+"The present event is limited to one area.";
+"L'animation actuelle est limitée à une région.";
+
+"Start Item Roulette.";
+"Démarrer la Roulette d'objet.";
+
+"Start Yang Roulette.";
+"Démarrer la Roulette de Yang.";
+
+"The player is online. Please use whisper to chat.";
+"Il/elle est en ligne. Veuillez utiliser le chuchotement.";
+
+"The cell phone number is not registered.";
+"Le numéro de téléphone portable n'est pas enregistré.";
+
+"You need to be at least on level 20 to be able to send text messages.";
+"Vous devez être au moins niveau 20 pour pouvoir envoyer des messages.";
+
+"You need 2000 DT to send a text message.";
+"Vous avez besoin de 2000 Yangs pour envoyer un message.";
+
+"Your text message has been sent.";
+"Votre message a été envoyé.";
+
+"%s of the Guild %s raised up to %d%% !";
+"%s de la Guilde %s a été augmenté de %d%%.";
+
+"%s of the Guild %s normal again.";
+"%s de la Guilde %s est à nouveau normal.";
+
+"%s: %s has increased by %d%%!";
+"%s : %s a été augmenté de %d%% !";
+
+"%s 's %s normal again.";
+"%s de %s est à nouveau normal.";
+
+"Your mining points have reached their maximum. (%d)";
+"Vos points d'extraction ont atteint le maximum. (%d).";
+
+"Your mining points have reached their maximum level.";
+"Vos points d'extraction ont été montés au plus haut niveau.";
+
+"You can get lumberjack Deokbae to upgrade your Pickaxe.";
+"Vous pouvez améliorer votre pioche avec l'aide d'un bûcheron.";
+
+"Your Mining Points have increased! (%d/%d)";
+"Vos points d'extraction ont augmenté ! (%d/%d).";
+
+"You cannot mine without a Pick.";
+"Sans pioche vous ne pouvez pas extraire.";
+
+"Nothing to mine here.";
+"Rien à extraire ici.";
+
+"The mining has been successful.";
+"L'extraction est un succès.";
+
+"The mining has failed.";
+"L'extraction a échoué.";
+
+"[Friends] You have added %s as a friend.";
+"[Amis] Vous avez ajouté %s à votre liste d'amis.";
+
+"The player will be teleported into the city shortly.";
+"D'ici peu les joueurs seront téléportés dans la cité.";
+
+"[Friends] You have deleted %s from the list.";
+"[Amis] Vous avez effacé %s de votre liste.";
+
+"A critical server error has occurred. The server will restart automatically.";
+"Erreur critique du serveur. Le serveur va être redémarré automatiquement.";
+
+"You will be disconnected automatically in 10 seconds.";
+"Vous serez déconnecté dans 10 secondes.";
+
+"You can connect again after 5 minutes.";
+"Vous pourrez vous connecter dans 5 minutes.";
+
+"(%s) guild has been created. [Temporary]";
+"(%s) Guilde créée. [Temporaire].";
+
+"This guild is at war.";
+"Cette Guilde est en guerre.";
+
+"%s: This guild does not exist.";
+"%s: Cette Guilde n'existe pas.";
+
+"A guild with this name or number does not exist.";
+"Aucune guilde avec ce nom ou numéro n'existe.";
+
+"The building does not exist.";
+"Ce bâtiment n'existe pas.";
+
+"This type of building can only be erected once.";
+"Ce type de bâtiment ne peut être construit qu'une fois.";
+
+"Close the OX event card first. (Flag: %d)";
+"Fermez tout d'abord la carte d'évènement OX. (Flag: %d).";
+
+"The Main Building has to be erected first.";
+"Le bâtiment de base doit être construit avant.";
+
+"Building failed because of incorrect pricing.";
+"La construction a échoué du fait d'une mauvaise évaluation du prix.";
+
+"Your guild does not have enough Yang to erect this building.";
+"Votre guilde n'a pas assez de Yangs pour construire ce bâtiment.";
+
+"You do not have enough resources to build a building.";
+"Vous n'avez pas assez de ressources pour ce bâtiment.";
+
+"You cannot erect a building at this place.";
+"YVous ne pouvez pas ériger de bâtiment à cet endroit.";
+
+"This character does not exist.";
+"Ce personnage n'existe pas.";
+
+"Duel has not been successfully cancelled.";
+"Le duel a été annulé.";
+
+"Duel cancelled successfully.";
+"Le duel a été annulé avec succès.";
+
+"The duel has been successfully started.";
+"Le lancement du duel a été un succès.";
+
+"There is a problem with initiating the duel.";
+"Il y a un problème avec le lancement du duel.";
+
+"No errors occurred.";
+"Aucune erreur rencontrée.";
+
+"There are no combatants.";
+"Pas de combattants ici.";
+
+"No status points left.";
+"Aucun points de caractéristiques restants.";
+
+"Remaining status points are too low.";
+"Les points de caractéristiques restants sont insuffisants.";
+
+"You entered an incorrect value.";
+"Vous avez entré une valeur incorrecte.";
+
+"Suborder or the Order is incorrect.";
+"L'ordre ou le sous-ordre est incorrect.";
+
+"Broken contract between player %d and player %d.";
+"Contrat rompu entre le joueur %d et le joueur %d.";
+
+"Turn the Roulette for %d Yang.";
+"Tourner la Roulette pour %d Yangs.";
+
+"The Item log placed into the syslog.";
+"L'historique des objets a été placé dans l'historique du système.";
+
+"Information for the Kingdoms";
+"Information pour les Empires.";
+
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d";
+"Choisissez les informations de la Carte de la Terre sacrée  %d Entrée %d %d %d.";
+
+"An error has occurred.";
+"Une erreur a été rencontrée.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+"%s Décompte des tués %d Décompte des Mobs tués %d Décompte des Boss tués %d Nombre de Terres sacrées %d.";
+
+"Information about the status of the kingdom battle";
+"Information sur la guerre entre Empires.";
+
+"Your request is loading. Please wait.";
+"Votre demande est en train d'être chargée. Merci de patienter.";
+
+"You cannot open a Storeroom while another window is open.";
+"Vous ne pouvez pas ouvrir d'entrepôt tant qu'une autre fenêtre est ouverte.";
+
+"[Storeroom] Storeroom password has been changed.";
+"[Dépôt] Le mot de passe du dépôt a été changé.";
+
+"[Storeroom] You have entered the wrong password.";
+"[Stockage] Vous avez entré un mot de passe incorrect.";
+
+"Your playing time is going to run out in %d minutes.";
+"Votre temps de jeu se monte à %d Minutes.";
+
+"Regularly voted.";
+"A voté régulièrement.";
+
+"Already voted.";
+"A déjà voté.";
+
+"%s player already in the vote.";
+"Le joueur %s a déjà voté.";
+
+"OX Event is over. No errors occurred. (Flag: %d)";
+"OX L'évènement est terminé. Aucune erreur ne s'est produite. (Flag : %d).";
+
+"Cannot run for office.";
+"Ne peut pas être voté.";
+
+"%s still has %u Yang available.";
+"%s a encore %u.";
+
+"%s still has %d Yang available.";
+"%s a encore %d.";
+
+"You do not have enough Yang.";
+"Vous n'avez pas assez de Yangs.";
+
+"%s is deleted as an Emperor Candidate.";
+"%s n'est plus candidat pour être Empereur.";
+
+"%s is not a candidate for the emperor elections.";
+"%s n'est pas candidat pour être Empereur.";
+
+"%s has been nominated as emperor.";
+"%s a été nominé comme Empereur.";
+
+"%s cannot be nominated as emperor.";
+"%s ne peut pas être nominé comme Empereur.";
+
+"The %s Emperor gets driven out.";
+"L'Empereur %s va être chassé.";
+
+"The %s Emperor cannot be driven out.";
+"L'Empereur %s ne peut pas être chassé.";
+
+"OX Event is not accepting any more participants.";
+"OX L'évènement ne peut accepter d'avantage de participants.";
+
+"Shinsoo Kingdom";
+"Empire Shinsoo";
+
+"Chunjo Kingdom";
+"Empire Chunjo";
+
+"Jinno Kingdom";
+"Empire Jinno";
+
+"Your fishing points have increased! (%d/%d)";
+"Vos points de pêche ont été augmentés ! (%d/%d).";
+
+"You have reached the maximum number of fishing points.";
+"Vous avez atteint le maximum de points de pêche.";
+
+"Go to the Fisherman and get your Fishing Pole upgraded!";
+"Améliorez votre canne à pêche grâce à l'aide du pêcheur.";
+
+"You lost your bait to the fish.";
+"Vous perdez votre appât avec le poisson.";
+
+"You have caught a fish! (%s)";
+"Vous avez attrapé un poisson ! (%s).";
+
+"The length of the captured fish is %.2fcm.";
+"La taille du poisson capturé est de %.2fcm.";
+
+"Fishing Event 'Great Zander'";
+"Animation de pêche Grand Sandre.";
+
+"OX The other event participants are being noted down.";
+"OX Les autres participants à l'animation ont été notés.";
+
+"Fishing Event 'Carp'";
+"Animation de pêche Carpe.";
+
+"%s: %d";
+"%s: %d .";
+
+"You have caught %d of %d .";
+"Vous avez attrapé %d de %d .";
+
+"The fish vanished in the depths of the water.";
+"Le poisson a disparu au fond de l'eau.";
+
+"There is a Clam inside the Fish.";
+"Il y a un coquillage dans l'estomac du poisson.";
+
+"There is a Worm inside the Fish.";
+"Il y a un ver dans l'estomac du poisson.";
+
+"You are roasting %s over the fire.";
+"Vous faites griller %s à petit feu.";
+
+"You cannot trade because you are carrying more than 2 billion Yang.";
+"Vous avez plus de 2 milliards de Yangs. Vous ne pouvez pas échanger.";
+
+"You can't give your shop an invalid name.";
+"Nom de magasin non autorisé.";
+
+"You can't sell Item-Shop items in a private shop.";
+"Vous ne pouvez vendre d'objets de la boutique dans un magasin privé.";
+
+"OX The other event participants have not been noted down.";
+"OX Les autres participants à l'animation ont été notés.";
+
+"Mining is finished.";
+"Extraction terminée.";
+
+"You need a Pickaxe in order to extract ore!";
+"Vous avez besoin d'une pioche pour extraire du minerai !";
+
+"Please choose a Fishing Pole.";
+"Choisissez s'il vous plaît une canne.";
+
+"Place the Bait on the Hook first.";
+"Mettez tout d'abord l'appât sur l'hameçon.";
+
+"You can't go fishing without a fishing pole!";
+"Vous ne pouvez pas pêcher sans canne!";
+
+"[Group] You cannot make a request because the group leader is not online.";
+"[Groupe] Vous ne pouvez pas effectuer de demande car le chef du groupe est déconnecté.";
+
+"[Group] You cannot form a group with players from another kingdom.";
+"[Groupe] Vous ne pouvez pas former de groupe avec des joueurs d'un autre Empire.";
+
+"[Group] You cannot invite players while you are in a dungeon.";
+"[Groupe] Vous ne pouvez pas inviter de joueurs alors que vous vous trouvez dans un donjon.";
+
+"[Group] You cannot invite a player while you are in observer mode.";
+"[Groupe] Vous ne pouvez pas inviter de joueurs en étant en mode Observateur.";
+
+"[Group] Only players with a level difference of -30 to +30 can be invited.";
+"[Groupe] Seuls les joueurs avec une différence de niveau de -30 à +30 peuvent être invités.";
+
+"Number of other participants : %d";
+"Nombre d'autres participants : %d.";
+
+"[Group] You cannot invite this player, as their level is too low.";
+"[Groupe] Vous ne pouvez pas inviter ce joueur, son niveau est trop faible.";
+
+"[Group] You cannot invite this player, as their level is too high.";
+"[Groupe] Vous ne pouvez pas inviter ce joueur, son niveau est trop haut.";
+
+"[Group] You cannot invite any more players into your group.";
+"[Groupe] Vous ne pouvez pas inviter d'avantage de joueurs dans ce groupe.";
+
+"You want to join %s's group.";
+"Voulez-vous rejoindre le groupe de %s ?";
+
+"This player is not in this group.";
+"Ce joueur n'est pas dans ce groupe.";
+
+"[Group] You cannot join this group because it is already full.";
+"[Groupe] Vous ne pôuvez rejoindre ce groupe car trop de joueurs le composent.";
+
+"[Group] You do not have the right to invite someone.";
+"[Groupe] Vous n'avez pas l'autorisation d'inviter quelqu'un.";
+
+"[Group] %s has declined your group invitation.";
+"[Groupe] %s a décliné votre invitation à rejoindre votre groupe.";
+
+"[Group] %s is already in the group.";
+"[Groupe] %s est déjà dans le groupe.";
+
+"[Group] You cannot accept an invitation into a dungeon.";
+"[Groupe] Vous ne pouvez pas accepter une invitation dans un donjon.";
+
+"OX Event is finishing.";
+"L'évènement OX est terminé.";
+
+"[Group] You cannot accept the invitation.";
+"[Group] Vous ne pouvez pas accepter l'invitation.";
+
+"[Group] %s has declined your invitation.";
+"[Group] %s a décliné l'invitation.";
+
+"[Group] %s has joined your group.";
+"[Group] %s a rejoint le groupe.";
+
+"[Group] %s has joined your Group.";
+"[Group] %s a rejoint le groupe.";
+
+"You can't use a private shop now.";
+"Vous ne pouvez pas ouvrir un magasin maintenant.";
+
+"This player is already trading with another player.";
+"Ce joueur effectue un échange avec un autre joueur.";
+
+"Metin2 Confirmation Number: %s";
+"Numéro de confirmation Metin2: %s";
+
+"Your Confirmation Number is not correct. Please try again.";
+"Votre numéro de confirmation est incorrect. Essayez à nouveau s'il vous plaît.";
+
+"The mobile phone number is registered.";
+"Le numéro de téléphone portable est enregistré.";
+
+"You cannot teleport to the player.";
+"Vous ne pouvez vous téléporter jusqu'à ce joueur.";
+
+"OX The prize has been awarded. ID: %d Quantity: %d";
+"OX Le prix a été remis : %d, %d unité.";
+
+"This player is not online.";
+"Le joueur est déconnecté.";
+
+"The player is playing on channel %d. (You are on channel %d.)";
+"Le joueur est sur le canal %d (Vous êtes sur le canal %d).";
+
+"After opening the Storeroom, you cannot go anywhere else for %d seconds.";
+"Vous ne pouvez vous rendre ailleurs durant %d secondes après avoir ouvert un magasin.";
+
+"You cannot go elsewhere for a period of time after the trade.";
+"Vous ne pouvez vous rendre ailleurs pendant un moment après un échange.";
+
+"After trading you cannot go elsewhere for %d seconds.";
+"Vous ne pouvez aller ailleurs durant %d secondes après avoir effectué un échange.";
+
+"The duel has finished, because your combatant vanished.";
+"Duel terminé, votre combattant ayant disparu.";
+
+"There is no limit for Potions.";
+"Il n'y a pas de limites pour les Potions.";
+
+"You can use up to %d potions.";
+"Vous pouvez utiliser %d Potions.";
+
+"The fight will start in 10 seconds.";
+"Le combat commencera dans 10 secondes.";
+
+"The duel has begun.";
+"Le duel a commencé.";
+
+"TRUE";
+"TRUE.";
+
+"The duel is being finished because there is a problem in the duel arena.";
+"Le duel est terminé car l'arène a rencontré un problème.";
+
+"The duel has finished because of a timeout.";
+"Le duel est terminé car le temps est écoulé.";
+
+"In 10 seconds you will be teleported into the city.";
+"Dans 10 secondes vous serez déplacé dans la cité.";
+
+"The duel has been stopped because there is a problem in the arena.";
+"Le duel a été stoppé car l'arène a rencontré un problème.";
+
+"Your combatant has got some problems. The duel is being cancelled.";
+"Votre combattant rencontre des problèmes. Le duel a été arrété.";
+
+"The duel is being cancelled as there is a problem with the combatant.";
+"Le duel est terminé car un problème est survenu avec un combattant.";
+
+"%s has won the duel.";
+"%s a remporté le duel.";
+
+"%s has won.";
+"%s a gagné.";
+
+"You will be teleported into the city in 10 seconds.";
+"Vous serez téléporté dans la cité dans 10 secondes.";
+
+"The next round will begin in 10 seconds.";
+"Le prochain round commence dans 10 secondes.";
+
+"FALSE";
+"FALSE.";
+
+"The combatants have been separated. The duel has been stopped.";
+"Les combattants ont été séparé. Le duel est arrété.";
+
+"The quota of the Item Drop is at the moment plus %d%%";
+"Le quota d'objets lâchés est augmenté de %d%%.";
+
+"The quota of the Yang Drop is at the moment plus %d%%";
+"Pour l'instant, le quota de Yangs lâchés est de %d%% supérieur.";
+
+"The drop rate for Yang rain is currently %d%% higher.";
+"En ce moment, le taux de butin de la pluie de Yangs est augmenté de %d %%.";
+
+"The experience bonus is currently an additional %d%%.";
+"Le bonus d'expérience est augmenté de %d%%.";
+
+"You do not have the correct client version. Please install the normal patch.";
+"La version du client du jeu n'est pas correcte. Veuillez installer le patch prévu.";
+
+"You cannot trade in the shop while another window is open.";
+"Vous ne pouvez pas échanger dans le magasin tant qu'une autre fenêtre est ouverte.";
+
+"You are too far away from the shop to buy something.";
+"Vous êtes trop loin du magasin pour acheter.";
+
+"You are too far away from the shop to sell something.";
+"Vous êtes trop loin du magasin pour vendre.";
+
+"Total number of the Quiz: %d";
+"Nombre total du Quizz: %d.";
+
+"This sale will be taxed %d%%.";
+"Une taxe de %d%% sera prélevée sur la vente.";
+
+"You cannot ride a Horse while you are transformed.";
+"Vous ne pouvez pas acheter de cheval tant que vous êtes transformé.";
+
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo.";
+"Vous ne pouvez pas monter à cheval lorsque vous portez une robe de mariage ou un smoking.";
+
+"You do not have a Horse.";
+"Vous ne possédez pas de cheval.";
+
+"Your Horse is dead.";
+"Votre cheval est mort.";
+
+"Your Horse's endurance is too low.";
+"L'endurance de votre cheval est trop faible.";
+
+"Calling the Horse has failed.";
+"L'appel de votre monture a échoué.";
+
+"'s Horse";
+"Cheval.";
+
+"The wedding is finishing soon.";
+"Le mariage sera bientôt terminé.";
+
+"Will be left automatically.";
+"sera quitté automatiquement.";
+
+"The war is already over.";
+"La guerre est déjà ouverte.";
+
+"The result will follow in 10 seconds.";
+"Le résultat sera disponible dans 10 secondes.";
+
+"You cannot trade while observing.";
+"Vous ne pouvez commercer lorsque vous observez.";
+
+"If the window is open, you cannot trade with others.";
+"Quand une fenêtre est ouverte, vous ne pouvez pas échanger avec d'autres personnes.";
+
+"The other person is currently busy so you cannot trade right now.";
+"Vous ne pouvez pas échanger avec ce joueur, car il est déjà occupé.";
+
+"The other person has cancelled the trade.";
+"L'autre personne a annulé l'échange.";
+
+"Not enough Yang or not enough space in the inventory.";
+"Pas assez de Yangs ou d'espace restant dans l'inventaire.";
+
+"The other person does not have enough Yang or does not have any space left in their inventory.";
+"L'autre joueur n'a assez de Yangs ou d'espace restant dans l'inventaire.";
+
+"The other person has no space left in their inventory.";
+"L'autre joueur n'a pas assez d'espace dans l'inventaire.";
+
+"The trade with %s has been successful.";
+"L'échange avec %s a réussi.";
+
+"You did not lose any Experience because of the Blessing of the Dragon God.";
+"Vous ne perdrez pas d'expérience du fait de la Bénédiction de l'Esprit du Dragon.";
+
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d";
+"Score actuel Shinsoo: %d, Chunjo: %d, Jinno: %d";
+
+"The correct answer is:";
+"La réponse correcte est.";
+
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+
+"The devil of the hallowed place: [ENTER][ENTER]";
+"Le Diable du lieu sacré : [ENTER][ENTER]";
+
+", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.";
+", vous n'avez pas le droit d'être là ! Dans 10 secondes, les membres de votre empire quitteront ce sol sacré.";
+
+"%s has been defeated and drops out of the Kingdom Battle.";
+"L'Empire %s a été battu et abandonne la guerre de Empires.";
+
+"Number of Monsters in the Kingdom Battle:";
+"Nombre de monstres dans la guerre de Empires.";
+
+"If you defeat the Guard of the Holy Place, you will become the owner of it.";
+"Vous avez battu les défenseurs du Lieu sacré, vous allez le devenir à votre tour.";
+
+"You did not drop any Item(s) as you are protected by the Dragon God.";
+"Vous ne perdez aucun objet lorsque vous êtes protégé par l'Esprit du Dragon.";
+
+"Additional Stabbing Weapon Damage %d";
+"Dommage du bonus de charge %d.";
+
+"%s block! (%d%%)";
+"%s Paré ! (%d%%).";
+
+"%s avoid! (%d%%)";
+"%s Evité ! (%d%%)";
+
+"Yes (O)";
+"Oui (O)";
+
+"%s[%d]'s Attack Position: %d %d";
+"Situation de l'attaque de %s[%d] : %d %d.";
+
+"Please enter the Order in full length.";
+"Veuillez entrer l'ordre en entier.";
+
+"You cannot do this whilst sitting on a Horse.";
+"Vous ne pouvez pas faire cela pendant que vous êtes en selle.";
+
+"You cannot do that while you are lying on the ground.";
+"Vous ne pouvez pas faire cela alors que vous êtes à terre.";
+
+"In my Dreams? What?";
+"Dans mes rêves ? Quoi?";
+
+"Get up first.";
+"Levez vous auparavant.";
+
+"This command does not exist.";
+"Cet ordre n'existe pas.";
+
+"[Group] This group has been disbanded.";
+"[Groupe] Le Groupe a été supprimé.";
+
+"[Group] You cannot call the target.";
+"[Groupe] Vous ne pouvez pas appeler cette cible.";
+
+"[Group] You cannot call group members over to your current position.";
+"[Groupe] Vous ne pouvez pas appeler de membres du Groupe depuis votre position actuelle.";
+
+"No (X)";
+"Non (X)";
+
+"Your group works well together, and group members near the group leader will receive an experience bonus.";
+"Votre groupe fonctionne bien en tant qu'équipe et les membres qui se trouvent à proximité du chef reçoivent un bonus d'expérience.";
+
+"Leader";
+"Chef.";
+
+"Member";
+"Membre.";
+
+"[Guild] Provided Experience is larger then left Experience.";
+"[Guilde] L'expérience donnée est supérieure à l'expérience restante.";
+
+"[Guild] This message cannot be deleted.";
+"[Guilde] Le message ne peut être effacé.";
+
+"[Guild] Not enough Dragon Ghost. (%d, %d)";
+"[Guilde] Pas assez d'Esprit du Dragon. (%d, %d).";
+
+"[Guild] You cannot use the guild skills yet.";
+"[Guilde] Vous ne pouvez pas utiliser de compétence de Guilde pour le moment.";
+
+"[Guild] %d skill has been applied (%d, %d) to %u.";
+"[Guilde] La compétence %d a été utilisée (%d, %d) pour %u.";
+
+"[Guild] This player is on channel %d. (Current channel: %d)";
+"[Guilde] Le joueur est sur le canal %d. (Canal actuel: %d).";
+
+"[Guild] This player is not online.";
+"[Guilde] Le joueur n'est pas en ligne.";
+
+"In 5 sec. everyone who gave an incorrect answer will be removed.";
+"Dans 5 secondes, les participants ayant mal répondu à la question devront partir.";
+
+"[Guild] This guild skill can only be used during war.";
+"[Guilde] Cette compétence de Guilde ne peut être utilisée que durant une guerre.";
+
+"[Guild] %u Dragon ghost points have been restored.";
+"[Guilde] %u points d'Esprit du Dragon ont été restaurés.";
+
+"[Guild] Only the guild leader can withdraw Yang.";
+"[Guilde] Seul le Maître de la Guilde peut retirer des Yangs.";
+
+"[Guild] The player has declined the guild invitation.";
+"[Guilde] Le joueur a décliné l'invitation dans la Guilde.";
+
+"[Guild] You do not have the authority to invite someone to join the guild.";
+"[Guilde] Vous ne pouvez pas inviter quelqu'un dans la Guilde.";
+
+"[Guild] You cannot invite players from another kingdom into the guild.";
+"[Guilde] Vous ne pouvez pas inviter de joueurs d'un autre Empire dans la Guilde.";
+
+"[Guild] This player can be invited again after %d day(s).";
+"[Guilde] Vous pouvez inviter à nouveau ce joueur après %d jour(s).";
+
+"[Guild] After the rearrangement you can invite members again after %d days.";
+"[Guilde] Après le changement vous pourrez inviter des membres à nouveau dans %d jours.";
+
+"[Guild] This person is already a member of another Guild.";
+"[Guilde] Cette personne est déjà membre d'une autre Guilde.";
+
+"[Guild] The maximum guild capacity has been reached.";
+"[Guilde] La Guilde a atteint sa capacité maximum.";
+
+"Ready for the next question?";
+"Prêts pour la question suivante ?";
+
+"You cannot train this skill.";
+"Vous ne pouvez pas apprendre cette compétence.";
+
+"You cannot train this skill up to Grand Master level.";
+"Vous ne pouvez apprendre cette compétence avant d'être Grand Maître.";
+
+"You already are a Master of this skill. You cannot train this skill any further.";
+"Vous êtes déjà un Maître de cette compétence. Vous ne pouvez plus vous entraîner.";
+
+"Your Skill is not high enough to become a Grand Master.";
+"Votre compétence n'est pas assez élevée pour devenir un Grand Maître.";
+
+"That did not work. Damn!";
+"Ça n'a pas marché. C'est infernal !";
+
+"Training has failed. Please try again later.";
+"Entraînement a échoué. Veuillez réessayer plus tard.";
+
+"My body is full of energy!";
+"Mon corps est chargé de puissance !";
+
+"The training seems to be working already...";
+"L’entraînement semble déjà porter ses fruits...";
+
+"You successfully finished your training with the book.";
+"Vous avez terminé votre entraînement grâce au livre avec succès.";
+
+"You cannot read this due to your lack of experience.";
+"Vous ne pouvez pas lire ceci car il vous manque de l'expérience.";
+
+"Question.";
+"Question.";
+
+"You cannot train this skill with a Book.";
+"Vous ne pouvez pas entraîner cette compétence au moyen d'un livre.";
+
+"This skill's level is not high enough to be trained with a Book.";
+"Cette compétence n'est pas assez haute pour être entraînée au moyen d'un livre.";
+
+"I'm making progress, but I still haven't understood everything.";
+"Je progresse, même si je n'ai pas encore tout compris.";
+
+"These instructions are difficult to understand. I have to carry on studying.";
+"Les explications sont difficiles à comprendre. Il faut que je continue à étudier le texte.";
+
+"I understand this chapter. But I've got to carry on working hard.";
+"J'ai bien compris ce chapitre, mais il va falloir continuer à travailler dur.";
+
+"You have successfully finished your training with the Book.";
+"Vous avez terminé votre entraînement grâce au livre avec succès.";
+
+"Teleportation has failed.";
+"La Téléportation a échoué.";
+
+"No Horse here. Ask the Stable Boy.";
+"Pas de cheval ici. Demandez au garçon d'écurie.";
+
+"Please use an item to call a Horse.";
+"Veuillez utiliser un objet pour appeler un cheval.";
+
+"%s FP-Consumption: %d";
+"%s Emploi de FP : %d.";
+
+"If it's correct, then go to O. If it's wrong, go to X.";
+"Si ceci est vrai, allez sur O. Si ceci est faux, allez sur X.";
+
+"I am burning inside, but it is calming down my body. My Chi has to stabilise.";
+"Je boue intérieurement mais cela apaise mon corps.";
+
+"A little slow, but steady... Without stopping!";
+"Lentement mais sûrement... sans s'arrêter.";
+
+"Yes, that feels great. My body is full of Chi.";
+"Oui, ça semble bon. Mon corps est empli de Chi.";
+
+"I have read it! Now the Chi will spread through my body.";
+"Je l'ai lu ! À présent, le Chi envahit mon corps.";
+
+"The training is completed.";
+"L'entraînement est terminé.";
+
+"I am on the last page of the book. The training is nearly finished!";
+"J'en suis à la dernière page du livre. L'entraînement est bientôt terminé.";
+
+"Nearly finished! Just a little bit more to go!";
+"Presque fini ! Juste encore un peu !";
+
+"Eureka! I have nearly finished reading it!";
+"Je suis illuminé ! J'ai presque tout lu !";
+
+"Only a few more pages and then I'll have read everything.";
+"Il ne me reste plus que quelques pages à lire avant d'avoir fini.";
+
+"I feel refreshed.";
+"Je me sens reposé.";
+
+"Correct!";
+"Correcte !";
+
+"Now I understand it!";
+"À présent je comprends !";
+
+"Okay I have to stay concentrated!";
+"D'accord je dois rester concentré.";
+
+"I keep reading the same line over and over again.";
+"Je relis la même ligne encore et encore.";
+
+"I do not want to learn any more.";
+"Je ne veux plus en apprendre davantage.";
+
+"It is a lot more complicated and more difficult to understand than I thought.";
+"C'est une voie plus compliquée que je ne le pensais.";
+
+"It's hard for me to concentrate. I should take a break.";
+"J'ai du mal à me concentrer. Je devrais faire une pause.";
+
+"Your chat has been blocked by a GM.";
+"Votre fenêtre de discussion a été bloquée par un GM.";
+
+"Your chat block has been lifted.";
+"Votre fenêtre de discussion n'est plus bloquée.";
+
+"The Build window is already open.";
+"La fenêtre de constuction est déjà ouverte.";
+
+"You cannot build something while another trade/storeroom window is open.";
+"Vous ne pouvez pas construire pendant qu'un magasin/échange est en cours.";
+
+"No further improvements possible.";
+"Pas de progression possible.";
+
+"The build window is not open.";
+"La fenêtre de construction n'est pas ouverte.";
+
+"You do not have the right material.";
+"Vous n'avez pas les bons matériaux.";
+
+"[Guild] Please try again later.";
+"[Guild] Essayez plus tard.";
+
+"You have to read %d more skill books to improve this skill.";
+"Vous devez encore lire %d livres de cette compétence pour acquérir un niveau supplémentaire.";
+
+"You are only able to use this function while you are at the castle.";
+"Vous pouvez utiliser cette fonction seulement si vous êtes au château.";
+
+"TEST: The Gold Bar has been paid back to your kingdom's safe.";
+"TEST: L'argent a été versé à la sécurité de l'Empire.";
+
+"TEST: In your kingdom's safe there are: %d";
+"TEST: Dans les coffres de votre empire, il y a : %d";
+
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe.";
+"TEST: Vous ne pouvez pas payer les millions pour la sécurité de votre empire.";
+
+"[Guild] The guild has reached %d points.";
+"[Guilde] La guilde a atteint %d points.";
+
+"This item cannot be improved.";
+"Cet objet ne peut être mieux réalisé.";
+
+"The free weapon improvements can only be used on weapons up to level 20.";
+"L'amélioration gratuite d'armes ne peut être effectuée que sur les armes de niveau 20 maximum.";
+
+"You cannot use this item because you do not fulfil all the requirements.";
+"Vous ne pouvez pas utiliser cet objet car vous n'avez pas toutes les qualifications.";
+
+"You are not able to use that item because you do not have the right gender.";
+"Vous ne pouvez pas utiliser cet objet car vous n'avez pas le bon genre.";
+
+"Use: transfer <name>";
+"Utilisez : transfer <name>";
+
+"This function can only be used by the emperor.";
+"Cette fonction ne peut être utilisée que par l'Empereur.";
+
+"You cannot recruit players from another kingdom.";
+"Vous ne pouvez pas recruter de joueurs d'un autre Empire.";
+
+"The player %s is on channel %d at the moment. (Your channel: %d)";
+"Le joueur %s est actuellement sur le channel %d. (Votre channel: %d)";
+
+"You have recruited %s players.";
+"Vous avez recruté %s joueurs.";
+
+"There is no user with this name.";
+"Il n'y a pas de joueur portant ce nom.";
+
+"You cannot recruit yourself.";
+"Vous ne pouvez pas vous recruter.";
+
+"Your level is too low to use this item.";
+"Votre niveau n'est pas assez élevé pour pouvoir utiliser cet objet.";
+
+"You cannot upgrade anything while another window is open.";
+"Vous ne pouvez rien améliorer tant qu'une autre fenêtre est ouverte.";
+
+"The emperor of %s has changed to %s.";
+"L'Empereur de %s a changé pour %s.";
+
+"There are %s wars to inflame the bonfires.";
+"Il y a %s guerres qui ont allumées les feux.";
+
+"%s has successfully defended.";
+"%s s'est défendu avec succès.";
+
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire.";
+"Le feu a été éteint avant les 30 minutes par %s qui peut obtenir une récompense pour cela.";
+
+"30 minutes are over. The bonfires have disappeared.";
+"Les 30 minutes sont dépassées. Les feux s'éteignent.";
+
+"A bonfire was inflamed at %s to warn because of a battle.";
+"Un feu a été allumé à %s pour prévenir d'une bataille.";
+
+"%s has destroyed the bonfire.";
+"%s a éteint le feu.";
+
+"%s lost the war as they have not been able to defend the castle.";
+"%s perd la guerre vu qu'ils n'ont pas pu défendre le château.";
+
+"%s has destroyed all the bonfires.";
+"%s a éteint le feu.";
+
+"You can only open the shop if you take off your armour.";
+"Vous devez être déséquipé pour ouvrir un magasin";
+
+"%d hours %d minutes %d seconds left on your chat block";
+"%d heures %d minutes %d secondes avant la fin de votre bannissement du chat.";
+
+"%d hours %d seconds left on your chat block";
+"%d heures %d secondes avant la fin de votre bannissement du chat";
+
+"%d minutes %d seconds left on your chat block";
+"%d minutes %d secondes avant la fin de votre bannissement du chat";
+
+"Yang rain drop rate";
+"Taux de butin : pluie de Yangs";
+
+"Not the right material for an upgrade.";
+"Pas assez de matériau pour une progression.";
+
+"All kingdoms";
+"Tous les empires";
+
+"Item drop rate in percent";
+"Pourcentage du taux de drop d'items";
+
+"Yang drop rate in percent";
+"Pourcentages de drop de Yangs";
+
+"Experience percentage";
+"Pourcentage d'expérience";
+
+"%d seconds left on your chat block";
+"Il reste %d secondes avant déblocage du t'chat";
+
+"You cannot express emotions whilst riding a horse.";
+"Vous ne pouvez montrer vos émotions à cheval";
+
+"You cannot use emotions with a player who is riding on a Horse.";
+"Vous ne pouvez exprimer vos émotions à quelqu'un qui est à cheval";
+
+"[Guild] The enemy's guild leader is offline.";
+"[Guild] Le chef de la guilde ennemie est hors ligne.";
+
+"[Guild] This guild is taking part in a battle at the moment.";
+"[Guild] La guilde participe déjà à une guerre en ce moment.";
+
+"You're already riding. Get off first.";
+"Vous êtes déjà sur une monture. Vous devez d'abord la quitter.";
+
+"You cannot upgrade items with this Scroll.";
+"Vous ne pouvez progresser avec ce personnage.";
+
+"You can only be rewarded once for the Demon Tower Quest.";
+"Vous ne pouvez être récompensé qu'une fois pour la Quête de la Tour des démons.";
+
+"Dragon Stone has been removed.";
+"La pierre-dragon est dessertie.";
+
+"You cannot move the item within the refinement window.";
+"Vous ne pouvez pas déplacer l'objet dans la fenêtre de raffinage.";
+
+"Dragon Stone remaining duration has been extracted.";
+"La durée d'action restante de la pierre-dragon a pu être extraite.";
+
+"Remaining duration extraction failed.";
+"L'extraction de la durée d'action restante a échoué.";
+
+"Removal of Dragon Stone failed. But you have received the following: %s";
+"Le dessertissage de la pierre-dragon a échoué mais vous avez reçu ceci : %s";
+
+"Removal of Dragon Stone failed.";
+"Le dessertissage de la pierre-dragon a échoué.";
+
+"This item is not required for improving the clarity level.";
+"Cet objet n'est pas nécessaire à l'amélioration du degré de pureté.";
+
+"This item cannot be advanced this way.";
+"Cet objet ne peut être amélioré de cette façon.";
+
+"Improvement of the clarity level successful.";
+"Le degré de pureté de la pierre a été amélioré.";
+
+"Refinement up one class failed.";
+"Le raffinage d'une classe au-dessus a échoué.";
+
+"This item is not required for refinement.";
+"Cet objet n'est pas nécessaire au raffinage.";
+
+"Refinement up one class was successful.";
+"Le raffinage d'une classe au-dessus a réussi.";
+
+"Improvement of the clarity level failed.";
+"L'amélioration du degré de pureté a échoué.";
+
+"You do not own the materials required to strengthen the Dragon Stone.";
+"Vous n'avez pas le matériel nécessaire au renforcement de la pierre-dragon.";
+
+"This Dragon Stone cannot be used for strengthening.";
+"Cette pierre-dragon ne peut pas être utilisée pour un renforcement.";
+
+"Strengthening was successful.";
+"Le renforcement a réussi.";
+
+"Strengthening failed.";
+"Le renforcement a échoué.";
+
+"You are already carrying a Dragon Stone of this type.";
+"Vous portez déjà une pierre-dragon de ce type.";
+
+"The Dragon Stone cannot be removed.";
+"La pierre-dragon ne peut pas être dessertie.";
+
+"You have already equipped this kind of Dragon Stone.";
+"Vous êtes déjà équipé d'une pierre-dragon de ce genre.";
+
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.";
+"Avant de pouvoir briser le Cor Draconis, vous devez avoir terminé la quête de la pierre-dragon et activé l'alchimie des pierres-dragons.";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"Vous ne pouvez retirer votre ceinture qu'une fois son inventaire vidé.";
+
+"You can combine the Blessing Scroll with the Magic Iron Ore.";
+"Vous pouvez combiner le parchemin de bénédiction et le minerai de fer magique.";
+
+"You cannot equip this item in your belt inventory.";
+"Vous ne pouvez pas équiper cet objet sur votre ceinture-inventaire.";
+
+"[1106-??]No puedes unir esto.";
+"[1106-??]No puedes unir esto.";
+
+"You have invested %d Yang.";
+"Vous avez investi %d Yangs.";
+
+"There is no Stone available to take out.";
+"Il n'y a pas de pierre pouvant être retirée.";
+
+"You cannot store this location.";
+"Vous ne pouvez sauvegarder cet endroit.";
+
+"There isn't enough space in your inventory.";
+"Il n'y a pas assez de place dans l'inventaire.";
+
+"You cannot teleport to a safe position in a foreign Kingdom.";
+"Dans un empire étranger, vous ne pouvez pas vous téléporter vers un endroit sûr.";
+
+"You don't have enough HP.";
+"Vous n'avez pas assez de PV.";
+
+"You don't have enough Spell Points (SP) to use this.";
+"Vous n'avez pas assez de Mana pour l'utiliser.";
+
+"You'll reach your destination in %d seconds.";
+"Vous atteindrez la destination %d secondes après l'exécution.";
+
+"You can only use a Moon Cake every 5 seconds.";
+"Vous pouvez utiliser un gâteau de Lune toutes les 5 secondes.";
+
+"You cannot use this item in a duel.";
+"Vous ne pouvez utiliser cet objet durant un duel.";
+
+"You have won %d Yang.";
+"Vous avez gagné %d Yangs.";
+
+"You cannot build a campfire here.";
+"Vous ne pouvez faire de feu de camp ici.";
+
+"You cannot build a campfire under water.";
+"Vous ne pouvez faire de feu de camp sous l'eau.";
+
+"Closed. You should look for the key.";
+"Fermé. Vous devez trouver la clé.";
+
+"This item cannot be opened with a key.";
+"Cet objet ne peut pas être ouvert au moyen d'une clé.";
+
+"That's the right key.";
+"C'est la bonne clé.";
+
+"You have received %d Yang.";
+"Vous avez reçu %d Yangs.";
+
+"A mysterious light comes out of the box.";
+"Une lumière mystérieuse s'échappe de la boîte.";
+
+"You have received %d experience points.";
+"Vous avez reçu %d points d'expérience.";
+
+"Look what came out of the box!";
+"Découvrez ce qui était dans la boîte !";
+
+"[Guild] The guild level is too low.";
+"[Guilde] Le grade de guilde est trop faible.";
+
+"If you inhale the red smoke coming out of the box, your speed will increase!";
+"Si vous inhalez la fumée rouge s'échappant de la boîte, vous serez plus rapide!";
+
+"You cannot add more bonus.";
+"You cannot add more bonus.";
+
+"New bonus added successfully.";
+"New bonus added successfully.";
+
+"You cannot change the bonuses.";
+"You cannot change the bonuses.";
+
+"%s needed.";
+"%s needed.";
+
+"OX-Question: ";
+"OX-Question: ";

@@ -1,0 +1,2228 @@
+"Everyone will be teleported into the city shortly.";
+"Hamarosan mindenki a városba teleportálódik.";
+
+"This item does not exist.";
+"Nincs ilyen eszköz.";
+
+"The box suddenly exploded! You have lost Hit Points (HP).";
+"A doboz hirtelen felrobban! Életerõt (TP) vesztettél.";
+
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!";
+"Ha belélegzed a zöld füstöt a dobozból, méreg fog szétáradni testedben.";
+
+"You have received %s, %d units.";
+"Kaptál %s, %d egységet.";
+
+"The box contains %s.";
+"%s van a dobozban.";
+
+"This key does not seem to fit the lock.";
+"Úgy tûnik, ez a kulcs nem a megfelelõ.";
+
+"You have not received anything.";
+"Nem kaptál semmit.";
+
+"You do not have enough Yang to use this item.";
+"Nincs nálad elég Yang, hogy ezt a tárgyat használd.";
+
+"You have lowered your Skill Level.";
+"Csökkentetted készséged szintjét.";
+
+"You cannot lower your Skill Level.";
+"Nem tudod csökkenteni készséged szintjét.";
+
+"This effect is already activated.";
+"Ez a hatás már aktív.";
+
+"This item can only be used in an Internet cafe.";
+"Ezt a tárgyat csak egy internet kávézóban lehet használni.";
+
+"That is over the limit.";
+"Túl van a határértéken.";
+
+"Unfortunately you don't have enough space in your inventory.";
+"Sajnos nincs elég hely a leltáradban.";
+
+"Used Moon Cake or Seed.";
+"Használt hold süti vagy mag.";
+
+"You cannot wear a Wedding Ring if you are not married.";
+"Nem hordhatsz Jegygyûrût, ha nem vagy házas.";
+
+"You cannot use the Event Detector from this position.";
+"Az esemény érzékelõt nem lehet innen irányítani.";
+
+"This item cannot be absorbed.";
+"Ez a tárgy nem abszorbeálható.";
+
+"The Event Detector vanished in a mysterious light.";
+"Az esemény érzékelõ a misztikus fénnyel eltûnt.";
+
+"The Event Detector has vanished.";
+"Eltûnt az esemény érzékelõ.";
+
+"The Compass for Metin Stones does not work in dungeons.";
+"A Metinkõ iránytû nem mûködik a kazamatákban.";
+
+"The Compass for Metin Stones has vanished in the mysterious light.";
+"A Metinkõ iránytû egy titokzatos fénnyel eltûnt.";
+
+"Receive: %s - %d";
+"Kaptál: %s - %d";
+
+"The Compass for Metin Stones has vanished.";
+"A Metinkõ iránytû eltûnt.";
+
+"You find a simple Piece of Stone in the Clam.";
+"Egy egyszerû kõdarabot találsz a kagylóban.";
+
+"The Clam has vanished.";
+"A kagyló eltûnt.";
+
+"There is a White Pearl inside the Clam.";
+"A kagylóban egy fehér gyöngy van.";
+
+"There is a Blue Pearl inside the Clam.";
+"A kagylóban egy kék gyöngy van.";
+
+"There is a Blood-Red Pearl inside the Clam.";
+"A kagylóban egy Vérvörös Gyöngy van.";
+
+"It isn't easy to understand this book.";
+"Ezt a könyvet nehéz megérteni.";
+
+"This book will not help you.";
+"Ez a könyv nem segít neked tovább.";
+
+"You need to have a minimum level of 30 to understand this book.";
+"Legalább 30-as szintre van szükséged a könyv megértéséhez.";
+
+"You need a minimum level of 50 to understand this book.";
+"Legalább 50-es szintre van szükséged a könyv megértéséhez.";
+
+"You can't train any more Combos.";
+"Nem tudsz további kombót kiképezni.";
+
+"%s has captured the flag of %s!";
+"%s megszerezte %s zászlóját.";
+
+"You already understand this language.";
+"Már megérted ezt a nyelvet.";
+
+"You have to improve your Level to read this Book.";
+"Meg kell növelni szintedet, hogy el tudd olvasni ezt a könyvet.";
+
+"The book is too hard for practising.";
+"Túl nehéz a könyv a tanuláshoz.";
+
+"You cannot train with this Book any more.";
+"Ezzel a könyvvel nem tudsz tovább gyakorolni.";
+
+"Taxes are set to %d%%.";
+"Az adó %d%%-ra lett beállítva.";
+
+"You need a minimum level of 50 to get riding training.";
+"Legalább 50-es szintûnek kell lenned a lovas kiképzéshez.";
+
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll.";
+"Megúsztad a gonosz lélek átkot az ördögûzõ tekercs segítségével.";
+
+"You cannot read any more Riding Guides.";
+"Nem olvashatsz további lovaglás leírást.";
+
+"You read the Horse Riding Manual and received a Riding Point.";
+"Elolvastad a Lovaglás könyvét, és szereztél egy lovagló pontot.";
+
+"You can use this point to improve your riding skill!";
+"Ezt a pontot a lovaglási képességed növelésére használhatod.";
+
+"The guild %s's flag has been stolen by player %s.";
+"A %s céh zászlaját ellopta %s játékos.";
+
+"You did not understand the riding guide.";
+"Nem értetted a lovaglási leírást.";
+
+"Your mind is clear. You can concentrate really well now.";
+"Szellemed tiszta. Jól tudsz koncentrálni.";
+
+"Your rank has increased by %d points.";
+"A rangod ennyi ponttal növekedett: %d";
+
+"You cannot dye or bleach your current hairstyle.";
+"Jelenlegi frizurádat nem tudod festeni vagy szõkíteni.";
+
+"You need to have reached level %d to be able to dye your hair again.";
+"El kell érned a %d szintet, hogy ismét befesthesd a hajad.";
+
+"This item can only be opened by the another gender.";
+"A tárgyat csak a másik nem képviselõje tudja kinyitni.";
+
+"You cannot use this from your current position.";
+"Jelenlegi pozíciódból nem tudod kihasználni.";
+
+"You are ready to warp, so you cannot use the Scroll of the Location.";
+"Készen állsz a teleportra, ezért nem tudod használni a Visszaszállító tekercset.";
+
+"You are being brought back to the place of origin.";
+"Az eredeti helyszínre leszel visszatéve.";
+
+"%s%s cannot be used in a dungeon.";
+"%s%s nem használható a kazamatában.";
+
+"[Quest] You have already received your reward.";
+"[Quest] Már megkaptad a jutalmad.";
+
+"the";
+"a";
+
+"There aren't any Pieces of Broken Stone available for removal.";
+"Nincs eltávolítani való kõszilánk.";
+
+"You cannot change the upgrade of this item.";
+"A tárgy javítását nem tudod megváltoztatni.";
+
+"There is no upgrade that you can change.";
+"Nincs olyan javításod, amit meg tudsz változtatni.";
+
+"You can only do this %d minutes after an upgrade. (%d minutes left)";
+"Ezt csak %d perccel a javítás után teheted. (%d perc van hátra)";
+
+"You have changed the upgrade.";
+"Megváltoztattad a javítást.";
+
+"Upgrade successfully added.";
+"A javítás sikeresen hozzáadódott.";
+
+"No upgrade added.";
+"Nincs hozzáadott fejlesztés.";
+
+"You must use the Blessing Marble in order to add another bonus to this item.";
+"A Megáldó márványt kell használnod, hogy további bónuszt adj ehhez a tárgyhoz.";
+
+"You cannot use this in the duel arena.";
+"Nem használhatod ezen a területen.";
+
+"This item can no longer be improved. The maximum number of bonuses has been reached.";
+"Ez a tárgy már nem fejleszthetõ. A bónuszok maximális mennyisége el lett érve.";
+
+"You can only use the Blessing Marble with an item which already has 4 bonuses.";
+"A Megáldó márványt csak olyan tárgyon használhatod, amelynek már van 4 bónusza.";
+
+"Socket successfully added.";
+"A foglalat sikeresen hozzá lett adva.";
+
+"No socket added.";
+"Nem lett foglalat hozzáadva.";
+
+"No additional sockets could be added to this item.";
+"Ehhez a tárgyhoz nem lehet több foglalatot adni.";
+
+"You cannot add a socket to this item.";
+"Ehhez a tárgyhoz nem adhatsz foglalatot.";
+
+"Arming successful.";
+"Sikeres felszerelés.";
+
+"Arming has failed.";
+"Felszerelés nem sikerült.";
+
+"You have to add a socket first. Use a diamond in order to do this.";
+"Elõször egy foglalatot kell hozzáadnod, ehhez használj gyémántot.";
+
+"There are no sockets for gemstones in this item.";
+"Ebben a tartozékban nincs foglalat drágakövek számára.";
+
+"You can do this when you wear an Emotion Mask.";
+"Akkor teheted meg, ha érzelem maszkot viselsz.";
+
+"You have to add a socket if you want to use a Diamond.";
+"Egy foglalatot kell hozzáadnod, amikor egy gyémántot akarsz használni.";
+
+"No more gems can be added to this item.";
+"Ehhez a tárgyhoz nem adható több drágakõ.";
+
+"These items cannot be used together.";
+"Ezeket a tárgyakat nem lehet együtt használni.";
+
+"You cannot change the Bait whilst fishing.";
+"Horgászat közben nem cserélhetsz csalit.";
+
+"You are exchanging the current Bait for %s.";
+"Kicseréled a jelenlegi csalit. Az új csali: %s.";
+
+"You attached %s to the hook as bait.";
+"Egy %s lett csaliként a horogra tûzve.";
+
+"You are missing some ingredients to make the potion.";
+"Anyag hiányzik az italok keveréséhez.";
+
+"You do not have enough material (%s).";
+"Nincs elég anyagod (%s).";
+
+"You do not have enough empty bottles.";
+"Nincs elég üres üveged.";
+
+"The potion production has failed.";
+"Nem sikerült az ital elõállítása.";
+
+"Only women can do this.";
+"Ezt csak nõk tehetik.";
+
+"You cannot attach several stones of the same type.";
+"Nem tudsz több azonos fajta szellemkövet felerõsíteni.";
+
+"This Spirit Stone cannot be attached to this type of item.";
+"Ez a szellemkõ nem erõsíthetõ fel erre a fajta tárgyra.";
+
+"You cannot attach this Spirit Stone to a weapon.";
+"Ezt a szellemkövet nem szerelheted fel fegyverre.";
+
+"You have attached the Spirit Stone successfully.";
+"Sikeresen felszerelted a szellemkövet.";
+
+"The Spirit Stone broke while being attached.";
+"A szellemkõ eltört felszerelés közben.";
+
+"No slot free.";
+"Nincs szabad nyílás";
+
+"This function is not available right now.";
+"Ez a funkció itt és most nem elérhetõ.";
+
+"You cannot use a Scroll of the Location whilst taking part in a kingdom battle.";
+"Birodalmi csata résztvevõjeként nem használhatod a Visszaszállító tekercset.";
+
+"After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.";
+"A raktár megnyitása után %d másodpercig nem használhatod a Visszaszállító tekercset.";
+
+"You cannot use a Scroll of the Location while another window is open.";
+"Nem használhatod a Visszaszállító tekercset, amíg egy másik ablak nyitva van.";
+
+"This person does not exist.";
+"Ez a személy nem létezik.";
+
+"After a trade, you cannot use a scroll for another %d seconds.";
+"Kereskedés után nem használhatod a tekercset %d másodpercig.";
+
+"After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.";
+"A raktár megnyitása után nem használhatod a Visszaszállító tekercset további %d másodpercig.";
+
+"You cannot use the Scroll of the Location because the distance is too small.";
+"Nem használhatod a Visszaszállító tekercset, mivel túl kicsi a távolság.";
+
+"After a trade you cannot use a Scroll of the Location for %d seconds.";
+"Kereskedés után nem használhatsz Visszaszállító tekercset %d másodpercig.";
+
+"You cannot open the Storeroom if another window is already open.";
+"Nem nyithatod ki a raktárat, amíg más ablak nyitva van.";
+
+"You cannot drop this item.";
+"Nem dobhatod el ezt a tárgyat.";
+
+"The dropped item will vanish in 5 minutes.";
+"Az eldobott tárgy 5 perc múlva eltûnik.";
+
+"%s received";
+"%s kapott";
+
+"You have too many items in your inventory.";
+"Túl sok tárgyat tartasz magadnál.";
+
+"%s receives %s.";
+"%s ezt kapta: %s.";
+
+"You are too near.";
+"Túl közel vagy.";
+
+"Item Trade: %s, %s";
+"Tárgy kereskedés: %s, %s";
+
+"You cannot change the equipped item while you are transformed.";
+"Nem cserélheted le a felszerelt tárgyat, amíg át vagy változtatva.";
+
+"You have to stand still to equip the item.";
+"Nyugton kell maradnod a tárgy felszereléséhez.";
+
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.";
+"Eleven lovakat nem etethetsz majom növénnyel. Ez halott lovak feltámasztására való.";
+
+"You cannot feed a dead Horse.";
+"Halott lovat nem etethetsz.";
+
+"You fed the Horse with Herbs.";
+"Növényekkel etetted a lovat.";
+
+"You have fed the Horse.";
+"Megetetted a lovat.";
+
+"Your level is too low to wear this Hairstyle.";
+"Túl alacsony szinten vagy egy ilyen frizura viseléséhez.";
+
+"You already have this Hairstyle.";
+"Már most is ilyen frizurád van.";
+
+"You have already transformed.";
+"Már át vagy változva.";
+
+"You are too far away.";
+"Túl közel vagy.";
+
+"That's the wrong trading item.";
+"Nem megfelelõ átváltoztató tárgy.";
+
+"You cannot transform into a monster who has a higher level than you.";
+"Nem változhatsz át olyan szörnnyé, aki magasabb szintû nálad.";
+
+"Your level is too low to equip this item.";
+"Túl alacsony a szinted ezen tárgy felszereléséhez.";
+
+"You are not strong enough to equip yourself with this item.";
+"Nem vagy elég erõs, hogy magadra vedd ezt a tárgyat.";
+
+"Your intelligence is too low to equip yourself with this item.";
+"Nem elegendõ az intelligenciád ezen tárgy felszereléséhez.";
+
+"Your dexterity is too low to equip yourself with this item.";
+"Nem elegendõ az ügyességed ezen tárgy felszereléséhez.";
+
+"Your vitality is too low to equip yourself with this item.";
+"Nem elegendõ az életerõd ezen tárgy felszereléséhez.";
+
+"You cannot use this item because you are not married.";
+"Nem használhatod ezt a tárgyat, mert nem vagy házas.";
+
+"You cannot equip this item twice.";
+"Nem szerelheted fel ezt a tárgyat kétszer.";
+
+"Time left until the removal of the socket of %s: %d";
+"A %s idõbõl a foglalat eltávolításáig fennmaradó: %d";
+
+"This action can only be done with another gender.";
+"Ezt az akciót csak egy másik nemûvel együtt hajthatod végre.";
+
+"A gem socketed in the %s has vanished.";
+"Egy drágakõ eltûnt a(z) %s foglalatából.";
+
+"[Guild] This guild name is invalid.";
+"[Céh] A céhnév érvénytelen.";
+
+"[Guild] This guild name is already taken.";
+"[Céh] Ez a céhnév már foglalt.";
+
+"[Guild] You cannot found a guild.";
+"[Céh] Nem hozhatsz létre céhet.";
+
+"The guild %s has declared war on %s!";
+"A(z) %s céh háborút hirdetett %s ellen.";
+
+"[Guild] %s has refused the Guild war.";
+"[Céh] %s visszautasította a céhháborút.";
+
+"The guild war between %s and %s will start in a few seconds!";
+"A céhháború pillanatokon belül elkezdõdik %s és %s között!";
+
+"The guild war between %s and %s has begun!";
+"A céhháború elkezdõdött %s és %s között.";
+
+"The guild war between %s and %s has ended in a draw.";
+"A céhháború döntetlennel végzõdött %s és %s között.";
+
+"%s has won the guild war against %s.";
+"%s megnyerte a céhháborút %s ellen.";
+
+"You need your fellow player's approval for this.";
+"Ehhez az akcióhoz szükséged van játékostársad beleegyezésére.";
+
+"[Guild] The guild war has been cancelled.";
+"[Céh] A céhháború félbeszakadt.";
+
+"The guild war between %s and %s has been cancelled.";
+"A céhháború %s és %s között törölve lett.";
+
+"Close";
+"Bezár";
+
+"Action cancelled. You have entered a battle.";
+"Cselekvés visszavonva. Beléptél a harcba.";
+
+"Someone has logged into your account. You will be disconnected from the server.";
+"Valaki belépett a felhasználó neveddel. Lekapcsolunk a szerverrõl.";
+
+"A mysterious light appears from the tree.";
+"Egy misztikus fény jelent meg a fáról.";
+
+"%d Playtime added to your account. (Payment number %d)";
+"%d játékidõ lett hozzáadva az eddigiekhez.. (Fizetési szám %d)";
+
+"You can participate in the guild battle in viewer mode.";
+"A céhháborúban megfigyelõként részt vehetsz.";
+
+"While choosing a character, an icon appears.";
+"A karakter kiválasztásánál megjelenik egy ikon.";
+
+"There are no opponents.";
+"Nincs ellenfél.";
+
+"The battle with %s has begun!";
+"A harc %s ellen megkezdõdött.";
+
+"If no enemy can be found, the guild war will be ended automatically.";
+"Ha nincs ellenség, automatikusan véget fog érni a céhharc.";
+
+"Because the guild war finished early, the result will judged as a draw.";
+"Mivel a céhháború hamarabb befejezõdött, az eredmény döntetlennek számít.";
+
+"The energy is reflected because of the Emperors Blessing.";
+"A császár áldása miatt visszaverõdik az energia.";
+
+"After %d seconds you can use the Emperors Blessing.";
+"%d másodperc után lehet a császár áldását felhasználni.";
+
+"Not enough tax income : %d.";
+"Nem elég az adóbevétel: %d";
+
+"[TEST_ONLY]Tax : %d";
+"[TEST_ONLY]Adó nagysága: %d";
+
+"Transformation error.";
+"Hiba az átváltozásnál";
+
+"You learned the transmutation completely.";
+"Teljesen kitanultad az átváltozást.";
+
+"Please call your Horse first.";
+"Elõbb a lovadat hívd kérlek!";
+
+"You have sent your horse away.";
+"Elküldted a lovadat.";
+
+"%s challenged you to a battle!";
+"%s harcra hívott téged.";
+
+"You have to get off your Horse.";
+"Le kell szállnod.";
+
+"You cannot feed your Horse whilst sitting on it.";
+"Nem etetheted a lovadat amikor rajta ülsz.";
+
+"You have fed the Horse with %s%s.";
+"Megetetted a lovad %s%s-val.";
+
+"You need %s.";
+"Szükséged van %s-re.";
+
+"%d seconds until Exit.";
+"%d másodperc a kilépésig.";
+
+"The game will be closed in %d seconds.";
+"%d másodperc múlva vége a játéknak.";
+
+"Your logout has been cancelled.";
+"A kijelentkezés félbeszakadt.";
+
+"Back to login window. Please wait.";
+"Vissza a bejelentkezõ ablakhoz. Kérlek várj!";
+
+"You have been disconnected from the server. Please wait.";
+"Lekapcsolódás a szerverrõl. Kérlek várj!";
+
+"You have challenged %s to a battle.";
+"Harcra hívtad %s-t.";
+
+"You are changing character. Please wait.";
+"Karaktert cserélsz. Kérlek várj!";
+
+"A new start is not possible at the moment. Please wait %d seconds.";
+"Pillanatnyilag nem lehet újrakezdeni. Kérünk, várj %d másodpercet.";
+
+"You cannot restart yet. Please wait another %d seconds.";
+"Még nem lehet újraindítani. Kérünk, várj további %d másodpercet.";
+
+"You cannot restart in the city yet. Wait another %d seconds.";
+"Még nem tudsz újraindulni a városban. Várj további %d másodpercet.";
+
+"The waiting time has expired. You will be revived in the city.";
+"Lejárt a várakozási idõ. A városban leszel újraindítva.";
+
+"You cannot change your status while you are transformed.";
+"Nem változtathatod meg a státuszod, amíg át vagy változtatva.";
+
+"This player is currently fighting.";
+"A játékos épp párbajozik.";
+
+"[Guild] It does not belong to the guild.";
+"[Céh] Nem tartozik a céhhez.";
+
+"[Guild] You do not have the authority to change the level of the guild skills.";
+"[Céh] Nincs jogosultságod a céhképességek megváltoztatására.";
+
+"Your choice is incorrect.";
+"A kiválasztás hibás.";
+
+"[Storeroom] You have entered an incorrect password.";
+"[Raktár] Rossz jelszót adtál meg.";
+
+"[Storeroom] The Storeroom is already open.";
+"[Raktár] A raktár már nyitva van.";
+
+"[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.";
+"[Raktár] 10 másodpercet kell várnod, mielõtt újra kinyithatod a raktárt.";
+
+"[Storeroom] You are too far away to open the storeroom.";
+"[Raktár] Túl messze vagy a raktártól, hogy kinyisd.";
+
+"[Group] The server cannot execute this group request.";
+"[Csoport] A szerver nem tudja feldolgozni a csoport feladatot.";
+
+"[Group] You cannot leave a group while you are in a dungeon.";
+"[Csoport] Kazamatában nem hagyhatsz el csoportot.";
+
+"[Group] You have left the group.";
+"[Csoport] Kiléptél a csoportból.";
+
+"[Guild] Your guild is already participating in another war.";
+"[Céh] A céhed már egy másik harcban vesz részt.";
+
+"[Guild] No one is entitled to a guild war.";
+"[Céh] Nincs joga senkinek a céhharchoz.";
+
+"[Guild] No guild with this name exists.";
+"[Céh] Nincs ilyen nevû céh.";
+
+"There already is a candidacy.";
+"Már van egy jelölés.";
+
+"[Guild] This guild is already participating in a war.";
+"[Céh] A céh már harcban áll.";
+
+"[Guild] Not enough Yang to participate in a guild war.";
+"[Céh] Nincs elég Yang a céhharcban való részvételhez.";
+
+"[Guild] The guild does not have enough Yang to participate in a guild war.";
+"[Céh] A céhnek nincs elég Yangja, hogy részt vegyen a céhharcban.";
+
+"[Guild] This Guild is already scheduled for another war.";
+"[Céh] A céh már egy másik háborúban vesz részt.";
+
+"[Guild] This guild is already participating in another war.";
+"[Céh] A céh már háborúban áll.";
+
+"[Guild] A minimum of %d players are needed to participate in a guild war.";
+"[Céh] Legalább %d játékosnak kell részt vennie a céhháborúban.";
+
+"[Guild] The guild does not have enough points to participate in a guild war.";
+"[Céh] A céhnek nincs elég pontja ahhoz, hogy részt tudjon venni egy céhháborúban.";
+
+"[Guild] The guild does not have enough members to participate in a guild war.";
+"[Céh] A céhnek nincs elég tagja, hogy részt tudjon venni egy céhháborúban.";
+
+"Your level has to be higher than 20 to register a cell phone number.";
+"20-nál magasabb szinten kell állnod, hogy mobiltelefonszámod regisztrálni tudd.";
+
+"You do not have the emperor qualification.";
+"Nincs császári kiképzésed.";
+
+"%s declined the invitation.";
+"%s elutasította a meghívást.";
+
+"You cannot accept the invitation because you are already in the group.";
+"Nem fogadhatod el a meghívást, mivel már a csoportban vagy.";
+
+"Only the emperor can use this.";
+"Csak a császár használhatja.";
+
+"Cooldown time for approximately %d seconds";
+"Újrafelhasználási idõ kb. %d másodperc";
+
+"Lack of Taxes. Current Capital : %u Missing Capital : %u";
+"Adóhiány. Jelenlegi tõke: %u hiányzó tõke: %u";
+
+"Command: warpto <character name>";
+"Rendelés: warpto <character name>";
+
+"You cannot be warped to an unknown player.";
+"Nem transzportálhatsz egy idegen birodalom játékosához.";
+
+"Adding player %d into the channel. (Present channel %d)";
+"Játékos hozzáadása a %d csatornára. (Jelenlegi castorna %d)";
+
+"Warp to player %s.";
+"Transzport a %s játékoshoz.";
+
+"You cannot call unknown players.";
+"Nem hívhatsz ismeretlen játékosokat.";
+
+"[Guild] There are no experience points for hunting during a guild war.";
+"[Céh] A céhháború ideje alatt nincs tapasztalati pont vadászatkor.";
+
+"When the Blessing of the Emperor is used %s the HP and SP are restored again.";
+"Az %s uralkodó áldásának felhasználásánál a TP és MP helyreállítódik.";
+
+"My information about the emperor";
+"A császárom információi";
+
+"[%sMonarch] : %s Yang owned %lld";
+"[%sMonarch] : %s Yanggal rendelkezik %lld";
+
+"[%sMonarch] : %s";
+"[%sMonarch] : %s";
+
+"Information about the emperor";
+"Császár információk";
+
+"Only an emperor can use this.";
+"Csak császárok használhatják.";
+
+"Choose a number between 1 and 50.";
+"Válassz egy számot 1 és 50 között.";
+
+"The Monster cannot be called. Check the Mob Number.";
+"A szörny nem hívható, ellenõrizd a Mob-számot.";
+
+"Hit Points +%d";
+"Életerõ +%d";
+
+"Spell Points +%d";
+"Mana pontok +%d";
+
+"The Emperor Blessing is activated.";
+"A császári áldás aktív.";
+
+"Endurance +%d";
+"Kitartás +%d";
+
+"Intelligence +%d";
+"Intelligencia +%d";
+
+"Strength +%d";
+"Erõ +%d";
+
+"Dexterity +%d";
+"Ügyesség +%d";
+
+"Attack Speed +%d";
+"Támadósebesség +%d";
+
+"Movement Speed %d";
+"Mozgási sebesség %d";
+
+"Cooldown Time -%d";
+"Várakozási idõ -%d";
+
+"Energy Recovery +%d";
+"Energia visszaszerzés +%d";
+
+"Spell Point Recovery +%d";
+"Mana visszanyerés +%d";
+
+"Poison Attack %d";
+"Méreg támadás %d";
+
+"Star +%d";
+"Csillag +%d";
+
+"Speed Reduction +%d";
+"Sebesség csökkenés +%d";
+
+"Critical Attack with a chance of %d%%";
+"Kritikus támadás %d%% eséllyel.";
+
+"Chance of a Speared Attack of %d%%";
+"Átható támadás %d%% eséllyel.";
+
+"Player's Attack Power against Monsters +%d%%";
+"A játékos szörnyekkel szembeni támadóereje +%d%%";
+
+"Horse's Attack Power against Monsters +%d%%";
+"A ló szörnyekkel szembeni támadóereje +%d%%";
+
+"Attack Boost against Wonggui + %d%%";
+"Támadó erõsítés Wonggui-val szemben +%d%%";
+
+"Attack Boost against Milgyo + %d%%";
+"Támadás erõsítés Milgyo-val szemben + %d%%";
+
+"Attack boost against zombies + %d%%";
+"Élõholtak elleni támadás növelése + %d%%";
+
+"Attack boost against devils + %d%%";
+"Ördög elleni támadás növelése + %d%%";
+
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.";
+"Sa-Za-Hu uralkodó által %s játékosnak ezen a területen 3 percen keresztül 10%%-kal nõ a támadó ererje.";
+
+"Absorbing of Energy %d%% while attacking.";
+"Energia elnyelõdés %d%% támadásnál.";
+
+"Absorption of Spell Points (SP) %d%% while attacking.";
+"Mana elnyelõdés %d%% támadásnál.";
+
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy.";
+"%d%% valószínûséggel lesz Mana elvéve az ellenségtõl.";
+
+"Absorbing of Spell Points (SP) with a chance of %d%%";
+"Mana elnyelõdés %d%% eséllyel.";
+
+"%d%% Chance of blocking a close-combat attack";
+"%d%% esély közelharci támadás blokkolására.";
+
+"%d%% Chance of blocking a long range attack";
+"%d%% esély távolsági támadás blokkolására.";
+
+"One-Handed Sword defence %d%%";
+"Egykezes kard védelem %d%%";
+
+"Two-Handed Sword Defence %d%%";
+"Kétkezes kard védelem %d%%";
+
+"Bell Defence %d%%";
+"Harang védelem %d%%";
+
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.";
+"Geum-Gang-Gwon uralkodó által a %s játékoshoz ezen a területen 3 percen át 10 %%  felszerelés adódik.";
+
+"Fan Defence %d%%";
+"Legyezõ védelem %d%%";
+
+"Distant Attack Resistance %d%%";
+"Táv támadás ellenállás %d%%";
+
+"Fire Resistance %d%%";
+"Tûz ellenállás %d%%";
+
+"Lightning Resistance %d%%";
+"Villám ellenállás %d%%";
+
+"Magic Resistance %d%%";
+"Mágia ellenállás %d%%";
+
+"Wind Resistance %d%%";
+"Szél ellenállás %d%%";
+
+"Reflect Direct Hit: %d%%";
+"Közvetlen támadás visszaverése: %d%%";
+
+"Reflect Curse: %d%%";
+"Átok visszaverés: %d%%";
+
+"Poison Resistance %d%%";
+"Méreg ellenállás %d%%";
+
+"Spell Points (SP) will be increased by %d%% if you win.";
+"Mana emelkedés %d%%-kal az ellenség feletti gyõzelemnél.";
+
+"The event is already running. (Flag: %d)";
+"Az esemény már zajlik (Flag: %d)";
+
+"Experience increases by %d%% if you win against an opponent.";
+"Tapasztalat növekedés %d%%-kal az ellenség feletti gyõzelemnél.";
+
+"Increase of Yang up to %d%% if you win.";
+"A zsákmányolt Yang növekedése %d%%-kal az ellenség feletti gyõzelemnél.";
+
+"Increase of captured Items up to %d%% if you win.";
+"A zsákmányolt tárgyak növekedése %d%%-kal az ellenség feletti gyõzelemnél.";
+
+"Power increase of up to %d%% after taking the potion.";
+"A teljesítmény növekedése %d%%-kal az ital által.";
+
+"%d%% Chance of filling up Hit Points after a victory.";
+"%d%% esély az életerõ feltöltésére egy gyõzelem után.";
+
+"No Dizziness %d%%";
+"Nincs szédülés %d%%";
+
+"No Slowing Down %d%%";
+"Nincs lelassulás %d%%";
+
+"No falling down %d%%";
+"Nincs leesés %d%%";
+
+"Attack Power + %d";
+"Támadóerõ + %d";
+
+"Armour + %d";
+"Felszerelés + %d";
+
+"OX quiz script could not be loaded.";
+"OX Quiz Script nem tölthetõ be.";
+
+"Magical Attack + %d";
+"Mágikus támadás + %d";
+
+"Magical Defence + %d";
+"Mágikus védelem + %d";
+
+"Maximum Endurance + %d";
+"Maximális kitartás + %d";
+
+"Strong against Warriors + %d%%";
+"Harcosok elleni erõ + %d%%";
+
+"Strong against Ninjas + %d%%";
+"Nindzsák elleni erõ + %d%%";
+
+"Strong against Sura + %d%%";
+"Surák elleni erõ + %d%%";
+
+"Strong against Shamans + %d%%";
+"Sámánok elleni erõ + %d%%";
+
+"Strength against monsters + %d%%";
+"Szörnyek elleni erõ + %d%%";
+
+"Attack + %d%%";
+"Támadás + %d%%";
+
+"Defence + %d%%";
+"Védekezés + %d%%";
+
+"OX quiz script has loaded.";
+"OX Quiz Script betöltõdött.";
+
+"Experience %d%%";
+"Tapasztalat %d%%";
+
+"Chance to find an Item %. 1f";
+"Esély egy tárgy találására %. 1f";
+
+"Chance to find Yang %. 1f";
+"Esély Yang találására %. 1f";
+
+"Maximum Energy +%d%%";
+"Maximális élet +%d%%";
+
+"Skill Damage %d%%";
+"Képesség romlás %d%%";
+
+"Hit Damage %d%%";
+"Ütés romlás %d%%";
+
+"Resistance against Skill Damage %d%%";
+"Ellenállás képességromlás ellen %d%%";
+
+"Resistance against Hits %d%%";
+"Ellenállás ütéssel szemben %d%%";
+
+"%d%% Resistance against Warrior Attacks";
+"%d%% ellenállás harcos támadással szemben";
+
+"Welcome to Metin2.";
+"Üdvözlünk a Metin2-ben!";
+
+"%d%% Resistance against Ninja Attacks";
+"%d%% ellenállás nindzsa támadással szemben";
+
+"%d%% Resistance against Sura Attacks";
+"%d%% ellenállás Sura támadással szemben";
+
+"%d%% Resistance against Shaman Attacks";
+"%d%% ellenállás sámán támadással szemben";
+
+"(Procedure: %d y- %d m - %d d)";
+"(Folyamat: %d j- %d m - %d t)";
+
+"Your chat is blocked.";
+"A csetelésed le van tiltva.";
+
+"You need a higher level to be able to call.";
+"Magasabb szintûnek kell lenned, hogy hívni tudj.";
+
+"You need a minimum level of %d to be able to call.";
+"Legalább %d szintûnek kell lenned, hogy hívni tudj.";
+
+"You are not in this Group.";
+"Nem vagy a csoportban.";
+
+"You did not join this Guild.";
+"Nem léptél be a céhbe.";
+
+"The player has rejected your request to add him to your friend list.";
+"A játékos elutasította a kérésed, hogy hozzáadd a barátlistádhoz.";
+
+"OX Event has started.";
+"OX Esemény elkezdõdött.";
+
+"[Friends] You cannot add a GM to your list.";
+"[Barátok] Nem adhatsz GM-et a listádhoz.";
+
+"%s is not online.";
+"%s nem online.";
+
+"After a trade, you have to wait %d seconds before you can open a shop.";
+"Kereskedés után %d másodpercet kell várnod, hogy boltot nyithass.";
+
+"You can trade again in %d seconds.";
+"%d másodperc múlva tudsz ismét kereskedni.";
+
+"You have more than 2 Billion Yang. You cannot trade.";
+"Több mint 2 milliárd Yangod van. Nem tudsz kereskedni.";
+
+"You cannot open a private shop while another window is open.";
+"Nem nyithatsz magánboltot, amíg meg van nyitva egy másik ablak.";
+
+"The player has more than 2 Billion Yang. You cannot trade with him.";
+"A játékos több mint 2 milliárd Yanggal rendelkezik. Nem kereskedhetsz vele.";
+
+"[Storeroom] No movement possible.";
+"[Raktár] Mozgás nem lehetséges.";
+
+"[Storeroom] The item cannot be stored.";
+"[Raktár] A tárgy nem raktározható.";
+
+"[Group] The player who invited you is not online.";
+"[Csoport] A játékos aki meghívott, nem online.";
+
+"Uriel allowed to enter.";
+"Uriel engedélyével a belépés megengedett.";
+
+"[Group] Only the group leader can change this.";
+"[Csoport] Csak a csoportvezetõ változtathatja meg.";
+
+"[Group] The target is not a member of your group.";
+"[Csoport] A cél nem tagja a csoportodnak.";
+
+"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Csoport] Kazamatában nem zárhatsz ki játékost.";
+
+"[Group] You have been out kicked of the group.";
+"[Csoport] Kizártak a csoportból.";
+
+"[Group] You cannot kick out group members.";
+"[Csoport] Nem zárhatod ki csoporttársadat.";
+
+"[Guild] After disbanding a guild, you cannot create a new one for %d days.";
+"[Céh] A céh feloszlatása után %d napig nem csinálhatsz újat.";
+
+"[Guild] After leaving a guild, you cannot create a new one for %d days.";
+"[Céh] A céh elhagyása után %d napig nem csinálhatsz újat.";
+
+"This guild name is invalid.";
+"A céh neve érvénytelen.";
+
+"We request the participation of a lot of players.";
+"Sok játékos részvételét kérjük.";
+
+"[Guild] [%s] guild has been created.";
+"[Céh] [%s] létre lett hozva.";
+
+"[Guild] Creation of the guild has failed.";
+"[Céh] Céh létrehozása nem sikerült.";
+
+"[Group] Only the group leader can use group skills.";
+"[Csoport] A csoport képességei csak a csoportvezetõ rendelkezésére állnak.";
+
+"[Group] The target has not been found.";
+"[Csoport] Nem lett megtalálva a cél.";
+
+"[Guild] That is not the correct amount of Yang.";
+"[Céh] Nem megfelelõ Yang mennyiség.";
+
+"[Guild] You do not have enough Yang.";
+"[Céh] Nincs nálad elég Yang.";
+
+"[Guild] The person you were searching for cannot be found.";
+"[Céh] A keresett ember nem található.";
+
+"[Guild] This person is not in the same guild.";
+"[Céh] A személy nem uganahhoz a céhhez tartozik.";
+
+"[Guild] You do not have the authority to kick out guild members.";
+"[Céh] Nincs felhatalmazásod céhtagok elküldésére.";
+
+"[Guild] The guild member %s has been kicked out of the Guild.";
+"[Céh] %s céhtagot kizárták a céhbõl.";
+
+"OX The Event has not ended yet. An error has occurred. (flag: %d)";
+"OX Az esemény még nem fejezõdött be. Hiba történt. (flag: %d)";
+
+"[Guild] You have kicked a guild member out.";
+"[Céh] Elküldtél egy céhtagot.";
+
+"[Guild] You do not have the authority to change your rank name.";
+"[Céh] Nincs jogosultságod a rangneved megváltoztatására.";
+
+"[Guild] The guild leader's rights cannot be changed.";
+"[Céh] A céh vezetõ jogai nem változtathatók meg";
+
+"[Guild] This rank name is invalid.";
+"[Céh] A rangnév érvénytelen.";
+
+"[Guild] You do not have the authority to change your position.";
+"[Céh] Nincs jogosultságod a hatalmi pozíciód megváltoztatására.";
+
+"[Guild] The rights of the guild leader cannot be changed.";
+"[Céh] A céh vezetõjének a jogai nem változtathatók meg.";
+
+"[Guild] %u experience points used.";
+"[Céh] %u tapasztalati pont lett felhasználva.";
+
+"[Guild] Experience usage has failed.";
+"[Céh] Nem sikerült a tapasztalat bevetése.";
+
+"[Guild] Insufficient Yang in the guild treasury.";
+"[Céh] Kevés a Yang a céh-kincstárban.";
+
+"[Guild] Dragon ghost was not restored.";
+"[Céh] A sárkányszellem nem lett újrateremtve.";
+
+"The OX Event will be restarted shortly.";
+"Hamarosan újraindul az OX Esemény.";
+
+"[Guild] You do not have the authority to make an announcement.";
+"[Céh] Nincs jogod bejelentést tenni.";
+
+"[Guild] You do not have the authority to change the position.";
+"[Céh] Nem változtathatod meg a pozíciót.";
+
+"[Guild] The guild leader's position cannot be changed.";
+"[Céh] A céhmester pozíciója nem változtatható meg.";
+
+"[Guild] You cannot make yourself guild leader.";
+"[Céh] Nem változtathatod rangod céhmesterre.";
+
+"[Guild] You do not have the authority to choose the guild leader.";
+"[Céh] Nincs jogod ahhoz hogy céhvezetõt válassz.";
+
+"[Guild] You cannot choose any more guild leaders.";
+"[Céh] Nem választhatsz több céhvezetõt.";
+
+"You cannot trade this item.";
+"Nem adhatod át ezt a tárgyat.";
+
+"Illegal software has been detected. The game is being shut down.";
+"Illegális szoftvert fedeztünk fel. Vége a játékodnak!";
+
+"You have more than 2 Billion Yang with you. You cannot trade.";
+"Több, mint 2 milliárd Yang van nálad. Nem kereskedhetsz.";
+
+"Invalid Yang.";
+"Érvénytelen Yang.";
+
+"The present event is limited to one area.";
+"Az ajándék esemény egy területre van korlátozva.";
+
+"Start Item Roulette.";
+"Rulett indítása.";
+
+"Start Yang Roulette.";
+"Yang rulett indítása";
+
+"The player is online. Please use whisper to chat.";
+"A játékos online. Használd a suttogást.";
+
+"The cell phone number is not registered.";
+"A telefonszám nincs regisztrálva.";
+
+"You need to be at least on level 20 to be able to send text messages.";
+"Legalább 20-as szinten kell állnod, hogy sms-t tudj küldeni.";
+
+"You need 2000 DT to send a text message.";
+"Legalább 2000 DT-re van szükség az sms küldéshez.";
+
+"Your text message has been sent.";
+"El lett küldve az sms-ed.";
+
+"%s of the Guild %s raised up to %d%% !";
+"%s a %s céhnek felment %d%%-ra.";
+
+"%s of the Guild %s normal again.";
+"%s a %s céhnek normalizálódott.";
+
+"%s: %s has increased by %d%%!";
+"%s: %s megnövekedett %d%%-kal!";
+
+"%s 's %s normal again.";
+"%s %s-a normalizálódott.";
+
+"Your mining points have reached their maximum. (%d)";
+"A bányász pontjaid elérték a maximumot (%d).";
+
+"Your mining points have reached their maximum level.";
+"A bányász pontjaid elérték a maximumot.";
+
+"You can get lumberjack Deokbae to upgrade your Pickaxe.";
+"Deokbae favágónál tudod fejleszteni a csákányod.";
+
+"Your Mining Points have increased! (%d/%d)";
+"Bányász pontjaid nõttek. (%d/%d)";
+
+"You cannot mine without a Pick.";
+"Csákány nélkül nem bányászhatsz.";
+
+"Nothing to mine here.";
+"Nincs mit bányászni.";
+
+"The mining has been successful.";
+"Sikeres volt a bányászat.";
+
+"The mining has failed.";
+"A bányászat sikertelen volt.";
+
+"[Friends] You have added %s as a friend.";
+"[Barátok] %s-t felvetted barátaid közé.";
+
+"The player will be teleported into the city shortly.";
+"A játékos rövidesen teleportálodik a városba.";
+
+"[Friends] You have deleted %s from the list.";
+"[Barátok] %s-t törölted a listáról.";
+
+"A critical server error has occurred. The server will restart automatically.";
+"Kritikus szerver hiba lépett fel. A szerver automatikusan újraindul.";
+
+"You will be disconnected automatically in 10 seconds.";
+"10 másodperc múlva automatikusan le leszel kapcsolva.";
+
+"You can connect again after 5 minutes.";
+"5 perc múlva tudsz csatlakozni.";
+
+"(%s) guild has been created. [Temporary]";
+"(%s) létre kett hozva. [Átmenetileg]";
+
+"This guild is at war.";
+"Ez a céh harcban áll.";
+
+"%s: This guild does not exist.";
+"%s: Ez a céh nem létezik.";
+
+"A guild with this name or number does not exist.";
+"Nem létezik céh ezzel a névvel vagy számmal.";
+
+"The building does not exist.";
+"Nem létezik az épület.";
+
+"This type of building can only be erected once.";
+"Ezt az épülettípust csak egyszer lehet megépíteni.";
+
+"Close the OX event card first. (Flag: %d)";
+"Elõször zárd be az OX eseménykártyát. (Flag: %d)";
+
+"The Main Building has to be erected first.";
+"A fõépületet kell elõször megépíteni.";
+
+"Building failed because of incorrect pricing.";
+"Hibás árazás miatt nem sikerült az építkezés.";
+
+"Your guild does not have enough Yang to erect this building.";
+"Céhednek nincs elég Yangja, hogy felépítse ezt az épületet.";
+
+"You do not have enough resources to build a building.";
+"Nincs elég építõanyagod az építkezéshez.";
+
+"You cannot erect a building at this place.";
+"Ezen a helyen nem lehet építkezni.";
+
+"This character does not exist.";
+"Nem létezik a karakter.";
+
+"Duel has not been successfully cancelled.";
+"A párbaj sikertelenül félbeszakadt.";
+
+"Duel cancelled successfully.";
+"A párbaj sikeresen félbeszakadt.";
+
+"The duel has been successfully started.";
+"A párbaj kezdete sikeres volt.";
+
+"There is a problem with initiating the duel.";
+"Probléma merült fel a párbaj kezdetével.";
+
+"No errors occurred.";
+"Nem lépett fel hiba.";
+
+"There are no combatants.";
+"Nincsenek párbajozók.";
+
+"No status points left.";
+"Nem maradt státuszpont";
+
+"Remaining status points are too low.";
+"Túl kevés státuszpont maradt.";
+
+"You entered an incorrect value.";
+"Rossz értéket adtál meg.";
+
+"Suborder or the Order is incorrect.";
+"A parancs egy része hibás.";
+
+"Broken contract between player %d and player %d.";
+"Felbontott szerzõdés %d játékos és %d játékos között.";
+
+"Turn the Roulette for %d Yang.";
+"Rulett pörgetés %d Yangért.";
+
+"The Item log placed into the syslog.";
+"A tárgylog a syslogba lett helyezve.";
+
+"Information for the Kingdoms";
+"Birodalmi információk";
+
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d";
+"Válaszd a Szent föld térkép információit %d átjáró %d %d %d";
+
+"An error has occurred.";
+"Hiba történt.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+"%s killcount %d mobkillcount %d bosskillcount %d szent föld száma %d";
+
+"Information about the status of the kingdom battle";
+"Információ a birodalmi csatáról.";
+
+"Your request is loading. Please wait.";
+"A kérés teljesítése folyamatban. Türelmet kérünk!";
+
+"You cannot open a Storeroom while another window is open.";
+"Nem nyithatod meg a raktárat, amíg meg van nyitva egy másik ablak.";
+
+"[Storeroom] Storeroom password has been changed.";
+"[Raktár] Raktár jelszó megváltoztatva.";
+
+"[Storeroom] You have entered the wrong password.";
+"[Raktár] Hibás jelszót adtál meg.";
+
+"Your playing time is going to run out in %d minutes.";
+"A játékidõd %d perc múlva lejár.";
+
+"Regularly voted.";
+"Szabályszerûen szavazott.";
+
+"Already voted.";
+"Már szavazott.";
+
+"%s player already in the vote.";
+"%s játékos már a választásban van.";
+
+"OX Event is over. No errors occurred. (Flag: %d)";
+"OX Esemény befejezõdött. Nem történt hiba.(Flag: %d)";
+
+"Cannot run for office.";
+"Nem lehet rá szavazni.";
+
+"%s still has %u Yang available.";
+"%s-nak még %u Yangja van.";
+
+"%s still has %d Yang available.";
+"%s-nak még %d Yangja van.";
+
+"You do not have enough Yang.";
+"Nincs elég Yangod.";
+
+"%s is deleted as an Emperor Candidate.";
+"%s-t törölve lett a császár jelöltek közül.";
+
+"%s is not a candidate for the emperor elections.";
+"%s nem császár jelölt.";
+
+"%s has been nominated as emperor.";
+"%s császárnak van jelölve.";
+
+"%s cannot be nominated as emperor.";
+"%s-t nem lehet császárnak jelölni.";
+
+"The %s Emperor gets driven out.";
+"A %s császárt eltávolítják.";
+
+"The %s Emperor cannot be driven out.";
+"%s császár nem eltávolítható.";
+
+"OX Event is not accepting any more participants.";
+"OX esemény nem fogad el több jelentkezést.";
+
+"Shinsoo Kingdom";
+"Shinsoo birodalom";
+
+"Chunjo Kingdom";
+"Chunjo-birodalom";
+
+"Jinno Kingdom";
+"Jinno-birodalom";
+
+"Your fishing points have increased! (%d/%d)";
+"A horgászpontjaid nõttek! (%d/%d)";
+
+"You have reached the maximum number of fishing points.";
+"Elérted a halászati pontok maximális számát.";
+
+"Go to the Fisherman and get your Fishing Pole upgraded!";
+"Menj a halászhoz, és fejleszd a horgászbotod!";
+
+"You lost your bait to the fish.";
+"Elveszítetted csalidat.";
+
+"You have caught a fish! (%s)";
+"Halat fogtál. (%s)";
+
+"The length of the captured fish is %.2fcm.";
+"A kifogott hal hossza %.2cm.";
+
+"Fishing Event 'Great Zander'";
+"Horgászverseny 'Legjobb horgász'";
+
+"OX The other event participants are being noted down.";
+"OX Az esemény többi résztvevõje fel van írva.";
+
+"Fishing Event 'Carp'";
+"'Nyugodt erõ' horgászverseny";
+
+"%s: %d";
+"%s: %d";
+
+"You have caught %d of %d .";
+"%d-ból %d-t fogtál.";
+
+"The fish vanished in the depths of the water.";
+"A hal a víz mélyén eltûnt.";
+
+"There is a Clam inside the Fish.";
+"A halban egy kagyló van.";
+
+"There is a Worm inside the Fish.";
+"A halban egy Giliszta van.";
+
+"You are roasting %s over the fire.";
+"%s-t sütsz a tûz fölött.";
+
+"You cannot trade because you are carrying more than 2 billion Yang.";
+"Több mint 2 milliárd Yang van nálad, ezért nem tudsz kereskedni.";
+
+"You can't give your shop an invalid name.";
+"Nem adhatsz érvénytelen nevet a boltodnak.";
+
+"You can't sell Item-Shop items in a private shop.";
+"Nem adhatsz el magán boltban Tárgy bolt terméket.";
+
+"OX The other event participants have not been noted down.";
+"OX A többi esemény résztvevõ nem lett felírva.";
+
+"Mining is finished.";
+"A bányászat befejezõdött.";
+
+"You need a Pickaxe in order to extract ore!";
+"Szükséged van egy csákányra hogy ércet szerezz!";
+
+"Please choose a Fishing Pole.";
+"Válassz ki egy horgászbotot.";
+
+"Place the Bait on the Hook first.";
+"Elõször a csalit rögzítsd a horogra.";
+
+"You can't go fishing without a fishing pole!";
+"Bot nélkül nem tudsz horgászni.";
+
+"[Group] You cannot make a request because the group leader is not online.";
+"[Csoport] Nem intézhetsz kérést, mert a csoportvezetõ nem online.";
+
+"[Group] You cannot form a group with players from another kingdom.";
+"[Csoport] Egy másik birodalom játékosával nem tudsz csoportot alkotni.";
+
+"[Group] You cannot invite players while you are in a dungeon.";
+"[Csoport] Kazamatában nem intézhetsz meghívást.";
+
+"[Group] You cannot invite a player while you are in observer mode.";
+"[Csoport] Megfigyelõ státuszban nem intézhetsz meghívást.";
+
+"[Group] Only players with a level difference of -30 to +30 can be invited.";
+"[Csoport] Csak -30 és +30 szint közötti játékosok hívhatóak meg.";
+
+"Number of other participants : %d";
+"A maradék résztvevõk száma: %d";
+
+"[Group] You cannot invite this player, as their level is too low.";
+"[Csoport] Nem hívhatod meg a játékost, mert túl alacsony szinten van.";
+
+"[Group] You cannot invite this player, as their level is too high.";
+"[Csoport] Nem hívhatod meg a játékost, mert túl magas szinten van.";
+
+"[Group] You cannot invite any more players into your group.";
+"[Csoport] Nem hívhatsz több játékost a csoportodba.";
+
+"You want to join %s's group.";
+"Szeretnél %s csoportjába lépni.";
+
+"This player is not in this group.";
+"A játékos nincs a csoportodban.";
+
+"[Group] You cannot join this group because it is already full.";
+"[Csoport] Nem léphetsz be a csoportba, mert már tele van.";
+
+"[Group] You do not have the right to invite someone.";
+"[Csoport] Nincs jogosultságod meghívót adni.";
+
+"[Group] %s has declined your group invitation.";
+"[Csoport] %s visszautasítja a meghívást a csoportodba.";
+
+"[Group] %s is already in the group.";
+"[Csoport] %s már a csoportodban van.";
+
+"[Group] You cannot accept an invitation into a dungeon.";
+"[Csoport] Kazamatában nem tudsz elfogadni meghívást.";
+
+"OX Event is finishing.";
+"OX Esemény befejezõdik.";
+
+"[Group] You cannot accept the invitation.";
+"[Csoport] Nem fogadhatod el a meghívást.";
+
+"[Group] %s has declined your invitation.";
+"[Csoport] %s visszautasította a meghívásod.";
+
+"[Group] %s has joined your group.";
+"[Csoport] %s belépett a csoportodba.";
+
+"[Group] %s has joined your Group.";
+"[Csoport] %s belépett a csoportodba.";
+
+"You can't use a private shop now.";
+"Nem használhatsz magán boltot.";
+
+"This player is already trading with another player.";
+"A játékos egy másikkal üzletel.";
+
+"Metin2 Confirmation Number: %s";
+"Metin2 Visszaigazolásszám: %s";
+
+"Your Confirmation Number is not correct. Please try again.";
+"A visszaigazolásszámod hibás. Próbáld meg újra!";
+
+"The mobile phone number is registered.";
+"A telefonszám regisztrálva van.";
+
+"You cannot teleport to the player.";
+"Nem teleportálhatod magad a játékoshoz.";
+
+"OX The prize has been awarded. ID: %d Quantity: %d";
+"OX A díjat kiosztották. ID: %d Quantity: %d";
+
+"This player is not online.";
+"Nem online a játékos.";
+
+"The player is playing on channel %d. (You are on channel %d.)";
+"A játékos a %d csatornán van. (Te a %d csatornán vagy).";
+
+"After opening the Storeroom, you cannot go anywhere else for %d seconds.";
+"A raktár megnyitása után %d másodpercig nem mehetsz máshova.";
+
+"You cannot go elsewhere for a period of time after the trade.";
+"Kereskedés után egy ideig nem mehetsz máshova.";
+
+"After trading you cannot go elsewhere for %d seconds.";
+"%d másodpercig a kereskedés után nem tudsz máshova menni.";
+
+"The duel has finished, because your combatant vanished.";
+"A párbaj befejezõdött, az ellenséged eltûnt.";
+
+"There is no limit for Potions.";
+"Az italok nincsenek limitálva.";
+
+"You can use up to %d potions.";
+"Legfeljebb %d italt használhatsz.";
+
+"The fight will start in 10 seconds.";
+"A harc 10 másodperc múlva kezdõdik.";
+
+"The duel has begun.";
+"A párbaj megkezdõdött.";
+
+"TRUE";
+"TRUE";
+
+"The duel is being finished because there is a problem in the duel arena.";
+"A párbaj befejezõdik, probléma van az arénával.";
+
+"The duel has finished because of a timeout.";
+"A párbaj idõtúllépés miatt befejezõdik.";
+
+"In 10 seconds you will be teleported into the city.";
+"10 másodperc múlva a városba teleportálódsz.";
+
+"The duel has been stopped because there is a problem in the arena.";
+"A párbajt megállítják, mert probléma van az arénával.";
+
+"Your combatant has got some problems. The duel is being cancelled.";
+"A párbaj ellenfélnek problémái vannak. A párbajnak vége.";
+
+"The duel is being cancelled as there is a problem with the combatant.";
+"A párbaj befejezõdik, mert probléma van a párbajozókkal.";
+
+"%s has won the duel.";
+"%s megnyerte a párbajt.";
+
+"%s has won.";
+"%s nyert.";
+
+"You will be teleported into the city in 10 seconds.";
+"10 másodperc múlva a városba teleportálódsz.";
+
+"The next round will begin in 10 seconds.";
+"10 másodperc múlva kezdõdik a következõ menet.";
+
+"FALSE";
+"FALSE";
+
+"The combatants have been separated. The duel has been stopped.";
+"A párbajozókat szétválasztották. A párbajnak vége.";
+
+"The quota of the Item Drop is at the moment plus %d%%";
+"A tárgy eldobás hányada a pillanatban plusz %d%%";
+
+"The quota of the Yang Drop is at the moment plus %d%%";
+"A Yang eldobás hányada pillanatnyilag plusz %d%%";
+
+"The drop rate for Yang rain is currently %d%% higher.";
+"Az esély Yang-esõre jelenleg %d%%-kal magasabb.";
+
+"The experience bonus is currently an additional %d%%.";
+"A tapasztalat bónusz jelenleg további %d%%.";
+
+"You do not have the correct client version. Please install the normal patch.";
+"A kliensverziód hibás. Installáld a rendes patch-et.";
+
+"You cannot trade in the shop while another window is open.";
+"Nem kereskedhetsz, amíg egy másik ablak nyitva van.";
+
+"You are too far away from the shop to buy something.";
+"Túl messze vagy a bolttól, hogy vásárolj.";
+
+"You are too far away from the shop to sell something.";
+"Túl messze vagy a bolttól, hogy eladj.";
+
+"Total number of the Quiz: %d";
+"A kvíz összértéke: %d";
+
+"This sale will be taxed %d%%.";
+"Az eladás %d%%-kal van megadóztatva.";
+
+"You cannot ride a Horse while you are transformed.";
+"Nem tudsz lovagolni, amíg át vagy változtatva.";
+
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo.";
+"Nem tudsz lovagolni, amíg menyasszonyi ruhát, vagy szmokingot viselsz.";
+
+"You do not have a Horse.";
+"Nincs lovad.";
+
+"Your Horse is dead.";
+"A lovad halott.";
+
+"Your Horse's endurance is too low.";
+"A lovad kitartása túl alacsony.";
+
+"Calling the Horse has failed.";
+"A ló hívása sikertelen.";
+
+"'s Horse";
+"Ló";
+
+"The wedding is finishing soon.";
+"Mindjárt vége az esküvõnek.";
+
+"Will be left automatically.";
+"Automatikusan kilép.";
+
+"The war is already over.";
+"A háborúnak már vége.";
+
+"The result will follow in 10 seconds.";
+"Az eredmény 10 másodperc múlva következik.";
+
+"You cannot trade while observing.";
+"Megfigyelésnél nem kereskedhetsz.";
+
+"If the window is open, you cannot trade with others.";
+"Amíg az ablak nyitva van, nem kereskedhetsz másokkal.";
+
+"The other person is currently busy so you cannot trade right now.";
+"A másik személy épp elfoglalt, ezért most nem tudsz vele kereskedni.";
+
+"The other person has cancelled the trade.";
+"A másik személy félbehagyta a kereskedést.";
+
+"Not enough Yang or not enough space in the inventory.";
+"Nincs elég Yang, vagy nincs hely a leltárban.";
+
+"The other person does not have enough Yang or does not have any space left in their inventory.";
+"A másik személynek nincs elég Yangja, vagy nincs elég helye a leltárban.";
+
+"The other person has no space left in their inventory.";
+"A másik személynek nincs elég helye a leltárban.";
+
+"The trade with %s has been successful.";
+"Az üzlet %s személlyel sikerült.";
+
+"You did not lose any Experience because of the Blessing of the Dragon God.";
+"A Sárkányisten áldása miatt nem vesztettél tapasztalatot.";
+
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d";
+"Aktuális pontszám: Shinsoo %d, Chunjo %d, Jinno: %d";
+
+"The correct answer is:";
+"A helyes válasz:";
+
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+
+"The devil of the hallowed place: [ENTER][ENTER]";
+"A megszentelt hely ördöge: [ENTER][ENTER]";
+
+", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.";
+", nincs jogod itt lenni! Birodalmad tagjai 10 másodperc múlva elhagyják ezt a megszentelt helyet.";
+
+"%s has been defeated and drops out of the Kingdom Battle.";
+"A %s vereséget szenvedett és kiesik a Birodalmi Csatából.";
+
+"Number of Monsters in the Kingdom Battle:";
+"Szörnyek a birodalmi csatában";
+
+"If you defeat the Guard of the Holy Place, you will become the owner of it.";
+"Ha legyõzöd a szent hely õrét, te leszel a tulajdonosa.";
+
+"You did not drop any Item(s) as you are protected by the Dragon God.";
+"A sárkány isten védelme által nem dobtál el egy tárgyat sem.";
+
+"Additional Stabbing Weapon Damage %d";
+"További szúrófegyver sérülések %d";
+
+"%s block! (%d%%)";
+"%s blokk! (%d%%)";
+
+"%s avoid! (%d%%)";
+"%s kitérés! (%d%%)";
+
+"Yes (O)";
+"Igen (O)";
+
+"%s[%d]'s Attack Position: %d %d";
+"%s[%d] Támadó Pozíciója: %d %d";
+
+"Please enter the Order in full length.";
+"Teljes hosszában add meg rendelésed.";
+
+"You cannot do this whilst sitting on a Horse.";
+"Nem teheted meg, amíg lovon ülsz.";
+
+"You cannot do that while you are lying on the ground.";
+"Nem teheted meg, amíg a földön fekszel.";
+
+"In my Dreams? What?";
+"Az álmaimban? Hogyan?";
+
+"Get up first.";
+"Elõször állj fel.";
+
+"This command does not exist.";
+"Ez a parancs nem létezik.";
+
+"[Group] This group has been disbanded.";
+"[Csoport] feloszlott a csoport.";
+
+"[Group] You cannot call the target.";
+"[Csoport] Nem hívhatod a célt.";
+
+"[Group] You cannot call group members over to your current position.";
+"[Csoport] Nem hívhatod csoporttársaidat az aktuális pozíciódba.";
+
+"No (X)";
+"Nem (X)";
+
+"Your group works well together, and group members near the group leader will receive an experience bonus.";
+"A csoportod jól dolgozik együtt, és a csoport vezetõ közelében levõ csoport tagok tapasztalat bónuszt kapnak.";
+
+"Leader";
+"Vezetõ";
+
+"Member";
+"Tag";
+
+"[Guild] Provided Experience is larger then left Experience.";
+"[Céh] A felkínált tapasztalat nagyobb a megmaradónál.";
+
+"[Guild] This message cannot be deleted.";
+"[Céh] Az üzenet nem törölhetõ.";
+
+"[Guild] Not enough Dragon Ghost. (%d, %d)";
+"[Céh] Nincs elég sárkány szellem. (%d, %d)";
+
+"[Guild] You cannot use the guild skills yet.";
+"[Céh] Még nem tudod a céh képességeit használni.";
+
+"[Guild] %d skill has been applied (%d, %d) to %u.";
+"[Céh] %d képesség felhasználódott (%d, %d) %u-ra";
+
+"[Guild] This player is on channel %d. (Current channel: %d)";
+"[Céh] A játékos %d csatornán van. (Jelenleg a %d csatornán vagy).";
+
+"[Guild] This player is not online.";
+"[Céh] A játékos nem online.";
+
+"In 5 sec. everyone who gave an incorrect answer will be removed.";
+"5 másodperc múlva minden résztvevõ el lesz távolítva, aki rossz választ adott.";
+
+"[Guild] This guild skill can only be used during war.";
+"[Céh] A céh képesség csak a háborúban használható.";
+
+"[Guild] %u Dragon ghost points have been restored.";
+"[Céh] %u Sárkányszellem-pont visszaállításra került.";
+
+"[Guild] Only the guild leader can withdraw Yang.";
+"[Céh] Csak a céhvezetõ tud Yangot kivenni.";
+
+"[Guild] The player has declined the guild invitation.";
+"[Céh] A játékos elutasította a céh meghívását.";
+
+"[Guild] You do not have the authority to invite someone to join the guild.";
+"[Céh] Nem vagy jogosult, meghívni valakit a céhbe.";
+
+"[Guild] You cannot invite players from another kingdom into the guild.";
+"[Céh] Más birodalom játékosa nem hívható meg a céhbe.";
+
+"[Guild] This player can be invited again after %d day(s).";
+"[Céh] Ezt a játékost csak %d nap múlva hívhatod meg újra.";
+
+"[Guild] After the rearrangement you can invite members again after %d days.";
+"[Céh] Az átszervezés után csak %d nappal hívhatsz meg új tagokat.";
+
+"[Guild] This person is already a member of another Guild.";
+"[Céh] A személy már egy másik céhhez tartozik.";
+
+"[Guild] The maximum guild capacity has been reached.";
+"[Céh] A maximális céhkapacitás elérve.";
+
+"Ready for the next question?";
+"Készen állsz a következõ kérdésre?";
+
+"You cannot train this skill.";
+"Nem fejlesztheted ezt a képességet.";
+
+"You cannot train this skill up to Grand Master level.";
+"Ezt a készséget nem fejlesztheted nagymester szintre.";
+
+"You already are a Master of this skill. You cannot train this skill any further.";
+"Már mestere vagy ennek a képességnek. Nem fejlesztheted már.";
+
+"Your Skill is not high enough to become a Grand Master.";
+"Készséged nem elég nagy ahhoz, hogy nagymesterré válj.";
+
+"That did not work. Damn!";
+"Ó, nem sikerült! Francba!";
+
+"Training has failed. Please try again later.";
+"A tréning nem sikerült. Próbáld újra késõbb!";
+
+"My body is full of energy!";
+"A testem tele van erõvel!";
+
+"The training seems to be working already...";
+"Úgy tûnik, már folyik a képzés...";
+
+"You successfully finished your training with the book.";
+"Sikeresen befejezted a tréninget a könyv segítségével.";
+
+"You cannot read this due to your lack of experience.";
+"Hiányos tapasztalat miatt nem tudod elolvasni.";
+
+"Question.";
+"Kérdés.";
+
+"You cannot train this skill with a Book.";
+"Nem fejlesztheted többé ezt a képességedet könyv segítségével.";
+
+"This skill's level is not high enough to be trained with a Book.";
+"Nem elég jó ez a képességed, hogy könyv segítségével fejleszd.";
+
+"I'm making progress, but I still haven't understood everything.";
+"Elõrébb jutottam, de még mindig nem értettem meg mindent.";
+
+"These instructions are difficult to understand. I have to carry on studying.";
+"Nehéz megérteni ezeket az utasításokat. Folytatnom kell a tanulást.";
+
+"I understand this chapter. But I've got to carry on working hard.";
+"Értem ezt a fejezetet, de keményen kell dolgoznom.";
+
+"You have successfully finished your training with the Book.";
+"Sikeresen befejezted a tanfolyamot a könyv segítségével.";
+
+"Teleportation has failed.";
+"A teleportálás sikertelen.";
+
+"No Horse here. Ask the Stable Boy.";
+"Nincs rendelkezésre álló ló. Kérdezd a Lovászinast!";
+
+"Please use an item to call a Horse.";
+"Használj egy tárgyat a ló hívásához.";
+
+"%s FP-Consumption: %d";
+"%s FP felhasználás: %d";
+
+"If it's correct, then go to O. If it's wrong, go to X.";
+"Ha helyes menj erre: O, ha helytelen akkor erre: X.";
+
+"I am burning inside, but it is calming down my body. My Chi has to stabilise.";
+"Belül égek, de ez megnyugtatja a testem. A Chi-met stabilizálni kell.";
+
+"A little slow, but steady... Without stopping!";
+"Kicsit lassan... de folyamatosan... megállás nélkül!";
+
+"Yes, that feels great. My body is full of Chi.";
+"Igen, jó érzés. Tele vagyok Chi-vel.";
+
+"I have read it! Now the Chi will spread through my body.";
+"Olvastam! A Chi-nek most el kell oszlania a testemben.";
+
+"The training is completed.";
+"A tréning lezárult.";
+
+"I am on the last page of the book. The training is nearly finished!";
+"A könyv utolsó oldalán járok. Mindjárt vége a tréningnek!";
+
+"Nearly finished! Just a little bit more to go!";
+"Majdnem sikerült. Még egy picit!";
+
+"Eureka! I have nearly finished reading it!";
+"Értem! Majdnem átolvastam!";
+
+"Only a few more pages and then I'll have read everything.";
+"Már csak néhány oldal, és elolvastam mindent.";
+
+"I feel refreshed.";
+"Felfrissültem.";
+
+"Correct!";
+"Helyes!";
+
+"Now I understand it!";
+"Már értem!";
+
+"Okay I have to stay concentrated!";
+"Ok, tovább kell koncentrálnom!";
+
+"I keep reading the same line over and over again.";
+"Mindig ugyanazokat a sorokat olvasom.";
+
+"I do not want to learn any more.";
+"Nem akarok tovább tanulni.";
+
+"It is a lot more complicated and more difficult to understand than I thought.";
+"Ez bonyolultabb és nehezebben érthetõ, mint ahogy gondoltam.";
+
+"It's hard for me to concentrate. I should take a break.";
+"Nehéz koncentrálnom. Szünetet kellene tartanom.";
+
+"Your chat has been blocked by a GM.";
+"A csetelésedet blokkolta egy admin.";
+
+"Your chat block has been lifted.";
+"A cseted tiltása fel lett oldva.";
+
+"The Build window is already open.";
+"A gyártó ablak már nyitva van.";
+
+"You cannot build something while another trade/storeroom window is open.";
+"Nem termelhetsz, amíg egy másik kereskedõ/raktárablak nyitva van.";
+
+"No further improvements possible.";
+"Nem lehetséges további fejlesztés.";
+
+"The build window is not open.";
+"Nincs nyitva az elõállítási ablak.";
+
+"You do not have the right material.";
+"Nincs megfelelõ anyagod.";
+
+"[Guild] Please try again later.";
+"[Céh] Próbáld meg újra késõbb.";
+
+"You have to read %d more skill books to improve this skill.";
+"Még %d készségkönyvet kell elolvasnod, hogy fejlõdjön ez a készséged.";
+
+"You are only able to use this function while you are at the castle.";
+"Ez a funkció csak a kastélyban használható.";
+
+"TEST: The Gold Bar has been paid back to your kingdom's safe.";
+"TEST: Az aranyrudakat visszafizették a birodalom széfjébe.";
+
+"TEST: In your kingdom's safe there are: %d";
+"TEST: A birodalmad széf tartalma: %d";
+
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe.";
+"TEST: Az aranyrudakat nem tudod visszatenni a birodalom széfjébe.";
+
+"[Guild] The guild has reached %d points.";
+"[Céh] A Céh %d pontot ért el.";
+
+"This item cannot be improved.";
+"Ez a tárgy nem javítható.";
+
+"The free weapon improvements can only be used on weapons up to level 20.";
+"Az ingyenes fegyverjavítás csak a 20-as szint alatti fegyverekre alkalmazható.";
+
+"You cannot use this item because you do not fulfil all the requirements.";
+"Nem használhatod ezt a tárgyat, mert nincsenek meg az elõfeltételek.";
+
+"You are not able to use that item because you do not have the right gender.";
+"Nem használhatod ezt a tárgyat, mert a nemed nem megfelelõ hozzá.";
+
+"Use: transfer <name>";
+"Használd: transfer <name>";
+
+"This function can only be used by the emperor.";
+"Ezt a funkciót csak a császár használhatja.";
+
+"You cannot recruit players from another kingdom.";
+"Nem választhatsz ki játékost mást birodalomból.";
+
+"The player %s is on channel %d at the moment. (Your channel: %d)";
+"%s játékos a %d csatornán található. (Te a %d csatornán vagy)";
+
+"You have recruited %s players.";
+"%s játékost választottad ki.";
+
+"There is no user with this name.";
+"Nincs játékos az általad megadott névvel.";
+
+"You cannot recruit yourself.";
+"Nem toborozhatod be saját magad.";
+
+"Your level is too low to use this item.";
+"Túl alacsony szinten vagy, hogy használd ezt a tárgyat.";
+
+"You cannot upgrade anything while another window is open.";
+"Nem tudsz fejleszteni, amíg egy másik ablak nyitva van.";
+
+"The emperor of %s has changed to %s.";
+"%s császárát lecserálták. Az új császár: %s.";
+
+"There are %s wars to inflame the bonfires.";
+"Háború van %s-ben a máglya meggyújtásáért.";
+
+"%s has successfully defended.";
+"%s sikeresen védekezett.";
+
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire.";
+"Mostantól 30 percen át kaphat %s jutalmat a máglya szétrombolásáért.";
+
+"30 minutes are over. The bonfires have disappeared.";
+"A 30 perc letelt. A máglya eltûnt.";
+
+"A bonfire was inflamed at %s to warn because of a battle.";
+"Máglyát gyújtottak %s-nél, hogy csatára figyelmeztessenek.";
+
+"%s has destroyed the bonfire.";
+"%s szétrombolta a máglyát.";
+
+"%s lost the war as they have not been able to defend the castle.";
+"%s elvesztette a háborút, mert nem tudta megvédeni a kastélyt.";
+
+"%s has destroyed all the bonfires.";
+"%s minden máglyát szétrombolt.";
+
+"You can only open the shop if you take off your armour.";
+"Csak akkor tudod kinyitni a boltot, ha leveszed a felszerelésed.";
+
+"%d hours %d minutes %d seconds left on your chat block";
+"%d óra %d perc %d másodperc van még hátra a chat tiltásodból";
+
+"%d hours %d seconds left on your chat block";
+"%d óra %d másodperc van még hátra a chat tiltásodból";
+
+"%d minutes %d seconds left on your chat block";
+"%d perc %d másodperc van még hátra a chat tiltásodból";
+
+"Yang rain drop rate";
+"Esély Yang-esõre";
+
+"Not the right material for an upgrade.";
+"Nincs megfelelõ anyagod, hogy megcsináld.";
+
+"All kingdoms";
+"Összes királyság";
+
+"Item drop rate in percent";
+"Tárgy leejtési gyakoriságának aránya";
+
+"Yang drop rate in percent";
+"Yang-dobási arány százalékban";
+
+"Experience percentage";
+"Tapasztalati pontok százaléka";
+
+"%d seconds left on your chat block";
+"%d másodperc van hátra a chat tiltásodból";
+
+"You cannot express emotions whilst riding a horse.";
+"Nem tudsz érzelmi kifejezéseket mutatni míg lovagolsz.";
+
+"You cannot use emotions with a player who is riding on a Horse.";
+"Nem tudsz érzelmi kifejezéseket mutatni olyan játékosnak aki lovagol.";
+
+"[Guild] The enemy's guild leader is offline.";
+"[Céh] Az ellenséges céh vezetõje offline.";
+
+"[Guild] This guild is taking part in a battle at the moment.";
+"[Céh] Ez a céh éppen egy csatában vesz részt.";
+
+"You're already riding. Get off first.";
+"Épp lovagolsz. Elõbb szállj le a hátasról.";
+
+"You cannot upgrade items with this Scroll.";
+"Nem javíthatsz tárgyakat ezzel a tekerccsel.";
+
+"You can only be rewarded once for the Demon Tower Quest.";
+"Csak egyszer kaphatsz jutalmat a Démon-torony megbízatásért.";
+
+"Dragon Stone has been removed.";
+"A Sárkánykõ el lett távolítva.";
+
+"You cannot move the item within the refinement window.";
+"Nem mozdíthatod el a tárgyat a finomítási ablakon belül.";
+
+"Dragon Stone remaining duration has been extracted.";
+"A Sárkánykõ fennmaradó idõtartama ki lett nyerve.";
+
+"Remaining duration extraction failed.";
+"Sikertelen a fennmaradó élettartam meghosszabbítása.";
+
+"Removal of Dragon Stone failed. But you have received the following: %s";
+"Nem sikerült a Sárkánykõ eltávolítása, de ezt kaptad: %s";
+
+"Removal of Dragon Stone failed.";
+"Nem sikerült a Sárkánykõ eltávolítása.";
+
+"This item is not required for improving the clarity level.";
+"Ez a tárgy nem szükséges a csiszolási tisztaság emeléséhez.";
+
+"This item cannot be advanced this way.";
+"Ez a tárgy ilyen módon nem javítható.";
+
+"Improvement of the clarity level successful.";
+"Sikeres volt a csiszolási tisztaság növelése.";
+
+"Refinement up one class failed.";
+"Nem sikerült egy osztály finomítása.";
+
+"This item is not required for refinement.";
+"Ez a tárgy nem szükséges a finomításhoz.";
+
+"Refinement up one class was successful.";
+"Egy osztály finomítása volt sikeres.";
+
+"Improvement of the clarity level failed.";
+"Nem sikerült a csiszolási tisztaság emelése.";
+
+"You do not own the materials required to strengthen the Dragon Stone.";
+"Nincsenek nálad a szükséges anyagok a Sárkánykõ erõsítéséhez.";
+
+"This Dragon Stone cannot be used for strengthening.";
+"Ez a Sárkánykõ nem használható erõsítéshez.";
+
+"Strengthening was successful.";
+"Sikeres volt az erõsítés.";
+
+"Strengthening failed.";
+"Nem sikerült az erõsítés.";
+
+"You are already carrying a Dragon Stone of this type.";
+"Már használsz egy ilyen típusú Sárkánykövet.";
+
+"The Dragon Stone cannot be removed.";
+"Nem távolítható el a Sárkánykõ.";
+
+"You have already equipped this kind of Dragon Stone.";
+"Már van felszerelve ilyen fajta Sárkánykõ.";
+
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.";
+"Mielõtt kinyitsz egy Cor Draconis-t, teljesítened kell a Sárkánykõ-küldetést és aktiválnod kell a Sárkánykõ-alkímiát.";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"Az övet csak akkor lehet levenni, ha már semmilyen tárgy nincs a leltárában.";
+
+"You can combine the Blessing Scroll with the Magic Iron Ore.";
+"Egyesíteni tudod az Áldástekercset a Mágikus vasérccel.";
+
+"You cannot equip this item in your belt inventory.";
+"Nem tudod beletenni ezt a tárgyat az öv-leltáradba.";
+
+"[1106-??]No puedes unir esto.";
+"[1106-??]No puedes unir esto.";
+
+"You have invested %d Yang.";
+"%d Yangot fektettél be.";
+
+"There is no Stone available to take out.";
+"Nincs kivehetõ kõ.";
+
+"You cannot store this location.";
+"Nem mentheted ezt a helyszínt.";
+
+"There isn't enough space in your inventory.";
+"Nincs elég hely a leltárban.";
+
+"You cannot teleport to a safe position in a foreign Kingdom.";
+"Egy idegen birodalomban nem tudod magad biztonságos helyre teleportálni.";
+
+"You don't have enough HP.";
+"Nincs elég TP-d.";
+
+"You don't have enough Spell Points (SP) to use this.";
+"Nincs elég Manád, hogy használd.";
+
+"You'll reach your destination in %d seconds.";
+"%d másodperccel az indítás után eléred a célhelyet.";
+
+"You can only use a Moon Cake every 5 seconds.";
+"Csak 5 másodpercenként használhatsz Hold sütit.";
+
+"You cannot use this item in a duel.";
+"A párbajban nem használhatod ezt a tárgyat.";
+
+"You have won %d Yang.";
+"%d Yangot nyertél.";
+
+"You cannot build a campfire here.";
+"Itt nem csinálhatsz tábortüzet.";
+
+"You cannot build a campfire under water.";
+"Nem csinálhatsz vízben tábortüzet.";
+
+"Closed. You should look for the key.";
+"Zárva. Meg kell keresned a kulcsot.";
+
+"This item cannot be opened with a key.";
+"Ez a tárgy nem nyitható kulccsal.";
+
+"That's the right key.";
+"Ez a helyes kulcs.";
+
+"You have received %d Yang.";
+"%d Yangot kaptál.";
+
+"A mysterious light comes out of the box.";
+"Misztikus fény jön a ládából.";
+
+"You have received %d experience points.";
+"%d tapasztalatot szereztél.";
+
+"Look what came out of the box!";
+"Nézd, mi jött elõ a ládából!";
+
+"[Guild] The guild level is too low.";
+"[Céh] A céhszint túl alacsony.";
+
+"If you inhale the red smoke coming out of the box, your speed will increase!";
+"Ha belélegzed a piros füstöt a ládából, növekszik a gyorsaságod.";
+
+"You cannot add more bonus.";
+"You cannot add more bonus.";
+
+"New bonus added successfully.";
+"New bonus added successfully.";
+
+"You cannot change the bonuses.";
+"You cannot change the bonuses.";
+
+"%s needed.";
+"%s needed.";
+
+"OX-Question: ";
+"OX-Question: ";

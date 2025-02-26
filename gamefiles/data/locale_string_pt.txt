@@ -1,0 +1,2228 @@
+"Everyone will be teleported into the city shortly.";
+"Dentro em breve todas as pessoas serão teleportadas para a cidade escolhida.";
+
+"This item does not exist.";
+"Este Item não existe.";
+
+"The box suddenly exploded! You have lost Hit Points (HP).";
+"A caixa explodiu de repente! Perdeste Pontos de Vida (VD).";
+
+"If you inhale the green smoke that is coming out of the box, the poison will spread through your body!";
+"Se respirares o fumo verde que vem da caixa, o veneno irá espalhar-se pelo teu corpo.";
+
+"You have received %s, %d units.";
+"Encontraste %s na caixa. A caixa continha %d.";
+
+"The box contains %s.";
+"A caixa contém %s.";
+
+"This key does not seem to fit the lock.";
+"Esta Chave parece não corresponder à fechadura.";
+
+"You have not received anything.";
+"Não recebeste nada.";
+
+"You do not have enough Yang to use this item.";
+"Não tens Yang suficiente para usar este Item!";
+
+"You have lowered your Skill Level.";
+"O teu Nível de Habilidade diminuiu.";
+
+"You cannot lower your Skill Level.";
+"Não podes diminuir o teu Nível de Habilidade.";
+
+"This effect is already activated.";
+"O efeito já está em acção.";
+
+"This item can only be used in an Internet cafe.";
+"Este Item só poderá ser usado num CyberCafé.";
+
+"That is over the limit.";
+"Isso ultrapassa o limite.";
+
+"Unfortunately you don't have enough space in your inventory.";
+"Infelizmente não tens espaço suficiente no teu inventário.";
+
+"Used Moon Cake or Seed.";
+"Usaste Bolo Lua ou Sementes.";
+
+"You cannot wear a Wedding Ring if you are not married.";
+"Não podes usar uma Aliança se não fores casado.";
+
+"You cannot use the Event Detector from this position.";
+"Não poderás usar o Detector de Eventos a partir desta posição.";
+
+"This item cannot be absorbed.";
+"Este item não pode ser absorvido.";
+
+"The Event Detector vanished in a mysterious light.";
+"O Detector de Eventos desapareceu emitindo uma luz misteriosa!";
+
+"The Event Detector has vanished.";
+"O Detector de Eventos desapareceu!";
+
+"The Compass for Metin Stones does not work in dungeons.";
+"A Bússola de Pedras Metin não funciona em locais fechados.";
+
+"The Compass for Metin Stones has vanished in the mysterious light.";
+"A Bússola de Pedras Metin desapareceu emitindo uma luz misteriosa!";
+
+"Receive: %s - %d";
+"Recebes: %s - %d";
+
+"The Compass for Metin Stones has vanished.";
+"A Bússola de Pedras Metin desapareceu.";
+
+"You find a simple Piece of Stone in the Clam.";
+"Está uma Pedra no interior da Ostra.";
+
+"The Clam has vanished.";
+"A Ostra desapareceu.";
+
+"There is a White Pearl inside the Clam.";
+"Está uma Pérola Branca dentro da Ostra!";
+
+"There is a Blue Pearl inside the Clam.";
+"Está uma Pérola Azul dentro da Ostra!";
+
+"There is a Blood-Red Pearl inside the Clam.";
+"Está uma Pérola Vermelha dentro da Ostra!";
+
+"It isn't easy to understand this book.";
+"Não é fácil compreender este Livro.";
+
+"This book will not help you.";
+"Este Livro não te irá ajudar!";
+
+"You need to have a minimum level of 30 to understand this book.";
+"Precisas de ter pelo menos Nível 30 para compreenderes este livro.";
+
+"You need a minimum level of 50 to understand this book.";
+"Precisas de ter pelo menos nível 50 para compreenderes este livro.";
+
+"You can't train any more Combos.";
+"Não podes treinar mais Combos!";
+
+"%s has captured the flag of %s!";
+"A Guild %s capturou a bandeira da Guild %s!";
+
+"You already understand this language.";
+"Já falas esta língua fluentemente.";
+
+"You have to improve your Level to read this Book.";
+"Tens de aumentar o teu Nível para que possas compreender este Livro!";
+
+"The book is too hard for practising.";
+"Este Livro é demasiado difícil de compreender!";
+
+"You cannot train with this Book any more.";
+"Não poderás treinar mais com este Livro!";
+
+"Taxes are set to %d%%.";
+"Os impostos estão definidos nos %d%%.";
+
+"You need a minimum level of 50 to get riding training.";
+"Precisas de ter no mínimo Nível 50 para treinar a Arte de Equitação.";
+
+"You have escaped the evil ghost curse with the help of an Exorcism Scroll.";
+"Escapaste à Maldição do Espírito Malvado com a ajuda de um Pergaminho do Exorcismo.";
+
+"You cannot read any more Riding Guides.";
+"Não podes ler mais Livros Arte de Equitação.";
+
+"You read the Horse Riding Manual and received a Riding Point.";
+"Recebeste Pontos de Equitação depois de ler o Livro Arte de Equitação.";
+
+"You can use this point to improve your riding skill!";
+"Poderás aumentar o Nível das tuas Habilidades de Equitação com os Pontos recebidos.";
+
+"The guild %s's flag has been stolen by player %s.";
+"A bandeira da Guild %s foi capturada pelo jogador %s.";
+
+"You did not understand the riding guide.";
+"Não compreendeste o Livro Arte de Equitação.";
+
+"Your mind is clear. You can concentrate really well now.";
+"A tua mente está limpa. Podes agora concentrar-te.";
+
+"Your rank has increased by %d points.";
+"O teu Karma aumentou %d pontos.";
+
+"You cannot dye or bleach your current hairstyle.";
+"Não podes pintar ou branquear o teu estilo de cabelo actual.";
+
+"You need to have reached level %d to be able to dye your hair again.";
+"Tens de atingir o Nível %d para poderes pintar o teu cabelo novamente.";
+
+"This item can only be opened by the another gender.";
+"Este Item só pode ser aberto por um membro do sexo oposto.";
+
+"You cannot use this from your current position.";
+"Não podes usar isto a partir da tua localização actual.";
+
+"You are ready to warp, so you cannot use the Scroll of the Location.";
+"Já estás preparado para te teleportares, por isso não podes usar o Pergaminho do Retorno.";
+
+"You are being brought back to the place of origin.";
+"Foste enviado de novo para o local de origem.";
+
+"%s%s cannot be used in a dungeon.";
+"%s%s não pode ser usado(a) numa Caverna.";
+
+"[Quest] You have already received your reward.";
+"[Missão] Tu já recebeste a tua recompensa.";
+
+"the";
+"o";
+
+"There aren't any Pieces of Broken Stone available for removal.";
+"Não há Pedaços de Pedras Partidas para retirar.";
+
+"You cannot change the upgrade of this item.";
+"Não podes mudar o melhoramento deste Item.";
+
+"There is no upgrade that you can change.";
+"Não tens melhoramentos que possas alterar.";
+
+"You can only do this %d minutes after an upgrade. (%d minutes left)";
+"Só podes fazer isto %d Minutos depois de um melhoramento. (Faltam %d Minutos)";
+
+"You have changed the upgrade.";
+"Alteraste o melhoramento.";
+
+"Upgrade successfully added.";
+"Melhoramento bem sucedido.";
+
+"No upgrade added.";
+"O Melhoramento não foi bem sucedido.";
+
+"You must use the Blessing Marble in order to add another bonus to this item.";
+"Terás de usar o Mármore da Bênção para adicionares outros bónus neste item.";
+
+"You cannot use this in the duel arena.";
+"Não podes usar isto na arena.";
+
+"This item can no longer be improved. The maximum number of bonuses has been reached.";
+"Este item já não pode ser melhorado. Já possui o número máximo de bónus possível.";
+
+"You can only use the Blessing Marble with an item which already has 4 bonuses.";
+"Só podes usar o Mármore da Bênção num item que já possua 4 bónus.";
+
+"Socket successfully added.";
+"Socket adicionado com sucesso.";
+
+"No socket added.";
+"O Socket não pôde ser adicionado.";
+
+"No additional sockets could be added to this item.";
+"Neste Item não podem ser adicionados mais Sockets.";
+
+"You cannot add a socket to this item.";
+"Não podes adicionar um Socket a este Item.";
+
+"Arming successful.";
+"Arma equipada com sucesso.";
+
+"Arming has failed.";
+"Não foi possível equipar a arma.";
+
+"You have to add a socket first. Use a diamond in order to do this.";
+"Precisas de usar um Diamante para adicionar um Socket.";
+
+"There are no sockets for gemstones in this item.";
+"Não há Sockets com minérios refinados.";
+
+"You can do this when you wear an Emotion Mask.";
+"Podes fazer isto quando estiveres a usar uma Máscara de Emoções.";
+
+"You have to add a socket if you want to use a Diamond.";
+"Tens de adicionar um Socket se quiseres usar um Diamante.";
+
+"No more gems can be added to this item.";
+"Não podem ser adicionados mais minérios refinados.";
+
+"These items cannot be used together.";
+"Estes Items não podem ser usados ao mesmo tempo.";
+
+"You cannot change the Bait whilst fishing.";
+"Não podes mudar o isco enquanto pescas.";
+
+"You are exchanging the current Bait for %s.";
+"Alteraste o teu isco actual por %s.";
+
+"You attached %s to the hook as bait.";
+"Prendeste um isco - %s - ao anzol.";
+
+"You are missing some ingredients to make the potion.";
+"Não tens todos os materiais necessários para preparar a Poção";
+
+"You do not have enough material (%s).";
+"Não tens materiais suficientes (%s).";
+
+"You do not have enough empty bottles.";
+"Não tens Garrafas Vazias suficientes.";
+
+"The potion production has failed.";
+"A mistura da Poção não foi bem sucedida.";
+
+"Only women can do this.";
+"Apenas mulheres podem fazer isto.";
+
+"You cannot attach several stones of the same type.";
+"Não podes adicionar várias Pedras do mesmo tipo.";
+
+"This Spirit Stone cannot be attached to this type of item.";
+"Esta Pedra Espírita não pode ser adicionada a este tipo de item.";
+
+"You cannot attach this Spirit Stone to a weapon.";
+"Não podes adicionar esta Pedra Espírita a uma arma.";
+
+"You have attached the Spirit Stone successfully.";
+"Adicionaste a Pedra Espírita com sucesso.";
+
+"The Spirit Stone broke while being attached.";
+"A Pedra Espírita partiu-se enquanto a tentavas adicionar.";
+
+"No slot free.";
+"Não há Slots livres.";
+
+"This function is not available right now.";
+"Neste momento não te podes teleportar para o teu cônjuge.";
+
+"You cannot use a Scroll of the Location whilst taking part in a kingdom battle.";
+"Não podes usar um Pergaminho do Retorno durante uma Guerra dos Reinos.";
+
+"After opening the Storeroom you cannot use a Scroll of the Location for %d seconds.";
+"Depois de abrires o Armazém não podes usar um Pergaminho do Retorno durante %d segundos.";
+
+"You cannot use a Scroll of the Location while another window is open.";
+"Não podes usar um Pergaminho do Retorno enquanto outra janela estiver aberta.";
+
+"This person does not exist.";
+"Esta pessoa não existe.";
+
+"After a trade, you cannot use a scroll for another %d seconds.";
+"Não podes usar um Pergaminho %d segundos após uma negociação.";
+
+"After opening a storeroom you cannot use a Scroll of the Location for another %d seconds.";
+"Depois de abrires um armazém não podes usar um Pergaminho do Retorno durante %d segundos.";
+
+"You cannot use the Scroll of the Location because the distance is too small.";
+"Não podes usar o Pergaminho do Retorno porque a distância é demasiado pequena.";
+
+"After a trade you cannot use a Scroll of the Location for %d seconds.";
+"Depois de negociares não podes usar um Pergaminho do Retorno durante %d segundos.";
+
+"You cannot open the Storeroom if another window is already open.";
+"Não podes abrir o Armazém enquanto estiver outra janela aberta.";
+
+"You cannot drop this item.";
+"Não podes largar este Item.";
+
+"The dropped item will vanish in 5 minutes.";
+"O item caído irá desaparecer dentro de 5 minutos.";
+
+"%s received";
+"Recebeste %s";
+
+"You have too many items in your inventory.";
+"Tens demasiados Itens no teu inventário.";
+
+"%s receives %s.";
+"%s recebe %s.";
+
+"You are too near.";
+"Estás demasiado próximo.";
+
+"Item Trade: %s, %s";
+"Item negociado por: %s, %s";
+
+"You cannot change the equipped item while you are transformed.";
+"Não podes mudar os Itens equipados enquanto estiveres transformado.";
+
+"You have to stand still to equip the item.";
+"Tens de permanecer imóvel para equipar o Item.";
+
+"Monkey Herbs cannot be fed to living horses. It is used to revive dead horses.";
+"Não podes alimentar um Cavalo vivo com Ervas. Apenas servem para ressuscitar Cavalos mortos.";
+
+"You cannot feed a dead Horse.";
+"Não podes alimentar um Cavalo morto.";
+
+"You fed the Horse with Herbs.";
+"Alimentaste o Cavalo com Ervas.";
+
+"You have fed the Horse.";
+"Alimentaste o Cavalo.";
+
+"Your level is too low to wear this Hairstyle.";
+"O teu Nível é demasiado baixo para usares este estilo de cabelo.";
+
+"You already have this Hairstyle.";
+"Tu já estás a usar este estilo de cabelo.";
+
+"You have already transformed.";
+"Já estás transformado.";
+
+"You are too far away.";
+"Estás demasiado longe.";
+
+"That's the wrong trading item.";
+"Esse Item não pertence ao negócio.";
+
+"You cannot transform into a monster who has a higher level than you.";
+"Não te podes transformar num monstro que tenha um Nível acima do teu.";
+
+"Your level is too low to equip this item.";
+"O teu Nível é demasiado baixo para equipares isto.";
+
+"You are not strong enough to equip yourself with this item.";
+"Não és suficientemente forte para equipares este item.";
+
+"Your intelligence is too low to equip yourself with this item.";
+"A tua Inteligência é demasiado baixa para equipares isto.";
+
+"Your dexterity is too low to equip yourself with this item.";
+"A tua Destreza é demasiado baixa para equipares isto.";
+
+"Your vitality is too low to equip yourself with this item.";
+"A tua Vitalidade é demasiado baixa para equipares isto.";
+
+"You cannot use this item because you are not married.";
+"Não podes usar este Item se não fores casado.";
+
+"You cannot equip this item twice.";
+"Não podes equipar este Item duas vezes.";
+
+"Time left until the removal of the socket of %s: %d";
+"Tempo restante até à remoção do Socket de %s: %d";
+
+"This action can only be done with another gender.";
+"Isto apenas pode ser feito com um jogador de outro sexo.";
+
+"A gem socketed in the %s has vanished.";
+"Desapareceu uma joia encaixada em %s.";
+
+"[Guild] This guild name is invalid.";
+"[Guild] O Nome da Guild é inválido.";
+
+"[Guild] This guild name is already taken.";
+"[Guild] Este Nome de Guild já está em uso.";
+
+"[Guild] You cannot found a guild.";
+"[Guild] Não podes criar uma Guild.";
+
+"The guild %s has declared war on %s!";
+"A Guild %s declarou Guerra à Guild %s!";
+
+"[Guild] %s has refused the Guild war.";
+"[Guild] A Guild %s rejeitou a Guerra.";
+
+"The guild war between %s and %s will start in a few seconds!";
+"A Guerra entre as Guilds %s e %s começará dentro de alguns segundos!";
+
+"The guild war between %s and %s has begun!";
+"A Guerra entre as Guilds %s e %s começou!";
+
+"The guild war between %s and %s has ended in a draw.";
+"A Guerra entre as Guilds %s e %s terminou com um empate.";
+
+"%s has won the guild war against %s.";
+"A Guild %s venceu a Guerra contra a Guild %s .";
+
+"You need your fellow player's approval for this.";
+"Para isto necessitas da confirmação do teu parceiro.";
+
+"[Guild] The guild war has been cancelled.";
+"[Guild] A Guerra foi cancelada.";
+
+"The guild war between %s and %s has been cancelled.";
+"A Guerra entre as Guilds %s e %s foi cancelada.";
+
+"Close";
+"Fechar";
+
+"Action cancelled. You have entered a battle.";
+"Acção cancelada. Entraste em combate.";
+
+"Someone has logged into your account. You will be disconnected from the server.";
+"Alguém ligou-se na tua conta. Irás ser desconectado.";
+
+"A mysterious light appears from the tree.";
+"Uma luz misteriosa emerge da árvore.";
+
+"%d Playtime added to your account. (Payment number %d)";
+"%d de Tempo de Jogo acrescentado à tua conta. (número de pagamento %d)";
+
+"You can participate in the guild battle in viewer mode.";
+"Podes participar na Guerra de Guilds em Modo Observador.";
+
+"While choosing a character, an icon appears.";
+"Para saíres poderás clicar no botão <Acabar com o modo observação>.";
+
+"There are no opponents.";
+"Não há Inimigos.";
+
+"The battle with %s has begun!";
+"A batalha com %s começou!";
+
+"If no enemy can be found, the guild war will be ended automatically.";
+"Se nenhum Inimigo puder ser encontrado a Guerra de Guilds irá terminar automaticamente.";
+
+"Because the guild war finished early, the result will judged as a draw.";
+"Uma vez que a Guerra de Guilds terminou antecipadamente, será decidida como um Empate.";
+
+"The energy is reflected because of the Emperors Blessing.";
+"A energia é reflectida devido à Bênção dos Monarcas.";
+
+"After %d seconds you can use the Emperors Blessing.";
+"Daqui a %d segundos poderás usar a Bênção dos Monarcas.";
+
+"Not enough tax income : %d.";
+"Fundos de Imposto insuficientes: %d.";
+
+"[TEST_ONLY]Tax : %d";
+"[TEST_ONLY]Imposto : %d";
+
+"Transformation error.";
+"Ocorreu um erro durante a transformação.";
+
+"You learned the transmutation completely.";
+"Aprendeste completamente a transformação.";
+
+"Please call your Horse first.";
+"Por favor chama o teu Cavalo primeiro.";
+
+"You have sent your horse away.";
+"Mandaste embora o teu Cavalo.";
+
+"%s challenged you to a battle!";
+"%s desafiou-te para uma batalha!";
+
+"You have to get off your Horse.";
+"Tens de descer do teu Cavalo.";
+
+"You cannot feed your Horse whilst sitting on it.";
+"Não podes alimentar o teu Cavalo montado nele.";
+
+"You have fed the Horse with %s%s.";
+"Deste %s%s ao teu Cavalo.";
+
+"You need %s.";
+"Precisas de %s.";
+
+"%d seconds until Exit.";
+"%d segundos para o servidor desligar.";
+
+"The game will be closed in %d seconds.";
+"O jogo será fechado dentro de %d segundos.";
+
+"Your logout has been cancelled.";
+"O teu Logout foi cancelado.";
+
+"Back to login window. Please wait.";
+"A voltar à página de login. Por favor espera.";
+
+"You have been disconnected from the server. Please wait.";
+"Estás a ser desligado do servidor. Por favor espera.";
+
+"You have challenged %s to a battle.";
+"Desafiaste %s para uma batalha.";
+
+"You are changing character. Please wait.";
+"Estás a mudar de personagem. Por favor espera.";
+
+"A new start is not possible at the moment. Please wait %d seconds.";
+"Ainda não é possível começar de novo. Por favor espera mais %d segundos.";
+
+"You cannot restart yet. Please wait another %d seconds.";
+"Impossível reiniciar. Por favor espera mais %d segundos.";
+
+"You cannot restart in the city yet. Wait another %d seconds.";
+"Ainda não é possível começar de novo na Cidade. Espera mais %d segundos.";
+
+"The waiting time has expired. You will be revived in the city.";
+"Perdeste a oportunidade de ressuscitar. Irás voltar para a cidade.";
+
+"You cannot change your status while you are transformed.";
+"Não podes alterar o teu estado enquanto estiveres transformado.";
+
+"This player is currently fighting.";
+"O jogador encontra-se actualmente em combate.";
+
+"[Guild] It does not belong to the guild.";
+"[Guild] Não pertence à Guild.";
+
+"[Guild] You do not have the authority to change the level of the guild skills.";
+"[Guild] Não podes mudar o Nível das Habilidades de Guild.";
+
+"Your choice is incorrect.";
+"A tua escolha está errada.";
+
+"[Storeroom] You have entered an incorrect password.";
+"[Armazém] Inseriste uma palavra-passe incorrecta.";
+
+"[Storeroom] The Storeroom is already open.";
+"[Armazém] O Armazém já se encontra aberto.";
+
+"[Storeroom] You have to wait 10 seconds before you can open the Storeroom again.";
+"[Armazém] Tens de esperar 10 segundos para abrir novamente o Armazém.";
+
+"[Storeroom] You are too far away to open the storeroom.";
+"[Armazém] Estás demasiado distante do Armazém para o abrir.";
+
+"[Group] The server cannot execute this group request.";
+"[Grupo] O Servidor não pôde executar o pedido de Grupo.";
+
+"[Group] You cannot leave a group while you are in a dungeon.";
+"[Grupo] Não podes abandonar um Grupo quando estás numa Caverna.";
+
+"[Group] You have left the group.";
+"[Grupo] Abandonaste o Grupo.";
+
+"[Guild] Your guild is already participating in another war.";
+"[Guild] A tua Guild já está a participar noutra Guerra.";
+
+"[Guild] No one is entitled to a guild war.";
+"[Guild] Nenhum jogador é elegível para uma Guerra de Guilds.";
+
+"[Guild] No guild with this name exists.";
+"[Guild] Esta Guild não existe.";
+
+"There already is a candidacy.";
+"Já existe uma candidatura.";
+
+"[Guild] This guild is already participating in a war.";
+"[Guild] Esta Guild já está a participar numa Guerra.";
+
+"[Guild] Not enough Yang to participate in a guild war.";
+"[Guild] Não existe Yang suficiente para participar numa Guerra de Guilds.";
+
+"[Guild] The guild does not have enough Yang to participate in a guild war.";
+"[Guild] A Guild não tem Yang suficiente para participar numa Guerra de Guilds.";
+
+"[Guild] This Guild is already scheduled for another war.";
+"[Guild] Esta Guild já está notificada para outra Guerra de Guilds.";
+
+"[Guild] This guild is already participating in another war.";
+"[Guild] Esta Guild já está a participar noutra Guerra.";
+
+"[Guild] A minimum of %d players are needed to participate in a guild war.";
+"[Guild] Pelo menos %d jogadores são precisos para participar numa Guerra de Guilds.";
+
+"[Guild] The guild does not have enough points to participate in a guild war.";
+"[Guild] A Guild não tem Pontos de Experiência suficientes para participar numa Guerra de Guilds.";
+
+"[Guild] The guild does not have enough members to participate in a guild war.";
+"[Guild] A Guild não tem membros suficiente para participar numa Guerra de Guilds.";
+
+"Your level has to be higher than 20 to register a cell phone number.";
+"O teu nível deve ser superior a 20 para registar um número de telemóvel.";
+
+"You do not have the emperor qualification.";
+"Não tens as Qualificações necessárias para ser Monarca.";
+
+"%s declined the invitation.";
+"%s rejeitou o convite.";
+
+"You cannot accept the invitation because you are already in the group.";
+"Não podes aceitar o convite porque já estás no Grupo.";
+
+"Only the emperor can use this.";
+"Apenas o Monarca pode usar isto.";
+
+"Cooldown time for approximately %d seconds";
+"Tempo de Recuperação de aproximadamente %d segundos.";
+
+"Lack of Taxes. Current Capital : %u Missing Capital : %u";
+"Fundos de Impostos insuficientes. Fundos Actuais : %u Fundos em Falta : %u";
+
+"Command: warpto <character name>";
+"Pedido: warpto <character name>";
+
+"You cannot be warped to an unknown player.";
+"Não podes ser teleportado para um jogador desconhecido.";
+
+"Adding player %d into the channel. (Present channel %d)";
+"Adição do jogador %d a este Canal. (Canal Actual: %d)";
+
+"Warp to player %s.";
+"Teleportar para %s.";
+
+"You cannot call unknown players.";
+"Não podes chamar jogadores desconhecidos.";
+
+"[Guild] There are no experience points for hunting during a guild war.";
+"[Guild] Não há pontos de experiência para a caça durante a Guerra de Guilds.";
+
+"When the Blessing of the Emperor is used %s the HP and SP are restored again.";
+"Quando a Bênção do Monarca é usada %s o teu VD e MN são restaurados novamente.";
+
+"My information about the emperor";
+"Informação de Monarca";
+
+"[%sMonarch] : %s Yang owned %lld";
+"[%s Monarca] : %s Yang em posse %lld";
+
+"[%sMonarch] : %s";
+"[%s Monarca] : %s";
+
+"Information about the emperor";
+"Informação do Monarca";
+
+"Only an emperor can use this.";
+"Apenas um Monarca pode usar isto";
+
+"Choose a number between 1 and 50.";
+"Escolhe um número entre 1 e 50.";
+
+"The Monster cannot be called. Check the Mob Number.";
+"O Monstro não pôde ser chamado. Verifica o Número de Mob.";
+
+"Hit Points +%d";
+"Pontos de Vida +%d";
+
+"Spell Points +%d";
+"Pontos de Mana +%d";
+
+"The Emperor Blessing is activated.";
+"A Bênção do Monarca está activa.";
+
+"Endurance +%d";
+"Resistência +%d";
+
+"Intelligence +%d";
+"Inteligência +%d";
+
+"Strength +%d";
+"Força +%d";
+
+"Dexterity +%d";
+"Destreza +%d";
+
+"Attack Speed +%d";
+"Rapidez de Ataque +%d";
+
+"Movement Speed %d";
+"Rapidez de Movimento %d";
+
+"Cooldown Time -%d";
+"Tempo de Carregamento -%d";
+
+"Energy Recovery +%d";
+"Regeneração de Vida +%d";
+
+"Spell Point Recovery +%d";
+"Regeneração de Mana +%d";
+
+"Poison Attack %d";
+"Envenenar %d";
+
+"Star +%d";
+"Estrela +%d";
+
+"Speed Reduction +%d";
+"Redução de Velocidade +%d";
+
+"Critical Attack with a chance of %d%%";
+"%d%% de probabilidade de Ataque Crítico.";
+
+"Chance of a Speared Attack of %d%%";
+"%d%% de probabilidade de Ataque Perfurante.";
+
+"Player's Attack Power against Monsters +%d%%";
+"Poder de Ataque do Jogador contra Monstros +%d%%";
+
+"Horse's Attack Power against Monsters +%d%%";
+"Poder de Ataque a Cavalo contra Monstros +%d%%";
+
+"Attack Boost against Wonggui + %d%%";
+"Aumento de Ataque contra Wonggui + %d%%";
+
+"Attack Boost against Milgyo + %d%%";
+"Aumento de Ataque contra Milgyo + %d%%";
+
+"Attack boost against zombies + %d%%";
+"Aumento de Ataque contra Mortos Vivos + %d%%";
+
+"Attack boost against devils + %d%%";
+"Aumento de Ataque contra Demónios + %d%%";
+
+"Due to Emperor Sa-Za-Hu, the player %s will receive an attack power increase of 10 %% for 3 minutes in this area.";
+"Pelo Imperador Sa-Za-Hu o jogador %s recebe mais 10%% de força de ataque durante 3 minutos.";
+
+"Absorbing of Energy %d%% while attacking.";
+"%d%% de Absorção de Energia durante o ataque.";
+
+"Absorption of Spell Points (SP) %d%% while attacking.";
+"%d%% de Absorção de Mana (MN) durante o ataque.";
+
+"With a chance of %d%% Spell Points (SP) will be taken from the enemy.";
+"Probabilidade de %d%% de Mana (Mana) ser roubada ao inimigo.";
+
+"Absorbing of Spell Points (SP) with a chance of %d%%";
+"%d%% de probabilidade de absorção de Mana (MN).";
+
+"%d%% Chance of blocking a close-combat attack";
+"%d%% de probabilidade de bloquear um Ataque de Curta Distância.";
+
+"%d%% Chance of blocking a long range attack";
+"%d%% de probabilidade de bloquear um Ataque a Longa Distância.";
+
+"One-Handed Sword defence %d%%";
+"Defesa contra Espadas de 1 Mão %d%%";
+
+"Two-Handed Sword Defence %d%%";
+"Defesa contra Espadas de 2 Mãos %d%%";
+
+"Bell Defence %d%%";
+"Defesa contra Campainhas %d%%";
+
+"By the Emperor Geum-Gang-Gwon the player %s gets 10 %% more armour for 3 minutes.";
+"Por ordem do Imperador Geum-Gang-Gwon o jogador %s recebe mais 10%% de Defesa durante 3 minutos.";
+
+"Fan Defence %d%%";
+"Defesa contra Leques %d%%";
+
+"Distant Attack Resistance %d%%";
+"Resistência a Ataques de Longa Distância %d%%";
+
+"Fire Resistance %d%%";
+"Resistência ao Fogo %d%%";
+
+"Lightning Resistance %d%%";
+"Resistência a Relâmpagos %d%%";
+
+"Magic Resistance %d%%";
+"Resistência Mágica %d%%";
+
+"Wind Resistance %d%%";
+"Resistência ao Vento %d%%";
+
+"Reflect Direct Hit: %d%%";
+"Reflectir Ataque Directo: %d%%";
+
+"Reflect Curse: %d%%";
+"Reflectir Maldição: %d%%";
+
+"Poison Resistance %d%%";
+"Resistência ao Veneno %d%%";
+
+"Spell Points (SP) will be increased by %d%% if you win.";
+"Se ganhares a tua Mana (MN) será aumentada para %d%%.";
+
+"The event is already running. (Flag: %d)";
+"O Evento já está a decorrer. (flag: %d)";
+
+"Experience increases by %d%% if you win against an opponent.";
+"Se ganhares a tua Experiência será aumentada para %d%%.";
+
+"Increase of Yang up to %d%% if you win.";
+"Se ganhares o teu Yang será aumentado para %d%%.";
+
+"Increase of captured Items up to %d%% if you win.";
+"Se ganhares a probabilidade de apanhares Itens será aumentada para %d%%.";
+
+"Power increase of up to %d%% after taking the potion.";
+"Ao tomar a poção o Poder será aumentado até um máximo de %d%%.";
+
+"%d%% Chance of filling up Hit Points after a victory.";
+"%d%% de probabilidade de encheres os Pontos de Vida depois de uma vitória.";
+
+"No Dizziness %d%%";
+"Não Atordoamento %d%%";
+
+"No Slowing Down %d%%";
+"Não Abrandamento %d%%";
+
+"No falling down %d%%";
+"Não Cair %d%%";
+
+"Attack Power + %d";
+"Poder de Ataque + %d";
+
+"Armour + %d";
+"Armadura + %d";
+
+"OX quiz script could not be loaded.";
+"O Script do Evento OX não pôde ser carregado.";
+
+"Magical Attack + %d";
+"Ataque Mágico + %d";
+
+"Magical Defence + %d";
+"Defesa Mágica + %d";
+
+"Maximum Endurance + %d";
+"Resistência máxima + %d";
+
+"Strong against Warriors + %d%%";
+"Forte contra Guerreiros + %d%%";
+
+"Strong against Ninjas + %d%%";
+"Forte contra Ninjas + %d%%";
+
+"Strong against Sura + %d%%";
+"Forte contra Suras + %d%%";
+
+"Strong against Shamans + %d%%";
+"Forte contra Xamãs + %d%%";
+
+"Strength against monsters + %d%%";
+"Forte contra Monstros + %d%%";
+
+"Attack + %d%%";
+"Ataque + %d%%";
+
+"Defence + %d%%";
+"Defesa + %d%%";
+
+"OX quiz script has loaded.";
+"O Script do Evento OX foi carregado.";
+
+"Experience %d%%";
+"Experiência %d%%";
+
+"Chance to find an Item %. 1f";
+"Probabilidade de encontrar um Item %. 1f";
+
+"Chance to find Yang %. 1f";
+"Probabilidade de encontrar Yang %. 1f";
+
+"Maximum Energy +%d%%";
+"Limite superior do aumento de Energia +%d%%";
+
+"Skill Damage %d%%";
+"Dano de Habilidades %d%%";
+
+"Hit Damage %d%%";
+"Dano de Ataque %d%%";
+
+"Resistance against Skill Damage %d%%";
+"Resistência a Danos de Habilidades %d%%";
+
+"Resistance against Hits %d%%";
+"Resistência contra Ataques %d%%";
+
+"%d%% Resistance against Warrior Attacks";
+"%d%% Resistência contra Ataques de Guerreiros";
+
+"Welcome to Metin2.";
+"Bem-vindo ao Metin2!";
+
+"%d%% Resistance against Ninja Attacks";
+"%d%% Resistência contra Ataques de Ninjas";
+
+"%d%% Resistance against Sura Attacks";
+"%d%% Resistência contra Ataques de Suras";
+
+"%d%% Resistance against Shaman Attacks";
+"%d%% Resistência contra Ataques de Xamãs";
+
+"(Procedure: %d y- %d m - %d d)";
+"(Procedimento: %d y- %d m - %d d)";
+
+"Your chat is blocked.";
+"O teu Chat está bloqueado.";
+
+"You need a higher level to be able to call.";
+"Precisas de ser de um nível mais alto para utilizares o Chamar.";
+
+"You need a minimum level of %d to be able to call.";
+"Precisas de ser nível %d para poderes usar o Chamar.";
+
+"You are not in this Group.";
+"Não estás neste Grupo.";
+
+"You did not join this Guild.";
+"Não te juntaste a esta Guild.";
+
+"The player has rejected your request to add him to your friend list.";
+"O jogador rejeitou o teu pedido de amigo.";
+
+"OX Event has started.";
+"O Evento OX começou.";
+
+"[Friends] You cannot add a GM to your list.";
+"[Contactos] Não podes adicionar um GM à tua Lista de Amigos.";
+
+"%s is not online.";
+"%s não está no jogo.";
+
+"After a trade, you have to wait %d seconds before you can open a shop.";
+"Depois de negociares, terás de esperar %d segundos antes de abrires uma loja.";
+
+"You can trade again in %d seconds.";
+"Podes voltar a negociar dentro de %d segundos.";
+
+"You have more than 2 Billion Yang. You cannot trade.";
+"Tens mais de 2 Mil Milhões de Yang. Não podes negociar.";
+
+"You cannot open a private shop while another window is open.";
+"Não podes abrir uma loja privada enquanto outra janela está aberta.";
+
+"The player has more than 2 Billion Yang. You cannot trade with him.";
+"O jogador tem mais de 2 Mil Milhões de Yang. Não podes negociar com ele.";
+
+"[Storeroom] No movement possible.";
+"[Armazém] Não é possível mover.";
+
+"[Storeroom] The item cannot be stored.";
+"[Armazém] O Item não pode ser armazenado.";
+
+"[Group] The player who invited you is not online.";
+"[Grupo] O jogador que enviou o convite não se encontra online.";
+
+"Uriel allowed to enter.";
+"Permitida a entrada a Uriel.";
+
+"[Group] Only the group leader can change this.";
+"[Grupo] Apenas o Líder do Grupo pode mudar isto.";
+
+"[Group] The target is not a member of your group.";
+"[Grupo] O alvo não é membro do teu Grupo.";
+
+"[Group] You cannot kick out a player while you are in a dungeon.";
+"[Grupo] Não podes expulsar um jogador enquanto estás numa Caverna.";
+
+"[Group] You have been out kicked of the group.";
+"[Grupo] Foste excluído do grupo.";
+
+"[Group] You cannot kick out group members.";
+"[Grupo] Não podes excluir Membros do Grupo.";
+
+"[Guild] After disbanding a guild, you cannot create a new one for %d days.";
+"[Guild] Depois de apagar uma Guild não poderás criar uma durante %d dias.";
+
+"[Guild] After leaving a guild, you cannot create a new one for %d days.";
+"[Guild] Depois de sair de uma Guild não poderás criar uma por %d dias.";
+
+"This guild name is invalid.";
+"Este nome de Guild é inválido.";
+
+"We request the participation of a lot of players.";
+"Pedimos a participação de muitos jogadores.";
+
+"[Guild] [%s] guild has been created.";
+"[Guild] A Guild [%s] foi criada.";
+
+"[Guild] Creation of the guild has failed.";
+"[Guild] A criação de uma Guild não foi bem sucedida.";
+
+"[Group] Only the group leader can use group skills.";
+"[Grupo] Apenas o Líder do Grupo poderá usar as Habilidades de Grupo.";
+
+"[Group] The target has not been found.";
+"[Grupo] O alvo não pôde ser encontrado.";
+
+"[Guild] That is not the correct amount of Yang.";
+"[Guild] Essa quantidade de Yang não está correcta.";
+
+"[Guild] You do not have enough Yang.";
+"[Guild] Não tens Yang suficiente.";
+
+"[Guild] The person you were searching for cannot be found.";
+"[Guild] O jogador procurado não pôde ser encontrado.";
+
+"[Guild] This person is not in the same guild.";
+"[Guild] Este jogador não está na mesma Guild.";
+
+"[Guild] You do not have the authority to kick out guild members.";
+"[Guild] Não podes excluir Membros da Guild.";
+
+"[Guild] The guild member %s has been kicked out of the Guild.";
+"[Guild] O Membro %s foi excluído da Guild.";
+
+"OX The Event has not ended yet. An error has occurred. (flag: %d)";
+"O Evento OX ainda não terminou. Ocorreu um erro. (flag: %d)";
+
+"[Guild] You have kicked a guild member out.";
+"[Guild] Excluíste um Membro da Guild.";
+
+"[Guild] You do not have the authority to change your rank name.";
+"[Guild] Não podes alterar o nome do teu estatuto.";
+
+"[Guild] The guild leader's rights cannot be changed.";
+"[Guild] Os poderes do Líder da Guild não podem ser alterados.";
+
+"[Guild] This rank name is invalid.";
+"[Guild] Este nome de estatuto é inválido.";
+
+"[Guild] You do not have the authority to change your position.";
+"[Guild] Não podes alterar o teu estatuto.";
+
+"[Guild] The rights of the guild leader cannot be changed.";
+"[Guild] Os poderes do Líder da Guild não podem ser alterados.";
+
+"[Guild] %u experience points used.";
+"[Guild] %u Pontos de Experiência dados.";
+
+"[Guild] Experience usage has failed.";
+"[Guild] A doação de Experiência não foi bem sucedida.";
+
+"[Guild] Insufficient Yang in the guild treasury.";
+"[Guild] Não possuis Yang suficiente no tesouro da guild.";
+
+"[Guild] Dragon ghost was not restored.";
+"[Guild] Os Dragões Fantasma não foram restaurados.";
+
+"The OX Event will be restarted shortly.";
+"O Evento OX irá ser reiniciado brevemente.";
+
+"[Guild] You do not have the authority to make an announcement.";
+"[Guild] Não podes criar anúncios.";
+
+"[Guild] You do not have the authority to change the position.";
+"[Guild] Não podes alterar estatutos.";
+
+"[Guild] The guild leader's position cannot be changed.";
+"[Guild] O estatuto do Líder da Guild não pode ser alterado.";
+
+"[Guild] You cannot make yourself guild leader.";
+"[Guild] Não te podes auto-proclamar Líder da Guild.";
+
+"[Guild] You do not have the authority to choose the guild leader.";
+"[Guild] Não podes escolher o Líder.";
+
+"[Guild] You cannot choose any more guild leaders.";
+"[Guild] Não podes escolher mais Líderes.";
+
+"You cannot trade this item.";
+"Não podes negociar este Item.";
+
+"Illegal software has been detected. The game is being shut down.";
+"Software ilegal detectado. O jogo irá ser encerrado.";
+
+"You have more than 2 Billion Yang with you. You cannot trade.";
+"Tens mais de 2 Mil Milhões de Yang. Não podes negociar.";
+
+"Invalid Yang.";
+"Yang inválido.";
+
+"The present event is limited to one area.";
+"O Evento actual está limitado a uma área.";
+
+"Start Item Roulette.";
+"Começar a Roleta de Itens.";
+
+"Start Yang Roulette.";
+"Começar a Roleta de Yang.";
+
+"The player is online. Please use whisper to chat.";
+"O jogador está online. Por favor utiliza o Segredar.";
+
+"The cell phone number is not registered.";
+"O número de telemóvel não está registado.";
+
+"You need to be at least on level 20 to be able to send text messages.";
+"Tens de estar pelo menos a nível 20 para poderes enviar mensagens de texto.";
+
+"You need 2000 DT to send a text message.";
+"Precisas de 2000 Yang para enviares uma mensagem.";
+
+"Your text message has been sent.";
+"A tua mensagem de texto foi enviada.";
+
+"%s of the Guild %s raised up to %d%% !";
+"%s da Guild %s aumentou %d%% !";
+
+"%s of the Guild %s normal again.";
+"%s da Guild %s voltou ao normal.";
+
+"%s: %s has increased by %d%%!";
+"Os jogadores do Reino %s têm um aumento de %s em %d%% !";
+
+"%s 's %s normal again.";
+"Os jogadores do Reino %s têm %s normal de novo.";
+
+"Your mining points have reached their maximum. (%d)";
+"Os teus Pontos de Garimpar atingiram o limite. (%d)";
+
+"Your mining points have reached their maximum level.";
+"Os teus Pontos de Garimpar foram aumentados para o valor mais alto possível.";
+
+"You can get lumberjack Deokbae to upgrade your Pickaxe.";
+"Podes melhorar a tua Picareta com a ajuda do Lenhador Deokbae.";
+
+"Your Mining Points have increased! (%d/%d)";
+"Os teus Pontos de Garimpar aumentaram! (%d/%d)";
+
+"You cannot mine without a Pick.";
+"Não podes Garimpar sem uma Picareta.";
+
+"Nothing to mine here.";
+"Não há aqui nada para Garimpar.";
+
+"The mining has been successful.";
+"Garimpaste o minério com sucesso.";
+
+"The mining has failed.";
+"Não conseguíste Garimpar o minério.";
+
+"[Friends] You have added %s as a friend.";
+"[Amigos] Adicionaste o jogador %s à tua Lista de Amigos.";
+
+"The player will be teleported into the city shortly.";
+"O jogador será teleportado para a Cidade em breve.";
+
+"[Friends] You have deleted %s from the list.";
+"[Amigos] Apagaste o jogador %s da tua Lista de Amigos.";
+
+"A critical server error has occurred. The server will restart automatically.";
+"Erro crítico do servidor. O servidor será reiniciado automaticamente.";
+
+"You will be disconnected automatically in 10 seconds.";
+"Serás desligado do servidor dentro de 10 segundos.";
+
+"You can connect again after 5 minutes.";
+"Poderás ligar-te após 5 minutos.";
+
+"(%s) guild has been created. [Temporary]";
+"Guild (%s) foi criada. [Temporária]";
+
+"This guild is at war.";
+"Esta Guild está em Guerra.";
+
+"%s: This guild does not exist.";
+"%s: Esta Guild não existe.";
+
+"A guild with this name or number does not exist.";
+"Não existe uma Guild com este nome ou número.";
+
+"The building does not exist.";
+"Este edifício não existe.";
+
+"This type of building can only be erected once.";
+"Este tipo de edifício apenas pode ser construído uma vez.";
+
+"Close the OX event card first. (Flag: %d)";
+"Primeiro fecha o mapa do Evento OX. (Flag: %d)";
+
+"The Main Building has to be erected first.";
+"O Edifício Principal deverá ser construído antes.";
+
+"Building failed because of incorrect pricing.";
+"A construção do edifício não foi bem sucedida devido a um preço incorrecto.";
+
+"Your guild does not have enough Yang to erect this building.";
+"A tua Guild não tem o Yang necessário para erigir este edifício.";
+
+"You do not have enough resources to build a building.";
+"Não possuis recursos suficientes para este edifício.";
+
+"You cannot erect a building at this place.";
+"Não podes construir um edifício neste local.";
+
+"This character does not exist.";
+"Esta personagem não existe.";
+
+"Duel has not been successfully cancelled.";
+"O Duelo não foi cancelado.";
+
+"Duel cancelled successfully.";
+"O cancelamento do Duelo foi bem sucedido.";
+
+"The duel has been successfully started.";
+"O Duelo foi iniciado com sucesso.";
+
+"There is a problem with initiating the duel.";
+"Existe um problema ao iniciar o Duelo.";
+
+"No errors occurred.";
+"Não ocorreram erros.";
+
+"There are no combatants.";
+"Não há inimigos disponíveis.";
+
+"No status points left.";
+"Não restaram Pontos de Estado.";
+
+"Remaining status points are too low.";
+"O Pontos de Estado que restam são demasiado baixos.";
+
+"You entered an incorrect value.";
+"Inseriste um valor incorrecto.";
+
+"Suborder or the Order is incorrect.";
+"A Subordem da Ordem está incorrecta.";
+
+"Broken contract between player %d and player %d.";
+"O contrato entre os jogadores %d e %d foi quebrado.";
+
+"Turn the Roulette for %d Yang.";
+"Joga à Roleta por %d Yang.";
+
+"The Item log placed into the syslog.";
+"O Itemlog foi colocado no Syslog.";
+
+"Information for the Kingdoms";
+"Informação para os Reinos";
+
+"Choose the Map Information of the Holy Land %d Entrance %d %d %d";
+"Escolhe a Informação do Mapa da Terra Sagrada %d Entrada %d %d %d";
+
+"An error has occurred.";
+"Ocorreu um erro.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+"%s N.º Mortes %d N.º Mobs Mortos %d N.º Bosses Mortos %d N.º Terra Sagrada %d";
+
+"Information about the status of the kingdom battle";
+"Informação acerca da Guerras dos Reinos";
+
+"Your request is loading. Please wait.";
+"O teu pedido está a ser carregado. Por favor seja paciente.";
+
+"You cannot open a Storeroom while another window is open.";
+"Não podes abrir um Armazém enquanto outra janela está aberta.";
+
+"[Storeroom] Storeroom password has been changed.";
+"[Armazém] Palavra-passe do Armazém foi alterada.";
+
+"[Storeroom] You have entered the wrong password.";
+"[Armazém] Inseriste uma palavra-passe incorrecta.";
+
+"Your playing time is going to run out in %d minutes.";
+"O teu Tempo de Jogo termina daqui a %d Minutos.";
+
+"Regularly voted.";
+"Votado regularmente.";
+
+"Already voted.";
+"Já votado.";
+
+"%s player already in the vote.";
+"O jogador %s já está na votação.";
+
+"OX Event is over. No errors occurred. (Flag: %d)";
+"O Evento OX terminou. Não ocorreu nenhum erro. (Flag: %d)";
+
+"Cannot run for office.";
+"Não pode ser votado.";
+
+"%s still has %u Yang available.";
+"%s ainda tem %u Yang.";
+
+"%s still has %d Yang available.";
+"%s ainda tem %d Yang.";
+
+"You do not have enough Yang.";
+"Não tens Yang suficiente.";
+
+"%s is deleted as an Emperor Candidate.";
+"%s foi apagado da lista de Candidatos a Monarca.";
+
+"%s is not a candidate for the emperor elections.";
+"%s não é um Candidato a Monarca.";
+
+"%s has been nominated as emperor.";
+"%s foi nomeado Monarca.";
+
+"%s cannot be nominated as emperor.";
+"%s não pode ser nomeado Monarca.";
+
+"The %s Emperor gets driven out.";
+"O Monarca do Reino %s foi exilado.";
+
+"The %s Emperor cannot be driven out.";
+"O Monarca do Reino %s não pode ser exilado.";
+
+"OX Event is not accepting any more participants.";
+"O Evento OX não aceita mais participantes.";
+
+"Shinsoo Kingdom";
+"Reino Shinsoo";
+
+"Chunjo Kingdom";
+"Reino Chunjo";
+
+"Jinno Kingdom";
+"Reino Jinno";
+
+"Your fishing points have increased! (%d/%d)";
+"Os teus Pontos de Pesca aumentaram! (%d/%d)";
+
+"You have reached the maximum number of fishing points.";
+"Tu já atingiste o máximo de pontos na Cana de Pesca.";
+
+"Go to the Fisherman and get your Fishing Pole upgraded!";
+"Vai ter com o Pescador e melhora a tua Cana de Pesca.";
+
+"You lost your bait to the fish.";
+"Perdeste o isco para o peixe.";
+
+"You have caught a fish! (%s)";
+"Capturaste um peixe! (%s)";
+
+"The length of the captured fish is %.2fcm.";
+"O comprimento do peixe capturado é %.2fcm.";
+
+"Fishing Event 'Great Zander'";
+"Evento de Pesca "Grande Zander"";
+
+"OX The other event participants are being noted down.";
+"OX Os outros participantes no Evento estão listados.";
+
+"Fishing Event 'Carp'";
+"'Carpa' do Evento de Pesca";
+
+"%s: %d";
+"%s: %d";
+
+"You have caught %d of %d .";
+"Apanhaste %d de %d .";
+
+"The fish vanished in the depths of the water.";
+"O peixe desapareceu nas águas profundas.";
+
+"There is a Clam inside the Fish.";
+"Está uma Ostra no interior do peixe.";
+
+"There is a Worm inside the Fish.";
+"Está um Verme dentro do peixe.";
+
+"You are roasting %s over the fire.";
+"Colocaste %s na Fogueira.";
+
+"You cannot trade because you are carrying more than 2 billion Yang.";
+"Não podes negociar porque tens mais de 2 Mil Milhões de Yang contigo.";
+
+"You can't give your shop an invalid name.";
+"Não podes utilizar um nome impróprio na tua Loja.";
+
+"You can't sell Item-Shop items in a private shop.";
+"Não podes vender Itens da Loja de Itens numa Loja Privada.";
+
+"OX The other event participants have not been noted down.";
+"OX Os outros participantes no Evento não estão listados.";
+
+"Mining is finished.";
+"Terminaste de Garimpar.";
+
+"You need a Pickaxe in order to extract ore!";
+"Precisas de uma Picareta para conseguires garimpar.";
+
+"Please choose a Fishing Pole.";
+"Por favor escolhe uma Cana de Pesca.";
+
+"Place the Bait on the Hook first.";
+"Primeiro coloca o isco no anzol.";
+
+"You can't go fishing without a fishing pole!";
+"Não podes pescar sem uma Cana de Pesca!";
+
+"[Group] You cannot make a request because the group leader is not online.";
+"[Grupo] Não podes fazer um pedido porque o Líder do Grupo não está online.";
+
+"[Group] You cannot form a group with players from another kingdom.";
+"[Grupo] Não podes fazer Grupo com jogadores de outros Reinos.";
+
+"[Group] You cannot invite players while you are in a dungeon.";
+"[Grupo] Não podes convidar jogadores enquanto estás numa Caverna.";
+
+"[Group] You cannot invite a player while you are in observer mode.";
+"[Grupo] Não podes convidar um jogador enquanto estás Modo de Observação.";
+
+"[Group] Only players with a level difference of -30 to +30 can be invited.";
+"[Grupo] Apenas poderás convidar jogadores dentro do limite de 30 níveis abaixo ou acima do teu.";
+
+"Number of other participants : %d";
+"Número dos outros participantes : %d";
+
+"[Group] You cannot invite this player, as their level is too low.";
+"[Grupo] Não podes convidar este jogador. O seu nível é demasiado baixo.";
+
+"[Group] You cannot invite this player, as their level is too high.";
+"[Grupo] Não podes convidar este jogador. O seu nível é demasiado alto.";
+
+"[Group] You cannot invite any more players into your group.";
+"[Grupo] Não podes convidar mais jogadores para o teu Grupo.";
+
+"You want to join %s's group.";
+"Queres juntar-te ao Grupo %s?";
+
+"This player is not in this group.";
+"O jogador não está neste Grupo.";
+
+"[Group] You cannot join this group because it is already full.";
+"[Grupo] Não te podes juntar a este Grupo. O Grupo está cheio.";
+
+"[Group] You do not have the right to invite someone.";
+"[Grupo] Não tens permissão para convidar alguém.";
+
+"[Group] %s has declined your group invitation.";
+"[Grupo] %s rejeitou o convite para o teu Grupo.";
+
+"[Group] %s is already in the group.";
+"[Grupo] %s já está no Grupo.";
+
+"[Group] You cannot accept an invitation into a dungeon.";
+"[Grupo] Não podes aceitar um convite quando está numa Caverna.";
+
+"OX Event is finishing.";
+"O Evento OX terminou.";
+
+"[Group] You cannot accept the invitation.";
+"[Grupo] Não podes aceitar o convite.";
+
+"[Group] %s has declined your invitation.";
+"[Grupo] %s recusou o teu convite.";
+
+"[Group] %s has joined your group.";
+"[Grupo] %s juntou-se ao teu Grupo.";
+
+"[Group] %s has joined your Group.";
+"[Grupo] %s juntou-se ao teu Grupo.";
+
+"You can't use a private shop now.";
+"Não podes abrir uma Loja Privada agora.";
+
+"This player is already trading with another player.";
+"Este jogador já está a negociar com outro jogador.";
+
+"Metin2 Confirmation Number: %s";
+"Metin2 - Número de Confirmação: %s";
+
+"Your Confirmation Number is not correct. Please try again.";
+"O teu Número de Confirmação está incorrecto. Por favor tenta de novo.";
+
+"The mobile phone number is registered.";
+"Não te podes teleportar para o jogador de momento.";
+
+"You cannot teleport to the player.";
+"Não te podes teleportar para o jogador de momento.";
+
+"OX The prize has been awarded. ID: %d Quantity: %d";
+"O prémio do Evento OX foi atribuído. ID: %d Quantidade: %d";
+
+"This player is not online.";
+"O jogador não está online.";
+
+"The player is playing on channel %d. (You are on channel %d.)";
+"O jogador está no Canal %d. (Tu estás no Canal %d.)";
+
+"After opening the Storeroom, you cannot go anywhere else for %d seconds.";
+"Não podes ir a nenhum lado %d segundos depois de abrires o Armazém.";
+
+"You cannot go elsewhere for a period of time after the trade.";
+"Não podes ir a nenhum lado pouco depois de negociar.";
+
+"After trading you cannot go elsewhere for %d seconds.";
+"Não podes ir a nenhum lado %d segundos depois de negociares.";
+
+"The duel has finished, because your combatant vanished.";
+"Duelo terminado. O teu inimigo desapareceu.";
+
+"There is no limit for Potions.";
+"Não há limite para Poções.";
+
+"You can use up to %d potions.";
+"Podes usar até %d Poções.";
+
+"The fight will start in 10 seconds.";
+"O combate começa dentro de 10 segundos.";
+
+"The duel has begun.";
+"O Duelo começou.";
+
+"TRUE";
+"VERDADEIRO";
+
+"The duel is being finished because there is a problem in the duel arena.";
+"O Duelo terminou porque existe um problema com a arena.";
+
+"The duel has finished because of a timeout.";
+"O Duelo terminou porque acabou o tempo.";
+
+"In 10 seconds you will be teleported into the city.";
+"Vais ser teleportado para a cidade dentro de 10 segundos.";
+
+"The duel has been stopped because there is a problem in the arena.";
+"O Duelo terminou porque existem problemas com a arena.";
+
+"Your combatant has got some problems. The duel is being cancelled.";
+"O teu adversário está com problemas. O Duelo terminou.";
+
+"The duel is being cancelled as there is a problem with the combatant.";
+"O Duelo terminou porque existe um problema com o teu adversário.";
+
+"%s has won the duel.";
+"%s ganhou o Duelo.";
+
+"%s has won.";
+"%s ganhou.";
+
+"You will be teleported into the city in 10 seconds.";
+"Vais ser teleportado para a cidade dentro de 10 segundos.";
+
+"The next round will begin in 10 seconds.";
+"A próxima ronda começa dentro de 10 segundos.";
+
+"FALSE";
+"FALSO";
+
+"The combatants have been separated. The duel has been stopped.";
+"Os lutadores foram separados. O Duelo foi terminado.";
+
+"The quota of the Item Drop is at the moment plus %d%%";
+"A probabilidade de Cair Itens foi aumentada em %d%%!";
+
+"The quota of the Yang Drop is at the moment plus %d%%";
+"A probabilidade de Cair Yang foi aumentada em %d%%!";
+
+"The drop rate for Yang rain is currently %d%% higher.";
+"A probabilidade de queda de chuva de Yang actualmente está %d%% mais alta.";
+
+"The experience bonus is currently an additional %d%%.";
+"Actualmente o bónus de experiência é %d%%.";
+
+"You do not have the correct client version. Please install the normal patch.";
+"A tua versão do cliente de jogo não é a correcta. Por favor instala o patch correcto.";
+
+"You cannot trade in the shop while another window is open.";
+"Não podes negociar na loja enquanto outra janela está aberta.";
+
+"You are too far away from the shop to buy something.";
+"Estás demasiado longe da Loja Privada para poderes comprar.";
+
+"You are too far away from the shop to sell something.";
+"Estás demasiado longe da Loja Privada para poderes vender.";
+
+"Total number of the Quiz: %d";
+"Número total do Quiz: %d";
+
+"This sale will be taxed %d%%.";
+"A venda tem uma Taxa de Impostos de %d%%.";
+
+"You cannot ride a Horse while you are transformed.";
+"Não podes montar um Cavalo enquanto estiveres transformado.";
+
+"You cannot ride while you are wearing a Wedding Dress or a Tuxedo.";
+"Não podes montar um Cavalo enquanto usas um Vestido de Noiva ou um Fato de Casamento.";
+
+"You do not have a Horse.";
+"Não possuis um Cavalo.";
+
+"Your Horse is dead.";
+"O teu Cavalo está morto.";
+
+"Your Horse's endurance is too low.";
+"A resistência do teu Cavalo é demasiado baixa.";
+
+"Calling the Horse has failed.";
+"A tentativa de chamar o Cavalo falhou.";
+
+"'s Horse";
+"Cavalo";
+
+"The wedding is finishing soon.";
+"O Casamento terminará em breve.";
+
+"Will be left automatically.";
+"Sairás deste mapa automaticamente.";
+
+"The war is already over.";
+"A Guerra já terminou.";
+
+"The result will follow in 10 seconds.";
+"A resposta será exibida dentro de 10 segundos.";
+
+"You cannot trade while observing.";
+"Não podes negociar enquanto estás no Modo de Observação.";
+
+"If the window is open, you cannot trade with others.";
+"Se a janela estiver aberta, não podes negociar com outros.";
+
+"The other person is currently busy so you cannot trade right now.";
+"A outra pessoa encontra-se ocupada, por isso não podes negociar neste momento.";
+
+"The other person has cancelled the trade.";
+"A outra pessoa cancelou o negócio.";
+
+"Not enough Yang or not enough space in the inventory.";
+"Não tens Yang suficiente ou tens pouco espaço no Inventário.";
+
+"The other person does not have enough Yang or does not have any space left in their inventory.";
+"A outra pessoa não tem Yang suficiente ou tem pouco espaço no Inventário.";
+
+"The other person has no space left in their inventory.";
+"A outra pessoa não tem espaço no Inventário.";
+
+"The trade with %s has been successful.";
+"O negócio com %s foi bem sucedido.";
+
+"You did not lose any Experience because of the Blessing of the Dragon God.";
+"Não perdeste Experiência devido à bênção do Deus Dragão.";
+
+"Current score: Shinsoo %d, Chunjo %d, Jinno %d";
+"Pontuação Actual - Shinsoo: %d, Chunjo: %d, Jinno: %d";
+
+"The correct answer is:";
+"A resposta correcta é:";
+
+"%s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"%s Nº Mortes (sofridas) %d Reino  %d Nº de Mortes (infligidas) %d (Propósito %d) Nº Mobs Mortos %d, Bandeira de Regeneração %d";
+
+"The devil of the hallowed place: [ENTER][ENTER]";
+"O Demónio da Terra Sagrada: [ENTER][ENTER]";
+
+", you don't have any right to be here! The members of your kingdom will leave this hallowed ground in 10 seconds.";
+", não tens qualquer direito de estar aqui! Os membros do teu reino irão abandonar este terreno sagrado dentro de 10 segundos.";
+
+"%s has been defeated and drops out of the Kingdom Battle.";
+"O Reino %s foi derrotado e está fora da Guerra dos Reinos.";
+
+"Number of Monsters in the Kingdom Battle:";
+"Número de monstros na Guerra dos Reinos:";
+
+"If you defeat the Guard of the Holy Place, you will become the owner of it.";
+"Se derrotares o Guarda do Lugar Sagrado irás tornar-te dono desse lugar.";
+
+"You did not drop any Item(s) as you are protected by the Dragon God.";
+"Não deixaste cair nenhum(ns) Item(s) porque estás protegido pelo Deus Dragão.";
+
+"Additional Stabbing Weapon Damage %d";
+"Dano Adicional de Impacto %d";
+
+"%s block! (%d%%)";
+"%s bloqueado! (%d%%)";
+
+"%s avoid! (%d%%)";
+"%s evitado! (%d%%)";
+
+"Yes (O)";
+"Sim (O)";
+
+"%s[%d]'s Attack Position: %d %d";
+"%s[%d] Posição de Ataque: %d %d";
+
+"Please enter the Order in full length.";
+"Por favor insere a Ordem completa.";
+
+"You cannot do this whilst sitting on a Horse.";
+"Não podes fazer isto enquanto estiveres montado num Cavalo.";
+
+"You cannot do that while you are lying on the ground.";
+"Não podes fazer isto enquanto estás deitado no chão.";
+
+"In my Dreams? What?";
+"Nos meus sonhos? O quê?";
+
+"Get up first.";
+"Levanta-te primeiro.";
+
+"This command does not exist.";
+"Esta Ordem não existe.";
+
+"[Group] This group has been disbanded.";
+"[Grupo] O Grupo foi apagado.";
+
+"[Group] You cannot call the target.";
+"[Grupo] Não podes chamar o alvo.";
+
+"[Group] You cannot call group members over to your current position.";
+"[Grupo] Não podes chamar os Membros do Grupo para a tua localização actual.";
+
+"No (X)";
+"Não (X)";
+
+"Your group works well together, and group members near the group leader will receive an experience bonus.";
+"O teu grupo trabalha bem em conjunto e membros do grupo perto do líder do grupo recebem um bónus de experiência.";
+
+"Leader";
+"Líder";
+
+"Member";
+"Membro";
+
+"[Guild] Provided Experience is larger then left Experience.";
+"[Guild] A Experiência doada é mais alta que a Experiência em falta.";
+
+"[Guild] This message cannot be deleted.";
+"[Guild] A mensagem não pode ser apagada.";
+
+"[Guild] Not enough Dragon Ghost. (%d, %d)";
+"[Guild] Dragões Fantasma insuficientes. (%d, %d)";
+
+"[Guild] You cannot use the guild skills yet.";
+"[Guild] Ainda não podes usar as Habilidades de Guild.";
+
+"[Guild] %d skill has been applied (%d, %d) to %u.";
+"[Guild] %d Habilidades usadas (%d, %d) para %u.";
+
+"[Guild] This player is on channel %d. (Current channel: %d)";
+"[Guild] O jogador encontra-se no Canal %d. (O teu Canal actual: %d)";
+
+"[Guild] This player is not online.";
+"[Guild] O jogador não se encontra online.";
+
+"In 5 sec. everyone who gave an incorrect answer will be removed.";
+"Daqui a 5 segundos todos os participantes que deram uma resposta errada irão ser removidos.";
+
+"[Guild] This guild skill can only be used during war.";
+"[Guild] Esta Habilidade de Guild só pode ser usada em Guerras.";
+
+"[Guild] %u Dragon ghost points have been restored.";
+"[Guild] %u Dragões Fantasma restaurados.";
+
+"[Guild] Only the guild leader can withdraw Yang.";
+"[Guild] Apenas o Líder da Guild poderá retirar o Yang.";
+
+"[Guild] The player has declined the guild invitation.";
+"[Guild] O jogador rejeitou o teu convite para a Guild.";
+
+"[Guild] You do not have the authority to invite someone to join the guild.";
+"[Guild] Não podes convidar jogadores para a Guild.";
+
+"[Guild] You cannot invite players from another kingdom into the guild.";
+"[Guild] Não podes convidar jogadores de outro Reino para a Guild.";
+
+"[Guild] This player can be invited again after %d day(s).";
+"[Guild] Este jogador pode ser convidado novamente daqui a %d dia(s).";
+
+"[Guild] After the rearrangement you can invite members again after %d days.";
+"[Guild] Depois da reorganização irás poder convidar membros de novo daqui a %d dias.";
+
+"[Guild] This person is already a member of another Guild.";
+"[Guild] Este jogador já é membro de outra Guild.";
+
+"[Guild] The maximum guild capacity has been reached.";
+"[Guild] A Guild atingiu a capacidade máxima de membros.";
+
+"Ready for the next question?";
+"Preparado(s) para a próxima questão?";
+
+"You cannot train this skill.";
+"Não podes treinar esta Habilidade.";
+
+"You cannot train this skill up to Grand Master level.";
+"Não podes treinar esta Habilidade até Grande Mestre.";
+
+"You already are a Master of this skill. You cannot train this skill any further.";
+"Já és Mestre nesta habilidade. Não podes treiná-la mais.";
+
+"Your Skill is not high enough to become a Grand Master.";
+"A tua Habilidade não é alta o suficiente para o treino de Grande Mestre.";
+
+"That did not work. Damn!";
+"Não funcionou. Raios!";
+
+"Training has failed. Please try again later.";
+"Treino falhado. Por favor tenta de novo mais tarde.";
+
+"My body is full of energy!";
+"O meu corpo está cheio de energia!";
+
+"The training seems to be working already...";
+"Parece que o treino já está a fazer efeito...";
+
+"You successfully finished your training with the book.";
+"Terminaste com sucesso o teu treino com o Livro.";
+
+"You cannot read this due to your lack of experience.";
+"Não podes ler isto porque tens pouca Experiência.";
+
+"Question.";
+"Questão.";
+
+"You cannot train this skill with a Book.";
+"Não podes treinar esta Habilidade com um Livro.";
+
+"This skill's level is not high enough to be trained with a Book.";
+"Esta Habilidade não é alta o suficiente para ser treinada com um Livro.";
+
+"I'm making progress, but I still haven't understood everything.";
+"Estou a fazer progressos mas ainda não consigo entender tudo.";
+
+"These instructions are difficult to understand. I have to carry on studying.";
+"Esta técnica é difícil de compreender. Tenho de continuar os estudos.";
+
+"I understand this chapter. But I've got to carry on working hard.";
+"Eu entendi este capítulo mas vou ter de continuar a trabalhar muito.";
+
+"You have successfully finished your training with the Book.";
+"Terminaste com sucesso o teu treino com o Livro.";
+
+"Teleportation has failed.";
+"Teleportação falhada.";
+
+"No Horse here. Ask the Stable Boy.";
+"Não há Cavalo. Pergunta ao Rapaz dos Estábulos.";
+
+"Please use an item to call a Horse.";
+"Por favor utiliza um Item para chamar um Cavalo.";
+
+"%s FP-Consumption: %d";
+"%s Utilização de FP: %d";
+
+"If it's correct, then go to O. If it's wrong, go to X.";
+"Se estiver correcta dirige-te para o O, se estiver errada dirige-te para o X.";
+
+"I am burning inside, but it is calming down my body. My Chi has to stabilise.";
+"Estou a arder no meu interior, mas isso relaxa o meu corpo.";
+
+"A little slow, but steady... Without stopping!";
+"Devagar, mas de forma segura... Sem paragens.";
+
+"Yes, that feels great. My body is full of Chi.";
+"Sim, a sensação é óptima. O meu corpo está cheio de Chi.";
+
+"I have read it! Now the Chi will spread through my body.";
+"Eu li-o! Agora Chi irá correr pelo meu corpo.";
+
+"The training is completed.";
+"O treino está terminado.";
+
+"I am on the last page of the book. The training is nearly finished!";
+"Cheguei à última página do livro. O meu treino está perto do fim!";
+
+"Nearly finished! Just a little bit more to go!";
+"Está quase feito! Só falta um pouco!";
+
+"Eureka! I have nearly finished reading it!";
+"Sinto-me iluminado! Já o li quase todo!";
+
+"Only a few more pages and then I'll have read everything.";
+"Mais umas páginas e já tenho tudo lido.";
+
+"I feel refreshed.";
+"Sinto-me refrescado.";
+
+"Correct!";
+"Correcto!";
+
+"Now I understand it!";
+"Agora eu compreendo!";
+
+"Okay I have to stay concentrated!";
+"Ok, tenho de me manter concentrado!";
+
+"I keep reading the same line over and over again.";
+"Estou sempre a ler a mesma linha.";
+
+"I do not want to learn any more.";
+"Não quero aprender mais.";
+
+"It is a lot more complicated and more difficult to understand than I thought.";
+"É mais difícil de compreender do que eu pensava.";
+
+"It's hard for me to concentrate. I should take a break.";
+"É difícil concentrar-me. Eu devia descansar um pouco.";
+
+"Your chat has been blocked by a GM.";
+"O teu chat foi bloqueado por um GM.";
+
+"Your chat block has been lifted.";
+"O bloqueio do teu chat foi levantado.";
+
+"The Build window is already open.";
+"A Janela de Construção já está aberta.";
+
+"You cannot build something while another trade/storeroom window is open.";
+"Não podes construir nada enquanto a Janela de Comércio/Armazém estiver aberta.";
+
+"No further improvements possible.";
+"Não é possível melhorar mais.";
+
+"The build window is not open.";
+"A Janela de Construção não está aberta.";
+
+"You do not have the right material.";
+"Não possuis o material correcto.";
+
+"[Guild] Please try again later.";
+"[Guild] Por favor tenta de novo mais tarde.";
+
+"You have to read %d more skill books to improve this skill.";
+"Sucesso! Já só preciso de mais %d Livros para o próximo nível.";
+
+"You are only able to use this function while you are at the castle.";
+"Está função apenas poderá ser utilizada enquanto estás no Castelo.";
+
+"TEST: The Gold Bar has been paid back to your kingdom's safe.";
+"TEST: A Barra de Ouro foi paga ao Cofre do Reino.";
+
+"TEST: In your kingdom's safe there are: %d";
+"TEST: No Cofre do teu Reino estão: %d";
+
+"TEST: You cannot pay the Gold Bar back into your kingdom's safe.";
+"TEST: Não podes pagar a Barra de Ouro ao Cofre do teu Reino.";
+
+"[Guild] The guild has reached %d points.";
+"[Guild] A Guild atingiu os %d Pontos.";
+
+"This item cannot be improved.";
+"Este Item não pode ser melhorado.";
+
+"The free weapon improvements can only be used on weapons up to level 20.";
+"As adições gratuitas a armas apenas podem ser usadas em armas até ao nível 20.";
+
+"You cannot use this item because you do not fulfil all the requirements.";
+"Não podes usar esse Item porque não tens todas as qualificações.";
+
+"You are not able to use that item because you do not have the right gender.";
+"Não podes usar esse Item porque não és do sexo correcto.";
+
+"Use: transfer <name>";
+"Usar: transfer <name>";
+
+"This function can only be used by the emperor.";
+"Esta função apenas pode ser usada pelo Monarca.";
+
+"You cannot recruit players from another kingdom.";
+"Não podes recrutar jogadores de outros Reinos.";
+
+"The player %s is on channel %d at the moment. (Your channel: %d)";
+"O jogador %s está neste momento no Canal %d (O teu Canal %d)";
+
+"You have recruited %s players.";
+"Recrutaste %s jogadores.";
+
+"There is no user with this name.";
+"Não existe nenhum utilizador com esse nome.";
+
+"You cannot recruit yourself.";
+"Não podes recrutar-te a ti próprio.";
+
+"Your level is too low to use this item.";
+"O teu Nível é inferior ao nível do Item depois de ser melhorado.";
+
+"You cannot upgrade anything while another window is open.";
+"Não podes melhorar nada enquanto outra janela está aberta.";
+
+"The emperor of %s has changed to %s.";
+"O Monarca de %s mudou para %s";
+
+"There are %s wars to inflame the bonfires.";
+"Estão a decorrer %s Guerras para acender as Tochas.";
+
+"%s has successfully defended.";
+"%s conseguiu defender com sucesso.";
+
+"30 minutes from now on the player %s can get a reward because he destroyed the bonfire.";
+"Durante os próximos 30 minutos o jogador %s poderá receber uma recompensa pela destruição da Tocha.";
+
+"30 minutes are over. The bonfires have disappeared.";
+"Os 30 minutos terminaram. As Tochas desapareceram.";
+
+"A bonfire was inflamed at %s to warn because of a battle.";
+"Uma Tocha foi acesa em %s para anunciar uma batalha.";
+
+"%s has destroyed the bonfire.";
+"%s destruiu a Tocha.";
+
+"%s lost the war as they have not been able to defend the castle.";
+"%s perderam a Guerra porque não conseguíram defender o Castelo.";
+
+"%s has destroyed all the bonfires.";
+"%s destruiu a Tocha.";
+
+"You can only open the shop if you take off your armour.";
+"Só podes abrir uma Loja Privada se desequipares a Armadura.";
+
+"%d hours %d minutes %d seconds left on your chat block";
+"Faltam %d horas, %d minutos e %d segundos para o bloqueio de chat passar.";
+
+"%d hours %d seconds left on your chat block";
+"Faltam %d horas e %d segundos para o teu bloqueio de chat passar.";
+
+"%d minutes %d seconds left on your chat block";
+"Faltam %d minutos e %d segundos para o teu bloqueio de chat passar.";
+
+"Yang rain drop rate";
+"Probabilidade de Queda de Chuva de Yang";
+
+"Not the right material for an upgrade.";
+"Não tens material suficiente para um melhoramento.";
+
+"All kingdoms";
+"Todos os Reinos";
+
+"Item drop rate in percent";
+"Rácio de queda de Itens";
+
+"Yang drop rate in percent";
+"Rácio de queda de Yang";
+
+"Experience percentage";
+"Percentagem de Experiência";
+
+"%d seconds left on your chat block";
+"Faltam %d segundos para o bloqueio do chat acabar.";
+
+"You cannot express emotions whilst riding a horse.";
+"Não poderás efectuar emoções enquanto estiveres a montar um cavalo.";
+
+"You cannot use emotions with a player who is riding on a Horse.";
+"Não poderás usar emoções com um jogador que esteja a montar a cavalo.";
+
+"[Guild] The enemy's guild leader is offline.";
+"[Guild] O Líder da Guild inimiga não se encontra ligado.";
+
+"[Guild] This guild is taking part in a battle at the moment.";
+"[Guild] Esta guild já se encontra numa guerra.";
+
+"You're already riding. Get off first.";
+"Já estás a montar. Desmonta-te primeiro.";
+
+"You cannot upgrade items with this Scroll.";
+"Não podes melhorar com este Pergaminho.";
+
+"You can only be rewarded once for the Demon Tower Quest.";
+"Só podes melhorar um Item por cada subida à Torre.";
+
+"Dragon Stone has been removed.";
+"A Pedra do Dragão foi removida.";
+
+"You cannot move the item within the refinement window.";
+"Não podes mover o item na janela de refinamento.";
+
+"Dragon Stone remaining duration has been extracted.";
+"A duração restante da Pedra do Dragão foi extraída.";
+
+"Remaining duration extraction failed.";
+"A extracção da duração restante falhou.";
+
+"Removal of Dragon Stone failed. But you have received the following: %s";
+"A remoção da Pedra do Dragão falhou. Mas recebeste o seguinte: %s";
+
+"Removal of Dragon Stone failed.";
+"A remoção da Pedra do Dragão falhou.";
+
+"This item is not required for improving the clarity level.";
+"Este item não é necessário para melhorar o nível de clareza.";
+
+"This item cannot be advanced this way.";
+"Este Item não pode ser melhorado desta forma.";
+
+"Improvement of the clarity level successful.";
+"O melhoramento do nível de clareza foi bem sucedido.";
+
+"Refinement up one class failed.";
+"O refinamento de classe falhou.";
+
+"This item is not required for refinement.";
+"Este tem não é necessário para o refinamento.";
+
+"Refinement up one class was successful.";
+"O refinamento de classe foi bem sucedido.";
+
+"Improvement of the clarity level failed.";
+"O melhoramento do nível de clareza falhou.";
+
+"You do not own the materials required to strengthen the Dragon Stone.";
+"Não tens os materiais necessários para fortalecer a Pedra do Dragão.";
+
+"This Dragon Stone cannot be used for strengthening.";
+"Esta Pedra do Dragão não pode ser usada para fortalecimento.";
+
+"Strengthening was successful.";
+"O fortalecimento foi bem sucedido.";
+
+"Strengthening failed.";
+"O fortalecimento falhou.";
+
+"You are already carrying a Dragon Stone of this type.";
+"Já possuis uma Pedra do Dragão deste tipo.";
+
+"The Dragon Stone cannot be removed.";
+"A Pedra do Dragão não pode ser removida.";
+
+"You have already equipped this kind of Dragon Stone.";
+"Já equipaste este tipo de Pedra do Dragão.";
+
+"Before you open the Cor Draconis, you have to complete the Dragon Stone quest and activate the Dragon Stone Alchemy.";
+"Antes de abrires o Cor Draconis tens de completar a missão da Pedra do Dragão e activar a Alquimia de Pedra do Dragão.";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"Apenas poderás descartar o cinto quando já não existirem itens no seu inventário.";
+
+"You can combine the Blessing Scroll with the Magic Iron Ore.";
+"Podes combinar um Pergaminho da Bênção com o Metal Mágico.";
+
+"You cannot equip this item in your belt inventory.";
+"Não podes equipar este item no teu inventário do cinto.";
+
+"[1106-??]No puedes unir esto.";
+"[1106-??]No puedes unir esto.";
+
+"You have invested %d Yang.";
+"Investiste %d Yang.";
+
+"There is no Stone available to take out.";
+"Não há Pedras para serem retiradas.";
+
+"You cannot store this location.";
+"Não podes marcar esta localização.";
+
+"There isn't enough space in your inventory.";
+"Não existe espaço suficiente no teu Inventário.";
+
+"You cannot teleport to a safe position in a foreign Kingdom.";
+"Não te podes teleportar para uma localização segura no interior de um Reino inimigo.";
+
+"You don't have enough HP.";
+"Não tens VD suficiente.";
+
+"You don't have enough Spell Points (SP) to use this.";
+"Não tens Mana (MN) suficiente para utilizar isto.";
+
+"You'll reach your destination in %d seconds.";
+"Irás chegar ao teu destino dentro de %d segundos.";
+
+"You can only use a Moon Cake every 5 seconds.";
+"Só podes utilizar um Bolo Lua de 5 em 5 segundos.";
+
+"You cannot use this item in a duel.";
+"Não podes usar este Item durante um Duelo.";
+
+"You have won %d Yang.";
+"Ganhaste %d Yang.";
+
+"You cannot build a campfire here.";
+"Não podes acender uma Fogueira aqui.";
+
+"You cannot build a campfire under water.";
+"Não podes acender uma Fogueira debaixo de água.";
+
+"Closed. You should look for the key.";
+"Está fechado. Deves procurar a chave.";
+
+"This item cannot be opened with a key.";
+"Este Item não pode ser aberto com uma Chave.";
+
+"That's the right key.";
+"Essa é a Chave correcta.";
+
+"You have received %d Yang.";
+"Recebeste %d Yang.";
+
+"A mysterious light comes out of the box.";
+"Uma luz misteriosa sai do interior desta caixa.";
+
+"You have received %d experience points.";
+"Recebeste %d Pontos de Experiência.";
+
+"Look what came out of the box!";
+"Olha o que saiu da caixa!";
+
+"[Guild] The guild level is too low.";
+"[Guild] O nível da guild é demasiado baixo.";
+
+"If you inhale the red smoke coming out of the box, your speed will increase!";
+"Se inalares o fumo vermelho que sai da caixa irás tornar-te mais rápido.";
+
+"You cannot add more bonus.";
+"You cannot add more bonus.";
+
+"New bonus added successfully.";
+"New bonus added successfully.";
+
+"You cannot change the bonuses.";
+"You cannot change the bonuses.";
+
+"%s needed.";
+"%s needed.";
+
+"OX-Question: ";
+"OX-Question: ";
