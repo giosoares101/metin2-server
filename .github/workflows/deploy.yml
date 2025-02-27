@@ -23,6 +23,7 @@ jobs:
           host: ${{ secrets.VPS_HOST }}
           username: ${{ secrets.VPS_USER }}
           password: ${{ secrets.VPS_PASSWORD }}
+          timeout: 60000
           script: |
             cd /app/metin2-server
             # Pull the latest code (if you prefer to rebuild on VPS)
