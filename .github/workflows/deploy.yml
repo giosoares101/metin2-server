@@ -15,7 +15,7 @@ jobs:
 
       - name: Build Docker Image
         run: |
-          docker build -t your-game-server:latest .
+          docker build -t my-metin2-server:latest .
 
       - name: Deploy to VPS via SSH
         uses: appleboy/ssh-action@v0.1.7
@@ -24,15 +24,15 @@ jobs:
           username: ${{ secrets.VPS_USER }}
           key: ${{ secrets.VPS_SSH_KEY }}
           script: |
-            cd /path/to/your/project
+            cd /app/metin2-server
             # Pull the latest code (if you prefer to rebuild on VPS)
             git pull origin main
             # Rebuild the Docker image on VPS
-            docker build -t your-game-server:latest .
+            docker build -t my-metin2-server:latest .
             
             # Blue/Green Deployment Steps:
             # 1. Start a new container (blue) on a different name and port
-            docker run -d --name game_server_new -p 12345:12345 your-game-server:latest
+            docker run -d --name game_server_new -p 12345:12345 my-metin2-server:latest
             
             # 2. Wait for the new container to be healthy
             sleep 10  # Adjust as needed based on your health check
