@@ -18,12 +18,13 @@ jobs:
           docker build -t my-metin2-server:latest .
 
       - name: Deploy to VPS via SSH
-        uses: appleboy/ssh-action@v0.1.7
+        uses: appleboy/ssh-action@v0.5.10
         with:
           host: ${{ secrets.VPS_HOST }}
           username: ${{ secrets.VPS_USER }}
           password: ${{ secrets.VPS_PASSWORD }}
-          timeout: "1h"
+          timeout: "24h"
+          command_timeout: "3600s"
           script: |
             cd /app/metin2-server
             # Pull the latest code (if you prefer to rebuild on VPS)
