@@ -1,0 +1,47 @@
+name: Deploy Game Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Build Docker Image
+        run: |
+          docker build -t your-game-server:latest .
+
+      - name: Deploy to VPS via SSH
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          script: |
+            cd /path/to/your/project
+            # Pull the latest code (if you prefer to rebuild on VPS)
+            git pull origin main
+            # Rebuild the Docker image on VPS
+            docker build -t your-game-server:latest .
+            
+            # Blue/Green Deployment Steps:
+            # 1. Start a new container (blue) on a different name and port
+            docker run -d --name game_server_new -p 12345:12345 your-game-server:latest
+            
+            # 2. Wait for the new container to be healthy
+            sleep 10  # Adjust as needed based on your health check
+            
+            # 3. Update reverse proxy or switch traffic manually.
+            # Here we assume that your game server is accessed via a port that the reverse proxy routes.
+            # For a simple swap without a proxy, you can:
+            docker stop game_server || true
+            docker rm game_server || true
+            docker rename game_server_new game_server
+            
+            # Optional: Clean up old images or containers if needed.
