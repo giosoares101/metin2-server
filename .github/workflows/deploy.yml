@@ -13,11 +13,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Build Docker Image
-        run: |
-          docker build -t my-metin2-server:latest .
+      # - name: Build Docker Image
+      #  run: |
+      #    docker build -t my-metin2-server:latest .
 
-      - name: Deploy to VPS via SSH
+      - name: Deploy to VPS
         uses: appleboy/ssh-action@v0.1.7
         with:
           host: ${{ secrets.VPS_HOST }}
